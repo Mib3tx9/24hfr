@@ -110,7 +110,7 @@ https://tempsignature.jagobd.com:444/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgd
 #EXTINF:-1 tvg-logo="https://i.imgur.com/3KDVQiO.jpg" group-title="BD IPTV",31.Al Dawah
 https://bdsl.jagobd.com:444/cZVydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZT00U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/dawah-eu.stream/chunks.m3u8
 #EXTINF:0 tvg-logo="https://i.imgur.com/kxFshHZ.png" group-title="BD IPTV",32.Alif TV
-http://128.199.212.160/alif/1080/index.m3u8?token=soheliptv01826655778
+
 #EXTINF:-1 tvg-logo="http://www.jagobd.com/wp-content/uploads/2020/06/alponatv.jpg" group-title="BD IPTV",33.Alpona TV
 https://tempsignature.jagobd.com:444/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PT0mdFsaWRtaW51aiPhnPTI/alponatv.stream/chunks.m3u8
 #EXTINF:-1 tvg-logo="https://cdn.bongobd.com/upload/channels/landscape/DJcpP2t4Mdp.png" group-title="BD IPTV",34.ATN Islamic TV
@@ -124,7 +124,7 @@ http://str24.l9574.com/515.stream/tracks-v1a1/index.m3u8
 #EXTINF:-1 tvg-logo="https://dl.dropbox.com/s/m28fuy4f9lpdkmw/bg.png" group-title="BD IPTV",36.Bongo TV
 http://103.109.213.18:5563/live/bongotv/chunklist_w937507918.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/BKJ6bs4/Channel-t1.png" group-title="BD IPTV",37.Channel T1
-http://128.199.212.160:80/channelt1/1080/index.m3u8
+
 #EXTINF:-1 tvg-logo="https://chsuk.tv/img/cateringcircle.png" group-title="BD IPTV",38.Channel S UK
 https://tempsignature.jagobd.com:444/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PT0mdFsaWRtaW51aiPhnPTI/chsukoff.stream/chunks.m3u8
 #EXTINF:-1 tvg-logo="" group-title="BD IPTV",39.Channel 23
@@ -135,6 +135,8 @@ https://tempsignature.jagobd.com:444/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgd
 https://tempsignature.jagobd.com:444/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PT0mdFsaWRtaW51aiPhnPTI/deshebideshe.stream/chunks.m3u8
 #EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/proxy/6KsBwmAHtmufM3Yd7voJ7vq-5H_mgdWLcP4BGSnznamzn55wreYqbvCPD7dySpWqr7d-au-L2kuZEgTHm225Ovr58Eh7X892i5jFhUl-xpIPPsVaY96yHy9s" group-title="BD IPTV",42.Deshi TV
 http://72.139.72.18:1935/live/myStream/chunklist_w1702774192.m3u8?token=soheliptv01826655778
+#EXTINF:-1 tvg-logo="https://i.imgur.com/FEnjO1i.png" group-title="New",42.Digi Bangla
+http://10.16.100.203:8082/bangla/digibangla24.m3u8?token=soheliptv01826655778
 #EXTINF:0 tvg-logo="https://i.imgur.com/ASztPbS.png" group-title="BD IPTV",43.ITV Bangla
 http://162.244.81.142:1935/live/livestream/playlist.m3u8?token=soheliptv01826655778
 #EXTINF:-1 tvg-logo="http://www.jagobd.com/wp-content/uploads/2020/02/jagoronitv.jpg" group-title="BD IPTV",44.Jagoroni TV
@@ -150,7 +152,7 @@ https://tempsignature.jagobd.com:444/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgd
 #EXTINF:-1 tvg-logo="https://i.imgur.com/7HplreU.jpg" group-title="BD IPTV",49.Nandan TV
 http://nandansyst.com/hls/nandan.m3u8?token=soheliptv01826655778
 #EXTINF:-1 tvg-logo="https://i.ibb.co/RbDyWwm/Nokshi-TV.jpg" group-title="BD IPTV",50.Nokshi TV
-https://tempsignature.jagobd.com:444/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PT0mdFsaWRtaW51aiPhnPTI/nakshitv.stream/chunks.m3u8
+
 #EXTINF:-1 tvg-logo="" group-title="BD IPTV",51.Notun Somoy
 http://server1.jadubd.com/natunTV/natunTV/chunklist_w1287147693.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/Brv8XBm/NRB-TV.png" group-title="BD IPTV",51.NRB TV
@@ -504,8 +506,8 @@ http://m2otv-lh.akamaihd.net/i/m2oTv_1@186074/index_600_av-b.m3u8?token=sohelipt
 #EXTINF:-1 tvg-logo="https://dl.dropbox.com/s/44vdhjj6fja02co/CBHD.jpg" group-title="New",146.Colors Bangla HD
 https://khulnalive.anytv.live/colorsbangla/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/RxR0qdJ.png" group-title="Indian",147.Colors
-
+#EXTINF:-1 tvg-logo="https://i.imgur.com/RxR0qdJ.png" group-title="New",147.Colors
+http://iptv.kitv.live:1935/live/CTGDDN/CTGDDN/30.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/5c/Colors_tv2017.png" group-title="Indian",147.Colors HD
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcStrzJaFx8EVmM-UfOeSVVlPSiwnflHvpRDQ9WyLiHgPAfdR2GU&usqp=CAU" group-title="Indian",147.Colors Cineplex HD
