@@ -677,7 +677,12 @@ https://sc.id-tv.kz/IDFashion_38_39.m3u8
 https://dai.google.com/linear/hls/event/IdHTuehZQPClis-gJaZkFQ/master.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/XNGvRJ6.jpg" group-title="English",200.Cbbc
 http://bozztv.com/36bay2/gin/giniko_bbcthree_900kb_36bay2/tracks-v1a1/mono.m3u8
-
+#EXTINF:-1 tvg-logo="" group-title="Others",201.Al Jazeera
+https://live-hls-web-aje.getaj.net/AJE/01.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Others",202.DW TV
+https://dwstream4-lh.akamaihd.net:443/i/dwstream4_live@131329/master.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Others",203.India News
+https://live-indiatvnews.akamaized.net/indiatv-origin/liveabr/indiatv-origin/live2/chunks.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/k4RmfYW.png" group-title="Others",204.Kay 2
 http://dcunilive36-lh.akamaihd.net/i/dclive_1@662109/master.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/X7hm6yd.png" group-title="Others",205.Sahar Urdu
