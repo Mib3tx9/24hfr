@@ -1,5 +1,5 @@
 #EXTM3U
-#EXTINF:-1 tvg-logo="" group-title="সর্বশেষ আপডেট      Date [13.01.2021]  Time [12:12pm]",
+#EXTINF:-1 tvg-logo="" group-title="সর্বশেষ আপডেট      Date [13.01.2021]  Time [12:30pm]",
 #EXTINF:-1 tvg-logo="" group-title="New",N-----------------------------------------------------------------------
 
 
@@ -473,7 +473,7 @@ http://m-c01-j2apps.s.llnwi.net/hls/0950.DabanggTV.in_480p/index.m3u8
 #EXTINF:-1 tvg-logo="https://image3.mouthshut.com/images/imagesp/925755500s.jpg" group-title="Indian",120.Wow Cinema
 https://m-c036-j2apps.s.llnwi.net/hls/2940.WOWCinemaOne.in.m3u8
 #EXTINF:-1 tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Care_World.png" group-title="Indian",120.Care World
-http://103.204.164.136:1935/live/smil:careworld.smil/playlist.m3u8
+
 
 
 
@@ -490,7 +490,7 @@ http://103.205.133.20/hls/dhoommusic.m3u8?token=soheliptv01826655778
 #EXTINF:0 tvg-logo="https://s4.gifyu.com/images/image86b5f8b135364512.png" group-title="Music",125.9XM
 http://d2q8p4pe5spbak.cloudfront.net/bpk-tv/9XM/9XM.isml/9XM-audio_208482_und=208000-video=877600.m3u8?token=soheliptv01826655778
 #EXTINF:0 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcTudCT3P1UbvRXqeH0I6lvPoIC6bUMbPfzxVPHfueI65G3oZZJV&usqp=CAU" group-title="Music",126.Zoom
-https://ccntv.anytv.live/zoom/index.m3u8?token=soheliptv01826655778
+
 #EXTINF:0 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQTCaE5IZ-lp7bImbjxc_ZgFmHLhM51H_dm5iSODI5XguG_JPb8&usqp=CAU" group-title="Music",127.Zing
 https://y5w8j4a9.ssl.hwcdn.net/zing/tracks-v1a1/playlist.m3u8?token=soheliptv01826655778
 #EXTINF:-1 tvg-logo="https://i.imgur.com/GPPBEiZ.png" group-title="Music",128.MTV
@@ -539,9 +539,9 @@ http://m2otv-lh.akamaihd.net/i/m2oTv_1@186074/index_600_av-b.m3u8?token=sohelipt
 
 
 #EXTINF:-1 tvg-logo="https://dl.dropbox.com/s/44vdhjj6fja02co/CBHD.jpg" group-title="Indian Bangla",146.Colors Bangla
-
+http://45.127.244.7:8080/hls/channel14.m3u8
 #EXTINF:-1 tvg-logo="https://dl.dropbox.com/s/44vdhjj6fja02co/CBHD.jpg" group-title="New",146.Colors Bangla HD
-https://khulnalive.anytv.live/colorsbangla/index.m3u8
+
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/RxR0qdJ.png" group-title="New",147.Colors
 http://iptv.kitv.live:1935/live/CTGDDN/CTGDDN/30.m3u8
