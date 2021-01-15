@@ -1079,24 +1079,17 @@ http://103.205.133.20/hls/wowcinema.m3u8
 http://103.205.133.20/hls/zeesalaam.m3u8
 #EXTINF:0 tvg-logo="https://akamaividz.zee5.com/resources/0-9-zeetvhd/list/386x386/09zeetvhdzeetvhd.png" group-title="BDIX Server 2",Zee TV
 http://103.205.133.21/hls/zeetv.m3u8
-
-
-
-
-
-
-
-#EXTINF:-1 tvg-logo="https://img2.pngio.com/sony-ten-1-logopedia-fandom-sony-ten-2-png-650_390.jpg" group-title="Sports",Sony 1 HD
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/5/5f/Sony_PIX.png" group-title="BDIX Server 2",Sony Pix
+http://103.205.133.21/hls/sonypix.m3u8
+#EXTINF:-1 tvg-logo="https://img2.pngio.com/sony-ten-1-logopedia-fandom-sony-ten-2-png-650_390.jpg" group-title="BDIX Server 2",Sony Ten 1
 http://103.205.133.21/hls/ten1.m3u8
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQBTnEK5BWeUD2NioqBxKSXvBrS2hOvgtATkw&usqp=CAU" group-title="Sports",Sony Ten 2 HD
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQBTnEK5BWeUD2NioqBxKSXvBrS2hOvgtATkw&usqp=CAU" group-title="BDIX Server 2",Sony Ten 2
 http://103.205.133.20/hls/ten2.m3u8
-#EXTINF:-1 tvg-logo="https://i2.wp.com/bdixsports.com/wp-content/uploads/2018/04/ten2.jpg" group-title="Sports",Sony Ten 3
+#EXTINF:-1 tvg-logo="https://i2.wp.com/bdixsports.com/wp-content/uploads/2018/04/ten2.jpg" group-title="BDIX Server 2",Sony Ten 3
 http://103.205.133.21/hls/ten3.m3u8
-#EXTINF:-1 tvg-logo="https://www.tvchannelpricelist.com/wp-content/uploads/channels-logo-300/star-sports-hd-2-logo-300x300.jpg" group-title="Sports",Star Sports 2
+#EXTINF:-1 tvg-logo="https://www.tvchannelpricelist.com/wp-content/uploads/channels-logo-300/star-sports-hd-2-logo-300x300.jpg" group-title="BDIX Server 2",Star Sports 2
 http://103.205.133.21/hls/chss2.m3u8
-
-
-#EXTINF:0 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcT2MTTFmEKapIMaRlFFc72hg7rWdp-PuG4XFcNBymgrORZfiUTx&usqp=CAU" group-title="Hinde Music",9XM
+#EXTINF:0 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcT2MTTFmEKapIMaRlFFc72hg7rWdp-PuG4XFcNBymgrORZfiUTx&usqp=CAU" group-title="BDIX Server 2",9XM
 http://103.205.133.20/hls/9xm.m3u8
 
 
