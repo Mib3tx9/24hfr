@@ -1051,6 +1051,8 @@ http://103.205.133.21/hls/somoy.m3u8
 http://103.205.133.20/hls/banglatime.m3u8
 #EXTINF:0 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/6/61/Dhoom_Music_old.jpeg" group-title="BDIX Server 2",Dhoom Music
 http://103.205.133.21/hls/dhoommusic.m3u8
+#EXTINF:-1 tvg-logo="http://www.peacetv.tv/templates/images/english-logo.png"group-title="BDIX Server 2",Peace TV Bangla
+http://103.205.133.21/hls/peacetv.m3u8
 #EXTINF:0 tvg-logo="https://i.imgur.com/jf3Sv29.jpg" group-title="BDIX Server 2",Ruposhi Bangla
 http://103.205.133.21/hls/ruposhibangla.m3u8
 #EXTINF:0 tvg-logo="https://i.pinimg.com/474x/a8/de/fc/a8defc23b6e6f16ade5eed08a8dc8eed.jpg" group-title="BDIX Server 2",Sangeet Bangla
