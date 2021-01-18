@@ -1,5 +1,5 @@
 #EXTM3U
-#EXTINF:-1 tvg-logo="" group-title="সর্বশেষ আপডেট      Date [15.01.2021]  Time [06:35pm]",
+#EXTINF:-1 tvg-logo="" group-title="সর্বশেষ আপডেট      Date [18.01.2021]  Time [01:00pm]",
 #EXTINF:-1 tvg-logo="" group-title="New",N-----------------------------------------------------------------------
 
 
@@ -37,27 +37,27 @@ http://103.205.133.20/hls/deeptotv.m3u8
 #EXTINF:-1 tvg-logo="https://www.tradebangla.com.bd/images/business/profile/2017/12/12/222121217071805.jpg" group-title="Bangladeshi (Server 1)",14.Desh TV
 https://tempx.jagobd.com:441/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PT0mdFsaWRtaW51aiPhnPTI/deshtv.stream/chunks.m3u8
 #EXTINF:0 tvg-language="Bangla" tvg-logo="https://s4.gifyu.com/images/imagedb1bf605067bc47a.png" group-title="Bangladeshi (Server 1)",15.Duronto TV
-http://ctgiptv.kitv.live:1935/live/ddnfree/ddnfree/12.m3u8
+
 #EXTINF:0 tvg-logo="https://s4.gifyu.com/images/imagea02f4314e761661d.png" group-title="Bangladeshi (Server 1)",16.Ekattor
-http://iptv.kitv.live:1935/live/CTGDDN/CTGDDN/2.m3u8
+
 #EXTINF:0 tvg-logo="https://s4.gifyu.com/images/image534fa27d7683f33d.png" group-title="Bangladeshi (Server 1)",17.Ekushey TV
 http://210.4.72.204/hls-live/livepkgr/_definst_/liveevent/livestream3.m3u8
 #EXTINF:0 tvg-logo="https://i.imgur.com/WaZyAOE.png" group-title="Bangladeshi (Server 1)",18.Gaan Bangla HD
 https://tempsignature.jagobd.com:444/cZVydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZT00U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/gaanbangla-8-orgd.stream/chunks.m3u8
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcS_3lZ-3SjyKCjtm6yO_Hud67PWDfVlYQvpXMVEA_2NZnwkaip4&usqp=CAU" group-title="Bangladeshi (Server 1)",18.Gazi TV
-http://iptv.kitv.live:1935/live/CTGDDN/CTGDDN/6.m3u8
+
 #EXTINF:0 tvg-logo="https://s4.gifyu.com/images/imaged485611e23a7ca51.png" group-title="Bangladeshi (Server 1)",19.Independent
 https://bdsl.jagobd.com:444/cZVydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZT00U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/independent-8-org.stream/chunks.m3u8
 #EXTINF:0 tvg-logo="https://i.pinimg.com/originals/ec/e5/e4/ece5e49e4a220e78fce6069486cf5339.jpg" group-title="Bangladeshi (Server 1)",20.JAMUNA TV
 https://bdsl.jagobd.com:444/cZVydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZT00U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/jamuna-test-sample-ok.stream/chunks.m3u8
 #EXTINF:0 tvg-logo="https://s4.gifyu.com/images/image54942a3647a21709.png" group-title="Bangladeshi (Server 1)",21.Maasranga
-http://iptv.kitv.live:1935/live/CTGDDN/CTGDDN/1.m3u8
+
 #EXTINF:0 tvg-logo="https://i.imgur.com/eP45j9z.jpg" group-title="Bangladeshi (Server 1)",22.MOHONA TV
 https://tempsignature.jagobd.com:444/cZVydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZT00U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/mohonatv00000223232244556633.stream/chunks.m3u8
 #EXTINF:0 tvg-logo="https://i.imgur.com/TWuzjbg.jpg" group-title="Bangladeshi (Server 1)",23.My TV HD
 https://tempsignature.jagobd.com:444/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PT0mdFsaWRtaW51aiPhnPTI/mytv-up-off.stream/chunks.m3u8
 #EXTINF:0 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQNUNSnM7_yeeuZDG9pruWDaYmJvy1wMjkC3g&usqp=CAU" group-title="Bangladeshi (Server 1)",24.Nagorik TV
-http://iptv.kitv.live:1935/live/CTGDDN/CTGDDN/3.m3u8
+
 #EXTINF:0 tvg-language="Bangla" tvg-logo="https://i.imgur.com/TfqhT5g.png" group-title="Bangladeshi (Server 1)",25.News 24
 https://tempsignature.jagobd.com:444/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PT0mdFsaWRtaW51aiPhnPTI/news24local.stream/chunks.m3u8
 #EXTINF:0 tvg-logo="https://i.imgur.com/vPl5dF8.png" group-title="Bangladeshi (Server 1)",26.NTV
@@ -408,7 +408,7 @@ http://208.115.215.42/Sony_Sab_HD/track-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://www.bestmediainfo.com/wp-content/uploads/2016/06/SONY-WAH-LOGO.jpg" group-title="Indian",107.Sony Wah
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/5/5f/Sony_PIX.png" group-title="English",107.Sony Pix
-http://iptv.kitv.live:1935/live/CTGDDN/CTGDDN/39.m3u8
+http://103.205.133.21/hls/sonypix.m3u8
 #EXTINF:-1 tvg-logo="https://d24j9r7lck9cin.cloudfront.net/l/f/1/1373.1569972372.png" group-title="English",107.Sony Movies Action
 http://51.52.156.22:8888/http/009
 #EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/en/e/ed/Logo_of_Indian_television_channel_%26Pictures.jpg" group-title="Indian",108.And Pictures
