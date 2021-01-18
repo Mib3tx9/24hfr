@@ -260,7 +260,7 @@ https://livecdn.fptplay.net/qnetlive/bbcearth_hls.smil/chunklist_b2500000.m3u8?t
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/4/44/BBC_Earth_logo.png/200px-BBC_Earth_logo.png" group-title="Documentary",74.BBC Earth
 https://www.livedoomovies.com/02_BBCEARTH_720p/chunklist.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/4/44/BBC_Earth_logo.png/200px-BBC_Earth_logo.png" group-title="Documentary",74.BBC Earth English
-http://iptv.kitv.live:1935/live/CTGDDN/CTGDDN/62.m3u8
+
 #EXTINF:-1 tvg-logo="https://static.fptplay.net/static/img/share/channels/icon_channel_bbc-lifestyle_148379742953.jpg" group-title="Documentary",74.BBC Lifestyle
 https://livecdn.fptplay.net/qnetlive/bbclifestyle_2000.stream/chunklist.m3u8
 #EXTINF:-1 tvg-logo="https://img.favpng.com/16/1/13/logo-outdoor-channel-high-definition-television-television-channel-png-favpng-JeAYSamzRX9xEcsFTdp6PFu14.jpg" group-title="Documentary",75.Outdoor HD
@@ -268,7 +268,7 @@ https://livecdn.fptplay.net/world/outdoorfhd_hls.smil/chunklist_b450000.m3u8
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcRxaJqXbWvb4zhffu44_Pjij_hzeut7814wG_r1h7-bYBfA15af&usqp=CAU" group-title="Documentary",75.Travel Channel
 
 #EXTINF:-1 tvg-logo="https://image3.mouthshut.com/images/imagesp/925753531s.png" group-title="Documentary",75.Travel XP
-http://iptv.kitv.live:1935/live/CTGDDN/CTGDDN/23.m3u8
+
 #EXTINF:-1 tvg-logo="https://i.imgur.com/iXwGMoe.png" group-title="Documentary",75.TLC
 https://streamitv.multitvsolution.in/idvo/tlceng.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/iXwGMoe.png" group-title="Documentary",75.TLC Hindi
@@ -363,7 +363,7 @@ http://tvuk3.technohaat.com:6636/zeebanglahd/video.m3u8?token=2-QvSjSlX2
 http://z5amshls.akamaized.net/zbanglacnm/tracks-v1a1/index.m3u8?token=soheliptv01826655778
 #EXTINF:-1 tvg-logo="https://cdn.clipart.email/8291b06b35c5c60621d830d0926a1a21_index-of-plexflixto-picons-indian-_1024-484.png" group-title="Indian",94.Zee TV
 
-#EXTINF:-1 tvg-logo="https://cdn.clipart.email/8291b06b35c5c60621d830d0926a1a21_index-of-plexflixto-picons-indian-_1024-484.png" group-title="Indian",94.Zee TV HD
+#EXTINF:-1 tvg-logo="https://cdn.clipart.email/8291b06b35c5c60621d830d0926a1a21_index-of-plexflixto-picons-indian-_1024-484.png" group-title="New",94.Zee TV HD
 http://cv.khushitv.xyz/channels.php?c=zeetvhd&e=.m3u8
 #EXTINF:-1 tvg-logo="https://cdn.clipart.email/8291b06b35c5c60621d830d0926a1a21_index-of-plexflixto-picons-indian-_1024-484.png" group-title="Indian",95.Zee TV HD USA
 
@@ -375,15 +375,18 @@ http://cv.khushitv.xyz/channels.php?c=zeecinemame&e=.m3u8
 
 #EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/en/d/d5/Zee_Cinema_New_Logo.png" group-title="Indian",98.Zee Cinema USA
 
-#EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/en/d/d5/Zee_Cinema_New_Logo.png" group-title="Indian",99.Zee Cinema UK
+#EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/en/d/d5/Zee_Cinema_New_Logo.png" group-title="Indian",98.Zee Cinema UK
 
+
+#EXTINF:0 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcTHbJdMX60zD9iKv69c8TJpU103h4g1BMKzAQ&usqp=CAU" group-title="New",99.Zee Zest
+http://cv.khushitv.xyz/channels.php?c=zzesthd&e=.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/F7g0l9E.jpg" group-title="Indian",100.Zee Bioskop
 http://210.210.155.35/qwr9ew/s/s32/01.m3u8?token=soheliptv01826655778
-#EXTINF:-1 tvg-logo="https://akamaividz.zee5.com/resources/0-9-zeeaction/list/386x386/09zeeactionzeeaction.png" group-title="Indian",101.Zee Action
+#EXTINF:-1 tvg-logo="https://akamaividz.zee5.com/resources/0-9-zeeaction/list/386x386/09zeeactionzeeaction.png" group-title="New",101.Zee Action
 http://cv.khushitv.xyz/channels.php?c=action&e_480p/index=.m3u8
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQS_d-hP3_s-6LytrD3RMdXY8z55icDuzzz3Ov14Kjha88Ee-FY&usqp=CAU" group-title="Indian",102.Zee Anmol Cinama
 http://cv.khushitv.xyz/channels.php?c=zanmolcnm&e=.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/gkp0htr.jpg" group-title="English",103.Zee Cafe HD
+#EXTINF:-1 tvg-logo="https://i.imgur.com/gkp0htr.jpg" group-title="New",103.Zee Cafe HD
 http://cv.khushitv.xyz/channels.php?c=zeecafehd&e=.m3u8
 
 
@@ -415,9 +418,9 @@ http://51.52.156.22:8888/http/009
 #EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/en/e/ed/Logo_of_Indian_television_channel_%26Pictures.jpg" group-title="Indian",108.And Pictures
 http://103.205.133.21/hls/andpicture.m3u8?token=soheliptv01826655778
 #EXTINF:-1 tvg-logo="https://i.imgur.com/XlJxZhQ.jpg" group-title="English",109.& Prive HD
-http://z5amshls.akamaized.net/andprivehd/playlist.m3u8?token=soheliptv01826655778
+http://cv.khushitv.xyz/channels.php?c=andprivehd&e=.m3u8
 #EXTINF:0 tvg-logo="https://i.imgur.com/22bFS2O.png" group-title="English",110.& Flix HD
-http://z5amshls.akamaized.net/andflixhd/playlist.m3u8?token=soheliptv01826655778
+
 
 
 
