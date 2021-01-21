@@ -1,5 +1,5 @@
 #EXTM3U
-#EXTINF:-1 tvg-logo="" group-title="সর্বশেষ আপডেট      Date [21.01.2021]  Time [07:10pm]",
+#EXTINF:-1 tvg-logo="" group-title="সর্বশেষ আপডেট      Date [21.01.2021]  Time [10:00pm]",
 #EXTINF:-1 tvg-logo="" group-title="New",N-----------------------------------------------------------------------
 
 
@@ -1140,9 +1140,9 @@ http://unilivemtveu-lh.akamaihd.net/i/mtvno_1@346424/master.m3u8?token=soheliptv
 
 #EXTINF:-1 tvg-logo="https://cdn3.tvsquared.com/wp-content/uploads/2018/02/Live2.png" group-title="International Server",Sky News
 http://sky4.ddns.net:8000/zaltv/zaltv/1
-#EXTINF:-1 tvg-logo="https://cdn3.tvsquared.com/wp-content/uploads/2018/02/Live2.png" group-title="International Server",Channel 2
+#EXTINF:-1 tvg-logo="https://cdn3.tvsquared.com/wp-content/uploads/2018/02/Live2.png" group-title="International Server",Sky Pre Order 1
 http://sky4.ddns.net:8000/zaltv/zaltv/2
-#EXTINF:-1 tvg-logo="https://cdn3.tvsquared.com/wp-content/uploads/2018/02/Live2.png" group-title="International Server",Channel 3
+#EXTINF:-1 tvg-logo="https://cdn3.tvsquared.com/wp-content/uploads/2018/02/Live2.png" group-title="International Server",Sky Pre Order Kids
 http://sky4.ddns.net:8000/zaltv/zaltv/3
 #EXTINF:-1 tvg-logo="https://cdn3.tvsquared.com/wp-content/uploads/2018/02/Live2.png" group-title="International Server",Sky Store 1
 http://sky4.ddns.net:8000/zaltv/zaltv/4
@@ -1156,9 +1156,8 @@ http://sky4.ddns.net:8000/zaltv/zaltv/7
 http://sky4.ddns.net:8000/zaltv/zaltv/8
 #EXTINF:-1 tvg-logo="https://cdn3.tvsquared.com/wp-content/uploads/2018/02/Live2.png" group-title="International Server",Channel 9
 http://sky4.ddns.net:8000/zaltv/zaltv/9
-#EXTINF:-1 tvg-logo="https://cdn3.tvsquared.com/wp-content/uploads/2018/02/Live2.png" group-title="International Server",Channel 10
-http://sky4.ddns.net:8000/zaltv/zaltv/10
-#EXTINF:-1 tvg-logo="https://cdn3.tvsquared.com/wp-content/uploads/2018/02/Live2.png" group-title="International Server",Channel 11
+
+#EXTINF:-1 tvg-logo="https://cdn3.tvsquared.com/wp-content/uploads/2018/02/Live2.png" group-title="International Server",Aksion HD
 http://sky4.ddns.net:8000/zaltv/zaltv/11
 #EXTINF:-1 tvg-logo="https://cdn3.tvsquared.com/wp-content/uploads/2018/02/Live2.png" group-title="International Server",Channel 12
 http://sky4.ddns.net:8000/zaltv/zaltv/12
@@ -1178,67 +1177,24 @@ http://sky4.ddns.net:8000/zaltv/zaltv/18
 http://sky4.ddns.net:8000/zaltv/zaltv/19
 #EXTINF:-1 tvg-logo="https://cdn3.tvsquared.com/wp-content/uploads/2018/02/Live2.png" group-title="International Server",Channel 20
 http://sky4.ddns.net:8000/zaltv/zaltv/20
-#EXTINF:-1 tvg-logo="https://cdn3.tvsquared.com/wp-content/uploads/2018/02/Live2.png" group-title="International Server",Channel 21
-http://sky4.ddns.net:8000/zaltv/zaltv/21
-#EXTINF:-1 tvg-logo="https://cdn3.tvsquared.com/wp-content/uploads/2018/02/Live2.png" group-title="International Server",Channel 22
-http://sky4.ddns.net:8000/zaltv/zaltv/21
-#EXTINF:-1 tvg-logo="https://cdn3.tvsquared.com/wp-content/uploads/2018/02/Live2.png" group-title="International Server",Channel 23
-http://sky4.ddns.net:8000/zaltv/zaltv/23
-#EXTINF:-1 tvg-logo="https://cdn3.tvsquared.com/wp-content/uploads/2018/02/Live2.png" group-title="International Server",Channel 24
-http://sky4.ddns.net:8000/zaltv/zaltv/24
-#EXTINF:-1 tvg-logo="https://cdn3.tvsquared.com/wp-content/uploads/2018/02/Live2.png" group-title="International Server",Channel 25
-http://sky4.ddns.net:8000/zaltv/zaltv/25
-#EXTINF:-1 tvg-logo="https://cdn3.tvsquared.com/wp-content/uploads/2018/02/Live2.png" group-title="International Server",Channel 26
-http://sky4.ddns.net:8000/zaltv/zaltv/26
 #EXTINF:-1 tvg-logo="https://cdn3.tvsquared.com/wp-content/uploads/2018/02/Live2.png" group-title="International Server",Channel 27
 http://sky4.ddns.net:8000/zaltv/zaltv/27
-#EXTINF:-1 tvg-logo="https://cdn3.tvsquared.com/wp-content/uploads/2018/02/Live2.png" group-title="International Server",Channel 28
-http://sky4.ddns.net:8000/zaltv/zaltv/28
-#EXTINF:-1 tvg-logo="https://cdn3.tvsquared.com/wp-content/uploads/2018/02/Live2.png" group-title="International Server",Channel 29
+#EXTINF:-1 tvg-logo="https://cdn3.tvsquared.com/wp-content/uploads/2018/02/Live2.png" group-title="International Server",Sony Movies Classic
 http://sky4.ddns.net:8000/zaltv/zaltv/29
-#EXTINF:-1 tvg-logo="https://cdn3.tvsquared.com/wp-content/uploads/2018/02/Live2.png" group-title="International Server",Channel 30
-http://sky4.ddns.net:8000/zaltv/zaltv/30
-#EXTINF:-1 tvg-logo="https://cdn3.tvsquared.com/wp-content/uploads/2018/02/Live2.png" group-title="International Server",Channel 31
+#EXTINF:-1 tvg-logo="https://cdn3.tvsquared.com/wp-content/uploads/2018/02/Live2.png" group-title="International Server",SY FY
 http://sky4.ddns.net:8000/zaltv/zaltv/31
-#EXTINF:-1 tvg-logo="https://cdn3.tvsquared.com/wp-content/uploads/2018/02/Live2.png" group-title="International Server",Channel 32
-http://sky4.ddns.net:8000/zaltv/zaltv/32
-#EXTINF:-1 tvg-logo="https://cdn3.tvsquared.com/wp-content/uploads/2018/02/Live2.png" group-title="International Server",Channel 33
-http://sky4.ddns.net:8000/zaltv/zaltv/33
-#EXTINF:-1 tvg-logo="https://cdn3.tvsquared.com/wp-content/uploads/2018/02/Live2.png" group-title="International Server",Channel 34
-http://sky4.ddns.net:8000/zaltv/zaltv/34
-#EXTINF:-1 tvg-logo="https://cdn3.tvsquared.com/wp-content/uploads/2018/02/Live2.png" group-title="International Server",Channel 35
-http://sky4.ddns.net:8000/zaltv/zaltv/35
 #EXTINF:-1 tvg-logo="https://cdn3.tvsquared.com/wp-content/uploads/2018/02/Live2.png" group-title="International Server",Channel 36
 http://sky4.ddns.net:8000/zaltv/zaltv/36
 #EXTINF:-1 tvg-logo="https://cdn3.tvsquared.com/wp-content/uploads/2018/02/Live2.png" group-title="International Server",Channel 37
 http://sky4.ddns.net:8000/zaltv/zaltv/37
 #EXTINF:-1 tvg-logo="https://cdn3.tvsquared.com/wp-content/uploads/2018/02/Live2.png" group-title="International Server",Channel 38
 http://sky4.ddns.net:8000/zaltv/zaltv/38
-#EXTINF:-1 tvg-logo="https://cdn3.tvsquared.com/wp-content/uploads/2018/02/Live2.png" group-title="International Server",Channel 39
-http://sky4.ddns.net:8000/zaltv/zaltv/39
-#EXTINF:-1 tvg-logo="https://cdn3.tvsquared.com/wp-content/uploads/2018/02/Live2.png" group-title="International Server",Channel 40
-http://sky4.ddns.net:8000/zaltv/zaltv/40
-#EXTINF:-1 tvg-logo="https://cdn3.tvsquared.com/wp-content/uploads/2018/02/Live2.png" group-title="International Server",Channel 41
-http://sky4.ddns.net:8000/zaltv/zaltv/41
-#EXTINF:-1 tvg-logo="https://cdn3.tvsquared.com/wp-content/uploads/2018/02/Live2.png" group-title="International Server",Channel 42
-http://sky4.ddns.net:8000/zaltv/zaltv/42
-#EXTINF:-1 tvg-logo="https://cdn3.tvsquared.com/wp-content/uploads/2018/02/Live2.png" group-title="International Server",Channel 43
+#EXTINF:-1 tvg-logo="https://cdn3.tvsquared.com/wp-content/uploads/2018/02/Live2.png" group-title="International Server",Filmon TV
 http://sky4.ddns.net:8000/zaltv/zaltv/43
-#EXTINF:-1 tvg-logo="https://cdn3.tvsquared.com/wp-content/uploads/2018/02/Live2.png" group-title="International Server",Channel 44
-http://sky4.ddns.net:8000/zaltv/zaltv/44
-#EXTINF:-1 tvg-logo="https://cdn3.tvsquared.com/wp-content/uploads/2018/02/Live2.png" group-title="International Server",Channel 45
-http://sky4.ddns.net:8000/zaltv/zaltv/45
-#EXTINF:-1 tvg-logo="https://cdn3.tvsquared.com/wp-content/uploads/2018/02/Live2.png" group-title="International Server",Channel 46
-http://sky4.ddns.net:8000/zaltv/zaltv/46
-#EXTINF:-1 tvg-logo="https://cdn3.tvsquared.com/wp-content/uploads/2018/02/Live2.png" group-title="International Server",Channel 47
-http://sky4.ddns.net:8000/zaltv/zaltv/47
 #EXTINF:-1 tvg-logo="https://cdn3.tvsquared.com/wp-content/uploads/2018/02/Live2.png" group-title="International Server",Channel 48
 http://sky4.ddns.net:8000/zaltv/zaltv/48
-#EXTINF:-1 tvg-logo="https://cdn3.tvsquared.com/wp-content/uploads/2018/02/Live2.png" group-title="International Server",Channel 49
-http://sky4.ddns.net:8000/zaltv/zaltv/49
 #EXTINF:-1 tvg-logo="https://cdn3.tvsquared.com/wp-content/uploads/2018/02/Live2.png" group-title="International Server",Channel 50
 http://sky4.ddns.net:8000/zaltv/zaltv/50
-
 #EXTINF:-1 tvg-logo="https://cdn3.tvsquared.com/wp-content/uploads/2018/02/Live2.png" group-title="International Server",Discovery Shed
 http://sky4.ddns.net:8000/zaltv/zaltv/53
 #EXTINF:-1 tvg-logo="https://cdn3.tvsquared.com/wp-content/uploads/2018/02/Live2.png" group-title="International Server",Discovery Science
@@ -1247,8 +1203,6 @@ http://sky4.ddns.net:8000/zaltv/zaltv/54
 http://sky4.ddns.net:8000/zaltv/zaltv/55
 #EXTINF:-1 tvg-logo="https://cdn3.tvsquared.com/wp-content/uploads/2018/02/Live2.png" group-title="International Server",Crime Investigation
 http://sky4.ddns.net:8000/zaltv/zaltv/56
-#EXTINF:-1 tvg-logo="https://cdn3.tvsquared.com/wp-content/uploads/2018/02/Live2.png" group-title="International Server",Channel 57
-http://sky4.ddns.net:8000/zaltv/zaltv/57
 #EXTINF:-1 tvg-logo="https://cdn3.tvsquared.com/wp-content/uploads/2018/02/Live2.png" group-title="International Server",Cartoon Network
 http://sky4.ddns.net:8000/zaltv/zaltv/58
 #EXTINF:-1 tvg-logo="https://cdn3.tvsquared.com/wp-content/uploads/2018/02/Live2.png" group-title="International Server",Boomering
@@ -1257,17 +1211,17 @@ http://sky4.ddns.net:8000/zaltv/zaltv/59
 http://sky4.ddns.net:8000/zaltv/zaltv/60
 #EXTINF:-1 tvg-logo="https://cdn3.tvsquared.com/wp-content/uploads/2018/02/Live2.png" group-title="International Server",Animal Planet
 http://sky4.ddns.net:8000/zaltv/zaltv/61
-#EXTINF:-1 tvg-logo="https://cdn3.tvsquared.com/wp-content/uploads/2018/02/Live2.png" group-title="International Server",Channel 62
+#EXTINF:-1 tvg-logo="https://cdn3.tvsquared.com/wp-content/uploads/2018/02/Live2.png" group-title="International Server",VH1
 http://sky4.ddns.net:8000/zaltv/zaltv/62
-#EXTINF:-1 tvg-logo="https://cdn3.tvsquared.com/wp-content/uploads/2018/02/Live2.png" group-title="International Server",Channel 63
+#EXTINF:-1 tvg-logo="https://cdn3.tvsquared.com/wp-content/uploads/2018/02/Live2.png" group-title="International Server",SAH Two HD
 http://sky4.ddns.net:8000/zaltv/zaltv/63
-#EXTINF:-1 tvg-logo="https://cdn3.tvsquared.com/wp-content/uploads/2018/02/Live2.png" group-title="International Server",Channel 64
+#EXTINF:-1 tvg-logo="https://cdn3.tvsquared.com/wp-content/uploads/2018/02/Live2.png" group-title="International Server",TRT World
 http://sky4.ddns.net:8000/zaltv/zaltv/64
 #EXTINF:-1 tvg-logo="https://cdn3.tvsquared.com/wp-content/uploads/2018/02/Live2.png" group-title="International Server",Discovery+
 http://sky4.ddns.net:8000/zaltv/zaltv/65
 #EXTINF:-1 tvg-logo="https://cdn3.tvsquared.com/wp-content/uploads/2018/02/Live2.png" group-title="International Server",TLC
 http://sky4.ddns.net:8000/zaltv/zaltv/67
-#EXTINF:-1 tvg-logo="https://cdn3.tvsquared.com/wp-content/uploads/2018/02/Live2.png" group-title="International Server",Channel 68
+#EXTINF:-1 tvg-logo="https://cdn3.tvsquared.com/wp-content/uploads/2018/02/Live2.png" group-title="International Server",Culao
 http://sky4.ddns.net:8000/zaltv/zaltv/68
 #EXTINF:-1 tvg-logo="https://cdn3.tvsquared.com/wp-content/uploads/2018/02/Live2.png" group-title="International Server",Sony Movies
 http://sky4.ddns.net:8000/zaltv/zaltv/69
@@ -1277,8 +1231,6 @@ http://sky4.ddns.net:8000/zaltv/zaltv/70
 http://sky4.ddns.net:8000/zaltv/zaltv/73
 #EXTINF:-1 tvg-logo="https://cdn3.tvsquared.com/wp-content/uploads/2018/02/Live2.png" group-title="International Server",Channel 74
 http://sky4.ddns.net:8000/zaltv/zaltv/74
-#EXTINF:-1 tvg-logo="https://cdn3.tvsquared.com/wp-content/uploads/2018/02/Live2.png" group-title="International Server",Channel 75
-http://sky4.ddns.net:8000/zaltv/zaltv/75
 #EXTINF:-1 tvg-logo="https://cdn3.tvsquared.com/wp-content/uploads/2018/02/Live2.png" group-title="International Server",Quest
 http://sky4.ddns.net:8000/zaltv/zaltv/78
 #EXTINF:-1 tvg-logo="https://cdn3.tvsquared.com/wp-content/uploads/2018/02/Live2.png" group-title="International Server",Channel 80
@@ -1303,52 +1255,29 @@ http://sky4.ddns.net:8000/zaltv/zaltv/89
 http://sky4.ddns.net:8000/zaltv/zaltv/90
 #EXTINF:-1 tvg-logo="https://cdn3.tvsquared.com/wp-content/uploads/2018/02/Live2.png" group-title="International Server",MTV Base
 http://sky4.ddns.net:8000/zaltv/zaltv/91
-#EXTINF:-1 tvg-logo="https://cdn3.tvsquared.com/wp-content/uploads/2018/02/Live2.png" group-title="International Server",Channel 92
-http://sky4.ddns.net:8000/zaltv/zaltv/92
-#EXTINF:-1 tvg-logo="https://cdn3.tvsquared.com/wp-content/uploads/2018/02/Live2.png" group-title="International Server",Channel 93
-http://sky4.ddns.net:8000/zaltv/zaltv/93
 #EXTINF:-1 tvg-logo="https://cdn3.tvsquared.com/wp-content/uploads/2018/02/Live2.png" group-title="International Server",Channel 94
 http://sky4.ddns.net:8000/zaltv/zaltv/94
-#EXTINF:-1 tvg-logo="https://cdn3.tvsquared.com/wp-content/uploads/2018/02/Live2.png" group-title="International Server",Channel 95
-http://sky4.ddns.net:8000/zaltv/zaltv/95
 #EXTINF:-1 tvg-logo="https://cdn3.tvsquared.com/wp-content/uploads/2018/02/Live2.png" group-title="International Server",Channel 96
 http://sky4.ddns.net:8000/zaltv/zaltv/96
-#EXTINF:-1 tvg-logo="https://cdn3.tvsquared.com/wp-content/uploads/2018/02/Live2.png" group-title="International Server",Channel 97
+#EXTINF:-1 tvg-logo="https://cdn3.tvsquared.com/wp-content/uploads/2018/02/Live2.png" group-title="International Server",Fox News
 http://sky4.ddns.net:8000/zaltv/zaltv/97
 #EXTINF:-1 tvg-logo="https://cdn3.tvsquared.com/wp-content/uploads/2018/02/Live2.png" group-title="International Server",Food Network
 http://sky4.ddns.net:8000/zaltv/zaltv/98
 #EXTINF:-1 tvg-logo="https://cdn3.tvsquared.com/wp-content/uploads/2018/02/Live2.png" group-title="International Server",Euro News
 http://sky4.ddns.net:8000/zaltv/zaltv/99
-#EXTINF:-1 tvg-logo="https://cdn3.tvsquared.com/wp-content/uploads/2018/02/Live2.png" group-title="International Server",Channel 100
-http://sky4.ddns.net:8000/zaltv/zaltv/100
-#EXTINF:-1 tvg-logo="https://cdn3.tvsquared.com/wp-content/uploads/2018/02/Live2.png" group-title="International Server",Channel 101
-http://sky4.ddns.net:8000/zaltv/zaltv/101
-#EXTINF:-1 tvg-logo="https://cdn3.tvsquared.com/wp-content/uploads/2018/02/Live2.png" group-title="International Server",Channel 102
-http://sky4.ddns.net:8000/zaltv/zaltv/102
-#EXTINF:-1 tvg-logo="https://cdn3.tvsquared.com/wp-content/uploads/2018/02/Live2.png" group-title="International Server",Channel 103
+#EXTINF:-1 tvg-logo="https://cdn3.tvsquared.com/wp-content/uploads/2018/02/Live2.png" group-title="International Server",DW
 http://sky4.ddns.net:8000/zaltv/zaltv/103
-#EXTINF:-1 tvg-logo="https://cdn3.tvsquared.com/wp-content/uploads/2018/02/Live2.png" group-title="International Server",Channel 104
-http://sky4.ddns.net:8000/zaltv/zaltv/104
 #EXTINF:-1 tvg-logo="https://cdn3.tvsquared.com/wp-content/uploads/2018/02/Live2.png" group-title="International Server",Zestylife
 http://sky4.ddns.net:8000/zaltv/zaltv/105
 #EXTINF:-1 tvg-logo="https://cdn3.tvsquared.com/wp-content/uploads/2018/02/Live2.png" group-title="International Server",Channel 106
 http://sky4.ddns.net:8000/zaltv/zaltv/106
-#EXTINF:-1 tvg-logo="https://cdn3.tvsquared.com/wp-content/uploads/2018/02/Live2.png" group-title="International Server",Channel 107
-http://sky4.ddns.net:8000/zaltv/zaltv/107
-#EXTINF:-1 tvg-logo="https://cdn3.tvsquared.com/wp-content/uploads/2018/02/Live2.png" group-title="International Server",Channel 108
+
+#EXTINF:-1 tvg-logo="https://cdn3.tvsquared.com/wp-content/uploads/2018/02/Live2.png" group-title="International Server",Disvovery History
 http://sky4.ddns.net:8000/zaltv/zaltv/108
 #EXTINF:-1 tvg-logo="https://cdn3.tvsquared.com/wp-content/uploads/2018/02/Live2.png" group-title="International Server",Channel 109
 http://sky4.ddns.net:8000/zaltv/zaltv/109
-#EXTINF:-1 tvg-logo="https://cdn3.tvsquared.com/wp-content/uploads/2018/02/Live2.png" group-title="International Server",Channel 110
-http://sky4.ddns.net:8000/zaltv/zaltv/110
-#EXTINF:-1 tvg-logo="https://cdn3.tvsquared.com/wp-content/uploads/2018/02/Live2.png" group-title="International Server",Channel 111
-http://sky4.ddns.net:8000/zaltv/zaltv/111
-#EXTINF:-1 tvg-logo="https://cdn3.tvsquared.com/wp-content/uploads/2018/02/Live2.png" group-title="International Server",Channel 112
-http://sky4.ddns.net:8000/zaltv/zaltv/112
 #EXTINF:-1 tvg-logo="https://cdn3.tvsquared.com/wp-content/uploads/2018/02/Live2.png" group-title="International Server",Channel 113
 http://sky4.ddns.net:8000/zaltv/zaltv/113
-#EXTINF:-1 tvg-logo="https://cdn3.tvsquared.com/wp-content/uploads/2018/02/Live2.png" group-title="International Server",Channel 114
-http://sky4.ddns.net:8000/zaltv/zaltv/114
 #EXTINF:-1 tvg-logo="https://cdn3.tvsquared.com/wp-content/uploads/2018/02/Live2.png" group-title="International Server",BBC Cbeebies
 http://sky4.ddns.net:8000/zaltv/zaltv/115
 #EXTINF:-1 tvg-logo="https://cdn3.tvsquared.com/wp-content/uploads/2018/02/Live2.png" group-title="International Server",Channel 116
