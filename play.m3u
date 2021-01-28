@@ -39,13 +39,13 @@ https://tempx.jagobd.com:441/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF
 #EXTINF:0 tvg-language="Bangla" tvg-logo="https://s4.gifyu.com/images/imagedb1bf605067bc47a.png" group-title="Bangladeshi (Server 1)",15.Duronto TV
 http://iptv.kitv.live:1935/live/CTGDDN/CTGDDN/63.m3u8?token=soheliptv01826655778
 #EXTINF:0 tvg-logo="https://s4.gifyu.com/images/imagea02f4314e761661d.png" group-title="Bangladeshi (Server 1)",16.Ekattor
-http://iptv.kitv.live:1935/live/CTGDDN/CTGDDN/2.m3u8?token=soheliptv01826655778
+
 #EXTINF:0 tvg-logo="https://s4.gifyu.com/images/image534fa27d7683f33d.png" group-title="Bangladeshi (Server 1)",17.Ekushey TV
 http://210.4.72.204/hls-live/livepkgr/_definst_/liveevent/livestream3.m3u8
 #EXTINF:0 tvg-logo="https://i.imgur.com/WaZyAOE.png" group-title="Bangladeshi (Server 1)",18.Gaan Bangla HD
 https://tempsignature.jagobd.com:444/cZVydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZT00U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/gaanbangla-8-orgd.stream/chunks.m3u8
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcS_3lZ-3SjyKCjtm6yO_Hud67PWDfVlYQvpXMVEA_2NZnwkaip4&usqp=CAU" group-title="Bangladeshi (Server 1)",18.Gazi TV
-http://iptv.kitv.live:1935/live/CTGDDN/CTGDDN/6.m3u8?token=soheliptv01826655778
+
 #EXTINF:0 tvg-logo="https://s4.gifyu.com/images/imaged485611e23a7ca51.png" group-title="Bangladeshi (Server 1)",19.Independent
 https://bdsl.jagobd.com:444/cZVydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZT00U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/independent-8-org.stream/chunks.m3u8
 #EXTINF:0 tvg-logo="https://i.pinimg.com/originals/ec/e5/e4/ece5e49e4a220e78fce6069486cf5339.jpg" group-title="Bangladeshi (Server 1)",20.JAMUNA TV
@@ -952,182 +952,6 @@ http://103.205.133.20/hls/9xm.m3u8
 
 
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="BDIX Server 1",Masranga HD
-http://iptv.kitv.live:1935/live/CTGDDN/CTGDDN/1.m3u8?token=soheliptv01826655778
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="BDIX Server 1",Ekattor Tv HD
-http://iptv.kitv.live:1935/live/CTGDDN/CTGDDN/2.m3u8?token=soheliptv01826655778
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="BDIX Server 1",Nagorik TV HD
-http://iptv.kitv.live:1935/live/CTGDDN/CTGDDN/3.m3u8?token=soheliptv01826655778
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="BDIX Server 1",Channel I HD
-http://iptv.kitv.live:1935/live/CTGDDN/CTGDDN/4.m3u8?token=soheliptv01826655778
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="BDIX Server 1",Deepto TV HD
-http://iptv.kitv.live:1935/live/CTGDDN/CTGDDN/5.m3u8?token=soheliptv01826655778
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="BDIX Server 1",Gazi TV HD
-http://iptv.kitv.live:1935/live/CTGDDN/CTGDDN/6.m3u8?token=soheliptv01826655778
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="BDIX Server 1",Channal 9 HD
-http://iptv.kitv.live:1935/live/CTGDDN/CTGDDN/7.m3u8?token=soheliptv01826655778
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="BDIX Server 1",SATV HD
-http://iptv.kitv.live:1935/live/CTGDDN/CTGDDN/8.m3u8?token=soheliptv01826655778
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="BDIX Server 1",NTV
-http://iptv.kitv.live:1935/live/CTGDDN/CTGDDN/9.m3u8?token=soheliptv01826655778
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="BDIX Server 1",ATN Bangla
-http://iptv.kitv.live:1935/live/CTGDDN/CTGDDN/10.m3u8?token=soheliptv01826655778
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="BDIX Server 1",RTV HD
-http://iptv.kitv.live:1935/live/CTGDDN/CTGDDN/11.m3u8?token=soheliptv01826655778
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="BDIX Server 1",Independent
-http://iptv.kitv.live:1935/live/CTGDDN/CTGDDN/12.m3u8?token=soheliptv01826655778
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="BDIX Server 1",Jamuna TV
-http://iptv.kitv.live:1935/live/CTGDDN/CTGDDN/13.m3u8?token=soheliptv01826655778
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="BDIX Server 1",Somoy TV
-http://iptv.kitv.live:1935/live/CTGDDN/CTGDDN/14.m3u8?token=soheliptv01826655778
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="BDIX Server 1",Ekushey TV
-http://iptv.kitv.live:1935/live/CTGDDN/CTGDDN/15.m3u8?token=soheliptv01826655778
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="BDIX Server 1",Channal 24
-http://iptv.kitv.live:1935/live/CTGDDN/CTGDDN/16.m3u8?token=soheliptv01826655778
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="BDIX Server 1",Bangla Vision HD
-http://iptv.kitv.live:1935/live/CTGDDN/CTGDDN/17.m3u8?token=soheliptv01826655778
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="BDIX Server 1",My Tv HD
-http://iptv.kitv.live:1935/live/CTGDDN/CTGDDN/18.m3u8?token=soheliptv01826655778
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="BDIX Server 1",BTV
-http://iptv.kitv.live:1935/live/CTGDDN/CTGDDN/19.m3u8?token=soheliptv01826655778
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="BDIX Server 1",Sony Aath
-http://iptv.kitv.live:1935/live/CTGDDN/CTGDDN/20.m3u8?token=soheliptv01826655778
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="BDIX Server 1",Zee Bangla HD
-http://iptv.kitv.live:1935/live/CTGDDN/CTGDDN/21.m3u8?token=soheliptv01826655778
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="BDIX Server 1",Star Jalsha HD
-http://iptv.kitv.live:1935/live/CTGDDN/CTGDDN/22.m3u8?token=soheliptv01826655778
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="BDIX Server 1",Travel XP
-http://iptv.kitv.live:1935/live/CTGDDN/CTGDDN/23.m3u8?token=soheliptv01826655778
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="BDIX Server 1",
-http://iptv.kitv.live:1935/live/CTGDDN/CTGDDN/24.m3u8?token=soheliptv01826655778
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="BDIX Server 1",Star Jalsha Movies
-http://iptv.kitv.live:1935/live/CTGDDN/CTGDDN/25.m3u8?token=soheliptv01826655778
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="BDIX Server 1",Sony
-http://iptv.kitv.live:1935/live/CTGDDN/CTGDDN/26.m3u8?token=soheliptv01826655778
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="BDIX Server 1",Star Plus
-http://iptv.kitv.live:1935/live/CTGDDN/CTGDDN/27.m3u8?token=soheliptv01826655778
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="BDIX Server 1",Zee TV
-http://iptv.kitv.live:1935/live/CTGDDN/CTGDDN/28.m3u8?token=soheliptv01826655778
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="BDIX Server 1",Zee Cinema
-http://iptv.kitv.live:1935/live/CTGDDN/CTGDDN/29.m3u8?token=soheliptv01826655778
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="BDIX Server 1",Colors
-http://iptv.kitv.live:1935/live/CTGDDN/CTGDDN/30.m3u8?token=soheliptv01826655778
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="BDIX Server 1",Sony Max HD
-http://iptv.kitv.live:1935/live/CTGDDN/CTGDDN/31.m3u8?token=soheliptv01826655778
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="BDIX Server 1",
-http://iptv.kitv.live:1935/live/CTGDDN/CTGDDN/32.m3u8?token=soheliptv01826655778
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="BDIX Server 1",Hum Masala
-http://iptv.kitv.live:1935/live/CTGDDN/CTGDDN/33.m3u8?token=soheliptv01826655778
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="BDIX Server 1",Hum Sitaray
-http://iptv.kitv.live:1935/live/CTGDDN/CTGDDN/34.m3u8?token=soheliptv01826655778
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="BDIX Server 1",Bflix Movies
-http://iptv.kitv.live:1935/live/CTGDDN/CTGDDN/35.m3u8?token=soheliptv01826655778
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="BDIX Server 1",B4U Movies
-http://iptv.kitv.live:1935/live/CTGDDN/CTGDDN/36.m3u8?token=soheliptv01826655778
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="BDIX Server 1",Enter10 Movies
-http://iptv.kitv.live:1935/live/CTGDDN/CTGDDN/37.m3u8?token=soheliptv01826655778
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="BDIX Server 1",MN+ HD
-http://iptv.kitv.live:1935/live/CTGDDN/CTGDDN/38.m3u8?token=soheliptv01826655778
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="BDIX Server 1",Sony Pix
-http://iptv.kitv.live:1935/live/CTGDDN/CTGDDN/39.m3u8?token=soheliptv01826655778
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="BDIX Server 1",&flix
-http://iptv.kitv.live:1935/live/CTGDDN/CTGDDN/40.m3u8?token=soheliptv01826655778
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="BDIX Server 1",
-http://iptv.kitv.live:1935/live/CTGDDN/CTGDDN/41.m3u8?token=soheliptv01826655778
-#EXTINF:-1 tvg-id="6085" tvg-name="" tvg-logo="" group-title="BDIX Server 1",AXN
-http://iptv.kitv.live:1935/live/CTGDDN/CTGDDN/42.m3u8?token=soheliptv01826655778
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="BDIX Server 1",Star Movies
-http://iptv.kitv.live:1935/live/CTGDDN/CTGDDN/43.m3u8?token=soheliptv01826655778
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="BDIX Server 1",HBO Hits
-http://iptv.kitv.live:1935/live/CTGDDN/CTGDDN/44.m3u8?token=soheliptv01826655778
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="BDIX Server 1",TLC
-http://iptv.kitv.live:1935/live/CTGDDN/CTGDDN/45.m3u8?token=soheliptv01826655778
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="BDIX Server 1",BBC Lifestyle
-http://iptv.kitv.live:1935/live/CTGDDN/CTGDDN/46.m3u8?token=soheliptv01826655778
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="BDIX Server 1",Sony TEN 1
-http://iptv.kitv.live:1935/live/CTGDDN/CTGDDN/47.m3u8?token=soheliptv01826655778
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="BDIX Server 1",Sports Channel
-http://iptv.kitv.live:1935/live/CTGDDN/CTGDDN/48.m3u8?token=soheliptv01826655778
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="BDIX Server 1",Sony Six HD
-http://iptv.kitv.live:1935/live/CTGDDN/CTGDDN/49.m3u8?token=soheliptv01826655778
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="BDIX Server 1",Sony Ten 2 HD
-http://iptv.kitv.live:1935/live/CTGDDN/CTGDDN/50.m3u8?token=soheliptv01826655778
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="BDIX Server 1",Star Sports Select HD 1
-http://iptv.kitv.live:1935/live/CTGDDN/CTGDDN/51.m3u8?token=soheliptv01826655778
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="BDIX Server 1",Star Sports Select HD 2
-http://iptv.kitv.live:1935/live/CTGDDN/CTGDDN/52.m3u8?token=soheliptv01826655778
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="BDIX Server 1",Star Sports 1 HD
-http://iptv.kitv.live:1935/live/CTGDDN/CTGDDN/53.m3u8?token=soheliptv01826655778
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="BDIX Server 1",DSport
-http://iptv.kitv.live:1935/live/CTGDDN/CTGDDN/54.m3u8?token=soheliptv01826655778
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="BDIX Server 1",
-http://iptv.kitv.live:1935/live/CTGDDN/CTGDDN/55.m3u8?token=soheliptv01826655778
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="BDIX Server 1",BBC World
-http://iptv.kitv.live:1935/live/CTGDDN/CTGDDN/56.m3u8?token=soheliptv01826655778
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="BDIX Server 1",DD Bangla
-http://iptv.kitv.live:1935/live/CTGDDN/CTGDDN/57.m3u8?token=soheliptv01826655778
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="BDIX Server 1",Al Jazeera
-http://iptv.kitv.live:1935/live/CTGDDN/CTGDDN/58.m3u8?token=soheliptv01826655778
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="BDIX Server 1",Kolkata TV
-http://iptv.kitv.live:1935/live/CTGDDN/CTGDDN/59.m3u8?token=soheliptv01826655778
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="BDIX Server 1",Nat Geo Wild
-http://iptv.kitv.live:1935/live/CTGDDN/CTGDDN/60.m3u8?token=soheliptv01826655778
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="BDIX Server 1",Discovery HD Bangla
-http://iptv.kitv.live:1935/live/CTGDDN/CTGDDN/61.m3u8?token=soheliptv01826655778
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="BDIX Server 1",BBC Earth
-http://iptv.kitv.live:1935/live/CTGDDN/CTGDDN/62.m3u8?token=soheliptv01826655778
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="BDIX Server 1",Duronto TV
-http://iptv.kitv.live:1935/live/CTGDDN/CTGDDN/63.m3u8?token=soheliptv01826655778
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="BDIX Server 1",Cartoon Network HD+
-http://iptv.kitv.live:1935/live/CTGDDN/CTGDDN/64.m3u8?token=soheliptv01826655778
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="BDIX Server 1",Disney XD
-http://iptv.kitv.live:1935/live/CTGDDN/CTGDDN/65.m3u8?token=soheliptv01826655778
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="BDIX Server 1",Sony Yay
-http://iptv.kitv.live:1935/live/CTGDDN/CTGDDN/66.m3u8?token=soheliptv01826655778
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="BDIX Server 1",CBeebies BBC
-http://iptv.kitv.live:1935/live/CTGDDN/CTGDDN/67.m3u8?token=soheliptv01826655778
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="BDIX Server 1",Nick
-http://iptv.kitv.live:1935/live/CTGDDN/CTGDDN/68.m3u8?token=soheliptv01826655778
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="BDIX Server 1",Gaan Bangla
-http://iptv.kitv.live:1935/live/CTGDDN/CTGDDN/69.m3u8?token=soheliptv01826655778
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="BDIX Server 1",Sangeet Bangla
-http://iptv.kitv.live:1935/live/CTGDDN/CTGDDN/70.m3u8?token=soheliptv01826655778
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="BDIX Server 1",
-http://iptv.kitv.live:1935/live/CTGDDN/CTGDDN/71.m3u8?token=soheliptv01826655778
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="BDIX Server 1",
-http://iptv.kitv.live:1935/live/CTGDDN/CTGDDN/72.m3u8?token=soheliptv01826655778
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="BDIX Server 1",
-http://iptv.kitv.live:1935/live/CTGDDN/CTGDDN/73.m3u8?token=soheliptv01826655778
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="BDIX Server 1",
-http://iptv.kitv.live:1935/live/CTGDDN/CTGDDN/74.m3u8?token=soheliptv01826655778
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="BDIX Server 1",MTV India
-http://iptv.kitv.live:1935/live/CTGDDN/CTGDDN/75.m3u8?token=soheliptv01826655778
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="BDIX Server 1",9X ZALWAA
-http://iptv.kitv.live:1935/live/CTGDDN/CTGDDN/76.m3u8?token=soheliptv01826655778
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="BDIX Server 1",
-http://iptv.kitv.live:1935/live/CTGDDN/CTGDDN/77.m3u8?token=soheliptv01826655778
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="BDIX Server 1",Masti
-http://iptv.kitv.live:1935/live/CTGDDN/CTGDDN/78.m3u8?token=soheliptv01826655778
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="BDIX Server 1",B4U Music
-http://iptv.kitv.live:1935/live/CTGDDN/CTGDDN/79.m3u8?token=soheliptv01826655778
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="BDIX Server 1",
-http://iptv.kitv.live:1935/live/CTGDDN/CTGDDN/80.m3u8?token=soheliptv01826655778
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="BDIX Server 1",Zing
-http://iptv.kitv.live:1935/live/CTGDDN/CTGDDN/81.m3u8?token=soheliptv01826655778
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="BDIX Server 1",
-http://iptv.kitv.live:1935/live/CTGDDN/CTGDDN/82.m3u8?token=soheliptv01826655778
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="BDIX Server 1",E24
-http://iptv.kitv.live:1935/live/CTGDDN/CTGDDN/83.m3u8?token=soheliptv01826655778
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="BDIX Server 1",Music India
-http://iptv.kitv.live:1935/live/CTGDDN/CTGDDN/84.m3u8?token=soheliptv01826655778
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="BDIX Server 1",
-http://iptv.kitv.live:1935/live/CTGDDN/CTGDDN/85.m3u8?token=soheliptv01826655778
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="BDIX Server 1",History
-http://iptv.kitv.live:1935/live/CTGDDN/CTGDDN/86.m3u8?token=soheliptv01826655778
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="BDIX Server 1",Akash AAth
-http://iptv.kitv.live:1935/live/CTGDDN/CTGDDN/98.m3u8?token=soheliptv01826655778
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="BDIX Server 1",MTV
-http://unilivemtveu-lh.akamaihd.net/i/mtvno_1@346424/master.m3u8?token=soheliptv01826655778
 
 
 
