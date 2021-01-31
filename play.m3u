@@ -252,6 +252,8 @@ https://livecdn.fptplay.net/qnetlive/discoveryasia_hls.smil/chunklist_b2500000.m
 
 #EXTINF:0 tvg-logo="https://i.imgur.com/86jLO7q.png" group-title="Documentary",71.Animal Planet Spanish
 https://livecdn.fptplay.net/qnetlive/animalplanet_hls.smil/chunklist_b2500000.m3u8
+#EXTINF:0 tvg-logo="https://broadcastprome.com/wp-content/uploads/2017/11/logo-300x200.png" group-title="Documentary",71.Nat Geo
+http://51.195.44.53:8081/tv/national-geographic/chunks.m3u8
 #EXTINF:0 tvg-logo="https://broadcastprome.com/wp-content/uploads/2017/11/logo-300x200.png" group-title="Documentary",71.Nat Geo UAE
 https://admdn2.cdn.mangomolo.com/nagtv/smil:nagtv.stream.smil/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/4/44/BBC_Earth_logo.png/200px-BBC_Earth_logo.png" group-title="Documentary",73.BBC Earth
@@ -445,14 +447,16 @@ http://10.16.100.200:8082/hls/starjalsha_bd_hd_720p.m3u8
 http://103.205.133.20/hls/chsp.m3u8
 #EXTINF:0 tvg-logo="https://i.imgur.com/KVi7HUw.png" group-title="Indian",115.Star Plus [2]
 http://208.115.215.42/Star_Plus_HD_India/tracks-v1a1/mono.m3u8
-#EXTINF:0 tvg-logo="https://i.imgur.com/KVi7HUw.png" group-title="Indian",116.Star Plus HD
-
+#EXTINF:0 tvg-logo="https://i.imgur.com/KVi7HUw.png" group-title="New",116.Star Plus HD
+http://10.16.100.204:8082/hls/starplus_bd_hd.m3u8
+#EXTINF:0 tvg-logo="https://i.imgur.com/KVi7HUw.png" group-title="Indian",116.Star Plus HD [2]
+http://pn.tvott.info:80/477845056156344/477845056156344/83709
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/4/40/Star_Bharat_Official_Logo.jpg" group-title="Indian",116.Star Bharat HD
-
+http://pn.tvott.info:80/477845056156344/477845056156344/83712
 #EXTINF:0 tvg-logo="https://i.imgur.com/0x9LfCI.png" group-title="Indian",116.Star Gold HD
-
+http://pn.tvott.info:80/477845056156344/477845056156344/83711
 #EXTINF: -1 tvg-logo="https://i.imgur.com/0TbWzW4.jpg" group-title="Indian",116.Star Gold Select HD
-
+http://pn.tvott.info:80/477845056156344/477845056156344/83710
 #EXTINF:-1 tvg-logo="https://i.imgur.com/NIfMrhI.png" group-title="English",116.Star Movies HD
 
 #EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/en/d/d6/StarMoviesSelectHDLogo.jpg" group-title="English",116.Star Movies Select HD
@@ -596,7 +600,7 @@ http://103.205.133.20/hls/ten2.m3u8
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcSl1Yq3bZ22fNuVU2Mv6QoJ3oWXL8MuIFWeSRFvaJaS7PkODkoe&usqp=CAU" group-title="Sports",154.Sony Ten 3
 http://103.205.133.20/hls/ten3.m3u8
 #EXTINF:-1 tvg-id="Sony Six" tvg-name="Sony Six" tvg-logo="https://upload.wikimedia.org/wikipedia/en/2/20/Sony_SIX_logo.png" group-title="Sports",154.Sony Six HD
-
+http://10.16.100.201/hindi/cm_sonysix_hd.m3u8
 
 
 
