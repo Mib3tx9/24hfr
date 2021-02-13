@@ -437,8 +437,8 @@ http://103.205.133.20/hls/chsj.m3u8
 
 #EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/en/d/d0/Star_Jalsha_logo.jpg" group-title="Indian Bangla",112.Star Jalsha HD
 http://10.16.100.200:8082/hls/starjalsha_bd_hd_720p.m3u8
-#EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/en/d/d0/Star_Jalsha_logo.jpg" group-title="Indian Bangla",113.Jalsha Movies
-
+#EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/en/d/d0/Star_Jalsha_logo.jpg" group-title="New",113.Jalsha Movies
+http://45.127.244.7:8080/hls/channel13.m3u8
 #EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/en/d/d0/Star_Jalsha_logo.jpg" group-title="New",114.Jalsha Movies HD
 
 
@@ -447,7 +447,7 @@ http://103.205.133.20/hls/chsp.m3u8
 #EXTINF:0 tvg-logo="https://i.imgur.com/KVi7HUw.png" group-title="Indian",115.Star Plus [2]
 
 #EXTINF:0 tvg-logo="https://i.imgur.com/KVi7HUw.png" group-title="New",116.Star Plus HD
-http://10.16.100.204:8082/hls/starplus_bd_hd.m3u8
+
 #EXTINF:0 tvg-logo="https://i.imgur.com/KVi7HUw.png" group-title="Indian",116.Star Plus HD [2]
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/4/40/Star_Bharat_Official_Logo.jpg" group-title="Indian",116.Star Bharat HD
@@ -455,7 +455,7 @@ http://10.16.100.204:8082/hls/starplus_bd_hd.m3u8
 #EXTINF:0 tvg-logo="https://i.imgur.com/0x9LfCI.png" group-title="Indian",116.Star Gold HD
 
 #EXTINF: -1 tvg-logo="https://i.imgur.com/0TbWzW4.jpg" group-title="New",116.Star Gold Select HD
-http://87.117.234.107:1935//live//STARGOLDSELECTFHD//chunklist_w547316465.m3u8
+
 #EXTINF:-1 tvg-logo="https://i.imgur.com/NIfMrhI.png" group-title="English",116.Star Movies HD
 
 #EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/en/d/d6/StarMoviesSelectHDLogo.jpg" group-title="English",116.Star Movies Select HD
