@@ -981,7 +981,66 @@ http://otv.ftpbd.net/streams/114/index.m3u8
 
 
 
-
+#EXTINF:0 tvg-logo="" group-title="BDIX Server 5",11
+http://103.80.70.59/hls/stream11.m3u8
+#EXTINF:0 tvg-logo="" group-title="BDIX Server 5",12
+http://103.80.70.59/hls/stream12.m3u8
+#EXTINF:0 tvg-logo="" group-title="BDIX Server 5",13
+http://103.80.70.59/hls/stream13.m3u8
+#EXTINF:0 tvg-logo="" group-title="BDIX Server 5",14
+http://103.80.70.59/hls/stream14.m3u8
+#EXTINF:0 tvg-logo="" group-title="BDIX Server 5",15
+http://103.80.70.59/hls/stream15.m3u8
+#EXTINF:0 tvg-logo="" group-title="BDIX Server 5",16
+http://103.80.70.59/hls/stream16.m3u8
+#EXTINF:0 tvg-logo="" group-title="BDIX Server 5",17
+http://103.80.70.59/hls/stream17.m3u8
+#EXTINF:0 tvg-logo="" group-title="BDIX Server 5",18
+http://103.80.70.59/hls/stream18.m3u8
+#EXTINF:0 tvg-logo="" group-title="BDIX Server 5",19
+http://103.80.70.59/hls/stream19.m3u8
+#EXTINF:0 tvg-logo="" group-title="BDIX Server 5",20
+http://103.80.70.59/hls/stream20.m3u8
+#EXTINF:0 tvg-logo="" group-title="BDIX Server 5",21
+http://103.80.70.59/hls/stream21.m3u8
+#EXTINF:0 tvg-logo="" group-title="BDIX Server 5",22
+http://103.80.70.59/hls/stream22.m3u8
+#EXTINF:0 tvg-logo="" group-title="BDIX Server 5",23
+http://103.80.70.59/hls/stream23.m3u8
+#EXTINF:0 tvg-logo="" group-title="BDIX Server 5",24
+http://103.80.70.59/hls/stream24.m3u8
+#EXTINF:0 tvg-logo="" group-title="BDIX Server 5",25
+http://103.80.70.59/hls/stream25.m3u8
+#EXTINF:0 tvg-logo="" group-title="BDIX Server 5",26
+http://103.80.70.59/hls/stream26.m3u8
+#EXTINF:0 tvg-logo="" group-title="BDIX Server 5",27
+http://103.80.70.59/hls/stream27.m3u8
+#EXTINF:0 tvg-logo="" group-title="BDIX Server 5",28
+http://103.80.70.59/hls/stream28.m3u8
+#EXTINF:0 tvg-logo="" group-title="BDIX Server 5",29
+http://103.80.70.59/hls/stream29.m3u8
+#EXTINF:0 tvg-logo="" group-title="BDIX Server 5",30
+http://103.80.70.59/hls/stream30.m3u8
+#EXTINF:0 tvg-logo="" group-title="BDIX Server 5",31
+http://103.80.70.59/hls/stream31.m3u8
+#EXTINF:0 tvg-logo="" group-title="BDIX Server 5",32
+http://103.80.70.59/hls/stream32.m3u8
+#EXTINF:0 tvg-logo="" group-title="BDIX Server 5",33
+http://103.80.70.59/hls/stream33.m3u8
+#EXTINF:0 tvg-logo="" group-title="BDIX Server 5",34
+http://103.80.70.59/hls/stream34.m3u8
+#EXTINF:0 tvg-logo="" group-title="BDIX Server 5",35
+http://103.80.70.59/hls/stream35.m3u8
+#EXTINF:0 tvg-logo="" group-title="BDIX Server 5",36
+http://103.80.70.59/hls/stream36.m3u8
+#EXTINF:0 tvg-logo="" group-title="BDIX Server 5",37
+http://103.80.70.59/hls/stream37.m3u8
+#EXTINF:0 tvg-logo="" group-title="BDIX Server 5",38
+http://103.80.70.59/hls/stream38.m3u8
+#EXTINF:0 tvg-logo="" group-title="BDIX Server 5",39
+http://103.80.70.59/hls/stream39.m3u8
+#EXTINF:0 tvg-logo="" group-title="BDIX Server 5",40
+http://103.80.70.59/hls/stream40.m3u8
 
 
 
