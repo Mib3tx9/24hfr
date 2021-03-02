@@ -1,5 +1,5 @@
 #EXTM3U
-#EXTINF:-1 tvg-logo="" group-title="সর্বশেষ আপডেট      Date [27.02.2021]  Time [11:10pm]",
+#EXTINF:-1 tvg-logo="" group-title="সর্বশেষ আপডেট      Date [02.03.2021]  Time [02:10pm]",
 #EXTINF:-1 tvg-logo="" group-title="New",N-----------------------------------------------------------------------
 
 
@@ -85,7 +85,6 @@ https://tempsignature.jagobd.com:444/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgd
 #EXTINF:-1 tvg-logo="" group-title="BDIX Server 2",Server2------------------------------------------------------------------------
 #EXTINF:-1 tvg-logo="" group-title="BDIX Server 3 (12:00am-6:00pm)",Server3------------------------------------------------------------------------
 #EXTINF:-1 tvg-logo="" group-title="BDIX Server 4",Server4-----------
-#EXTINF:-1 tvg-logo="" group-title="BDIX Server 5",Server5-----------------------------------------------------------------
 #EXTINF:-1 tvg-logo="" group-title="BD IPTV",BD-----------------------------------------------------------------------
 #EXTINF:-1 tvg-logo="" group-title="Documentary",DC------------------------------------------------------------------------
 #EXTINF:-1 tvg-logo="" group-title="Indian Bangla",IB------------------------------------------------------------------------
@@ -432,18 +431,18 @@ https://y5w8j4a9.ssl.hwcdn.net/andflixhd/tracks-v1a1/index.m3u8?token=soheliptv0
 #EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/en/d/d0/Star_Jalsha_logo.jpg" group-title="Indian Bangla",111.Star Jalsha
 http://103.205.133.21/hls/chsj.m3u8
 #EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/en/d/d0/Star_Jalsha_logo.jpg" group-title="Indian Bangla",112.Star Jalsha HD
-http://103.80.70.59/hls/stream31.m3u8
+
 #EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/en/d/d0/Star_Jalsha_logo.jpg" group-title="Indian Bangla",113.Jalsha Movies
 http://otv.ftpbd.net/streams/115/index.m3u8
 #EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/en/d/d0/Star_Jalsha_logo.jpg" group-title="New",114.Jalsha Movies HD
-http://103.80.70.59/hls/stream27.m3u8
+
 
 #EXTINF:0 tvg-logo="https://i.imgur.com/KVi7HUw.png" group-title="Indian",115.Star Plus [1]
 
 #EXTINF:0 tvg-logo="https://i.imgur.com/KVi7HUw.png" group-title="Indian",115.Star Plus [2]
 
 #EXTINF:0 tvg-logo="https://i.imgur.com/KVi7HUw.png" group-title="New",116.Star Plus HD
-http://103.80.70.59/hls/stream38.m3u8
+
 #EXTINF:0 tvg-logo="https://i.imgur.com/KVi7HUw.png" group-title="Indian",116.Star Plus HD [2]
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/4/40/Star_Bharat_Official_Logo.jpg" group-title="Indian",116.Star Bharat HD
@@ -589,9 +588,9 @@ https://api.visionip.tv/live/ASHTTP/peacetv-peacetv-peacetv-english-hsslive-25f-
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcRuY1FfH8Si2SPvu9Hw4LNliLdeBVyYs6kW6jY9Hy6iMfY3D-34&usqp=CAU" group-title="Sports",151.PTV Sports
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/HOB0eef.jpg" group-title="Sports",152.Sony Ten 1
-http://103.80.70.59/hls/stream40.m3u8
+http://103.205.133.21/hls/ten1.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Ryh5Cdy.jpg" group-title="Sports",153.Sony Ten 2
-http://103.80.70.59/hls/stream39.m3u8
+http://103.205.133.21/hls/ten2.m3u8
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcSl1Yq3bZ22fNuVU2Mv6QoJ3oWXL8MuIFWeSRFvaJaS7PkODkoe&usqp=CAU" group-title="Sports",154.Sony Ten 3
 http://103.205.133.21/hls/ten3.m3u8
 #EXTINF:-1 tvg-id="Sony Six" tvg-name="Sony Six" tvg-logo="https://upload.wikimedia.org/wikipedia/en/2/20/Sony_SIX_logo.png" group-title="Sports",154.Sony Six HD
@@ -1065,67 +1064,6 @@ http://10.16.100.207:8082/sports/sportst.m3u8
 http://10.16.100.201/hindi/sportsT.m3u8
 
 
-#EXTINF:0 tvg-logo="" group-title="BDIX Server 5",ATN Bangla
-http://103.80.70.59/hls/stream17.m3u8
-#EXTINF:0 tvg-logo="" group-title="BDIX Server 5",Channel 24
-http://103.80.70.59/hls/stream22.m3u8
-#EXTINF:0 tvg-logo="" group-title="BDIX Server 5",Channel I
-http://103.80.70.59/hls/stream18.m3u8
-#EXTINF:0 tvg-logo="" group-title="BDIX Server 5",Maasranga HD
-http://103.80.70.59/hls/stream20.m3u8
-#EXTINF:0 tvg-logo="" group-title="BDIX Server 5",Nagorik TV
-http://103.80.70.59/hls/stream24.m3u8
-#EXTINF:0 tvg-logo="" group-title="BDIX Server 5",Somoy
-http://103.80.70.59/hls/stream21.m3u8
-#EXTINF:0 tvg-logo="" group-title="BDIX Server 5",Enterr10 Bangla
-http://103.80.70.59/hls/stream26.m3u8
-#EXTINF:0 tvg-logo="" group-title="BDIX Server 5",Star jalsha HD
-http://103.80.70.59/hls/stream31.m3u8
-#EXTINF:0 tvg-logo="" group-title="BDIX Server 5",Jalsha Movies HD
-http://103.80.70.59/hls/stream27.m3u8
-#EXTINF:0 tvg-logo="" group-title="BDIX Server 5",Colors Bangla HD
-http://103.80.70.59/hls/stream28.m3u8
-#EXTINF:0 tvg-logo="" group-title="BDIX Server 5",Colors Cineplex HD
-http://103.80.70.59/hls/stream29.m3u8
-#EXTINF:0 tvg-logo="" group-title="BDIX Server 5",Star Plus HD
-http://103.80.70.59/hls/stream38.m3u8
-#EXTINF:0 tvg-logo="" group-title="BDIX Server 5",Star Gold HD
-http://103.80.70.59/hls/stream19.m3u8
-#EXTINF:0 tvg-logo="" group-title="BDIX Server 5",Zee Cinema HD
-http://103.80.70.59/hls/stream25.m3u8
-#EXTINF:0 tvg-logo="" group-title="BDIX Server 5",& Picture HD
-http://103.80.70.59/hls/stream14.m3u8
-#EXTINF:0 tvg-logo="" group-title="BDIX Server 5",National Geographic HD
-http://103.80.70.59/hls/stream13.m3u8
-#EXTINF:0 tvg-logo="" group-title="BDIX Server 5",Travel XP
-http://103.80.70.59/hls/stream37.m3u8
-#EXTINF:0 tvg-logo="" group-title="BDIX Server 5",Nick
-http://103.80.70.59/hls/stream23.m3u8
-#EXTINF:0 tvg-logo="" group-title="BDIX Server 5",Sony Yay
-http://103.80.70.59/hls/stream32.m3u8
-#EXTINF:0 tvg-logo="" group-title="BDIX Server 5",Sony Six HD
-http://103.80.70.59/hls/stream10.m3u8
-#EXTINF:0 tvg-logo="" group-title="BDIX Server 5",Sony Ten 1
-http://103.80.70.59/hls/stream40.m3u8
-#EXTINF:0 tvg-logo="" group-title="BDIX Server 5",Sony Ten 2
-http://103.80.70.59/hls/stream39.m3u8
-#EXTINF:0 tvg-logo="" group-title="BDIX Server 5",Star Sports 1 HD
-http://103.80.70.59/hls/stream15.m3u8
-#EXTINF:0 tvg-logo="" group-title="BDIX Server 5",Star Sports 2 HD
-http://103.80.70.59/hls/stream16.m3u8
-#EXTINF:0 tvg-logo="" group-title="BDIX Server 5",Star Sports Select 1 HD
-http://103.80.70.59/hls/stream12.m3u8
-#EXTINF:0 tvg-logo="" group-title="BDIX Server 5",PTV Sports
-http://103.80.70.59/hls/stream11.m3u8
-#EXTINF:0 tvg-logo="" group-title="BDIX Server 5",Ten Sports
-http://103.80.70.59/hls/stream34.m3u8
-#EXTINF:0 tvg-logo="" group-title="BDIX Server 5",Al Jajeera
-http://103.80.70.59/hls/stream35.m3u8
-#EXTINF:0 tvg-logo="" group-title="BDIX Server 5",BBC World
-http://103.80.70.59/hls/stream36.m3u8
-#EXTINF:0 tvg-logo="" group-title="BDIX Server 5",Macca
-http://103.80.70.59/hls/stream33.m3u8
-#EXTINF:0 tvg-logo="" group-title="BDIX Server 5",Channel*
-http://103.80.70.59/hls/stream30.m3u8
+
 
 #EXTINF:-1 tvg-logo="" group-title=" Website : https://bit.ly/01826655778 ",
