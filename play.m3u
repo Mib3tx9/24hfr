@@ -1,5 +1,5 @@
 #EXTM3U
-#EXTINF:-1 tvg-logo="" group-title="সর্বশেষ আপডেট      Date [02.03.2021]  Time [02:10pm]",
+#EXTINF:-1 tvg-logo="" group-title="সর্বশেষ আপডেট      Date [03.03.2021]  Time [11:10pm]",
 #EXTINF:-1 tvg-logo="" group-title="New",N-----------------------------------------------------------------------
 
 
@@ -129,6 +129,8 @@ http://str24.l9574.com/515.stream/index.m3u8
 https://bdsl.jagobd.com:444/c2VydmVyX6RpbEU8Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/biswabanglatv.stream/chunks.m3u8
 #EXTINF:-1 tvg-logo="https://dl.dropbox.com/s/m28fuy4f9lpdkmw/bg.png" group-title="New",33.Bongo TV
 http://pn.tvott.info:80/477823265351104/477823265351104/83795
+#EXTINF:-1 tvg-logo="" group-title="New",34.Can Bangla TV
+https://bdsl.jagobd.com:444/c2VydmVyX6RpbEU8Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/canbanglatv.stream/chunks.m3u8
 #EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/Qruo84PP04jnPb1rC1TR67DHd5gU9CfP8mZtdh2kVbbGB9equQKFIGjlYK4k62TJ8Yk" group-title="BD IPTV",34.CCN Bangla
 https://cdn1-europe.smartcast.tv/rtvd/cnnb_backup/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/03/Channel_H-logo.png" group-title="BD IPTV",34.Channel H
@@ -151,8 +153,13 @@ http://str24.l9574.com/505.stream/index.m3u8
 http://72.139.72.18:1935/live/myStream/chunklist_w1702774192.m3u8?token=soheliptv01826655778
 #EXTINF:-1 tvg-logo="https://i.imgur.com/FEnjO1i.png" group-title="New",38.Digi Bangla
 
+#EXTINF:-1 tvg-logo="" group-title="New",38.Doyel TV
+https://tempx.jagobd.com:441/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PT0mdFsaWRtaW51aiPhnPTI/doyeltv.stream/chunks.m3u8
 #EXTINF: -1 tvg-logo="" group-title="New",38.Falguni TV
 https://atv-hls.telelivebd.com:443/atv/atv.m3u8
+#EXTINF: -1 tvg-logo="" group-title="New",38.Fan Fest TV
+https://bdsl.jagobd.com:444/c2VydmVyX6RpbEU8Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/funfest.stream/chunks.m3u8
+
 #EXTINF: -1 tvg-logo="https://i.imgur.com/iPJ2KkS.png" group-title="BD IPTV",38.Hernet TV
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQNtLHvYmy2sk22brHad-7L-Vdoxn-i-PI3zg&usqp=CAU" group-title="BD IPTV",39.ION TV
@@ -186,6 +193,8 @@ https://tempsignature.jagobd.com:444/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgd
 
 #EXTINF:-1 tvg-logo="" group-title="BD IPTV",48.NB TV
 http://str24.l9574.com/521.stream/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="BD IPTV",48.Nobodip TV
+http://nobodip.mywire.org:8081/beeiptv/nobodip/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/RbDyWwm/Nokshi-TV.jpg" group-title="BD IPTV",47.Nokshi TV
 
 #EXTINF:-1 tvg-logo="" group-title="BD IPTV",48.Notun Somoy
