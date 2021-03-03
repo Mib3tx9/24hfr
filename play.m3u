@@ -145,8 +145,8 @@ https://tempx.jagobd.com:441/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF
 http://master.beeiptv.com:8081/CB/colorsbdtv/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/kVT6VKt/cumilla24.png" group-title="BD IPTV",37.Cumilla 24 TV
 https://tempsignature.jagobd.com:444/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PT0mdFsaWRtaW51aiPhnPTI/cumilla24.stream/chunks.m3u8
-#EXTINF:-1 tvg-logo="https://www.deshebideshe.com/wp-content/uploads/2020/10/Newspaper-Logo.png" group-title="BD IPTV",37.Deshe Bideshe
-
+#EXTINF:-1 tvg-logo="https://www.deshebideshe.com/wp-content/uploads/2020/10/Newspaper-Logo.png" group-title="New",37.Deshe Bideshe
+http://str24.l9574.com/505.stream/index.m3u8
 #EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/proxy/6KsBwmAHtmufM3Yd7voJ7vq-5H_mgdWLcP4BGSnznamzn55wreYqbvCPD7dySpWqr7d-au-L2kuZEgTHm225Ovr58Eh7X892i5jFhUl-xpIPPsVaY96yHy9s" group-title="BD IPTV",38.Deshi TV
 http://72.139.72.18:1935/live/myStream/chunklist_w1702774192.m3u8?token=soheliptv01826655778
 #EXTINF:-1 tvg-logo="https://i.imgur.com/FEnjO1i.png" group-title="New",38.Digi Bangla
@@ -171,6 +171,8 @@ https://server1.jadubd.com/ktvbangla/ktvbangla/playlist.m3u8?token=soheliptv0182
 
 #EXTINF:-1 tvg-logo="" group-title="New",43.MAQ TV
 http://str24.l9574.com/517.stream/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="New",43.Meem TV
+http://str24.l9574.com/502.stream/index.m3u8
 #EXTINF:-1 tvg-logo="https://www.millenniumtv.org/wp-content/uploads/2017/01/IMG_1669-e1484721043731.png" group-title="BD IPTV",44.Millennium TV
 https://bdsl.jagobd.com:444/c2VydmVyX6RpbEU8Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/millenniumtv-odr-up2.stream/chunks.m3u8
 #EXTINF:-1 tvg-logo="https://tv.bdtype.com/uploads/tv_image/movie-bangla.png" group-title="BD IPTV",45.Movie Bangla
