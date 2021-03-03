@@ -109,6 +109,8 @@ https://tempsignature.jagobd.com:444/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgd
 
 #EXTINF:-1 tvg-logo="" group-title="New",31.AB TV
 http://pn.tvott.info:80/477823265351104/477823265351104/83793
+#EXTINF:-1 tvg-logo="" group-title="New",31.Agami TV
+http://str24.l9574.com/510.stream/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/3KDVQiO.jpg" group-title="BD IPTV",31.Al Dawah
 https://tempsignature.jagobd.com:444/cZVydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZT00U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/dawah-eu.stream/chunks.m3u8
 #EXTINF:0 tvg-logo="https://i.imgur.com/kxFshHZ.png" group-title="BD IPTV",31.Alif TV
@@ -119,8 +121,8 @@ https://tempsignature.jagobd.com:444/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgd
 
 #EXTINF:-1 tvg-logo="https://cdn.bongobd.com/upload/channels/landscape/DJcpP2t4Mdp.png" group-title="BD IPTV",32.Ayna TV
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/Tr6mXmp/Bangla-Channel.jpg" group-title="BD IPTV",32.Bangla Channel
-
+#EXTINF:-1 tvg-logo="https://i.ibb.co/Tr6mXmp/Bangla-Channel.jpg" group-title="New",32.Bangla Channel
+http://str24.l9574.com/515.stream/index.m3u8
 #EXTINF:-1 tvg-logo="https://image.winudf.com/v2/image/Y29tLmJkdHViZS5saXZlLnR2X3NjcmVlbnNob3RzXzFfOWI0ZTcwMTI/screen-1.jpg?fakeurl=1&type=.jpg" group-title="New",32.BD Live TV
 
 #EXTINF:-1 tvg-logo="" group-title="BD IPTV",33.Biswa Bangla 24 TV
@@ -156,7 +158,7 @@ https://atv-hls.telelivebd.com:443/atv/atv.m3u8
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQNtLHvYmy2sk22brHad-7L-Vdoxn-i-PI3zg&usqp=CAU" group-title="BD IPTV",39.ION TV
 https://bdsl.jagobd.com:444/c2VydmVyX6RpbEU8Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/iontvuk.stream/chunks.m3u8
 #EXTINF:0 tvg-logo="https://i.imgur.com/ASztPbS.png" group-title="BD IPTV",40.ITV Bangla
-http://162.244.81.142:1935/live/livestream/playlist.m3u8?token=soheliptv01826655778
+http://str24.l9574.com/512.stream/index.m3u8
 #EXTINF:-1 tvg-logo="http://www.jagobd.com/wp-content/uploads/2020/02/jagoronitv.jpg" group-title="BD IPTV",40.Jagoroni TV
 
 #EXTINF:-1 tvg-logo="https://3.bp.blogspot.com/-DM-9bTa8Ebw/W7hLpa9mpmI/AAAAAAAACic/_ZEd4iFe4xEg4KnqWLyFZryB5duQRosHQCLcBGAs/w1200-h630-p-k-no-nu/Jonmobhumi-TV-bd.png" group-title="BD IPTV",41.JonmoBhumi TV
