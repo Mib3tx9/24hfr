@@ -358,7 +358,10 @@ https://livechannel.shemaroome.com/linearplayout/kids-linear-channel/chunklist_6
 https://livecdn.fptplay.net/qnetlive/boomerang_hls.smil/chunklist_b2500000.m3u8?token=soheliptv01826655778
 #EXTINF:-1 tvg-id="BF1.Asia" tvg-logo="https://static.epg.best/us/BabyFirstTV.us.png" group-title="Kids",84.Baby First
 https://livecdn.fptplay.net/qnetlive/babyfirst_hls.smil/chunklist_b2500000.m3u8?token=soheliptv01826655778
-
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQkh_AH7Uqn6u1cQHc-vu8vKnUMCD9819PwGeYH0LV3PFx15k81kabfACh7&s=10" group-title="Kids",84.Akaram Kidz
+http://akaram.zecast.net/akaram-live/akaramkidz/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/FVNVC73.png" group-title="Kids",84.MBC 3
+https://shls-mbc3-eur-prod-dub.shahid.net/out/v1/fce09dd6a967431a871efb3b8dec9f82/index_3.m3u8
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcSSHbSX9sd5fLs7-JGPua0waVKK58DPPn9IwQ&usqp=CAU" group-title="Kids",85.Disney Channel India
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcSSHbSX9sd5fLs7-JGPua0waVKK58DPPn9IwQ&usqp=CAU" group-title="Kids",85.Disney Channel USA
@@ -367,6 +370,8 @@ https://livecdn.fptplay.net/qnetlive/babyfirst_hls.smil/chunklist_b2500000.m3u8?
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcTriqQiQCfQXMvr_Ak8e-T7vwUSpXsdzf_OYg4S0bhmSXiMpPKv&usqp=CAU" group-title="Kids",86.Cartoon Network India
 
+#EXTINF:0 tvg-logo="https://i.imgur.com/M9Z5cfD.png" group-title="Kids",86.Cartoon Network
+https://shls-cartoon-net-prod-dub.shahid.net/out/v1/dc4aa87372374325a66be458f29eab0f/index_4.m3u8
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcTriqQiQCfQXMvr_Ak8e-T7vwUSpXsdzf_OYg4S0bhmSXiMpPKv&usqp=CAU" group-title="Kids",86.Cartoon Network HD+
 http://136.243.177.164/CARTOONNETWORK/playlist.m3u8?token=soheliptv01826655778
 #EXTINF:0 tvg-id="ext" group-title="Kids",86.Nick Jr.
