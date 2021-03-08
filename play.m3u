@@ -1190,9 +1190,9 @@ http://freeiptv.thunderbd.com:25461/live/free/roarzone/95.m3u8
 http://freeiptv.thunderbd.com:25461/live/free/roarzone/96.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Sony Aath" tvg-logo="http://roarmediazone.com/tv/weblogo/123.jpg" group-title="BDIX Server 6",Sony Aath
 http://freeiptv.thunderbd.com:25461/live/free/roarzone/33.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Star Jalsha" tvg-logo="http://roarmediazone.com/tv/weblogo/90.jpg" group-title="BDIX Server 6",Star Jalsha
+#EXTINF:-1 tvg-id="" tvg-name="Star Jalsha" tvg-logo="http://roarmediazone.com/tv/weblogo/90.jpg" group-title="BDIX Server 6",Star Jalsha HD
 http://freeiptv.thunderbd.com:25461/live/free/roarzone/30.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Star Jalsha Movies" tvg-logo="http://roarmediazone.com/tv/weblogo/125.jpg" group-title="BDIX Server 6",Star Jalsha Movies
+#EXTINF:-1 tvg-id="" tvg-name="Star Jalsha Movies" tvg-logo="http://roarmediazone.com/tv/weblogo/125.jpg" group-title="BDIX Server 6",Star Jalsha Movies HD
 http://freeiptv.thunderbd.com:25461/live/free/roarzone/31.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Zee Bangla" tvg-logo="http://roarmediazone.com/tv/weblogo/72.jpg" group-title="BDIX Server 6",Zee Bangla
 http://freeiptv.thunderbd.com:25461/live/free/roarzone/34.m3u8
@@ -1200,13 +1200,13 @@ http://freeiptv.thunderbd.com:25461/live/free/roarzone/34.m3u8
 http://freeiptv.thunderbd.com:25461/live/free/roarzone/29.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="T Sports" tvg-logo="" group-title="BDIX Server 6",T Sports
 http://freeiptv.thunderbd.com:25461/live/free/roarzone/102.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Sony Ten 1" tvg-logo="http://roarmediazone.com/tv/weblogo/15.jpg" group-title="BDIX Server 6",Sony Ten 1
+#EXTINF:-1 tvg-id="" tvg-name="Sony Ten 1" tvg-logo="http://roarmediazone.com/tv/weblogo/15.jpg" group-title="BDIX Server 6",Sony Ten 1 HD
 http://freeiptv.thunderbd.com:25461/live/free/roarzone/20.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Sony Ten 2" tvg-logo="http://roarmediazone.com/tv/weblogo/62.jpg" group-title="BDIX Server 6",Sony Ten 2
+#EXTINF:-1 tvg-id="" tvg-name="Sony Ten 2" tvg-logo="http://roarmediazone.com/tv/weblogo/62.jpg" group-title="BDIX Server 6",Sony Ten 2 HD
 http://freeiptv.thunderbd.com:25461/live/free/roarzone/21.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Sony Ten 3" tvg-logo="http://roarmediazone.com/tv/weblogo/14.jpg" group-title="BDIX Server 6",Sony Ten 3
+#EXTINF:-1 tvg-id="" tvg-name="Sony Ten 3" tvg-logo="http://roarmediazone.com/tv/weblogo/14.jpg" group-title="BDIX Server 6",Sony Ten 3 HD
 http://freeiptv.thunderbd.com:25461/live/free/roarzone/22.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Sony SIX" tvg-logo="http://roarmediazone.com/tv/weblogo/16.jpg" group-title="BDIX Server 6",Sony SIX
+#EXTINF:-1 tvg-id="" tvg-name="Sony SIX" tvg-logo="http://roarmediazone.com/tv/weblogo/16.jpg" group-title="BDIX Server 6",Sony Six HD
 http://freeiptv.thunderbd.com:25461/live/free/roarzone/24.m3u8
 #EXTINF:-1 tvg-id="ESPN.us" tvg-name="Sony ESPN" tvg-logo="http://roarmediazone.com/tv/weblogo/57.jpg" group-title="BDIX Server 6",Sony ESPN
 http://freeiptv.thunderbd.com:25461/live/free/roarzone/23.m3u8
