@@ -1195,7 +1195,6 @@ http://freeiptv.thunderbd.com:25461/live/free/roarzone/22.m3u8
 http://freeiptv.thunderbd.com:25461/live/free/roarzone/24.m3u8
 #EXTINF:-1 tvg-id="ESPN.us" tvg-name="Sony ESPN" tvg-logo="http://roarmediazone.com/tv/weblogo/57.jpg" group-title="BDIX Server 6",Sony ESPN
 http://freeiptv.thunderbd.com:25461/live/free/roarzone/23.m3u8
-
 #EXTINF:-1 tvg-id="" tvg-name="Star Sports 1" tvg-logo="http://roarmediazone.com/tv/weblogo/89.jpg" group-title="BDIX Server 6",Star Sports 1
 http://freeiptv.thunderbd.com:25461/live/free/roarzone/25.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Star Sports 2" tvg-logo="http://roarmediazone.com/tv/weblogo/41.jpg" group-title="BDIX Server 6",Star Sports 2
@@ -1217,8 +1216,6 @@ http://freeiptv.thunderbd.com:25461/live/free/roarzone/72.m3u8
 
 
 
-
-
 #EXTINF:-1 tvg-id="" tvg-name="ZEE Bangla Cinema" tvg-logo="http://roarmediazone.com/tv/weblogo/72.jpg" group-title="BDIX Server 6",ZEE Bangla Cinema
 http://freeiptv.thunderbd.com:25461/live/free/roarzone/29.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Star Jalsha" tvg-logo="http://roarmediazone.com/tv/weblogo/90.jpg" group-title="BDIX Server 6",Star Jalsha
@@ -1229,6 +1226,26 @@ http://freeiptv.thunderbd.com:25461/live/free/roarzone/31.m3u8
 http://freeiptv.thunderbd.com:25461/live/free/roarzone/32.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Zee Bangla" tvg-logo="http://roarmediazone.com/tv/weblogo/72.jpg" group-title="BDIX Server 6",Zee Bangla
 http://freeiptv.thunderbd.com:25461/live/free/roarzone/34.m3u8
+
+
+
+
+
+#EXTINF:-1 tvg-id="" tvg-name="Dhoom Music" tvg-logo="http://roarmediazone.com/tv/weblogo/56.jpg" group-title="BDIX Server 6",Dhoom Music
+http://freeiptv.thunderbd.com:25461/live/free/roarzone/57.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Colors Bangla" tvg-logo="http://roarmediazone.com/tv/weblogo/100.jpg" group-title="BDIX Server 6",Colors Bangla
+http://freeiptv.thunderbd.com:25461/live/free/roarzone/66.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Bangla Talkies" tvg-logo="" group-title="BDIX Server 6",Bangla Talkies
+http://freeiptv.thunderbd.com:25461/live/free/roarzone/91.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Ruposhi Bangla" tvg-logo="" group-title="BDIX Server 6",Ruposhi Bangla
+http://freeiptv.thunderbd.com:25461/live/free/roarzone/95.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Sangeet bangla" tvg-logo="http://hitectv.live/anytv/sangeetbangla.png" group-title="BDIX Server 6",Sangeet bangla
+http://freeiptv.thunderbd.com:25461/live/free/roarzone/96.m3u8
+
+
+
+
+
 #EXTINF:-1 tvg-id="" tvg-name="Natgeo" tvg-logo="http://roarmediazone.com/tv/weblogo/83.jpg" group-title="BDIX Server 6",Natgeo
 http://freeiptv.thunderbd.com:25461/live/free/roarzone/35.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Sony SAB" tvg-logo="http://roarmediazone.com/tv/weblogo/32.jpg" group-title="BDIX Server 6",Sony SAB
@@ -1260,14 +1277,11 @@ http://freeiptv.thunderbd.com:25461/live/free/roarzone/49.m3u8
 http://freeiptv.thunderbd.com:25461/live/free/roarzone/55.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="MY TV" tvg-logo="http://roarmediazone.com/tv/weblogo/96.jpg" group-title="BDIX Server 6",MY TV
 http://freeiptv.thunderbd.com:25461/live/free/roarzone/56.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Dhoom Music" tvg-logo="http://roarmediazone.com/tv/weblogo/56.jpg" group-title="BDIX Server 6",Dhoom Music
-http://freeiptv.thunderbd.com:25461/live/free/roarzone/57.m3u8
+
 
 #EXTINF:-1 tvg-id="" tvg-name="Zoom" tvg-logo="http://roarmediazone.com/tv/weblogo/03.jpg" group-title="BDIX Server 6",Zoom
 http://freeiptv.thunderbd.com:25461/live/free/roarzone/60.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="Colors Bangla" tvg-logo="http://roarmediazone.com/tv/weblogo/100.jpg" group-title="BDIX Server 6",Colors Bangla
-http://freeiptv.thunderbd.com:25461/live/free/roarzone/66.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Star Plus" tvg-logo="http://roarmediazone.com/tv/weblogo/115.jpg" group-title="BDIX Server 6",Star Plus
 http://freeiptv.thunderbd.com:25461/live/free/roarzone/67.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Colors" tvg-logo="http://roarmediazone.com/tv/weblogo/45.jpg" group-title="BDIX Server 6",Colors
@@ -1300,16 +1314,12 @@ http://freeiptv.thunderbd.com:25461/live/free/roarzone/85.m3u8
 http://freeiptv.thunderbd.com:25461/live/free/roarzone/89.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Zee Action" tvg-logo="" group-title="BDIX Server 6",Zee Action
 http://freeiptv.thunderbd.com:25461/live/free/roarzone/90.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Bangla Talkies" tvg-logo="" group-title="BDIX Server 6",Bangla Talkies
-http://freeiptv.thunderbd.com:25461/live/free/roarzone/91.m3u8
+
 #EXTINF:-1 tvg-id="" tvg-name="PTV WORLD" tvg-logo="" group-title="BDIX Server 6",PTV WORLD
 http://freeiptv.thunderbd.com:25461/live/free/roarzone/92.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="ZING" tvg-logo="" group-title="BDIX Server 6",ZING
 http://freeiptv.thunderbd.com:25461/live/free/roarzone/93.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Ruposhi Bangla" tvg-logo="" group-title="BDIX Server 6",Ruposhi Bangla
-http://freeiptv.thunderbd.com:25461/live/free/roarzone/95.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Sangeet bangla" tvg-logo="http://hitectv.live/anytv/sangeetbangla.png" group-title="BDIX Server 6",Sangeet bangla
-http://freeiptv.thunderbd.com:25461/live/free/roarzone/96.m3u8
+
 #EXTINF:-1 tvg-id="" tvg-name="Movie plus" tvg-logo="" group-title="BDIX Server 6",Movie plus
 http://freeiptv.thunderbd.com:25461/live/free/roarzone/97.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="9x jhakaas" tvg-logo="" group-title="BDIX Server 6",9x jhakaas
