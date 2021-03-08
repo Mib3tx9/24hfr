@@ -1195,7 +1195,8 @@ http://freeiptv.thunderbd.com:25461/live/free/roarzone/17.m3u8
 
 
 
-
+#EXTINF:-1 tvg-id="" tvg-name="T Sports" tvg-logo="" group-title="BDIX Server 6",T Sports
+http://freeiptv.thunderbd.com:25461/live/free/roarzone/102.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Sony Ten 1" tvg-logo="http://roarmediazone.com/tv/weblogo/15.jpg" group-title="BDIX Server 6",Sony Ten 1
 http://freeiptv.thunderbd.com:25461/live/free/roarzone/20.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Sony Ten 2" tvg-logo="http://roarmediazone.com/tv/weblogo/62.jpg" group-title="BDIX Server 6",Sony Ten 2
@@ -1237,11 +1238,8 @@ http://freeiptv.thunderbd.com:25461/live/free/roarzone/31.m3u8
 http://freeiptv.thunderbd.com:25461/live/free/roarzone/32.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Zee Bangla" tvg-logo="http://roarmediazone.com/tv/weblogo/72.jpg" group-title="BDIX Server 6",Zee Bangla
 http://freeiptv.thunderbd.com:25461/live/free/roarzone/34.m3u8
-
-
-
-
-
+#EXTINF:-1 tvg-id="" tvg-name="Sony Aath" tvg-logo="http://roarmediazone.com/tv/weblogo/123.jpg" group-title="BDIX Server 6",Sony Aath
+http://freeiptv.thunderbd.com:25461/live/free/roarzone/33.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Dhoom Music" tvg-logo="http://roarmediazone.com/tv/weblogo/56.jpg" group-title="BDIX Server 6",Dhoom Music
 http://freeiptv.thunderbd.com:25461/live/free/roarzone/57.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Colors Bangla" tvg-logo="http://roarmediazone.com/tv/weblogo/100.jpg" group-title="BDIX Server 6",Colors Bangla
@@ -1341,10 +1339,8 @@ http://freeiptv.thunderbd.com:25461/live/free/roarzone/100.m3u8
 http://freeiptv.thunderbd.com:25461/movie/free/roarzone/116.mp4
 #EXTINF:-1 tvg-id="" tvg-name="2 Graves in the Desert - 2020" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/vf6GmUqyzxVTtZYZ4LzCPgz89nV.jpg" group-title="BDIX Server 6",2 Graves in the Desert - 2020
 http://freeiptv.thunderbd.com:25461/movie/free/roarzone/117.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Sony Aath" tvg-logo="http://roarmediazone.com/tv/weblogo/123.jpg" group-title="BDIX Server 6",Sony Aath
-http://freeiptv.thunderbd.com:25461/live/free/roarzone/33.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="T Sports" tvg-logo="" group-title="Sports",T Sports
-http://freeiptv.thunderbd.com:25461/live/free/roarzone/102.m3u8
+
+
 #EXTINF:-1 tvg-id="" tvg-name="Mnx" tvg-logo="http://roarmediazone.com/tv/weblogo/20.jpg" group-title="BDIX Server 6",Mnx
 http://freeiptv.thunderbd.com:25461/live/free/roarzone/39.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Sony MIX" tvg-logo="http://roarmediazone.com/tv/weblogo/18.jpg" group-title="BDIX Server 6",Sony MIX
