@@ -1271,6 +1271,10 @@ http://freeiptv.thunderbd.com:25461/live/free/roarzone/44.m3u8
 
 
 
+#EXTINF:-1 tvg-id="" tvg-name="And Pictures" tvg-logo="" group-title="BDIX Server 6",And Pictures
+http://freeiptv.thunderbd.com:25461/live/free/roarzone/100.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="ZEE Bollywood" tvg-logo="" group-title="BDIX Server 6",ZEE Bollywood
+http://freeiptv.thunderbd.com:25461/live/free/roarzone/94.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Sony SAB" tvg-logo="http://roarmediazone.com/tv/weblogo/32.jpg" group-title="BDIX Server 6",Sony SAB
 http://freeiptv.thunderbd.com:25461/live/free/roarzone/36.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="SONY SET MAX" tvg-logo="http://roarmediazone.com/tv/weblogo/29.jpg" group-title="BDIX Server 6",SONY SET MAX
@@ -1283,15 +1287,34 @@ http://freeiptv.thunderbd.com:25461/live/free/roarzone/40.m3u8
 http://freeiptv.thunderbd.com:25461/live/free/roarzone/67.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Colors" tvg-logo="http://roarmediazone.com/tv/weblogo/45.jpg" group-title="BDIX Server 6",Colors
 http://freeiptv.thunderbd.com:25461/live/free/roarzone/68.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="And TV HD" tvg-logo="http://roarmediazone.com/tv/weblogo/44.jpg" group-title="BDIX Server 6",And TV HD
+http://freeiptv.thunderbd.com:25461/live/free/roarzone/74.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Star Gold" tvg-logo="http://roarmediazone.com/tv/weblogo/73.jpg" group-title="BDIX Server 6",Star Gold
+http://freeiptv.thunderbd.com:25461/live/free/roarzone/75.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Zee Cinema" tvg-logo="" group-title="BDIX Server 6",Zee Cinema
+http://freeiptv.thunderbd.com:25461/live/free/roarzone/76.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Sony Max" tvg-logo="http://roarmediazone.com/tv/weblogo/29.jpg" group-title="BDIX Server 6",Sony Max
+http://freeiptv.thunderbd.com:25461/live/free/roarzone/77.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Zee Action" tvg-logo="" group-title="BDIX Server 6",Zee Action
+http://freeiptv.thunderbd.com:25461/live/free/roarzone/90.m3u8
 
 
 
+#EXTINF:-1 tvg-id="" tvg-name="And Flix" tvg-logo="http://roarmediazone.com/tv/weblogo/48.jpg" group-title="BDIX Server 6",And Flix
+http://freeiptv.thunderbd.com:25461/live/free/roarzone/78.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Sony Pix" tvg-logo="http://roarmediazone.com/tv/weblogo/17.jpg" group-title="BDIX Server 6",Sony Pix
 http://freeiptv.thunderbd.com:25461/live/free/roarzone/41.m3u8
 #EXTINF:-1 tvg-id="HBO.us" tvg-name="HBO" tvg-logo="http://roarmediazone.com/tv/weblogo/116.jpg" group-title="BDIX Server 6",HBO
 http://freeiptv.thunderbd.com:25461/live/free/roarzone/42.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Movies Now" tvg-logo="http://roarmediazone.com/tv/weblogo/74.jpg" group-title="BDIX Server 6",Movies Now
 http://freeiptv.thunderbd.com:25461/live/free/roarzone/45.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Mnx" tvg-logo="http://roarmediazone.com/tv/weblogo/20.jpg" group-title="BDIX Server 6",Mnx
+http://freeiptv.thunderbd.com:25461/live/free/roarzone/39.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Sony MIX" tvg-logo="http://roarmediazone.com/tv/weblogo/18.jpg" group-title="BDIX Server 6",Sony MIX
+http://freeiptv.thunderbd.com:25461/live/free/roarzone/47.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Zee Cafe HD" tvg-logo="http://roarmediazone.com/tv/weblogo/05.jpg" group-title="BDIX Server 6",Zee Cafe HD
+http://freeiptv.thunderbd.com:25461/live/free/roarzone/69.m3u8
+
 
 
 
@@ -1306,19 +1329,7 @@ http://freeiptv.thunderbd.com:25461/live/free/roarzone/60.m3u8
 
 
 
-#EXTINF:-1 tvg-id="" tvg-name="Zee Cafe HD" tvg-logo="http://roarmediazone.com/tv/weblogo/05.jpg" group-title="BDIX Server 6",Zee Cafe HD
-http://freeiptv.thunderbd.com:25461/live/free/roarzone/69.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="And TV HD" tvg-logo="http://roarmediazone.com/tv/weblogo/44.jpg" group-title="BDIX Server 6",And TV HD
-http://freeiptv.thunderbd.com:25461/live/free/roarzone/74.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Star Gold" tvg-logo="http://roarmediazone.com/tv/weblogo/73.jpg" group-title="BDIX Server 6",Star Gold
-http://freeiptv.thunderbd.com:25461/live/free/roarzone/75.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Zee Cinema" tvg-logo="" group-title="BDIX Server 6",Zee Cinema
-http://freeiptv.thunderbd.com:25461/live/free/roarzone/76.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Sony Max" tvg-logo="http://roarmediazone.com/tv/weblogo/29.jpg" group-title="BDIX Server 6",Sony Max
-http://freeiptv.thunderbd.com:25461/live/free/roarzone/77.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="And Flix" tvg-logo="http://roarmediazone.com/tv/weblogo/48.jpg" group-title="BDIX Server 6",And Flix
-http://freeiptv.thunderbd.com:25461/live/free/roarzone/78.m3u8
 
 
 #EXTINF:-1 tvg-id="" tvg-name="Makkah Live" tvg-logo="" group-title="BDIX Server 6",Makkah Live
@@ -1329,8 +1340,7 @@ http://freeiptv.thunderbd.com:25461/live/free/roarzone/85.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="Al Jazeera" tvg-logo="" group-title="BDIX Server 6",Al Jazeera
 http://freeiptv.thunderbd.com:25461/live/free/roarzone/89.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Zee Action" tvg-logo="" group-title="BDIX Server 6",Zee Action
-http://freeiptv.thunderbd.com:25461/live/free/roarzone/90.m3u8
+
 
 #EXTINF:-1 tvg-id="" tvg-name="PTV WORLD" tvg-logo="" group-title="BDIX Server 6",PTV WORLD
 http://freeiptv.thunderbd.com:25461/live/free/roarzone/92.m3u8
@@ -1341,20 +1351,14 @@ http://freeiptv.thunderbd.com:25461/live/free/roarzone/93.m3u8
 http://freeiptv.thunderbd.com:25461/live/free/roarzone/97.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="9x jhakaas" tvg-logo="" group-title="BDIX Server 6",9x jhakaas
 http://freeiptv.thunderbd.com:25461/live/free/roarzone/99.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="And Pictures" tvg-logo="" group-title="BDIX Server 6",And Pictures
-http://freeiptv.thunderbd.com:25461/live/free/roarzone/100.m3u8
+
 #EXTINF:-1 tvg-id="" tvg-name="1 Interrogation - 2020" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/zjrERMT49YgPt4V0Jm2fwiValo9.jpg" group-title="BDIX Server 6",1 Interrogation - 2020
 http://freeiptv.thunderbd.com:25461/movie/free/roarzone/116.mp4
 #EXTINF:-1 tvg-id="" tvg-name="2 Graves in the Desert - 2020" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/vf6GmUqyzxVTtZYZ4LzCPgz89nV.jpg" group-title="BDIX Server 6",2 Graves in the Desert - 2020
 http://freeiptv.thunderbd.com:25461/movie/free/roarzone/117.mp4
 
 
-#EXTINF:-1 tvg-id="" tvg-name="Mnx" tvg-logo="http://roarmediazone.com/tv/weblogo/20.jpg" group-title="BDIX Server 6",Mnx
-http://freeiptv.thunderbd.com:25461/live/free/roarzone/39.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Sony MIX" tvg-logo="http://roarmediazone.com/tv/weblogo/18.jpg" group-title="BDIX Server 6",Sony MIX
-http://freeiptv.thunderbd.com:25461/live/free/roarzone/47.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="ZEE Bollywood" tvg-logo="" group-title="BDIX Server 6",ZEE Bollywood
-http://freeiptv.thunderbd.com:25461/live/free/roarzone/94.m3u8
+
 #EXTINF:-1 tvg-id="" tvg-name="9xo / 9x-jalwa" tvg-logo="" group-title="BDIX Server 6",9xo / 9x-jalwa
 http://freeiptv.thunderbd.com:25461/live/free/roarzone/98.m3u8
 
