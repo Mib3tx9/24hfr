@@ -1297,6 +1297,10 @@ http://freeiptv.thunderbd.com:25461/live/free/roarzone/76.m3u8
 http://freeiptv.thunderbd.com:25461/live/free/roarzone/77.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Zee Action" tvg-logo="" group-title="BDIX Server 6",Zee Action
 http://freeiptv.thunderbd.com:25461/live/free/roarzone/90.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Movie plus" tvg-logo="" group-title="BDIX Server 6",Bflix Movies
+http://freeiptv.thunderbd.com:25461/live/free/roarzone/97.m3u8
+
+
 
 
 
@@ -1318,10 +1322,20 @@ http://freeiptv.thunderbd.com:25461/live/free/roarzone/69.m3u8
 
 
 
+
+
+
+
+#EXTINF:-1 tvg-id="" tvg-name="9xM" tvg-logo="http://roarmediazone.com/tv/weblogo/97.jpg" group-title="BDIX Server 6",9XM
+http://freeiptv.thunderbd.com:25461/live/free/roarzone/48.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="9xo / 9x-jalwa" tvg-logo="" group-title="BDIX Server 6",9x Jalwa
+http://freeiptv.thunderbd.com:25461/live/free/roarzone/98.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="9x jhakaas" tvg-logo="" group-title="BDIX Server 6",9x Jhakaas
+http://freeiptv.thunderbd.com:25461/live/free/roarzone/99.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Zee ETC" tvg-logo="http://roarmediazone.com/tv/weblogo/01.jpg" group-title="BDIX Server 6",Zee ETC
 http://freeiptv.thunderbd.com:25461/live/free/roarzone/46.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="9xM" tvg-logo="http://roarmediazone.com/tv/weblogo/97.jpg" group-title="BDIX Server 6",9xM
-http://freeiptv.thunderbd.com:25461/live/free/roarzone/48.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="ZING" tvg-logo="" group-title="BDIX Server 6",Zing
+http://freeiptv.thunderbd.com:25461/live/free/roarzone/93.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Zoom" tvg-logo="http://roarmediazone.com/tv/weblogo/03.jpg" group-title="BDIX Server 6",Zoom
 http://freeiptv.thunderbd.com:25461/live/free/roarzone/60.m3u8
 
@@ -1332,35 +1346,20 @@ http://freeiptv.thunderbd.com:25461/live/free/roarzone/60.m3u8
 
 
 
-#EXTINF:-1 tvg-id="" tvg-name="Makkah Live" tvg-logo="" group-title="BDIX Server 6",Makkah Live
-http://freeiptv.thunderbd.com:25461/live/free/roarzone/83.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-name="DW NEWS" tvg-logo="" group-title="BDIX Server 6",DW NEWS
-http://freeiptv.thunderbd.com:25461/live/free/roarzone/85.m3u8
-
 #EXTINF:-1 tvg-id="" tvg-name="Al Jazeera" tvg-logo="" group-title="BDIX Server 6",Al Jazeera
 http://freeiptv.thunderbd.com:25461/live/free/roarzone/89.m3u8
-
-
+#EXTINF:-1 tvg-id="" tvg-name="DW NEWS" tvg-logo="" group-title="BDIX Server 6",DW NEWS
+http://freeiptv.thunderbd.com:25461/live/free/roarzone/85.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Makkah Live" tvg-logo="" group-title="BDIX Server 6",Makkah Live
+http://freeiptv.thunderbd.com:25461/live/free/roarzone/83.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="PTV WORLD" tvg-logo="" group-title="BDIX Server 6",PTV WORLD
 http://freeiptv.thunderbd.com:25461/live/free/roarzone/92.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="ZING" tvg-logo="" group-title="BDIX Server 6",ZING
-http://freeiptv.thunderbd.com:25461/live/free/roarzone/93.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-name="Movie plus" tvg-logo="" group-title="BDIX Server 6",Movie plus
-http://freeiptv.thunderbd.com:25461/live/free/roarzone/97.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="9x jhakaas" tvg-logo="" group-title="BDIX Server 6",9x jhakaas
-http://freeiptv.thunderbd.com:25461/live/free/roarzone/99.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-name="1 Interrogation - 2020" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/zjrERMT49YgPt4V0Jm2fwiValo9.jpg" group-title="BDIX Server 6",1 Interrogation - 2020
-http://freeiptv.thunderbd.com:25461/movie/free/roarzone/116.mp4
-#EXTINF:-1 tvg-id="" tvg-name="2 Graves in the Desert - 2020" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/vf6GmUqyzxVTtZYZ4LzCPgz89nV.jpg" group-title="BDIX Server 6",2 Graves in the Desert - 2020
-http://freeiptv.thunderbd.com:25461/movie/free/roarzone/117.mp4
 
 
 
-#EXTINF:-1 tvg-id="" tvg-name="9xo / 9x-jalwa" tvg-logo="" group-title="BDIX Server 6",9xo / 9x-jalwa
-http://freeiptv.thunderbd.com:25461/live/free/roarzone/98.m3u8
+
+
+
 
 
 #EXTINF:-1 tvg-logo="" group-title=" Website : https://bit.ly/01826655778 ",
