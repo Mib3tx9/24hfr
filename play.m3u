@@ -85,8 +85,9 @@ https://tempsignature.jagobd.com:444/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgd
 #EXTINF:-1 tvg-logo="" group-title="BDIX Server 2",Server2------------------------------------------------------------------------
 #EXTINF:-1 tvg-logo="" group-title="BDIX Server 3 (12:00am-6:00pm)",Server3------------------------------------------------------------------------
 #EXTINF:-1 tvg-logo="" group-title="BDIX Server 4",Server4-----------
+#EXTINF:-1 tvg-logo="" group-title="BDIX Server 5",Server5-----------
 #EXTINF:-1 tvg-logo="" group-title="BDIX Server 6",Server6-----------
-#EXTINF:-1 tvg-logo="" group-title="BDIX Server 7",Server7-----------
+
 #EXTINF:-1 tvg-logo="" group-title="BD IPTV",BD-----------------------------------------------------------------------
 #EXTINF:-1 tvg-logo="" group-title="Documentary",DC------------------------------------------------------------------------
 #EXTINF:-1 tvg-logo="" group-title="Indian Bangla",IB------------------------------------------------------------------------
@@ -1091,6 +1092,90 @@ http://10.16.100.201/hindi/sportsT.m3u8
 
 
 
+#EXTINF:0 tvg-logo="" group-title="BDIX Server 5",ATN Bangla
+http://hitectv.live/hls/stream17.m3u8
+#EXTINF:0 tvg-logo="" group-title="BDIX Server 5",Channel 24
+http://hitectv.live/hls/stream22.m3u8
+#EXTINF:0 tvg-logo="" group-title="BDIX Server 5",Channel I
+http://hitectv.live/hls/stream18.m3u8
+#EXTINF:0 tvg-logo="" group-title="BDIX Server 5",Maasranga HD
+http://hitectv.live/hls/stream20.m3u8
+#EXTINF:0 tvg-logo="" group-title="BDIX Server 5",Nagorik TV
+http://hitectv.live/hls/stream24.m3u8
+#EXTINF:0 tvg-logo="" group-title="BDIX Server 5",Somoy
+http://hitectv.live/hls/stream21.m3u8
+#EXTINF:0 tvg-logo="" group-title="BDIX Server 5",Enterr10 Bangla
+http://hitectv.live/hls/stream26.m3u8
+#EXTINF:0 tvg-logo="" group-title="BDIX Server 5",Star jalsha HD
+http://hitectv.live/hls/stream31.m3u8
+#EXTINF:0 tvg-logo="" group-title="BDIX Server 5",Jalsha Movies HD
+http://hitectv.live/hls/stream27.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="BDIX Server 5",Zee Bangla HD
+http://hitectv.live/hls/stream30.m3u8
+#EXTINF:0 tvg-logo="" group-title="BDIX Server 5",Colors Bangla HD
+http://hitectv.live/hls/stream28.m3u8
+#EXTINF:0 tvg-logo="" group-title="BDIX Server 5",Colors Cineplex HD
+http://hitectv.live/hls/stream29.m3u8
+#EXTINF:0 tvg-logo="" group-title="BDIX Server 5",Star Plus HD
+http://hitectv.live/hls/stream38.m3u8
+#EXTINF:0 tvg-logo="" group-title="BDIX Server 5",Star Gold HD
+http://hitectv.live/hls/stream19.m3u8
+#EXTINF:0 tvg-logo="" group-title="BDIX Server 5",Zee Cinema HD
+http://hitectv.live/hls/stream25.m3u8
+#EXTINF:0 tvg-logo="" group-title="BDIX Server 5",& Picture HD
+http://hitectv.live/hls/stream14.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="BDIX Server 5",UTV Action
+http://hitectv.live/hls/stream7.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="BDIX Server 5",9XM
+http://hitectv.live/hls/stream4.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="BDIX Server 5",Zoom
+http://hitectv.live/hls/stream8.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="BDIX Server 5",AXN
+http://hitectv.live/hls/stream2.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="BDIX Server 5",Sony Pix
+http://hitectv.live/hls/stream1.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="BDIX Server 5",Star Movies
+http://hitectv.live/hls/stream3.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="BDIX Server 5",Animal Planet HD
+http://hitectv.live/hls/stream6.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="BDIX Server 5",BBC Earth
+http://hitectv.live/hls/stream5.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="BDIX Server 5",Discovery HD
+http://hitectv.live/hls/stream9.m3u8
+#EXTINF:0 tvg-logo="" group-title="BDIX Server 5",National Geographic HD
+http://hitectv.live/hls/stream13.m3u8
+#EXTINF:0 tvg-logo="" group-title="BDIX Server 5",Travel XP
+http://hitectv.live/hls/stream37.m3u8
+#EXTINF:0 tvg-logo="" group-title="BDIX Server 5",Nick
+http://hitectv.live/hls/stream23.m3u8
+#EXTINF:0 tvg-logo="" group-title="BDIX Server 5",Sony Yay
+http://hitectv.live/hls/stream32.m3u8
+#EXTINF:0 tvg-logo="" group-title="BDIX Server 5",Sony Six HD
+http://hitectv.live/hls/stream10.m3u8
+#EXTINF:0 tvg-logo="" group-title="BDIX Server 5",Sony Ten 1
+http://hitectv.live/hls/stream40.m3u8
+#EXTINF:0 tvg-logo="" group-title="BDIX Server 5",Sony Ten 2
+http://hitectv.live/hls/stream39.m3u8
+#EXTINF:0 tvg-logo="" group-title="BDIX Server 5",Star Sports 1 HD
+http://hitectv.live/hls/stream15.m3u8
+#EXTINF:0 tvg-logo="" group-title="BDIX Server 5",Star Sports 2 HD
+http://hitectv.live/hls/stream16.m3u8
+#EXTINF:0 tvg-logo="" group-title="BDIX Server 5",Star Sports Select 1 HD
+http://hitectv.live/hls/stream12.m3u8
+#EXTINF:0 tvg-logo="" group-title="BDIX Server 5",PTV Sports
+http://hitectv.live/hls/stream11.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="BDIX Server 5",Ten Sports
+http://hitectv.live/hls/stream34.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="BDIX Server 5",Al Jazeera
+http://hitectv.live/hls/stream35.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="BDIX Server 5",BBC World
+http://hitectv.live/hls/stream36.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="BDIX Server 5",Macca
+http://hitectv.live/hls/stream33.m3u8
+
+
+
+
 #EXTINF:-1 tvg-id="" tvg-name="Al Dawah" tvg-logo="" group-title="BDIX Server 6",Al Dawah
 http://freeiptv.thunderbd.com:25461/live/free/roarzone/87.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Ananda TV" tvg-logo="http://roarmediazone.com/tv/weblogo/85.jpg" group-title="BDIX Server 6",Ananda TV
@@ -1287,85 +1372,21 @@ http://freeiptv.thunderbd.com:25461/live/free/roarzone/92.m3u8
 
 
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="BDIX Server 7",Channel 1
-http://hitectv.live/hls/stream1.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="BDIX Server 7",Channel 2
-http://hitectv.live/hls/stream2.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="BDIX Server 7",Channel 3
-http://hitectv.live/hls/stream3.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="BDIX Server 7",Channel 4
-http://hitectv.live/hls/stream4.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="BDIX Server 7",Channel 5
-http://hitectv.live/hls/stream5.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="BDIX Server 7",Channel 6
-http://hitectv.live/hls/stream6.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="BDIX Server 7",Channel 7
-http://hitectv.live/hls/stream7.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="BDIX Server 7",Channel 8
-http://hitectv.live/hls/stream8.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="BDIX Server 7",Channel 9
-http://hitectv.live/hls/stream9.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="BDIX Server 7",Channel 10
-http://hitectv.live/hls/stream10.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="BDIX Server 7",Channel 11
-http://hitectv.live/hls/stream11.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="BDIX Server 7",Channel 12
-http://hitectv.live/hls/stream12.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="BDIX Server 7",Channel 13
-http://hitectv.live/hls/stream13.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="BDIX Server 7",Channel 14
-http://hitectv.live/hls/stream14.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="BDIX Server 7",Channel 15
-http://hitectv.live/hls/stream15.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="BDIX Server 7",Channel 16
-http://hitectv.live/hls/stream16.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="BDIX Server 7",Channel 17
-http://hitectv.live/hls/stream17.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="BDIX Server 7",Channel 18
-http://hitectv.live/hls/stream18.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="BDIX Server 7",Channel 19
-http://hitectv.live/hls/stream19.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="BDIX Server 7",Channel 20
-http://hitectv.live/hls/stream20.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="BDIX Server 7",Channel 21
-http://hitectv.live/hls/stream21.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="BDIX Server 7",Channel 22
-http://hitectv.live/hls/stream22.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="BDIX Server 7",Channel 23
-http://hitectv.live/hls/stream23.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="BDIX Server 7",Channel 24
-http://hitectv.live/hls/stream24.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="BDIX Server 7",Channel 25
-http://hitectv.live/hls/stream25.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="BDIX Server 7",Channel 26
-http://hitectv.live/hls/stream26.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="BDIX Server 7",Channel 27
-http://hitectv.live/hls/stream27.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="BDIX Server 7",Channel 28
-http://hitectv.live/hls/stream28.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="BDIX Server 7",Channel 29
-http://hitectv.live/hls/stream29.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="BDIX Server 7",Channel 30
-http://hitectv.live/hls/stream30.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="BDIX Server 7",Channel 31
-http://hitectv.live/hls/stream31.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="BDIX Server 7",Channel 32
-http://hitectv.live/hls/stream32.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="BDIX Server 7",Channel 33
-http://hitectv.live/hls/stream33.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="BDIX Server 7",Channel 34
-http://hitectv.live/hls/stream34.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="BDIX Server 7",Channel 35
-http://hitectv.live/hls/stream35.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="BDIX Server 7",Channel 36
-http://hitectv.live/hls/stream36.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="BDIX Server 7",Channel 37
-http://hitectv.live/hls/stream37.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="BDIX Server 7",Channel 38
-http://hitectv.live/hls/stream38.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="BDIX Server 7",Channel 39
-http://hitectv.live/hls/stream39.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="BDIX Server 7",Channel 40
-http://hitectv.live/hls/stream40.m3u8
 
-#EXTINF:-1 tvg-logo="" group-title=" Website : https://bit.ly/01826655778 ",
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+#EXTINF:-1 tvg-logo="" group-title=" © Sohel Ahmed ",
