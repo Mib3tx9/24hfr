@@ -268,7 +268,7 @@ https://cdn.smartstream.video/smartstream-us/rplus/rplus/playlist.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Indian Bangla",60.Express News
 http://streamcp.logosys.cloud:1935/expressnews/expressnews/chunklist_w877989687.m3u8
 #EXTINF:-1 tvg-logo="http://www.peacetv.tv/templates/images/english-logo.png"group-title="Indian Bangla",60.Peace TV Bangla
-http://peacetv.ashttp22.visionip.tv/live/peacetv-peacetv-peacetv-bangla-hsslive-25f-16x9-SDh/chunklist.m3u8
+
 
 
 #EXTINF:-1 tvg-logo="https://latestlearnerships.com/wp-content/uploads/2016/11/discovery-careers-jobs-internships-vacancies-learnership-programme-310x165.jpg" group-title="Documentary",61.Discovery
@@ -980,10 +980,10 @@ http://103.205.133.20/hls/9xm.m3u8
 
 
 #EXTINF:-1 tvg-logo="" group-title="BDIX Server 4",Asian TV
-http://10.16.100.203:8082/bangla/tv_asian.m3u8
+
 #EXTINF:-1 tvg-logo="" group-title="BDIX Server 4",ATN Bangla
 http://10.16.100.203:8082/bangla/atnbangla.m3u8
-#EXTINF:-1 tvg-logo="" group-title="BDIX Server 4",BanglaTV
+#EXTINF:-1 tvg-logo="" group-title="BDIX Server 4",Bangla TV
 http://10.16.100.203:8082/bangla/Banglatv_720.m3u8
 #EXTINF:-1 tvg-logo="" group-title="BDIX Server 4",Bangla vision
 http://10.16.100.203:8082/bangla/vision_bangla.m3u8
@@ -992,7 +992,7 @@ http://10.16.100.203:8082/bangla/bijoytv.m3u8
 #EXTINF:-1 tvg-logo="" group-title="BDIX Server 4",Channel I
 http://10.16.100.205/hls/ch_i.m3u8
 #EXTINF:-1 tvg-logo="" group-title="BDIX Server 4",DBC News
-http://10.16.100.203:8082/bangla/dbcnews.m3u8
+
 #EXTINF:-1 tvg-logo="" group-title="BDIX Server 4",Deepto TV
 http://10.16.100.203:8082/bangla/deeptotv.m3u8
 #EXTINF:-1 tvg-logo="" group-title="BDIX Server 4",Desh TV
@@ -1005,45 +1005,45 @@ http://10.16.100.205/hls/mohona_tv_720.m3u8
 http://10.16.100.203:8082/bangla/jamuna_720.m3u8
 #EXTINF:-1 tvg-logo="" group-title="BDIX Server 4",ETV
 http://10.16.100.205/hls/21etv.m3u8
-#EXTINF:-1 tvg-logo="" group-title="BDIX Server 4",MyTV
+#EXTINF:-1 tvg-logo="" group-title="BDIX Server 4",My TV
 http://10.16.100.205/hls/my_tv_720.m3u8
-#EXTINF:-1 tvg-logo="" group-title="BDIX Server 4",News24*
-http://10.16.100.203:8082/bangla/24newshd_720.m3u8
+#EXTINF:-1 tvg-logo="" group-title="BDIX Server 4",News24
+
 #EXTINF:-1 tvg-logo="" group-title="BDIX Server 4",RTV
 http://10.16.100.203:8082/bangla/TV_R.m3u8
-#EXTINF:-1 tvg-logo="" group-title="BDIX Server 4",DigiBangla24
+#EXTINF:-1 tvg-logo="" group-title="BDIX Server 4",Digi Bangla 24
 http://10.16.100.203:8082/bangla/digibangla24.m3u8
 #EXTINF:-1 tvg-logo="" group-title="BDIX Server 4",Star Plus*
-http://10.16.100.204:8082/hls/starplus_bd_hd.m3u8
+
 #EXTINF:-1 tvg-logo="" group-title="BDIX Server 4",Zee TV
-http://10.16.100.201/hindi/ztv_1stop_in.m3u8
+
 #EXTINF:-1 tvg-logo="" group-title="BDIX Server 4",Akash 8
 http://10.16.100.207:8082/sports/akash_8_1stop.m3u8
 #EXTINF:-1 tvg-logo="" group-title="BDIX Server 4",Colors Bangla
 http://10.16.100.205/hls/colorsbd480.m3u8
-#EXTINF:-1 tvg-logo="" group-title="BDIX Server 4",Sony aath
+#EXTINF:-1 tvg-logo="" group-title="BDIX Server 4",Sony Aath
 http://10.16.100.203:8082/bangla/sonyaath_1stop_in.m3u8
 #EXTINF:-1 tvg-logo="" group-title="BDIX Server 4",Star Jalsha
-http://10.16.100.203:8082/bangla/starjalsha_1stop_bd.m3u8
-#EXTINF:-1 tvg-logo="" group-title="BDIX Server 4",Star Jalsha HD*
-http://10.16.100.200:8082/hls/starjalsha_bd_hd_720p.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="BDIX Server 4",Star Jalsha HD
+
 #EXTINF:-1 tvg-logo="" group-title="BDIX Server 4",Zee Bangla
-http://10.16.100.203:8082/bangla/zbangla_1stop_in.m3u8
-#EXTINF:-1 tvg-logo="" group-title="BDIX Server 4",Zee Bangla HD*
-http://10.16.100.200:8082/hls/zeebangla_hd_720p.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="BDIX Server 4",Zee Bangla HD
+
 #EXTINF:-1 tvg-logo="" group-title="BDIX Server 4",& Pictures HD
 http://10.16.100.204:8082/hls/&Pictures_hd_bd.m3u8
-#EXTINF:-1 tvg-logo="" group-title="BDIX Server 4",Zee Cinema HD*
-http://10.16.100.200:8082/hls/z_Cinema_hd_bd_720p.m3u8
+#EXTINF:-1 tvg-logo="" group-title="BDIX Server 4",Zee Cinema HD
+
 #EXTINF:-1 tvg-logo="" group-title="BDIX Server 4",Sony Pix HD
 http://10.16.100.204:8082/hls/sony_pixhd_bd_720.m3u8
 #EXTINF:-1 tvg-logo="" group-title="BDIX Server 4",WoW Cinema
-http://10.16.100.201/hindi/wow_cinema.m3u8
-#EXTINF:-1 tvg-logo="" group-title="BDIX Server 4",B4U Music*
-http://10.16.100.201/hindi/bforu_music_1stop_in.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="BDIX Server 4",B4U Music
+
 #EXTINF:-1 tvg-logo="" group-title="BDIX Server 4",Dhoom Music
 http://10.16.100.201/hindi/dhoom_music_1stop_in.m3u8
-#EXTINF:-1 tvg-logo="" group-title="BDIX Server 4",GaanBangla
+#EXTINF:-1 tvg-logo="" group-title="BDIX Server 4",Gaan Bangla
 http://10.16.100.203:8082/bangla/ganbangla_1stop_hd.m3u8
 #EXTINF:-1 tvg-logo="" group-title="BDIX Server 4",Sangeet Bangla
 http://10.16.100.207:8082/sports/sangeet_bangla.m3u8
@@ -1051,97 +1051,15 @@ http://10.16.100.207:8082/sports/sangeet_bangla.m3u8
 http://10.16.100.207:8082/sports/mtuness.m3u8
 #EXTINF:-1 tvg-logo="" group-title="BDIX Server 4",Sony TEN 1
 http://10.16.100.207:8082/sports/ten1_720.m3u8
-#EXTINF:-1 tvg-logo="" group-title="BDIX Server 4",Star Sports 2*
-http://10.16.100.207:8082/sports/starsports2.m3u8
-#EXTINF:-1 tvg-logo="" group-title="BDIX Server 4", Star sports select 1
+#EXTINF:-1 tvg-logo="" group-title="BDIX Server 4",Star Sports 2
+ 
+#EXTINF:-1 tvg-logo="" group-title="BDIX Server 4", Star Sports Select 1
 http://10.16.100.207:8082/sports/starsports_select1.m3u8
 #EXTINF:-1 tvg-logo="" group-title="BDIX Server 4",T Sports
-http://10.16.100.207:8082/sports/sportst.m3u8
-#EXTINF:-1 tvg-logo="" group-title="BDIX Server 4",T Sports*
+
+#EXTINF:-1 tvg-logo="" group-title="BDIX Server 4",T Sports
 http://10.16.100.201/hindi/sportsT.m3u8
 
-
-
-#EXTINF:0 tvg-logo="" group-title="BDIX Server 5",ATN Bangla
-http://hitectv.live/hls/stream17.m3u8
-#EXTINF:0 tvg-logo="" group-title="BDIX Server 5",Channel 24
-http://hitectv.live/hls/stream22.m3u8
-#EXTINF:0 tvg-logo="" group-title="BDIX Server 5",Channel I
-http://hitectv.live/hls/stream18.m3u8
-#EXTINF:0 tvg-logo="" group-title="BDIX Server 5",Maasranga HD
-http://hitectv.live/hls/stream20.m3u8
-#EXTINF:0 tvg-logo="" group-title="BDIX Server 5",Nagorik TV
-http://hitectv.live/hls/stream24.m3u8
-#EXTINF:0 tvg-logo="" group-title="BDIX Server 5",Somoy
-http://hitectv.live/hls/stream21.m3u8
-#EXTINF:0 tvg-logo="" group-title="BDIX Server 5",Enterr10 Bangla
-http://hitectv.live/hls/stream26.m3u8
-#EXTINF:0 tvg-logo="" group-title="BDIX Server 5",Star jalsha HD
-http://hitectv.live/hls/stream31.m3u8
-#EXTINF:0 tvg-logo="" group-title="BDIX Server 5",Jalsha Movies HD
-http://hitectv.live/hls/stream27.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="BDIX Server 5",Zee Bangla HD
-http://hitectv.live/hls/stream30.m3u8
-#EXTINF:0 tvg-logo="" group-title="BDIX Server 5",Colors Bangla HD
-http://hitectv.live/hls/stream28.m3u8
-#EXTINF:0 tvg-logo="" group-title="BDIX Server 5",Colors Cineplex HD
-http://hitectv.live/hls/stream29.m3u8
-#EXTINF:0 tvg-logo="" group-title="BDIX Server 5",Star Plus HD
-http://hitectv.live/hls/stream38.m3u8
-#EXTINF:0 tvg-logo="" group-title="BDIX Server 5",Star Gold HD
-http://hitectv.live/hls/stream19.m3u8
-#EXTINF:0 tvg-logo="" group-title="BDIX Server 5",Zee Cinema HD
-http://hitectv.live/hls/stream25.m3u8
-#EXTINF:0 tvg-logo="" group-title="BDIX Server 5",& Picture HD
-http://hitectv.live/hls/stream14.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="BDIX Server 5",UTV Action
-http://hitectv.live/hls/stream7.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="BDIX Server 5",9XM
-http://hitectv.live/hls/stream4.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="BDIX Server 5",Zoom
-http://hitectv.live/hls/stream8.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="BDIX Server 5",AXN
-http://hitectv.live/hls/stream2.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="BDIX Server 5",Sony Pix
-http://hitectv.live/hls/stream1.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="BDIX Server 5",Star Movies
-http://hitectv.live/hls/stream3.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="BDIX Server 5",Animal Planet HD
-http://hitectv.live/hls/stream6.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="BDIX Server 5",BBC Earth
-http://hitectv.live/hls/stream5.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="BDIX Server 5",Discovery HD
-http://hitectv.live/hls/stream9.m3u8
-#EXTINF:0 tvg-logo="" group-title="BDIX Server 5",National Geographic HD
-http://hitectv.live/hls/stream13.m3u8
-#EXTINF:0 tvg-logo="" group-title="BDIX Server 5",Travel XP
-http://hitectv.live/hls/stream37.m3u8
-#EXTINF:0 tvg-logo="" group-title="BDIX Server 5",Nick
-http://hitectv.live/hls/stream23.m3u8
-#EXTINF:0 tvg-logo="" group-title="BDIX Server 5",Sony Yay
-http://hitectv.live/hls/stream32.m3u8
-#EXTINF:0 tvg-logo="" group-title="BDIX Server 5",Sony Six HD
-http://hitectv.live/hls/stream10.m3u8
-#EXTINF:0 tvg-logo="" group-title="BDIX Server 5",Sony Ten 1
-http://hitectv.live/hls/stream40.m3u8
-#EXTINF:0 tvg-logo="" group-title="BDIX Server 5",Sony Ten 2
-http://hitectv.live/hls/stream39.m3u8
-#EXTINF:0 tvg-logo="" group-title="BDIX Server 5",Star Sports 1 HD
-http://hitectv.live/hls/stream15.m3u8
-#EXTINF:0 tvg-logo="" group-title="BDIX Server 5",Star Sports 2 HD
-http://hitectv.live/hls/stream16.m3u8
-#EXTINF:0 tvg-logo="" group-title="BDIX Server 5",Star Sports Select 1 HD
-http://hitectv.live/hls/stream12.m3u8
-#EXTINF:0 tvg-logo="" group-title="BDIX Server 5",PTV Sports
-http://hitectv.live/hls/stream11.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="BDIX Server 5",Ten Sports
-http://hitectv.live/hls/stream34.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="BDIX Server 5",Al Jazeera
-http://hitectv.live/hls/stream35.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="BDIX Server 5",BBC World
-http://hitectv.live/hls/stream36.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="BDIX Server 5",Macca
-http://hitectv.live/hls/stream33.m3u8
 
 
 
