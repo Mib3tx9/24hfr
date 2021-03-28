@@ -1096,12 +1096,6 @@ http://10.16.100.207:8082/sports/ten1_720.m3u8
 http://10.16.100.207:8082/sports/starsports_select1.m3u8
 #EXTINF:-1 tvg-logo="" group-title="BDIX Server 4",T Sports
 
-#EXTINF:-1 tvg-logo="" group-title="BDIX Server 4",T Sports
-http://10.16.100.201/hindi/sportsT.m3u8
-
-
-
- group-title="HD Server"
 
 
 #EXTINF:-1 tvg-logo="https://mhdtvworld.live/wp-content/uploads/2018/12/zeetvhd.png" group-title="HD Server",Zee TV HD
