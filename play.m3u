@@ -300,6 +300,7 @@ https://admdn2.cdn.mangomolo.com/nagtv/smil:nagtv.stream.smil/playlist.m3u8
 http://htv-drm-live-cdn.fptplay.net/CDN-FPT02/NATGEOWILD-HD-1080p/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/4/44/BBC_Earth_logo.png/200px-BBC_Earth_logo.png" group-title="Documentary",73.BBC Earth
 https://livecdn.fptplay.net/qnetlive/bbcearth_hls.smil/chunklist_b2500000.m3u8?token=soheliptv01826655778
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/4/44/BBC_Earth_logo.png/200px-BBC_Earth_logo.png" group-title="Documentary",73.BBC Earth
 #EXTINF:-1 tvg-logo="https://static.fptplay.net/static/img/share/channels/icon_channel_bbc-lifestyle_148379742953.jpg" group-title="Documentary",74.BBC Lifestyle
 https://livecdn.fptplay.net/qnetlive/bbclifestyle_2000.stream/chunklist.m3u8
 #EXTINF:-1 tvg-logo="https://img.favpng.com/16/1/13/logo-outdoor-channel-high-definition-television-television-channel-png-favpng-JeAYSamzRX9xEcsFTdp6PFu14.jpg" group-title="Documentary",75.Outdoor HD
@@ -439,7 +440,7 @@ http://tjszdhm3.tvclub.xyz/iptv/69AWBEYGGS5VZ6/6622/index.m3u8
 #EXTINF:0 tvg-logo="https://i.imgur.com/gigcgc2.png" group-title="Indian Bangla",104.Sony Aath
 http://103.205.133.21/hls/sony8.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/2hPF1YB.png" group-title="Indian",105.Sony Max HD
-
+http://portal.simiptv.co.uk:8080/alipajiuk/oRGQpcPAkZ/225
 #EXTINF:-1 tvg-logo="https://i.imgur.com/2hPF1YB.png" group-title="Indian",105.Sony Max HD [2]
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d7/Sony_Max_2_India.jpg" group-title="Indian",105.Sony Max 2
@@ -623,8 +624,8 @@ https://liveorigin01.hbogoasia.com:8443/origin/live/main/HITS/index.m3u8
 https://api.visionip.tv/live/ASHTTP/peacetv-peacetv-peacetv-english-hsslive-25f-16x9-MB/playlist.m3u8?token=soheliptv01826655778
 
 
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcTpswxCK18MX5ZQyXl6yQgqMSVcDyQZfBUHPFKZxLOi830PG07c&usqp=CAU" group-title="Sports",151.Geo Super
-
+#EXTINF:-1 tvg-logo="" group-title="Sports",151.Ten Sports
+http://portal.simiptv.co.uk:8080/alipajiuk/oRGQpcPAkZ/223
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/1/11/T_Sports_logo.png" group-title="Sports",151.T Sports
 http://10.16.100.207:8082/sports/sportst.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/1/11/T_Sports_logo.png" group-title="Sports",151.T Sports [1]
@@ -656,6 +657,8 @@ http://103.205.133.21/hls/chss1.m3u8
 http://tjszdhm3.tvclub.xyz/iptv/69AWBEYGGS5VZ6/2508/index.m3u8
 #EXTINF:0 tvg-logo="https://s4.gifyu.com/images/image04e6530896d42919.png" group-title="Sports",156.Star Sports 2 HD
 http://221.120.204.4/STAR-SPORTS-2/tracks-v1a1/mono.m3u8
+#EXTINF:0 tvg-logo="https://s4.gifyu.com/images/image04e6530896d42919.png" group-title="Sports",156.Star Sports 2 HD
+http://portal.simiptv.co.uk:8080/alipajiuk/oRGQpcPAkZ/221
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcR6tKGIbFwRkp6-mPHONnKs7Z3z1gn0awHUZsF14CHLfGIs-q4J&usqp=CAU" group-title="Sports",156.Star Sports 3
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcRTRFl6hSXeS1mPQ0DqOy3GU_JVY45Yj2x-pTR4orQrheauFZQD&usqp=CAU" group-title="Sports",156.Star Sports Select 1
@@ -664,7 +667,8 @@ http://10.16.100.207:8082/sports/starsports_select1.m3u8
 http://103.205.133.21/hls/chss2.m3u8
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQLJgDCNnSBTB40fYZEqNlHlemsytR0lzCqlhH8a-ksiN1ZH9LS&usqp=CAU" group-title="Sports",156.Star Sports Select 2
 http://tjszdhm3.tvclub.xyz/iptv/69AWBEYGGS5VZ6/2507/index.m3u8
-
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQLJgDCNnSBTB40fYZEqNlHlemsytR0lzCqlhH8a-ksiN1ZH9LS&usqp=CAU" group-title="Sports",156.Star Sports Select 2
+http://portal.simiptv.co.uk:8080/alipajiuk/oRGQpcPAkZ/220
 
 #EXTINF:-1 tvg-logo="https://apps.beinsports.com/dev/au/images/XTRA.png" group-title="Sports",158.Bein Sports Xtra
 https://bein-plutolive-vo.akamaized.net/playlist720bp.m3u8?token=soheliptv01826655778
@@ -1490,6 +1494,468 @@ http://10.16.100.206/ftps3/ftps3d1/TV%20Show/Other%20Foreign/Turkish/Dirilis%20E
 http://10.16.100.206/ftps3/ftps3d1/TV%20Show/Other%20Foreign/Turkish/Dirilis%20Ertugrul%20Season%2001%20(2014)%20Completed/Dirilis%20Ertugrul%20Episodes%20(73%20-%2084)/Dirilis%20Ertugrul%20S01E79.mkv
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Dirilis Ertugrul E80" tvg-logo="https://m.media-amazon.com/images/M/MV5BMTYwM2Y5NzMtMzQzZC00YTE5LTlmYzctMzc2M2E5NGQ2YjFjXkEyXkFqcGdeQXVyNTM3NzExMDQ@._V1_UY268_CR3,0,182,268_AL_.jpg" group-title="Drive 4 (Series)",Dirilis Ertugrul E80
 http://10.16.100.206/ftps3/ftps3d1/TV%20Show/Other%20Foreign/Turkish/Dirilis%20Ertugrul%20Season%2001%20(2014)%20Completed/Dirilis%20Ertugrul%20Episodes%20(73%20-%2084)/Dirilis%20Ertugrul%20S01E80.mkv
+
+
+
+
+#EXTM3U
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Tamil" tvg-logo="" tvg-country="IN" tvg-url="" group-title="Tamil Movies",K TV IND
+http://portal.simiptv.co.uk:8080/alipajiuk/oRGQpcPAkZ/611
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Tamil" tvg-logo="" tvg-country="IN" tvg-url="" group-title="Tamil Movies",K TV
+http://uk1.zecast.com:1935/star-live/ktv/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Tamil" tvg-logo="" tvg-country="IN" tvg-url="" group-title="Tamil Movies",K TV HD
+http://uk1.zecast.com:1935/star-live/ktv/chunklist_w866208673.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Tamil" tvg-logo="" tvg-country="IN" tvg-url="" group-title="Tamil Movies",K TV HD Link 2
+http://pn.tvott.info:80/307254552277/307254552277/83959
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Tamil" tvg-logo="" tvg-country="IN" tvg-url="" group-title="Tamil Movies",K TV FHD USA
+http://portal.simiptv.co.uk:8080/alipajiuk/oRGQpcPAkZ/610
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Tamil" tvg-logo="" tvg-country="IN" tvg-url="" group-title="Tamil Movies",K TV FHD UK
+http://portal.simiptv.co.uk:8080/alipajiuk/oRGQpcPAkZ/417
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Tamil" tvg-logo="" tvg-country="IN" tvg-url="" group-title="Tamil Regular",Sun TV IND
+http://portal.simiptv.co.uk:8080/alipajiuk/oRGQpcPAkZ/382
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Tamil" tvg-logo="" tvg-country="IN" tvg-url="" group-title="Tamil Regular",Sun TV Link 2
+http://pn.tvott.info:80/307254552277/307254552277/83947
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Tamil" tvg-logo="" tvg-country="IN" tvg-url="" group-title="Tamil Regular",Sun TV UK
+http://portal.simiptv.co.uk:8080/alipajiuk/oRGQpcPAkZ/631
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Tamil" tvg-logo="" tvg-country="IN" tvg-url="" group-title="Tamil Regular",Sun TV USA
+http://uk4.zecast.com:1935/star-live/suntv.stream/chunklist_w1331398042.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Tamil" tvg-logo="" tvg-country="IN" tvg-url="" group-title="Tamil Regular",Sun TV USA 2
+http://portal.simiptv.co.uk:8080/alipajiuk/oRGQpcPAkZ/384
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Tamil" tvg-logo="" tvg-country="IN" tvg-url="" group-title="Tamil Regular",STAR VIJAY HD
+http://pn.tvott.info:80/307254552277/307254552277/83951
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Tamil" tvg-logo="" tvg-country="IN" tvg-url="" group-title="Tamil Regular",Zee Tamil
+https://oreotv.us/live/gee/zee_v2.m3u8?id=0-9-zeetamil
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Tamil" tvg-logo="" tvg-country="IN" tvg-url="" group-title="Tamil Regular",Zee Tamil Link 2
+http://portal.simiptv.co.uk:8080/alipajiuk/oRGQpcPAkZ/368
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Tamil" tvg-logo="" tvg-country="IN" tvg-url="" group-title="Tamil Regular",Zee Tamil Link 3
+http://pn.tvott.info:80/307254552277/307254552277/83943
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Tamil" tvg-logo="" tvg-country="IN" tvg-url="" group-title="Tamil Regular",Zee Tamil SD
+http://pn.tvott.info:80/307254552277/307254552277/83923
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Tamil" tvg-logo="" tvg-country="IN" tvg-url="" group-title="Tamil Regular",Kalaignar
+http://103.199.161.254/Content/kalaignartv/Live/Channel(KalaignarTV)/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Tamil" tvg-logo="" tvg-country="IN" tvg-url="" group-title="Tamil Regular",Sun Life 
+http://portal.simiptv.co.uk:8080/alipajiuk/oRGQpcPAkZ/738
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Tamil" tvg-logo="" tvg-country="IN" tvg-url="" group-title="Tamil Regular",Sun Life Link 2 
+http://pn.tvott.info:80/307254552277/307254552277/83950
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Tamil" tvg-logo="" tvg-country="IN" tvg-url="" group-title="Tamil Regular",Sun Life USA
+http://portal.simiptv.co.uk:8080/alipajiuk/oRGQpcPAkZ/591
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Tamil" tvg-logo="" tvg-country="IN" tvg-url="" group-title="Tamil Regular",Raj TV
+http://103.199.161.254/Content/rajtv/Live/Channel(RajTV)/Stream(01)/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Tamil" tvg-logo="" tvg-country="IN" tvg-url="" group-title="Tamil Regular",Raj TV Link 2
+http://pn.tvott.info:80/307254552277/307254552277/83953
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Tamil" tvg-logo="" tvg-country="IN" tvg-url="" group-title="Tamil Regular",Jaya TV Link 2
+http://pn.tvott.info:80/307254552277/307254552277/83960
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Tamil" tvg-logo="" tvg-country="IN" tvg-url="" group-title="Tamil Regular",Jaya TV
+http://portal.simiptv.co.uk:8080/alipajiuk/oRGQpcPAkZ/409
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Tamil" tvg-logo="" tvg-country="IN" tvg-url="" group-title="Tamil Regular",Colors Tamil
+http://uk1.zecast.com:1935/star-live/colours/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Tamil" tvg-logo="" tvg-country="IN" tvg-url="" group-title="Tamil Regular",Colors Tamil HD
+http://uk1.zecast.com:1935/star-live/colours/chunklist_w907334263.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Tamil" tvg-logo="" tvg-country="IN" tvg-url="" group-title="Tamil Regular",Colors Tamil HD Link 2
+http://portal.simiptv.co.uk:8080/alipajiuk/oRGQpcPAkZ/412
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Tamil" tvg-logo="" tvg-country="IN" tvg-url="" group-title="Tamil Regular",Colors Tamil HD Link 3
+http://pn.tvott.info:80/307254552277/307254552277/83965
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Tamil" tvg-logo="" tvg-country="IN" tvg-url="" group-title="Tamil Regular",Vasanth TV
+https://vasanth.live-s.cdn.bitgravity.com/cdn-live/_definst_/vasanth/secure/live/feed01/chunklist_w1222262888.m3u8?e=0&h=54e44f64b2e6d5122acdf77d01ab7f9f
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Tamil" tvg-logo="" tvg-country="IN" tvg-url="" group-title="Tamil Regular",Vasanth TV Link 2
+http://pn.tvott.info:80/307254552277/307254552277/83945
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Tamil" tvg-logo="" tvg-country="IN" tvg-url="" group-title="Tamil Regular",CAPTAIN TV
+https://m-c29-j2apps.s.llnwi.net/hls/0680.CaptainTV.in_288p/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Tamil" tvg-logo="" tvg-country="IN" tvg-url="" group-title="Tamil Regular",VENDHAR TV
+https://m-c06-j2apps.s.llnwi.net/hls/7077.VendarTV.in_288p/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Tamil" tvg-logo="" tvg-country="IN" tvg-url="" group-title="Tamil Regular",VENDHAR TV 2
+https://oreotv.us/live/gee/zee_v2.m3u8?id=0-9-306
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Tamil" tvg-logo="" tvg-country="IN" tvg-url="" group-title="Tamil Regular",MK TV
+http://103.199.160.85/Content/mktv/Live/Channel(MKTV)/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Tamil" tvg-logo="" tvg-country="IN" tvg-url="" group-title="Tamil Regular",Murasu TV
+http://103.199.160.85/Content/kalaignarmurasu/Live/Channel(KalaignarMurasu)/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Tamil" tvg-logo="" tvg-country="IN" tvg-url="" group-title="Tamil Regular",Pudhuyugam TV
+http://103.199.160.85/Content/puthuyugam/Live/Channel(Puthuyugam)/Stream(01)/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Tamil" tvg-logo="" tvg-country="IN" tvg-url="" group-title="Tamil Regular",Pudhuyugam TV 2
+https://oreotv.us/live/gee/zee_v2.m3u8?id=0-9-221
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Tamil" tvg-logo="" tvg-country="IN" tvg-url="" group-title="Tamil Regular",Makkal TV
+http://5k8q87azdy4v-hls-live.wmncdn.net/MAKKAL/271ddf829afeece44d8732757fba1a66.sdp/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Tamil" tvg-logo="" tvg-country="IN" tvg-url="" group-title="Tamil Regular",Makkal TV Link 2
+https://oreotv.us/live/gee/zee_v2.m3u8?id=0-9-makkaltv
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Tamil" tvg-logo="" tvg-country="IN" tvg-url="" group-title="Tamil Regular",DD Podhigai
+https://oreotv.us/live/gee/zee_v2.m3u8?id=0-9-ddpodhigai
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Tamil" tvg-logo="" tvg-country="IN" tvg-url="" group-title="Tamil Music",Sun Music SunDirect
+http://uk1.zecast.com:1935/star-live/smusic/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Tamil" tvg-logo="" tvg-country="IN" tvg-url="" group-title="Tamil Music",Sun Music Link 2
+http://pn.tvott.info:80/307254552277/307254552277/83949
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Tamil" tvg-logo="" tvg-country="IN" tvg-url="" group-title="Tamil Music",Sun Music USA
+http://portal.simiptv.co.uk:8080/alipajiuk/oRGQpcPAkZ/589
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Tamil" tvg-logo="" tvg-country="IN" tvg-url="" group-title="Tamil Music",ISAIARUVI
+https://m-c049-j2apps.s.llnwi.net/hls/0390.IsaiAruvi.in_360p/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Tamil" tvg-logo="" tvg-country="IN" tvg-url="" group-title="Tamil Music",ISAIARUVI 2
+https://m-c049-j2apps.s.llnwi.net/hls/0390.IsaiAruvi.in.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Tamil" tvg-logo="" tvg-country="IN" tvg-url="" group-title="Tamil Music",Jaya Max 
+http://portal.simiptv.co.uk:8080/alipajiuk/oRGQpcPAkZ/1148
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Tamil" tvg-logo="" tvg-country="IN" tvg-url="" group-title="Tamil Music",Jaya Max Link 2
+http://pn.tvott.info:80/307254552277/307254552277/83911
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Tamil" tvg-logo="" tvg-country="IN" tvg-url="" group-title="Tamil Music",7S Music
+http://103.199.161.254/Content/7smusic/Live/Channel(7smusic)/index.m3u
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Tamil" tvg-logo="" tvg-country="IN" tvg-url="" group-title="Tamil Music",7S Music Low Quality
+https://m-c049-j2apps.s.llnwi.net/hls/1493.7SMusic.in_360p/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Tamil" tvg-logo="" tvg-country="IN" tvg-url="" group-title="Tamil Music",MK Tunes
+http://103.199.160.85/Content/mktunes/Live/Channel(MKTunes)/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Tamil" tvg-logo="" tvg-country="IN" tvg-url="" group-title="Tamil Music",TUNE 6
+https://m-c18-j2apps.s.llnwi.net/hls/3731.Tunes6.in.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Tamil" tvg-logo="" tvg-country="IN" tvg-url="" group-title="Tamil Music",TUNES 6 Link 2
+https://m-c18-j2apps.s.llnwi.net/hls/3731.Tunes6.in.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Tamil" tvg-logo="" tvg-country="IN" tvg-url="" group-title="Tamil Music",RAJ MUSIX
+http://pn.tvott.info:80/307254552277/307254552277/83954
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Tamil" tvg-logo="" tvg-country="IN" tvg-url="" group-title="Tamil Movies",Zee Thirai 
+https://oreotv.us/live/gee/zee_v2.m3u8?id=0-9-224
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Tamil" tvg-logo="" tvg-country="IN" tvg-url="" group-title="Tamil Movies",Zee Thirai Link 2
+http://pn.tvott.info:80/307254552277/307254552277/83914
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Tamil" tvg-logo="" tvg-country="IN" tvg-url="" group-title="Tamil Movies",Zee Thirai Link 3
+http://portal.simiptv.co.uk:8080/alipajiuk/oRGQpcPAkZ/1153
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Tamil" tvg-logo="" tvg-country="IN" tvg-url="" group-title="Tamil Movies",Zee Thirai Link 4
+https://bit.ly/37g7c4z
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Tamil" tvg-logo="" tvg-country="IN" tvg-url="" group-title="Tamil Movies",Zee Thirai HD
+http://portal.simiptv.co.uk:8080/alipajiuk/oRGQpcPAkZ/1153
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Tamil" tvg-logo="" tvg-country="IN" tvg-url="" group-title="Tamil Movies",Vijay Super 
+http://portal.simiptv.co.uk:8080/alipajiuk/oRGQpcPAkZ/418
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Tamil" tvg-logo="" tvg-country="IN" tvg-url="" group-title="Tamil Movies",Vijay Super Link 2
+http://pn.tvott.info:80/307254552277/307254552277/83944
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Tamil" tvg-logo="" tvg-country="IN" tvg-url="" group-title="Tamil Movies",Yupp Thirai Tamil
+http://119.81.82.28:80/encoded/yuppthirai_800/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Tamil" tvg-logo="" tvg-country="IN" tvg-url="" group-title="Tamil Movies",Raj Digital Plus
+http://pn.tvott.info:80/307254552277/307254552277/83916
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Tamil" tvg-logo="" tvg-country="IN" tvg-url="" group-title="Tamil Comedy",ADHTIYA TV
+http://pn.tvott.info:80/307254552277/307254552277/83968
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Tamil" tvg-logo="" tvg-country="IN" tvg-url="" group-title="Tamil Comedy",Siripoli 
+http://103.199.161.254/Content/kalaignarsirippoli/Live/Channel(Kalaignarsirippoli)/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Tamil" tvg-logo="" tvg-country="IN" tvg-url="" group-title="Tamil Comedy",MK Six
+http://103.199.160.85/Content/mktv6/Live/Channel(MKTV6)/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Tamil" tvg-logo="" tvg-country="IN" tvg-url="" group-title="Tamil Local",3 Tamil TV
+https://6n3yogbnd9ok-hls-live.5centscdn.com/threetamil/d0dbe915091d400bd8ee7f27f0791303.sdp/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Tamil" tvg-logo="" tvg-country="IN" tvg-url="" group-title="Tamil Local",Moon TV
+https://player.mslivestream.net/mslive/e10bb900976df9177b9a080314f26f86.sdp/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Tamil" tvg-logo="" tvg-country="IN" tvg-url="" group-title="Tamil Local",JCV
+http://account11.livebox.co.in/jcvtvhls/live.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Tamil" tvg-logo="" tvg-country="IN" tvg-url="" group-title="Tamil Local",Meenakshi TV
+https://stream.meenakshitv.com/LiveApp/streams/737506415855638572426221.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Tamil" tvg-logo="" tvg-country="IN" tvg-url="" group-title="Tamil Local",Aus 3 Tamil
+https://bk7l2pn7dx53-hls-live.5centscdn.com/austamil/fe01ce2a7fbac8fafaed7c982a04e229.sdp/chunks.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Tamil" tvg-logo="" tvg-country="IN" tvg-url="" group-title="Tamil Local",Boss tv
+http://bosstv-notv.chennaistream.net/bosstv/bosstvlive/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Tamil" tvg-logo="" tvg-country="IN" tvg-url="" group-title="Tamil Local",VANNAKAM CHENNAI TV
+http://nextgeninfotech.ddns.net:8080/hls/chennaitv.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Tamil" tvg-logo="" tvg-country="IN" tvg-url="" group-title="Tamil Local",Jay TV
+http://198.144.149.82:8080/JAYTV/index.m3u8?token=GTR
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Tamil" tvg-logo="" tvg-country="IN" tvg-url="" group-title="Tamil Local",Jeyam TV
+http://stream.blackmoon.in:8000/jeyamtvhd/JeyamTv/bms.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Tamil" tvg-logo="" tvg-country="IN" tvg-url="" group-title="Tamil Local",Jayam TV 
+http://198.144.149.82:8080/NOTV/JAYAMTV/index.m3u8?token=GTR
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Tamil" tvg-logo="" tvg-country="IN" tvg-url="" group-title="Tamil Local",D Jeyam TV 
+http://account26.livebox.co.in/Jeyamcabletvhls/live.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Tamil" tvg-logo="" tvg-country="IN" tvg-url="" group-title="Tamil Local",7Star TV
+http://media.7starcloud.com:1935/live/7star/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Tamil" tvg-logo="" tvg-country="IN" tvg-url="" group-title="Tamil Local",Aaryaa TV
+http://7starcloud.com:1935/aarya/aaryatv/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Tamil" tvg-logo="" tvg-country="IN" tvg-url="" group-title="Tamil Local",Aathavan TV
+http://45.77.66.224:1935/athavantv/live/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Tamil" tvg-logo="" tvg-country="IN" tvg-url="" group-title="Tamil Kids",Akaram Kidz
+http://akaram.zecast.net/akaram-live/akaramkidz/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Tamil" tvg-logo="" tvg-country="IN" tvg-url="" group-title="Tamil Local",EET TV
+https://live.streamjo.com/eetlive/eettv.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Tamil" tvg-logo="" tvg-country="IN" tvg-url="" group-title="Tamil Local",EET TV Low Quality 
+https://eu.streamjo.com/eetlive/eettv.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Tamil" tvg-logo="" tvg-country="IN" tvg-url="" group-title="Tamil Kids",Chithiram TV
+https://m-c049-j2apps.s.llnwi.net/hls/0614.Chithiram.in_480p/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Tamil" tvg-logo="" tvg-country="IN" tvg-url="" group-title="Tamil Music",MN music
+rtmp://mntv.livebox.co.in:1935/music/live
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Tamil" tvg-logo="" tvg-country="IN" tvg-url="" group-title="Tamil Local",Marutam TV
+https://mntv.livebox.co.in/mntvhls/mntv.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Tamil" tvg-logo="" tvg-country="IN" tvg-url="" group-title="Tamil Local",Palaru tv
+http://account13.livebox.co.in/palartvhls/live.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Tamil" tvg-logo="" tvg-country="IN" tvg-url="" group-title="Tamil Local",Peppers TV
+https://live.wmncdn.net/peppers/live.stream/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Tamil" tvg-logo="" tvg-country="IN" tvg-url="" group-title="Tamil Local",Mon tamil tv
+http://198.144.149.82:8080/MONTAMIL_CINEMA/index.m3u8?token=GTR
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Tamil" tvg-logo="" tvg-country="IN" tvg-url="" group-title="Tamil Local",Santhora TV
+http://rtmp.santhoratv.zecast.net/santhoratv/santhoratv/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Tamil" tvg-logo="" tvg-country="IN" tvg-url="" group-title="Tamil Local",Santhora TV Low Quality
+http://santhoratv.zecast.net/santhoratv/santhoratv/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Tamil" tvg-logo="" tvg-country="IN" tvg-url="" group-title="Tamil Local",SD Media
+http://7starcloud.com:1935/sd/sdmedia/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Tamil" tvg-logo="" tvg-country="IN" tvg-url="" group-title="Tamil Local",SIGARAM TV
+https://secure.ultramaxnet.com/client/hls/ultramax-app-v1975/sigaramtv_low/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Tamil" tvg-logo="" tvg-country="IN" tvg-url="" group-title="Tamil Local",Tamil Vision 
+http://live.tamilvision.tv:8081/TVI/HD/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Tamil" tvg-logo="" tvg-country="IN" tvg-url="" group-title="Tamil Local",Tamil Vision Low Quality
+http://live.tamilvision.tv:8081/TVI/SD/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Tamil" tvg-logo="" tvg-country="IN" tvg-url="" group-title="Tamil Local",Vaanavil TV
+https://live.wmncdn.net/vaanaviltv/live.stream/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Tamil" tvg-logo="" tvg-country="IN" tvg-url="" group-title="Tamil Local",Velicham TV
+https://rtmp.smartstream.video/velichamtv/velichamtv/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Tamil" tvg-logo="" tvg-country="IN" tvg-url="" group-title="Tamil Local",Aadhavan TV Low Quality
+http://45.77.66.224:1935/athavantv/live_360p/chunklist_w1050439537.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Tamil" tvg-logo="" tvg-country="IN" tvg-url="" group-title="Tamil Local",Aadhavan TV 
+http://45.77.66.224:1935/athavantv/live/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Tamil" tvg-logo="" tvg-country="IN" tvg-url="" group-title="Tamil Local",Rasi TV
+http://singamcloud.in:1935/rasinetwork/rasitv/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Tamil" tvg-logo="" tvg-country="IN" tvg-url="" group-title="Tamil Local",Utv
+http://198.144.149.82:8080/NOTV/UTV/index.m3u8?token=GTR
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Tamil" tvg-logo="" tvg-country="IN" tvg-url="" group-title="Tamil Local",Uzhavan tv
+http://198.144.149.82:8080/NOTV/UZHAVANTV/index.m3u8?token=GTR
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Tamil" tvg-logo="" tvg-country="IN" tvg-url="" group-title="Tamil Local",Rasi Movies
+http://singamcloud.in:1935/rasinetwork/rasimovies/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Tamil" tvg-logo="" tvg-country="IN" tvg-url="" group-title="Tamil Local",Rasi Classic
+http://singamcloud.in:1935/rasinetwork/rasiclassic/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Tamil" tvg-logo="" tvg-country="IN" tvg-url="" group-title="Tamil Local",Tirumalai TV 
+http://media.7starcloud.com:1935/tirumalaitv/stream/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Tamil" tvg-logo="" tvg-country="IN" tvg-url="" group-title="Tamil Local",HARI TV
+http://media.7starcloud.com:1935/harimedia/haritv/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Tamil" tvg-logo="" tvg-country="IN" tvg-url="" group-title="Tamil Local",Hello TV
+http://198.144.149.82:8080/NOTV/HELLOTV/index.m3u8?token=GTR
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Tamil" tvg-logo="" tvg-country="IN" tvg-url="" group-title="Tamil Local",Sangamam HD
+http://livematrix.in:1935/live/sangamamtv/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Tamil" tvg-logo="" tvg-country="IN" tvg-url="" group-title="Tamil Local",Rcn tv
+rtmp://95.216.226.165:1935/rcntv/rcntv
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Tamil" tvg-logo="" tvg-country="IN" tvg-url="" group-title="Tamil Local",Santhora Short Flim
+http://rtmp.santhoratv.zecast.net/santhora/santhorashortfilm/chunklist_w342316663.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Tamil" tvg-logo="" tvg-country="IN" tvg-url="" group-title="Tamil Local",JAWAHAR TV
+http://streamingbox.7starcloud.com:1935/jawahartv/streamingbox/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Tamil" tvg-logo="" tvg-country="IN" tvg-url="" group-title="Tamil Local",ULTRAMAX TAMIL
+https://secure.ultramaxnet.com/client/hls/ultramax-app-v1975/ultramax_low/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Tamil" tvg-logo="" tvg-country="IN" tvg-url="" group-title="Tamil Local",AMMA TV
+https://secure.ultramaxnet.com/client/hls/ultramax-app-v1975/ammatvvdr_low/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Tamil" tvg-logo="" tvg-country="IN" tvg-url="" group-title="Tamil Local",JEEVAN TV
+https://secure.ultramaxnet.com/client/hls/ultramax-app-v1975/jeevantv123_low/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Tamil" tvg-logo="" tvg-country="IN" tvg-url="" group-title="Tamil Local",KAVIN TV
+https://secure.ultramaxnet.com/client/hls/ultramax-app-v1975/kavintv_low/index.m3u8 
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Tamil" tvg-logo="" tvg-country="IN" tvg-url="" group-title="Tamil Local",Laxmi TV
+http://198.144.149.82:8080/NOTV/LAXMITV/index.m3u8?token=GTR
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Tamil" tvg-logo="" tvg-country="IN" tvg-url="" group-title="Tamil Local",Metro
+http://softstreamtv.com:8080/NOTV/METROTV/index.m3u8?token=GTR
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Tamil" tvg-logo="" tvg-country="IN" tvg-url="" group-title="Tamil Local",King TV Kovai
+https://account24.livebox.co.in/kinghls/king.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Tamil" tvg-logo="" tvg-country="IN" tvg-url="" group-title="Tamil Local",NANBAN TV
+https://secure.ultramaxnet.com/client/hls/ultramax-app-v1975/nanbantv_low/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Tamil" tvg-logo="" tvg-country="IN" tvg-url="" group-title="Tamil Local",SRI KRISHNA TV
+http://media.7starcloud.com:1935/erodekrishnatv/livestream/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Tamil" tvg-logo="" tvg-country="IN" tvg-url="" group-title="Tamil Local",JAYAM TV
+https://secure.ultramaxnet.com/client/hls/ultramax-app-v1975/jayamtvtvm_low/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Tamil" tvg-logo="" tvg-country="IN" tvg-url="" group-title="Tamil Local",Shivan TV
+http://sivantv.livebox.co.in/sivantvhls/sivan.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Tamil" tvg-logo="" tvg-country="IN" tvg-url="" group-title="Tamil Local",NILA TV
+https://secure.ultramaxnet.com/client/hls/ultramax-app-v1975/nilatv321_low/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Tamil" tvg-logo="" tvg-country="IN" tvg-url="" group-title="Tamil Local",AASAI TV
+http://osaitv.livebox.co.in/osaihls/live.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Tamil" tvg-logo="" tvg-country="IN" tvg-url="" group-title="Tamil Local",Sai tv Madurai
+http://198.144.149.82:8080/NOTV/SAITVMD/index.m3u8?token=GTR
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Tamil" tvg-logo="" tvg-country="IN" tvg-url="" group-title="Tamil Local",VANAVIL
+https://6n3yope4d9ok-hls-live.5centscdn.com/vaanavil/TV.stream/chunks.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Tamil" tvg-logo="" tvg-country="IN" tvg-url="" group-title="Tamil Local",Vanavil Plus TV
+http://45.79.203.234:1935/vanavil/myStream/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Tamil" tvg-logo="" tvg-country="IN" tvg-url="" group-title="Tamil Local",CTN TV
+rtmp://hdserver.7starcloud.com:1935/ctn/live
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Tamil" tvg-logo="" tvg-country="IN" tvg-url="" group-title="Tamil Local",Starten TV
+rtmp://media.7starcloud.com:1935/starten/startentv
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Tamil" tvg-logo="" tvg-country="IN" tvg-url="" group-title="Tamil Local",Jayaam TV
+http://hdserver.7starcloud.com:1935/jayaamtv/livetv/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Tamil" tvg-logo="" tvg-country="IN" tvg-url="" group-title="Tamil Local",Vani TV HD
+http://hdserver.7starcloud.com:1935/vanitv/livemedia/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Tamil" tvg-logo="" tvg-country="IN" tvg-url="" group-title="Tamil Local",Thirai TV
+http://139.99.41.37:1935/thirai/live/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Tamil" tvg-logo="" tvg-country="IN" tvg-url="" group-title="Tamil Local",IDream
+http://139.99.41.37:1935/dream/live/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Tamil" tvg-logo="" tvg-country="IN" tvg-url="" group-title="Tamil Local",Aram TV
+http://51.79.158.179:1935/aramtv/live/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Tamil" tvg-logo="" tvg-country="IN" tvg-url="" group-title="Tamil Local",Prakalya TV
+http://7starcloud.com:1935/pragalya/pragalyatv/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Tamil" tvg-logo="" tvg-country="IN" tvg-url="" group-title="Tamil Local",OM TV
+http://media.7starcloud.com:1935/omtv/livestream/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Tamil" tvg-logo="" tvg-country="IN" tvg-url="" group-title="Tamil Local",Spice TV
+http://7starcloud.com:1935/spicetv/spicelivetv/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Tamil" tvg-logo="" tvg-country="IN" tvg-url="" group-title="Tamil Local",SR Musix
+http://7starcloud.com:1935/srmusix/srlivetv/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Tamil" tvg-logo="" tvg-country="IN" tvg-url="" group-title="Tamil Local",SS TV
+http://7starcloud.com:1935/live/sstv/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Tamil" tvg-logo="" tvg-country="IN" tvg-url="" group-title="Tamil Local",Arunai TV
+http://7starcloud.com:1935/live/arunaitv/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Tamil" tvg-logo="" tvg-country="IN" tvg-url="" group-title="Tamil Local",MSN TV
+http://media.7starcloud.com:1935/msntv/live/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Tamil" tvg-logo="" tvg-country="IN" tvg-url="" group-title="Tamil Local",ARK TV
+http://mediastreamer.7starcloud.com:1935/arktv/arktv/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Tamil" tvg-logo="" tvg-country="IN" tvg-url="" group-title="Tamil Local",Velur TV
+http://velurtv.7starcloud.com:1935/velurtv/livestream/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Tamil" tvg-logo="" tvg-country="IN" tvg-url="" group-title="Tamil Local",My TV
+http://7starcloud.com:1935/mytv/mytv/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Tamil" tvg-logo="" tvg-country="IN" tvg-url="" group-title="Tamil Local",Nagaram tv
+http://stream.blackmoon.in:8000/BMW/BMW/bms.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Tamil" tvg-logo="" tvg-country="IN" tvg-url="" group-title="Tamil Local",Udhayam TV
+http://media.7starcloud.com:1935/harimedia/live3/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Tamil" tvg-logo="" tvg-country="IN" tvg-url="" group-title="Tamil Local",Kovai
+http://account15.livebox.co.in/kovaitvhls/live.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Tamil" tvg-logo="" tvg-country="IN" tvg-url="" group-title="Tamil Local",GTA Tamil TV
+http://142.44.213.115:8888/gta_tamil/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Tamil" tvg-logo="" tvg-country="IN" tvg-url="" group-title="Tamil Local",Like TV
+http://liketv.7starcloud.com:1935/live/liketv/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Tamil" tvg-logo="" tvg-country="IN" tvg-url="" group-title="Tamil Local",Sakthi TV
+http://88.150.197.10:1935/star-live/shakthi/chunklist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Tamil" tvg-logo="" tvg-country="IN" tvg-url="" group-title="Tamil Local",KVM
+http://site1.ultramaxnet.com/client/hls/namma-ooru-tv/kvmtv-32d6e133e4ba-otua-stream/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Tamil" tvg-logo="" tvg-country="IN" tvg-url="" group-title="Tamil Local",Surya TV
+rtmp://media.7starcloud.com:1935/suryatv/mystream
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Tamil" tvg-logo="" tvg-country="IN" tvg-url="" group-title="Tamil Local",Nine star tv
+http://198.144.149.82:8080/NOTV/NINETV/index.m3u8?token=GTR
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Tamil" tvg-logo="" tvg-country="IN" tvg-url="" group-title="Tamil Local",Analai express tv
+http://198.144.149.82:8080/ANALAI_MOVIE/index.m3u8?token=GTR
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Tamil" tvg-logo="" tvg-country="IN" tvg-url="" group-title="Tamil Local",One yes tv
+http://livematrix.in:1935/1yestv/1yestv/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Tamil" tvg-logo="" tvg-country="IN" tvg-url="" group-title="Tamil Local",Orange tv
+http://198.144.149.82:8080/NOTV/ORANGETV/index.m3u8?token=GTR
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Tamil" tvg-logo="" tvg-country="IN" tvg-url="" group-title="Tamil Local",Vasan tv
+http://singamcloud.in:8080/vasantv/vasantv/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Tamil" tvg-logo="" tvg-country="IN" tvg-url="" group-title="Tamil Local",Jothi STB
+http://fun6.xyz:8080/TAMIL_SAHANA_TV/index.m3u8?token=8512c4c6f532e06c6f3696bf3011aa21
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Tamil" tvg-logo="" tvg-country="IN" tvg-url="" group-title="Tamil News",Thanthi TV
+https://vidcdn.vidgyor.com/thanthi-origin/liveabr/thanthi-origin/live1/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Tamil" tvg-logo="" tvg-country="IN" tvg-url="" group-title="Tamil News",Thanthi TV Low Quality
+https://vidcdn.vidgyor.com/thanthi-origin/liveabr/thanthi-origin/live2/chunks.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Tamil" tvg-logo="" tvg-country="IN" tvg-url="" group-title="Tamil News",Malaimurasu
+https://malaimurasucdn.purplestream.com/malaimurasu/49992ade0624eda468a31e137996d044.sdp/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Tamil" tvg-logo="" tvg-country="IN" tvg-url="" group-title="Tamil News",Polimer News 
+https://versewsa.pc.cdn.bitgravity.com/versewsa/live/polimernews.smil/chunklist_b1800000.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Tamil" tvg-logo="" tvg-country="IN" tvg-url="" group-title="Tamil News",Polimer News Link 2
+https://oreotv.us/live/gee/zee_v2.m3u8?id=0-9-203
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Tamil" tvg-logo="" tvg-country="IN" tvg-url="" group-title="Tamil News",News J
+http://versewsa.pc.cdn.bitgravity.com/versewsa/live/amlst:newsj_,b256,b512,b1024,b1824,.smil/chunklist.m3u8 
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Tamil" tvg-logo="" tvg-country="IN" tvg-url="" group-title="Tamil News",News18 Tamilnadu
+https://news18tamil-lh.akamaihd.net/i/n18tamil_1@526595/index_5_av-p.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Tamil" tvg-logo="" tvg-country="IN" tvg-url="" group-title="Tamil News",News18 Tamilnadu Link 2
+http://pn.tvott.info:80/307254552277/307254552277/83955
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Tamil" tvg-logo="" tvg-country="IN" tvg-url="" group-title="Tamil News",1 Yes News
+http://livematrix.in:1935/1yestv/1yestv/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Tamil" tvg-logo="" tvg-country="IN" tvg-url="" group-title="Tamil News",News7 Tamil 
+https://versewsa.pc.cdn.bitgravity.com/versewsa/live/tamilnews7.smil/chunklist_b1000000.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Tamil" tvg-logo="" tvg-country="IN" tvg-url="" group-title="Tamil News",Puthiyathalaimurai
+http://versewsa.pc.cdn.bitgravity.com/versewsa/live/puthiyathalaimurai.smil/chunklist_b1800000.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Tamil" tvg-logo="" tvg-country="IN" tvg-url="" group-title="Tamil News",Puthiyathalaimurai Link 2
+https://oreotv.us/live/gee/zee_v2.m3u8?id=0-9-220
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Tamil" tvg-logo="" tvg-country="IN" tvg-url="" group-title="Tamil News",Sathiyam News
+http://hdserver.7starcloud.com:1935/sathiyamtv/livestreaming/playlist.m3u8 
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Tamil" tvg-logo="" tvg-country="IN" tvg-url="" group-title="Tamil News",Kalaignar Seithigal
+https://versewsa.pc.cdn.bitgravity.com/versewsa/live//kalaignar_tv.smil/chunklist_b500000.m3u8 
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Tamil" tvg-logo="" tvg-country="IN" tvg-url="" group-title="Tamil News",Jaya Plus
+http://portal.simiptv.co.uk:8080/alipajiuk/oRGQpcPAkZ/1147
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Tamil" tvg-logo="" tvg-country="IN" tvg-url="" group-title="Tamil News",SUN NEWS
+http://pn.tvott.info:80/307254552277/307254552277/83948
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Tamil" tvg-logo="" tvg-country="IN" tvg-url="" group-title="English News",Times Now
+https://timesnow-lh.akamaihd.net/i/TNHD_1@129288/master.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Tamil" tvg-logo="" tvg-country="IN" tvg-url="" group-title="English Movies",Star Movies
+http://nwbz1u.ecm.tm/806B6CF/89181e/SM_FHD_ENG_STARMOVIES/tracks-v1a1/index.m3u8?token=0558356b27398f74c6bf8c39e301782c428ed290f867e554a01803391e8c4b7a6aaad7d48e3e787343a8016a19f53525901742eec53149fdab8b48638675db1861b214b3bb6fc805c4d74009919a599ed109eed659786102baca816127c71a6dbbaf76e1e70877ded5b130fe58&mac=00:1A:79:4B:57:A3&ip=27.96.95.31&magic_server=MAIN_MP
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Tamil" tvg-logo="" tvg-country="IN" tvg-url="" group-title="English Movies",And Prive HD 
+https://y5w8j4a9.ssl.hwcdn.net/andprivehd/tracks-v1a1/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Tamil" tvg-logo="" tvg-country="IN" tvg-url="" group-title="English Movies",And Prive HD 2
+http://cv.khushitv.xyz/channels.php?c=andprivehd/tracks-v4a1&e=.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Tamil" tvg-logo="" tvg-country="IN" tvg-url="" group-title="English Movies",And Prive Link 2
+https://y5w8j4a9.ssl.hwcdn.net/andprivehd/tracks-v1a1/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Tamil" tvg-logo="" tvg-country="IN" tvg-url="" group-title="English Movies",And Flix Main
+http://nwbz1u.ecm.tm/806B6CF/89181e/SM_FHD_ENG_ANDFLIX/tracks-v1a1/index.m3u8?token=0558356b27398f74c6bf8c39ec01782c363a514dbf50000c6c8a1fdf5f98abc05d35144b0842889500df1e9fd27885b72a866b2df851f0d5a0607245acc438455a2dc039981889e16cb81ae1dca1989d037e7e7c2e542fc5743c7553fdd64bd4268cd5876aa2c4743d3b&mac=00:1A:79:4B:57:A3&ip=27.96.95.31&magic_server=MAIN_MP
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Tamil" tvg-logo="" tvg-country="IN" tvg-url="" group-title="English Movies",And Flix HD 
+http://cv.khushitv.xyz/channels.php?c=andflixhd&e=.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Tamil" tvg-logo="" tvg-country="IN" tvg-url="" group-title="English Movies",And Flix HD 2
+https://y5w8j4a9.ssl.hwcdn.net/andflixhd/tracks-v1a1/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Tamil" tvg-logo="" tvg-country="IN" tvg-url="" group-title="English Movies",And Flix HD 3
+http://portal.simiptv.co.uk:8080/alipajiuk/oRGQpcPAkZ/335
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Tamil" tvg-logo="" tvg-country="IN" tvg-url="" group-title="English Movies",And Flix HD 4
+http://pn.tvott.info:80/307254552277/307254552277/83613
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Tamil" tvg-logo="" tvg-country="IN" tvg-url="" group-title="English Movies",And Flix SD 
+http://cv.khushitv.xyz/channels.php?c=andflix&e=.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Tamil" tvg-logo="" tvg-country="IN" tvg-url="" group-title="English Movies",And Flix SD 2
+https://y5w8j4a9.ssl.hwcdn.net/andflix/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Tamil" tvg-logo="" tvg-country="IN" tvg-url="" group-title="English Movies",And Flix SD 3
+https://oreotv.us/live/gee/zee_v2.m3u8?id=0-9-channel_2105335046
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Tamil" tvg-logo="" tvg-country="IN" tvg-url="" group-title="English Movies",And Flix Link 2
+https://y5w8j4a9.ssl.hwcdn.net/andflixhd/tracks-v1a1/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Tamil" tvg-logo="" tvg-country="IN" tvg-url="" group-title="English Movies",Sony PIX Main
+http://nwbz1u.ecm.tm/806B6CF/89181e/SM_FHD-ENG-SONYPIX/tracks-v1a1/index.m3u8?token=0558356b27398f74c6bf8c39ec01782c363a514dbf50000c6c8a1fdf5898adc68bee8059e6e513dcb693c1e2c3fa3ee96a38a82ce0b5a699482eea64c3da350d68b96f4841599956bb1bb02ab5f9d8bf5cffb57c876776baf4dfb952b86133e6cebfa4191979d24d01ce&mac=00:1A:79:4B:57:A3&ip=27.96.95.31&magic_server=MAIN_MP
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Tamil" tvg-logo="" tvg-country="IN" tvg-url="" group-title="English Movies",Sony PIX 
+https://pubads.g.doubleclick.net/ssai/event/8FR5Q-WfRWCkbMq_GxZ77w/master.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Tamil" tvg-logo="" tvg-country="IN" tvg-url="" group-title="English Movies",Sony PIX HD 
+http://portal.simiptv.co.uk:8080/alipajiuk/oRGQpcPAkZ/46
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Tamil" tvg-logo="" tvg-country="IN" tvg-url="" group-title="English Movies",Sony PIX HD 2
+http://pn.tvott.info:80/307254552277/307254552277/83703
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Tamil" tvg-logo="" tvg-country="IN" tvg-url="" group-title="English Movies",Sony PIX HD 3
+http://pn.tvott.info:80/wade/wade/83703
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Tamil" tvg-logo="" tvg-country="IN" tvg-url="" group-title="English Movies",MNX HD
+http://pn.tvott.info:80/307254552277/307254552277/83605
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Tamil" tvg-logo="" tvg-country="IN" tvg-url="" group-title="English Movies",MOVIES NOW HD
+http://pn.tvott.info:80/307254552277/307254552277/83604
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Tamil" tvg-logo="" tvg-country="IN" tvg-url="" group-title="English Movies",MN PLUS HD
+http://pn.tvott.info:80/307254552277/307254552277/83603
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Tamil" tvg-logo="" tvg-country="IN" tvg-url="" group-title="English Sports",Sony Ten 1 HD SonyLiv
+https://bit.ly/2B9tEN1hd
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Tamil" tvg-logo="" tvg-country="IN" tvg-url="" group-title="English Sports",Sony Ten 2 HD SonyLiv
+https://bit.ly/2DOtEN2hd
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Tamil" tvg-logo="" tvg-country="IN" tvg-url="" group-title="English Sports",Sony Ten 3 HD SonyLiv
+https://bit.ly/2OwtEn3hd
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Tamil" tvg-logo="" tvg-country="IN" tvg-url="" group-title="English Sports",Sony Ten 1 SonyLiv
+https://bit.ly/2ZtEn1Sd
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Tamil" tvg-logo="" tvg-country="IN" tvg-url="" group-title="English Sports",Sony Ten 2 SonyLiv
+https://bit.ly/30teN2sd
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Tamil" tvg-logo="" tvg-country="IN" tvg-url="" group-title="English Sports",Sony Ten 3 SonyLiv
+https://bit.ly/2B9teN3sd
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Tamil" tvg-logo="" tvg-country="IN" tvg-url="" group-title="English Sports",Sony Six SonyLiv
+https://bit.ly/3j8sIx7sd
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Tamil" tvg-logo="" tvg-country="IN" tvg-url="" group-title="English Sports",Sony Six HD SonyLiv
+https://bit.ly/3h6sIXHd
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Tamil" tvg-logo="" tvg-country="IN" tvg-url="" group-title="English Sports",Star Sports Select 1 Hindi
+http://tjszdhm3.tvclub.xyz/iptv/69AWBEYGGS5VZ6/2508/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Tamil" tvg-logo="" tvg-country="IN" tvg-url="" group-title="English Sports",Star Sports Select 1
+http://221.120.204.4/STAR-SPORTS-SELECT-1-/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Tamil" tvg-logo="" tvg-country="IN" tvg-url="" group-title="English Sports",Star Sports 3 HD
+http://portal.simiptv.co.uk:8080/alipajiuk/oRGQpcPAkZ/221
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Tamil" tvg-logo="" tvg-country="IN" tvg-url="" group-title="English Sports",Star Sports 2
+http://portal.simiptv.co.uk:8080/alipajiuk/oRGQpcPAkZ/220
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Tamil" tvg-logo="" tvg-country="IN" tvg-url="" group-title="English Sports",Star Sports 2 Link 2
+http://221.120.204.4/STAR-SPORTS-2/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Tamil" tvg-logo="" tvg-country="IN" tvg-url="" group-title="English Sports",Astro Super Cricket
+http://23.105.171.47:8000/Carson/Carson/10209
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Tamil" tvg-logo="" tvg-country="IN" tvg-url="" group-title="Hindi Movies",And Pics 
+http://nwbz1u.ecm.tm/806B6CF/89181e/SM_FHD-HINDI-ANDPICTURES/tracks-v1a1/index.m3u8?token=0558356b27398f74c6bf8c38e801782c18670ace1f7869d7ecae493a4359cfdcea90f8dfa04e4bc42fcca7bcd1d853320dab3c4ded7709401b7a6c66646711c947c824d2ef15ce47a2eea6846438f5ceee0f55402b01fd8caad8034216e4c458138d898027cf262530fc9defd78a48d9&mac=00:1A:79:4B:57:A3&ip=27.96.95.31&magic_server=MAIN_MP
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Tamil" tvg-logo="" tvg-country="IN" tvg-url="" group-title="Hindi Movies",And Pics HD
+http://portal.simiptv.co.uk:8080/alipajiuk/oRGQpcPAkZ/8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Tamil" tvg-logo="" tvg-country="IN" tvg-url="" group-title="Hindi Movies",And Pics HD 2
+https://oreotv.us/live/gee/zee_v2.m3u8?id=0-9-tvpictureshd
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Tamil" tvg-logo="" tvg-country="IN" tvg-url="" group-title="Hindi Movies",And Pics HD 3
+http://cv.khushitv.xyz/channels.php?c=andpicshd&e=.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Tamil" tvg-logo="" tvg-country="IN" tvg-url="" group-title="Hindi Movies",And Pics SD
+http://cv.khushitv.xyz/channels.php?c=andpicssd&e=.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Tamil" tvg-logo="" tvg-country="IN" tvg-url="" group-title="Hindi Movies",ZEE CINEMA HD
+https://oreotv.us/live/gee/zee_v2.m3u8?id=0-9-zeecinemahd
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Tamil" tvg-logo="" tvg-country="IN" tvg-url="" group-title="Hindi Movies",ZEE BOLLYWOOD SD
+https://oreotv.us/live/gee/zee_v2.m3u8?id=0-9-zeeclassic
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Tamil" tvg-logo="" tvg-country="IN" tvg-url="" group-title="Hindi Movies",ZEE CINEMA SD
+https://oreotv.us/live/gee/zee_v2.m3u8?id=0-9-zeecinema
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Tamil" tvg-logo="" tvg-country="IN" tvg-url="" group-title="Hindi Movies",AND PICTURES SD
+https://oreotv.us/live/gee/zee_v2.m3u8?id=0-9-pictures
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Tamil" tvg-logo="" tvg-country="IN" tvg-url="" group-title="Hindi Movies",ZEE ACTION SD
+https://oreotv.us/live/gee/zee_v2.m3u8?id=0-9-zeeaction
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Tamil" tvg-logo="" tvg-country="IN" tvg-url="" group-title="Hindi Movies",Sony Max HD 
+http://portal.simiptv.co.uk:8080/alipajiuk/oRGQpcPAkZ/225
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Tamil" tvg-logo="" tvg-country="IN" tvg-url="" group-title="Hindi Movies",Sony Max HD 2
+https://pubads.g.doubleclick.net/ssai/event/Qyqz40bSQriqSuAC7R8_Fw/master.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Tamil" tvg-logo="" tvg-country="IN" tvg-url="" group-title="Hindi Movies",Sony Max HD 3
+http://pn.tvott.info:80/wade/wade/83705
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Tamil" tvg-logo="" tvg-country="IN" tvg-url="" group-title="Hindi Movies",Zee Cinema HD
+http://nwbz1u.ecm.tm/806B6CF/89181e/SM_FHD-HINDI-ZEECINEMA/tracks-v1a1/index.m3u8?token=0558356b27398f74c6bf8c38ea01782c6689f21f02fd5da12f2ab9c9f565cea5ad71cdbe493f6ef01aa7f8cb1505aa2f2d76d8c370143c994a504af765a60dcc233e1296e561d8e80beb0bf0be6272949e752a69c91210e9eb649f1e32ea143a7969d63519ca1de570381830e8b9&mac=00:1A:79:4B:57:A3&ip=27.96.95.31&magic_server=MAIN_MP
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Tamil" tvg-logo="" tvg-country="IN" tvg-url="" group-title="Hindi Informational",Nat Geo HD
+http://nwbz1u.ecm.tm/806B6CF/89181e/SM_FHD-HINDI-NATGEOCH/tracks-v1a1/index.m3u8?token=0558356b27398f74c6bf8c39e301782c428ed290f867e554a01803391e8c4b798594ea4703895a13c15835ab3644651242a882479d4ed734e49a6fbcfac2e76c84bbbed6abe3475fa67edcfb90c3a58b9563f440bc1dbbd25c005aa782b5d537c3dd05dc2ffaf3f6f02d57a6b2&mac=00:1A:79:4B:57:A3&ip=27.96.95.31&magic_server=MAIN_MP
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Tamil" tvg-logo="" tvg-country="IN" tvg-url="" group-title="Hindi Informational",Sony TV
+http://nwbz1u.ecm.tm/806B6CF/89181e/SM_FHD_HINDI_SONYTV/tracks-v1a1/index.m3u8?token=0558356b27398f74c6bf8c39ed01782c16859e302eb12c21ef1aa16c691ebc4b8ef71d40de5923e678098d05535c0afe645789016b7f6df7c8dc1cf4f3516320326e8676b19f62a984837555b2b89e390a8e0a18d44d31fc26883ebbccb5c4829292a2e5347ee875eb8f91&mac=00:1A:79:4B:57:A3&ip=27.96.95.31&magic_server=MAIN_MP
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Tamil" tvg-logo="" tvg-country="IN" tvg-url="" group-title="Hindi Informational",Animal Planet
+http://nwbz1u.ecm.tm/806B6CF/89181e/SM_FHD-HINDI-ANIMALPLANET/tracks-v1a1/index.m3u8?token=0558356b27398f74c6bf8c38e901782c5ad3f413434f76feba4126576823fdf44b34911850a0dc345c440cee76ee92138c664006a29d4792957a13ce9f386d0f81e4bad707c643dffddbb332a702f41eb8a4177934010da02cd85807927addfbee3fb015fe7846c156d439bd0f9899a593&mac=00:1A:79:4B:57:A3&ip=27.96.95.31&magic_server=MAIN_MP
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Tamil" tvg-logo="" tvg-country="IN" tvg-url="" group-title="Hindi Informational",Nat Geo Wild
+http://nwbz1u.ecm.tm/806B6CF/89181e/SM_FHD-HINDI-NATGEOWILD/tracks-v1a1/index.m3u8?token=0558356b27398f74c6bf8c38eb01782ca657f46036bac31f9cfbf64fa8235da80cdab652f86b9c1be050328d447b1471bc025e2f9ab03c30a7a2fd1c43b523fa41b6455412145b1a2d6878b1a28fbd4d706e48afb1602866940927ea134da9170e97eebc29f3823a69f42e90681f26&mac=00:1A:79:4B:57:A3&ip=27.96.95.31&magic_server=MAIN_MP
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Tamil" tvg-logo="" tvg-country="IN" tvg-url="" group-title="Tamil Informational",SONY BBC EARTH HD
+http://pn.tvott.info:80/307254552277/307254552277/83952
+
 
 
 
