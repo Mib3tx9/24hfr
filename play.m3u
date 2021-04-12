@@ -1,5 +1,6 @@
 #EXTM3U
-#EXTINF:-1 tvg-logo="" group-title="সর্বশেষ আপডেট      Date [13.04.2021]  Time [12:20am]",
+#EXTINF:-1 tvg-logo="" group-title="সর্বশেষ আপডেট      Date [13.04.2021]  Time [12:50am]",
+#EXTINF:-1 tvg-logo="" group-title="IPL Live",IPL----------------------------------------
 #EXTINF:-1 tvg-logo="" group-title="New",N-----------------------------------------------------------------------
 
 
@@ -344,9 +345,9 @@ https://www.dropbox.com/s/86zww54vybbqipw/Mr.%20Bean.mp4?raw=1
 #EXTINF:0 tvg-country="BD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/dc/2016_Discovery_Kids_logo.svg/1200px-2016_Discovery_Kids_logo.svg.png" group-title="Kids",77.Discovery Kids
 https://itvorigin.multitvsolution.com/idvo/discoverykidshindi.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Lcj7mWi.jpg" group-title="Kids",78.Animax
-http://210.210.155.35/session/83bc2526-da69-11e8-881b-c81f66f89318/dr9445/h/h144/01.m3u8?Live-TV%E2%84%A2
+http://210.210.155.35/dr9445/h/h144/01.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/RQcaLDO.jpg" group-title="Kids",79.AniPlus
-http://210.210.155.35/session/0d216142-f3f5-11e8-ab67-89df93dc8d44/dr9445/h/h02/index.m3u8
+http://210.210.155.35/dr9445/h/h02/01.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/MAuAuvB.png" group-title="Kids",80.EBS Kids
 http://ebsonair.ebs.co.kr:1935/ebsutablet500k/tablet500k/playlist.m3u8?token=soheliptv01826655778
 #EXTINF:-1 tvg-logo="" group-title="Kids",81.BBC Cbeebies
@@ -387,8 +388,8 @@ https://cdn1.mobiletv.bg/T5/bit/bit_794613_850k.m3u8
 
 #EXTINF:-1 tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Sony_Yay_Hindi.png" group-title="Kids",86.Sony Yay
 http://tjszdhm3.tvclub.xyz/iptv/69AWBEYGGS5VZ6/6627/index.m3u8
-#EXTINF:-1 tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Sony_Yay_Hindi.png" group-title="Kids",86.Sony Yay
-
+#EXTINF:-1 tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Sony_Yay_Hindi.png" group-title="New",86.Sony Yay Bangla
+https://d20fdzcwhk7szz.cloudfront.net/SONY_YAY.m3u8
 
 
 
@@ -654,7 +655,7 @@ http://103.102.27.172:6464/Channel-3/tracks-v1a1/mono.m3u8
 #EXTINF:0 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcSNVGhs7QhbNaKPnV8CB3v-AWYPXm0Ogk67mx__hKnLLrEddb-y&usqp=CAU" group-title="Sports",155.Star Sports 1
 http://103.205.133.21/hls/chss1.m3u8
 #EXTINF:0 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcSNVGhs7QhbNaKPnV8CB3v-AWYPXm0Ogk67mx__hKnLLrEddb-y&usqp=CAU" group-title="Sports",155.Star Sports 1 HD
-http://tjszdhm3.tvclub.xyz/iptv/69AWBEYGGS5VZ6/2508/index.m3u8
+
 #EXTINF:0 tvg-logo="https://s4.gifyu.com/images/image04e6530896d42919.png" group-title="Sports",156.Star Sports 2 HD
 http://221.120.204.4/STAR-SPORTS-2/tracks-v1a1/mono.m3u8
 #EXTINF:0 tvg-logo="https://s4.gifyu.com/images/image04e6530896d42919.png" group-title="Sports",156.Star Sports 2 HD
@@ -1897,10 +1898,30 @@ http://pn.tvott.info:80/307254552277/307254552277/83952
 
 
 
+#EXTINF:-1 tvg-logo="https://static.india.com/wp-content/uploads/2020/08/IPL-Logo.jpg" group-title="IPL Live",Live 1
+http://103.205.133.21/hls/chss1.m3u8
+
+http://10.16.100.207:8082/sports/starsports_select1.m3u8
 
 
-
-
+#EXTINF:-1 tvg-logo="https://static.india.com/wp-content/uploads/2020/08/IPL-Logo.jpg" group-title="IPL Live",Live 1
+https://ipl-live.s3.ap-south-1.amazonaws.com/pkcast123.me_1/index2.m3u8
+#EXTINF:-1 tvg-logo="https://static.india.com/wp-content/uploads/2020/08/IPL-Logo.jpg" group-title="IPL Live",Live 2
+https://ipl-live.s3.ap-south-1.amazonaws.com/mixcasthd.com_3/index2.m3u8
+#EXTINF:-1 tvg-logo="https://static.india.com/wp-content/uploads/2020/08/IPL-Logo.jpg" group-title="IPL Live",Live 3
+https://www101.sbvideocdn.com/hlsx/db6ump1j72_low/index.m3u8
+#EXTINF:-1 tvg-logo="https://static.india.com/wp-content/uploads/2020/08/IPL-Logo.jpg" group-title="IPL Live",Live 4
+http://103.109.110.102:1935/live/starsports1tamil.stream_720p/chunklist_w2016674381.m3u8
+#EXTINF:-1 tvg-logo="https://static.india.com/wp-content/uploads/2020/08/IPL-Logo.jpg" group-title="IPL Live",Live 5
+http://221.120.204.4/STAR-SPORTS-2/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-logo="https://static.india.com/wp-content/uploads/2020/08/IPL-Logo.jpg" group-title="IPL Live",Live 6
+http://221.120.204.4/STAR-SPORTS-2/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-logo="https://static.india.com/wp-content/uploads/2020/08/IPL-Logo.jpg" group-title="IPL Live",Live 7
+http://portal.simiptv.co.uk:8080/alipajiuk/oRGQpcPAkZ/221
+#EXTINF:-1 tvg-logo="https://static.india.com/wp-content/uploads/2020/08/IPL-Logo.jpg" group-title="IPL Live",Live 8
+http://tjszdhm3.tvclub.xyz/iptv/69AWBEYGGS5VZ6/2507/index.m3u8
+#EXTINF:-1 tvg-logo="https://static.india.com/wp-content/uploads/2020/08/IPL-Logo.jpg" group-title="IPL Live",Live 9
+http://portal.simiptv.co.uk:8080/alipajiuk/oRGQpcPAkZ/220
 
 
 
