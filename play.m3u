@@ -5876,6 +5876,12 @@ http://goiptv.co:8080/avatar/fVkKAhhBlr/816
 
 
 
+#EXTINF:0 tvg-language="Bangla" tvg-logo="https://i.imgur.com/XA5u4gk.png" group-title="BDIX Server 4",DBC News
+https://piratesiptv.shortcm.li/dbcnews.m3u8
+#EXTINF:0 tvg-language="Bangla" tvg-logo="" group-title="BDIX Server 4",Atn News
+https://piratesiptv.shortcm.li/atnnews.m3u8
+#EXTINF:0 tvg-language="Bangla" tvg-logo="" group-title="BDIX Server 4",Atn News
+
 
 
 
