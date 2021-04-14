@@ -1,7 +1,10 @@
 #EXTM3U
-#EXTINF:-1 tvg-logo="" group-title="সর্বশেষ আপডেট      Date [14.04.2021]  Time [12:50pm]",
+#EXTINF:-1 tvg-logo="" group-title="সর্বশেষ আপডেট      Date [14.04.2021]  Time [12:56pm]",
 #EXTINF:-1 tvg-logo="" group-title="IPL Live",IPL----------------------------------------
 #EXTINF:-1 tvg-logo="" group-title="New",N-----------------------------------------------------------------------
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcS_3lZ-3SjyKCjtm6yO_Hud67PWDfVlYQvpXMVEA_2NZnwkaip4&usqp=CAU" group-title="IPL Live",Gazi TV
+https://piratesiptv.shortcm.li/ipl.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://download.logo.wine/logo/BKash/BKash-Icon2-Logo.wine.png" group-title="",01826655778
@@ -1922,8 +1925,7 @@ http://pn.tvott.info:80/307254552277/307254552277/83952
 
 
 
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcS_3lZ-3SjyKCjtm6yO_Hud67PWDfVlYQvpXMVEA_2NZnwkaip4&usqp=CAU" group-title="IPL Live",Live Only [13.04.2021]
-https://piratesiptv.shortcm.li/ipl.m3u8
+
 #EXTINF:-1 tvg-logo="https://static.india.com/wp-content/uploads/2020/08/IPL-Logo.jpg" group-title="IPL Live",Live 1
 http://103.205.133.21/hls/chss1.m3u8
 #EXTINF:-1 tvg-logo="https://static.india.com/wp-content/uploads/2020/08/IPL-Logo.jpg" group-title="IPL Live",Live 2
