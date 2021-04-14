@@ -5199,56 +5199,23 @@ https://shls-masr2-prod-dub.shahid.net/out/v1/f683685242b549f48ea8a5171e3e993a/i
 https://shls-mbcpersia-prod-dub.shahid.net/out/v1/bdc7cd0d990e4c54808632a52c396946/index_1.m3u8
 
 
-#EXTINF:-1 tvg-id="Sky News Arabic ARB" tvg-name="Sky News Arabic ARB" tvg-language="Arabic" tvg-logo="https://i.imgur.com/kF7TvcH.png" tvg-country="UK" tvg-url="" group-title="News",Sky News Arabia
-https://stream.skynewsarabia.com/hls/sna.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Al Alam" tvg-language="Arabic" tvg-logo="https://i.imgur.com/jY1u1zz.png" tvg-country="IR" tvg-url="" group-title="News",Al Alam
-https://live2.alalamtv.net/live/Alalam/index.m3u8
-#EXTINF:-1 tvg-id="Al Arabiya ARB" tvg-name="Al Arabiya ARB" tvg-language="Arabic" tvg-logo="https://i.imgur.com/7OrfyOx.jpg" tvg-country="AE" tvg-url="" group-title="News",Al Arabiya
-https://live.alarabiya.net/alarabiapublish/alarabiya.smil/playlist.m3u8
-#EXTINF:-1 tvg-id="Al Arabiya Al Hadath ARB" tvg-name="Al Arabiya Al Hadath ARB" tvg-language="Arabic" tvg-logo="https://i.imgur.com/rLR5q2x.png" tvg-country="AE" tvg-url="" group-title="News",Al Arabiya Al Hadath
-https://av.alarabiya.net/alarabiapublish/alhadath.smil/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Arabic" tvg-logo="https://i.imgur.com/LNI1HNi.png" tvg-country="UK" tvg-url="" group-title="News",Al Araby
-https://alaraby.cdn.octivid.com/alaraby/smil:alaraby.stream.smil/playlist.m3u8
-#EXTINF:-1 tvg-id="Al Hurra Iraq ARB" tvg-name="Al Hurra Iraq ARB" tvg-language="Arabic" tvg-logo="https://i.imgur.com/8EmVL2d.jpg" tvg-country="IQ" tvg-url="" group-title="News",Al Hurra Iraq
-https://mbningestworld-i.akamaihd.net/hls/live/644021/iraqworldsafe/master.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Arabic" tvg-logo="http://imn.iq/wp-content/uploads/2018/03/Logo.jpg" tvg-country="IQ" tvg-url="" group-title="News",Al Iraqiya Al 3ama
-http://cdn.catiacast.video/abr/8d2ffb0aba244e8d9101a9488a7daa05/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Al Iraqiya TV ARB" tvg-language="Arabic" tvg-logo="http://imn.iq/wp-content/uploads/2018/03/Logo.jpg" tvg-country="IQ" tvg-url="" group-title="News",Al Iraqiya News
-http://cdn.catiacast.video/abr/78054972db7708422595bc96c6e024ac/playlist.m3u8
-#EXTINF:-1 tvg-id="Al Jazeera Arabic ARB" tvg-name="Al Jazeera Arabic ARB" tvg-language="Arabic" tvg-logo="https://i.imgur.com/x9TQYI3.jpg" tvg-country="QA" tvg-url="" group-title="News",Al Jazeera Arabic
-https://live-hls-web-aja.getaj.net/AJA/index.m3u8
-#EXTINF:-1 tvg-id="Al Jazeera Mubasher ARB" tvg-name="Al Jazeera Mubasher ARB" tvg-language="Arabic" tvg-logo="https://i.imgur.com/xx6uOhZ.png" tvg-country="QA" tvg-url="" group-title="News",Al Jazeera Mubasher
-https://live-hls-web-ajm.getaj.net/AJM/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Arabic" tvg-logo="https://i.imgur.com/qNi4rwG.jpg" tvg-country="IQ" tvg-url="" group-title="News",Al Sharqiya News
-http://ns8.indexforce.com:1935/alsharqiyalive/mystream/playlist.m3u8
-#EXTINF:-1 tvg-id="BBC Arabic ARB" tvg-name="BBC Arabic ARB" tvg-language="Arabic" tvg-logo="https://i.imgur.com/oFGPG9Y.png" tvg-country="UK" tvg-url="" group-title="News",BBC Arabic
-https://vs-hls-ww.live.cf.md.bbci.co.uk/pool_902/live/nonuk/bbc_arabic_tv/bbc_arabic_tv.isml/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Arabic" tvg-logo="https://www.dijlah.tv/templates/default-2/live-page/images/logo-new1.png" tvg-country="IQ" tvg-url="" group-title="News",Dijlah
-https://ghaasiflu.online/Dijlah/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Arabic" tvg-logo="https://i.imgur.com/61MSiq9.png" tvg-country="FR" tvg-url="" group-title="News",France 24 Arabic
-https://static.france24.com/live/F24_AR_HI_HLS/live_tv.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Arabic" tvg-logo="https://i.ibb.co/HTzkq9P/iJIHMq9.png" tvg-country="TR" tvg-url="" group-title="News",TRT Arabi
-https://tv-trtarabi.live.trt.com.tr/master.m3u8
 
 
-
-#EXTINF:-1 tvg-id="mbc3.ae" tvg-name="MBC 3 4K" tvg-logo="http://163.172.48.123/logos/LogoEVDTV/My-HD/MBC3.png" group-title="KIDS",MBC 3 4K
+#EXTINF:-1 tvg-id="mbc3.ae" tvg-name="MBC 3 4K" tvg-logo="http://163.172.48.123/logos/LogoEVDTV/My-HD/MBC3.png" group-title="Kids",MBC 3 4K
 https://shls-mbc3-prod-dub.shahid.net/out/v1/d5bbe570e1514d3d9a142657d33d85e6/index_1.m3u8
-
-#EXTINF:-1 tvg-id="jeemtv.qa" tvg-name="Jeem HD" tvg-logo="http://163.172.48.123/logos/LogoEVDTV/BeIN/Entertainment/Jeem.png" group-title="KIDS",Jeem HD	
+#EXTINF:-1 tvg-id="jeemtv.qa" tvg-name="Jeem HD" tvg-logo="http://163.172.48.123/logos/LogoEVDTV/BeIN/Entertainment/Jeem.png" group-title="Kids",Jeem HD	
 http://51.15.1.11:25461/BEST-LIVE5656/BEST-LIVE5656/31
-#EXTINF:-1 tvg-id="jeemtv.qa" tvg-name="majed" tvg-logo="http://163.172.48.123/logos/LogoEVDTV/BeIN/Entertainment/Jeem.png" group-title="KIDS",majed
+#EXTINF:-1 tvg-id="jeemtv.qa" tvg-name="majed" tvg-logo="http://163.172.48.123/logos/LogoEVDTV/BeIN/Entertainment/Jeem.png" group-title="Kids",majed
 https://admdn4.cdn.mangomolo.com/majid/smil:majid.stream.smil/playlist.m3u8?checkedby:hlscat.com
-#EXTINF:-1 tvg-id="D.qa" tvg-name="tom&Jerry" tvg-logo="http://163.172.48.123/logos/LogoEVDTV/BeIN/Entertainment/Jeem.png" group-title="KIDS",tom&Jerry
+#EXTINF:-1 tvg-id="D.qa" tvg-name="tom&Jerry" tvg-logo="http://163.172.48.123/logos/LogoEVDTV/BeIN/Entertainment/Jeem.png" group-title="Kids",tom&Jerry
 http://gigaiptv.pro:25461/razmenausa/2XcIPAKg1j/22283
-
-#EXTINF:-1 tvg-id="baraem.qa" tvg-name="Baraem HD" tvg-logo="http://163.172.48.123/logos/LogoEVDTV/BeIN/Entertainment/Baraem.png" group-title="KIDS",Baraem HD
+#EXTINF:-1 tvg-id="baraem.qa" tvg-name="Baraem HD" tvg-logo="http://163.172.48.123/logos/LogoEVDTV/BeIN/Entertainment/Baraem.png" group-title="Kids",Baraem HD
 http://mac-tv.live:8880/moaBIcb4KO/18AUjUX0pU/24367
-#EXTINF:-1 tvg-id="baraem.qa" tvg-name="Boomerang HD" tvg-logo="http://163.172.48.123/logos/LogoEVDTV/BeIN/Entertainment/Baraem.png" group-title="KIDS",Boomerang HD
+#EXTINF:-1 tvg-id="baraem.qa" tvg-name="Boomerang HD" tvg-logo="http://163.172.48.123/logos/LogoEVDTV/BeIN/Entertainment/Baraem.png" group-title="Kids",Boomerang HD
 http://goldenrocket.club:8080/platinum/xHq8vck9Nd/120165
-#EXTINF:-1 tvg-id="spacetoon" tvg-name="spacetoon" tvg-logo="http://163.172.48.123/logos/LogoEVDTV/BeIN/Entertainment/Baraem.png" group-title="KIDS",spacetoon
+#EXTINF:-1 tvg-id="spacetoon" tvg-name="spacetoon" tvg-logo="http://163.172.48.123/logos/LogoEVDTV/BeIN/Entertainment/Baraem.png" group-title="Kids",spacetoon
 https://streams.spacetoon.com/live/stchannel/smil:livesmil.smil/playlist.m3u8
-#EXTINF:-1 tvg-id="Taha_TV" tvg-name="Rotana kids" tvg-logo="http://163.172.48.123/logos/LogoEVDTV/BeIN/Entertainment/Baraem.png" group-title="KIDS",Rotana kids
+#EXTINF:-1 tvg-id="Taha_TV" tvg-name="Rotana kids" tvg-logo="http://163.172.48.123/logos/LogoEVDTV/BeIN/Entertainment/Baraem.png" group-title="Kids",Rotana kids
 https://rotana.hibridmedia.com/rotana/kids_dabr/playlist.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="Cartoon Network HD" tvg-logo="http://163.172.48.123/logos/LogoEVDTV/BeIN/Entertainment/CartoonNetworkHD.png" group-title="KIDS",Cartoon Network HD
@@ -5258,19 +5225,17 @@ https://shls-cartoon-net-prod-dub.shahid.net/out/v1/dc4aa87372374325a66be458f29e
 
 
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="ALL" tvg-logo="" group-title="القنوات المغربية",al_aoula_inter
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="ALL" tvg-logo="" group-title="Pirates IPTV (International Server)",al_aoula_inter
 http://cdnamd-hls-globecast.akamaized.net/live/ramdisk/al_aoula_inter/hls_snrt/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="ALL" tvg-logo="" group-title="القنوات المغربية",2m_monde
-https://cdnamd-hls-globecast.akamaized.net/live/ramdisk/2m_monde/hls_video_ts/2m_monde.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="ALL" tvg-logo="" group-title="القنوات المغربية",arriadia
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="ALL" tvg-logo="" group-title="Pirates IPTV (International Server)",arriadia
 http://cdnamd-hls-globecast.akamaized.net/live/ramdisk/arriadia/hls_snrt/arriadia-avc1_400000=2-mp4a_130400_qad=1.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="ALL" tvg-logo="" group-title="القنوات المغربية",al_maghribia
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="ALL" tvg-logo="" group-title="Pirates IPTV (International Server)",al_maghribia
 http://cdnamd-hls-globecast.akamaized.net/live/ramdisk/al_maghribia_snrt/hls_snrt/al_maghribia_snrt-avc1_400000=2-mp4a_130400_qad=1.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="ALL" tvg-logo="" group-title="القنوات المغربية",assadissa
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="ALL" tvg-logo="" group-title="Pirates IPTV (International Server)",assadissa
 http://cdnamd-hls-globecast.akamaized.net/live/ramdisk/assadissa/hls_snrt/assadissa-avc1_400000=2-mp4a_130400_qad=1.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="ALL" tvg-logo="" group-title="القنوات المغربية",tamazight
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="ALL" tvg-logo="" group-title="Pirates IPTV (International Server)",tamazight
 http://cdnamd-hls-globecast.akamaized.net/live/ramdisk/tamazight_tv8_snrt/hls_snrt/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="ALL" tvg-logo="" group-title="القنوات المغربية",Medi1tv
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="ALL" tvg-logo="" group-title="Pirates IPTV (International Server)",Medi1tv
 http://streaming.medi1tv.com/live/Medi1tvmaghreb.sdp/chunklist.m3u8
 
 
@@ -5402,58 +5367,58 @@ http://goiptv.co:8080/avatar/fVkKAhhBlr/1623
 #EXTINF:-1 tvg-id="" tvg-name="FR: Bein Sport MAX 10" tvg-logo="https://b.top4top.net/p_6658xw6j8.jpg" group-title="BEIN SPORT FRANCE",FR: Bein Sport MAX 10
 http://goiptv.co:8080/avatar/fVkKAhhBlr/1574
 
-#EXTINF:-1 tvg-id="" tvg-name="AR | SKYFLIX AFLAM 1 HD" tvg-logo="http://ottplanet.live:7788/images/a1fa497fc5fab84761cbdd0f233659d2.png" group-title="SKY FLIX MOVIES",AR | SKYFLIX AFLAM 1 HD
+#EXTINF:-1 tvg-id="" tvg-name="AR | SKYFLIX AFLAM 1 HD" tvg-logo="http://ottplanet.live:7788/images/a1fa497fc5fab84761cbdd0f233659d2.png" group-title="Movies",AR | SKYFLIX AFLAM 1 HD
 http://ottplanet.live:7788/humax2006/9A5ikuY7lk/74137
-#EXTINF:-1 tvg-id="" tvg-name="AR | SKYFLIX AFLAM 2 HD" tvg-logo="http://ottplanet.live:7788/images/a1fa497fc5fab84761cbdd0f233659d2.png" group-title="SKY FLIX MOVIES",AR | SKYFLIX AFLAM 2 HD
+#EXTINF:-1 tvg-id="" tvg-name="AR | SKYFLIX AFLAM 2 HD" tvg-logo="http://ottplanet.live:7788/images/a1fa497fc5fab84761cbdd0f233659d2.png" group-title="Movies",AR | SKYFLIX AFLAM 2 HD
 http://ottplanet.live:7788/humax2006/9A5ikuY7lk/74138
-#EXTINF:-1 tvg-id="" tvg-name="AR | SKYFLIX AFLAM 3 HD" tvg-logo="http://ottplanet.live:7788/images/a1fa497fc5fab84761cbdd0f233659d2.png" group-title="SKY FLIX MOVIES",AR | SKYFLIX AFLAM 3 HD
+#EXTINF:-1 tvg-id="" tvg-name="AR | SKYFLIX AFLAM 3 HD" tvg-logo="http://ottplanet.live:7788/images/a1fa497fc5fab84761cbdd0f233659d2.png" group-title="Movies",AR | SKYFLIX AFLAM 3 HD
 http://ottplanet.live:7788/humax2006/9A5ikuY7lk/74139
-#EXTINF:-1 tvg-id="" tvg-name="AR | SKYFLIX AFLAM 4 HD" tvg-logo="http://ottplanet.live:7788/images/a1fa497fc5fab84761cbdd0f233659d2.png" group-title="SKY FLIX MOVIES",AR | SKYFLIX AFLAM 4 HD
+#EXTINF:-1 tvg-id="" tvg-name="AR | SKYFLIX AFLAM 4 HD" tvg-logo="http://ottplanet.live:7788/images/a1fa497fc5fab84761cbdd0f233659d2.png" group-title="Movies",AR | SKYFLIX AFLAM 4 HD
 http://ottplanet.live:7788/humax2006/9A5ikuY7lk/74140
-#EXTINF:-1 tvg-id="" tvg-name="AR | SKYFLIX AFLAM 5 HD" tvg-logo="http://ottplanet.live:7788/images/a1fa497fc5fab84761cbdd0f233659d2.png" group-title="SKY FLIX MOVIES",AR | SKYFLIX AFLAM 5 HD
+#EXTINF:-1 tvg-id="" tvg-name="AR | SKYFLIX AFLAM 5 HD" tvg-logo="http://ottplanet.live:7788/images/a1fa497fc5fab84761cbdd0f233659d2.png" group-title="Movies",AR | SKYFLIX AFLAM 5 HD
 http://ottplanet.live:7788/humax2006/9A5ikuY7lk/74141
-#EXTINF:-1 tvg-id="" tvg-name="AR | SKYFLIX AFLAM 6 HD" tvg-logo="http://ottplanet.live:7788/images/a1fa497fc5fab84761cbdd0f233659d2.png" group-title="SKY FLIX MOVIES",AR | SKYFLIX AFLAM 6 HD
+#EXTINF:-1 tvg-id="" tvg-name="AR | SKYFLIX AFLAM 6 HD" tvg-logo="http://ottplanet.live:7788/images/a1fa497fc5fab84761cbdd0f233659d2.png" group-title="Movies",AR | SKYFLIX AFLAM 6 HD
 http://ottplanet.live:7788/humax2006/9A5ikuY7lk/74142
-#EXTINF:-1 tvg-id="" tvg-name="AR | SKYFLIX AFLAM 7 HD" tvg-logo="http://ottplanet.live:7788/images/a1fa497fc5fab84761cbdd0f233659d2.png" group-title="SKY FLIX MOVIES",AR | SKYFLIX AFLAM 7 HD
+#EXTINF:-1 tvg-id="" tvg-name="AR | SKYFLIX AFLAM 7 HD" tvg-logo="http://ottplanet.live:7788/images/a1fa497fc5fab84761cbdd0f233659d2.png" group-title="Movies",AR | SKYFLIX AFLAM 7 HD
 http://ottplanet.live:7788/humax2006/9A5ikuY7lk/74143
-#EXTINF:-1 tvg-id="" tvg-name="AR | SKYFLIX AFLAM 8 HD" tvg-logo="http://ottplanet.live:7788/images/a1fa497fc5fab84761cbdd0f233659d2.png" group-title="SKY FLIX MOVIES",AR | SKYFLIX AFLAM 8 HD
+#EXTINF:-1 tvg-id="" tvg-name="AR | SKYFLIX AFLAM 8 HD" tvg-logo="http://ottplanet.live:7788/images/a1fa497fc5fab84761cbdd0f233659d2.png" group-title="Movies",AR | SKYFLIX AFLAM 8 HD
 http://ottplanet.live:7788/humax2006/9A5ikuY7lk/74144
-#EXTINF:-1 tvg-id="" tvg-name="AR | SKYFLIX AFLAM 9 HD" tvg-logo="http://ottplanet.live:7788/images/a1fa497fc5fab84761cbdd0f233659d2.png" group-title="SKY FLIX MOVIES",AR | SKYFLIX AFLAM 9 HD
+#EXTINF:-1 tvg-id="" tvg-name="AR | SKYFLIX AFLAM 9 HD" tvg-logo="http://ottplanet.live:7788/images/a1fa497fc5fab84761cbdd0f233659d2.png" group-title="Movies",AR | SKYFLIX AFLAM 9 HD
 http://ottplanet.live:7788/humax2006/9A5ikuY7lk/74145
-#EXTINF:-1 tvg-id="" tvg-name="AR | SKYFLIX AFLAM 10 HD" tvg-logo="http://ottplanet.live:7788/images/a1fa497fc5fab84761cbdd0f233659d2.png" group-title="SKY FLIX MOVIES",AR | SKYFLIX AFLAM 10 HD
+#EXTINF:-1 tvg-id="" tvg-name="AR | SKYFLIX AFLAM 10 HD" tvg-logo="http://ottplanet.live:7788/images/a1fa497fc5fab84761cbdd0f233659d2.png" group-title="Movies",AR | SKYFLIX AFLAM 10 HD
 http://ottplanet.live:7788/humax2006/9A5ikuY7lk/74146
-#EXTINF:-1 tvg-id="" tvg-name="AR | SKYFLIX ADIL EMAM" tvg-logo="http://ottplanet.live:7788/images/a1fa497fc5fab84761cbdd0f233659d2.png" group-title="SKY FLIX MOVIES",AR | SKYFLIX ADIL EMAM
+#EXTINF:-1 tvg-id="" tvg-name="AR | SKYFLIX ADIL EMAM" tvg-logo="http://ottplanet.live:7788/images/a1fa497fc5fab84761cbdd0f233659d2.png" group-title="Movies",AR | SKYFLIX ADIL EMAM
 http://ottplanet.live:7788/humax2006/9A5ikuY7lk/74147
-#EXTINF:-1 tvg-id="" tvg-name="AR | SKYFLIX DRAMA" tvg-logo="http://ottplanet.live:7788/images/a1fa497fc5fab84761cbdd0f233659d2.png" group-title="SKY FLIX MOVIES",AR | SKYFLIX DRAMA
+#EXTINF:-1 tvg-id="" tvg-name="AR | SKYFLIX DRAMA" tvg-logo="http://ottplanet.live:7788/images/a1fa497fc5fab84761cbdd0f233659d2.png" group-title="Movies",AR | SKYFLIX DRAMA
 http://ottplanet.live:7788/humax2006/9A5ikuY7lk/74148
-#EXTINF:-1 tvg-id="" tvg-name="AR | SKYFLIX COMEDY" tvg-logo="http://ottplanet.live:7788/images/a1fa497fc5fab84761cbdd0f233659d2.png" group-title="SKY FLIX MOVIES",AR | SKYFLIX COMEDY
+#EXTINF:-1 tvg-id="" tvg-name="AR | SKYFLIX COMEDY" tvg-logo="http://ottplanet.live:7788/images/a1fa497fc5fab84761cbdd0f233659d2.png" group-title="Movies",AR | SKYFLIX COMEDY
 http://ottplanet.live:7788/humax2006/9A5ikuY7lk/74149
-#EXTINF:-1 tvg-id="" tvg-name="AR | SKYFLIX PLUS AFLAM" tvg-logo="http://ottplanet.live:7788/images/a1fa497fc5fab84761cbdd0f233659d2.png" group-title="SKY FLIX MOVIES",AR | SKYFLIX PLUS AFLAM
+#EXTINF:-1 tvg-id="" tvg-name="AR | SKYFLIX PLUS AFLAM" tvg-logo="http://ottplanet.live:7788/images/a1fa497fc5fab84761cbdd0f233659d2.png" group-title="Movies",AR | SKYFLIX PLUS AFLAM
 http://ottplanet.live:7788/humax2006/9A5ikuY7lk/74150
-#EXTINF:-1 tvg-id="" tvg-name="AR | SKYFLIX BOLLYWOOD HD" tvg-logo="http://ottplanet.live:7788/images/a1fa497fc5fab84761cbdd0f233659d2.png" group-title="SKY FLIX MOVIES",AR | SKYFLIX BOLLYWOOD HD
+#EXTINF:-1 tvg-id="" tvg-name="AR | SKYFLIX BOLLYWOOD HD" tvg-logo="http://ottplanet.live:7788/images/a1fa497fc5fab84761cbdd0f233659d2.png" group-title="Movies",AR | SKYFLIX BOLLYWOOD HD
 http://ottplanet.live:7788/humax2006/9A5ikuY7lk/74151
 
-#EXTINF:-1 tvg-id="" tvg-name="SHOWTIME ACTION HD" tvg-logo="http://ottplanet.live:7788/images/4850ef9d858536285b3ebdcaede996eb.png" group-title="SHOWTIME MOVIES",SHOWTIME ACTION HD
+#EXTINF:-1 tvg-id="" tvg-name="SHOWTIME ACTION HD" tvg-logo="http://ottplanet.live:7788/images/4850ef9d858536285b3ebdcaede996eb.png" group-title="Movies",SHOWTIME ACTION HD
 http://ottplanet.live:7788/humax2006/9A5ikuY7lk/73103
-#EXTINF:-1 tvg-id="" tvg-name="SHOWTIME SERIES HD" tvg-logo="http://ottplanet.live:7788/images/4850ef9d858536285b3ebdcaede996eb.png" group-title="SHOWTIME MOVIES",SHOWTIME SERIES HD
+#EXTINF:-1 tvg-id="" tvg-name="SHOWTIME SERIES HD" tvg-logo="http://ottplanet.live:7788/images/4850ef9d858536285b3ebdcaede996eb.png" group-title="Movies",SHOWTIME SERIES HD
 http://ottplanet.live:7788/humax2006/9A5ikuY7lk/73104
-#EXTINF:-1 tvg-id="" tvg-name="SHOWTIME MASRAH HD" tvg-logo="http://ottplanet.live:7788/images/4850ef9d858536285b3ebdcaede996eb.png" group-title="SHOWTIME MOVIES",SHOWTIME MASRAH HD
+#EXTINF:-1 tvg-id="" tvg-name="SHOWTIME MASRAH HD" tvg-logo="http://ottplanet.live:7788/images/4850ef9d858536285b3ebdcaede996eb.png" group-title="Movies",SHOWTIME MASRAH HD
 http://ottplanet.live:7788/humax2006/9A5ikuY7lk/73105
-#EXTINF:-1 tvg-id="" tvg-name="SHOWTIME DISNEY HD" tvg-logo="http://ottplanet.live:7788/images/4850ef9d858536285b3ebdcaede996eb.png" group-title="SHOWTIME MOVIES",SHOWTIME DISNEY HD
+#EXTINF:-1 tvg-id="" tvg-name="SHOWTIME DISNEY HD" tvg-logo="http://ottplanet.live:7788/images/4850ef9d858536285b3ebdcaede996eb.png" group-title="Movies",SHOWTIME DISNEY HD
 http://ottplanet.live:7788/humax2006/9A5ikuY7lk/73106
-#EXTINF:-1 tvg-id="" tvg-name="SHOWTIME ARABIC HD" tvg-logo="http://ottplanet.live:7788/images/4850ef9d858536285b3ebdcaede996eb.png" group-title="SHOWTIME MOVIES",SHOWTIME ARABIC HD
+#EXTINF:-1 tvg-id="" tvg-name="SHOWTIME ARABIC HD" tvg-logo="http://ottplanet.live:7788/images/4850ef9d858536285b3ebdcaede996eb.png" group-title="Movies",SHOWTIME ARABIC HD
 http://ottplanet.live:7788/humax2006/9A5ikuY7lk/73107
-#EXTINF:-1 tvg-id="" tvg-name="SHOWTIME HORROR HD" tvg-logo="http://ottplanet.live:7788/images/4850ef9d858536285b3ebdcaede996eb.png" group-title="SHOWTIME MOVIES",SHOWTIME HORROR HD
+#EXTINF:-1 tvg-id="" tvg-name="SHOWTIME HORROR HD" tvg-logo="http://ottplanet.live:7788/images/4850ef9d858536285b3ebdcaede996eb.png" group-title="Movies",SHOWTIME HORROR HD
 http://ottplanet.live:7788/humax2006/9A5ikuY7lk/73108
-#EXTINF:-1 tvg-id="" tvg-name="SHOWTIME MARVEL HD" tvg-logo="http://ottplanet.live:7788/images/4850ef9d858536285b3ebdcaede996eb.png" group-title="SHOWTIME MOVIES",SHOWTIME MARVEL HD
+#EXTINF:-1 tvg-id="" tvg-name="SHOWTIME MARVEL HD" tvg-logo="http://ottplanet.live:7788/images/4850ef9d858536285b3ebdcaede996eb.png" group-title="Movies",SHOWTIME MARVEL HD
 http://ottplanet.live:7788/humax2006/9A5ikuY7lk/73109
-#EXTINF:-1 tvg-id="" tvg-name="CRAZY AFLAM 1 HD" tvg-logo="http://ottplanet.live:7788/images/4850ef9d858536285b3ebdcaede996eb.png" group-title="SHOWTIME MOVIES",CRAZY AFLAM 1 HD
+#EXTINF:-1 tvg-id="" tvg-name="CRAZY AFLAM 1 HD" tvg-logo="http://ottplanet.live:7788/images/4850ef9d858536285b3ebdcaede996eb.png" group-title="Movies",CRAZY AFLAM 1 HD
 http://ottplanet.live:7788/humax2006/9A5ikuY7lk/73099
-#EXTINF:-1 tvg-id="" tvg-name="CRAZY AFLAM 2 HD" tvg-logo="http://ottplanet.live:7788/images/4850ef9d858536285b3ebdcaede996eb.png" group-title="SHOWTIME MOVIES",CRAZY AFLAM 2 HD
+#EXTINF:-1 tvg-id="" tvg-name="CRAZY AFLAM 2 HD" tvg-logo="http://ottplanet.live:7788/images/4850ef9d858536285b3ebdcaede996eb.png" group-title="Movies",CRAZY AFLAM 2 HD
 http://ottplanet.live:7788/humax2006/9A5ikuY7lk/73100
-#EXTINF:-1 tvg-id="" tvg-name="CRAZY CINEMA 1 HD" tvg-logo="http://ottplanet.live:7788/images/4850ef9d858536285b3ebdcaede996eb.png" group-title="SHOWTIME MOVIES",CRAZY CINEMA 1 HD
+#EXTINF:-1 tvg-id="" tvg-name="CRAZY CINEMA 1 HD" tvg-logo="http://ottplanet.live:7788/images/4850ef9d858536285b3ebdcaede996eb.png" group-title="Movies",CRAZY CINEMA 1 HD
 http://ottplanet.live:7788/humax2006/9A5ikuY7lk/73101
-#EXTINF:-1 tvg-id="" tvg-name="CRAZY CINEMA 2 HD" tvg-logo="http://ottplanet.live:7788/images/4850ef9d858536285b3ebdcaede996eb.png" group-title="SHOWTIME MOVIES",CRAZY CINEMA 2 HD
+#EXTINF:-1 tvg-id="" tvg-name="CRAZY CINEMA 2 HD" tvg-logo="http://ottplanet.live:7788/images/4850ef9d858536285b3ebdcaede996eb.png" group-title="Movies",CRAZY CINEMA 2 HD
 http://ottplanet.live:7788/humax2006/9A5ikuY7lk/73102
 
 #EXTINF:-1 tvg-id="" tvg-name="|AR.SHAHID| ARABIA 1" tvg-logo="http://winges-4k.com:25461/images/9f4955b2b52e434893d8622950648d71.png" group-title="STARZ PLAY SHAHID",|AR.SHAHID| ARABIA 1
@@ -5600,23 +5565,23 @@ http://ottplanet.live:7788/humax2006/9A5ikuY7lk/74164
 #EXTINF:-1 tvg-id="" tvg-name="OSN: PLAY 4 HD" tvg-logo="" group-title="OSN AR",OSN: PLAY 4 HD
 http://ottplanet.live:7788/humax2006/9A5ikuY7lk/74165
 
-#EXTINF:-1 tvg-id="" tvg-name="AR | ALMAJD QURAN" tvg-logo="http://winges-4k.com:25461/images/5cd7a1fdaafad072819400dc49abb122.png" group-title="ALMAJD",AR | ALMAJD QURAN
+#EXTINF:-1 tvg-id="" tvg-name="AR | ALMAJD QURAN" tvg-logo="http://winges-4k.com:25461/images/5cd7a1fdaafad072819400dc49abb122.png" group-title="Pirates IPTV (International Server)",AR | ALMAJD QURAN
 http://ottplanet.live:7788/humax2006/9A5ikuY7lk/38416
-#EXTINF:-1 tvg-id="" tvg-name="AR | ALMAJD HADETH" tvg-logo="http://ottplanet.live:7788/images/6548961d925e4c2a1437e02fc5cff21e.png" group-title="ALMAJD",AR | ALMAJD HADETH
+#EXTINF:-1 tvg-id="" tvg-name="AR | ALMAJD HADETH" tvg-logo="http://ottplanet.live:7788/images/6548961d925e4c2a1437e02fc5cff21e.png" group-title="Pirates IPTV (International Server)",AR | ALMAJD HADETH
 http://ottplanet.live:7788/humax2006/9A5ikuY7lk/38417
-#EXTINF:-1 tvg-id="" tvg-name="AR | ALMAJD KIDS" tvg-logo="http://ottplanet.live:7788/images/ae10ec38cad53630d87bd4692d979334.png" group-title="ALMAJD",AR | ALMAJD KIDS
+#EXTINF:-1 tvg-id="" tvg-name="AR | ALMAJD KIDS" tvg-logo="http://ottplanet.live:7788/images/ae10ec38cad53630d87bd4692d979334.png" group-title="Pirates IPTV (International Server)",AR | ALMAJD KIDS
 http://ottplanet.live:7788/humax2006/9A5ikuY7lk/38418
-#EXTINF:-1 tvg-id="" tvg-name="AR | ALMAJD TV" tvg-logo="http://ottplanet.live:7788/images/4b0e9b4328eb8add38d902040f0e723d.png" group-title="ALMAJD",AR | ALMAJD TV
+#EXTINF:-1 tvg-id="" tvg-name="AR | ALMAJD TV" tvg-logo="http://ottplanet.live:7788/images/4b0e9b4328eb8add38d902040f0e723d.png" group-title="Pirates IPTV (International Server)",AR | ALMAJD TV
 http://ottplanet.live:7788/humax2006/9A5ikuY7lk/38419
-#EXTINF:-1 tvg-id="" tvg-name="AR | ALMAJD BASMA" tvg-logo="http://ottplanet.live:7788/images/b66c1ac04512f084579a9ff417d1707f.png" group-title="ALMAJD",AR | ALMAJD BASMA
+#EXTINF:-1 tvg-id="" tvg-name="AR | ALMAJD BASMA" tvg-logo="http://ottplanet.live:7788/images/b66c1ac04512f084579a9ff417d1707f.png" group-title="Pirates IPTV (International Server)",AR | ALMAJD BASMA
 http://ottplanet.live:7788/humax2006/9A5ikuY7lk/38420
-#EXTINF:-1 tvg-id="" tvg-name="AR | ALMAJD RAWDA" tvg-logo="http://ottplanet.live:7788/images/9b265df46c58db70d83d065e44bc8359.png" group-title="ALMAJD",AR | ALMAJD RAWDA
+#EXTINF:-1 tvg-id="" tvg-name="AR | ALMAJD RAWDA" tvg-logo="http://ottplanet.live:7788/images/9b265df46c58db70d83d065e44bc8359.png" group-title="Pirates IPTV (International Server)",AR | ALMAJD RAWDA
 http://ottplanet.live:7788/humax2006/9A5ikuY7lk/38421
-#EXTINF:-1 tvg-id="" tvg-name="AR | ALMAJD DOC" tvg-logo="http://ottplanet.live:7788/images/6886c1b42b128a974ebbf241934df6d7.png" group-title="ALMAJD",AR | ALMAJD DOC
+#EXTINF:-1 tvg-id="" tvg-name="AR | ALMAJD DOC" tvg-logo="http://ottplanet.live:7788/images/6886c1b42b128a974ebbf241934df6d7.png" group-title="Pirates IPTV (International Server)",AR | ALMAJD DOC
 http://ottplanet.live:7788/humax2006/9A5ikuY7lk/38422
-#EXTINF:-1 tvg-id="" tvg-name="AR | ANIMAL PLANET" tvg-logo="http://ottplanet.live:7788/images/6c9bcb448cbdcc608b96d833a667a71b.png" group-title="ALMAJD",AR | ANIMAL PLANET
+#EXTINF:-1 tvg-id="" tvg-name="AR | ANIMAL PLANET" tvg-logo="http://ottplanet.live:7788/images/6c9bcb448cbdcc608b96d833a667a71b.png" group-title="Pirates IPTV (International Server)",AR | ANIMAL PLANET
 http://ottplanet.live:7788/humax2006/9A5ikuY7lk/38431
-#EXTINF:-1 tvg-id="" tvg-name="AR | ALMAJD TV1" tvg-logo="http://ottplanet.live:7788/images/ee3af9c759b504ff68489f373faf4395.png" group-title="ALMAJD",AR | ALMAJD TV1
+#EXTINF:-1 tvg-id="" tvg-name="AR | ALMAJD TV1" tvg-logo="http://ottplanet.live:7788/images/ee3af9c759b504ff68489f373faf4395.png" group-title="Pirates IPTV (International Server)",AR | ALMAJD TV1
 http://ottplanet.live:7788/humax2006/9A5ikuY7lk/38434
 
 
