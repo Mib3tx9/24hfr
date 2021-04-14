@@ -1993,10 +1993,6 @@ http://portal.simiptv.co.uk:8080/alipajiuk/oRGQpcPAkZ/220
 
 
 
-#EXTM3U
-
-#EXTINF:-1 tvg-logo="https://images.app.goo.gl/gDvhUjSWJwPgFz6J8",[color red]•●★-----| NEdaL JB 📺|-----★●•[/color]
-https://images.app.goo.gl/gDvhUjSWJwPgFz6J8
 
 
 #EXTINF:-1 tvg-id="" tvg-name="Take Movies 1 HD" tvg-logo="" group-title="Movies",Take Movies 1 HD
@@ -2069,17 +2065,17 @@ http://forevertv.me:8080/pk-moh-vods/546457563/33776
 http://forevertv.me:8080/pk-moh-vods/546457563/33781
 #EXTINF:-1 tvg-id="" tvg-name="Netflix Anime HD2" tvg-logo="http://vod-logo.net/photos/2361e4e5e6852d5e64359e591546e6ed.png" group-title="Movies",Netflix Anime HD2
 http://forevertv.me:8080/pk-moh-vods/546457563/37352
-#EXTINF:-1 tvg-id="" tvg-name="Netflix Arabic 1 HD" tvg-logo="http://vod-logo.net/photos/2361e4e5e6852d5e64359e591546e6ed.png" group-title="Netflix Movies",Arabic 1 HD
+#EXTINF:-1 tvg-id="" tvg-name="Netflix Arabic 1 HD" tvg-logo="http://vod-logo.net/photos/2361e4e5e6852d5e64359e591546e6ed.png" group-title="Movies",Arabic 1 HD
 http://forevertv.me:8080/pk-moh-vods/546457563/33778
-#EXTINF:-1 tvg-id="" tvg-name="Netflix Arabic 2 HD" tvg-logo="http://vod-logo.net/photos/2361e4e5e6852d5e64359e591546e6ed.png" group-title="Netflix Movies",Arabic 2 HD
+#EXTINF:-1 tvg-id="" tvg-name="Netflix Arabic 2 HD" tvg-logo="http://vod-logo.net/photos/2361e4e5e6852d5e64359e591546e6ed.png" group-title="Movies",Arabic 2 HD
 http://forevertv.me:8080/pk-moh-vods/546457563/33779
-#EXTINF:-1 tvg-id="" tvg-name="Netflix Arabic HD3" tvg-logo="http://vod-logo.net/photos/2361e4e5e6852d5e64359e591546e6ed.png" group-title="Netflix Movies",Arabic HD3
+#EXTINF:-1 tvg-id="" tvg-name="Netflix Arabic HD3" tvg-logo="http://vod-logo.net/photos/2361e4e5e6852d5e64359e591546e6ed.png" group-title="Movies",Arabic HD3
 http://forevertv.me:8080/pk-moh-vods/546457563/37348
-#EXTINF:-1 tvg-id="" tvg-name="Netflix Arabic HD4" tvg-logo="http://vod-logo.net/photos/2361e4e5e6852d5e64359e591546e6ed.png" group-title="Netflix Movies",Arabic HD4
+#EXTINF:-1 tvg-id="" tvg-name="Netflix Arabic HD4" tvg-logo="http://vod-logo.net/photos/2361e4e5e6852d5e64359e591546e6ed.png" group-title="Movies",Arabic HD4
 http://forevertv.me:8080/pk-moh-vods/546457563/37349
-#EXTINF:-1 tvg-id="" tvg-name="Netflix Drama HD" tvg-logo="http://vod-logo.net/photos/2361e4e5e6852d5e64359e591546e6ed.png" group-title="Netflix Movies",Drama HD
+#EXTINF:-1 tvg-id="" tvg-name="Netflix Drama HD" tvg-logo="http://vod-logo.net/photos/2361e4e5e6852d5e64359e591546e6ed.png" group-title="Movies",Drama HD
 http://forevertv.me:8080/pk-moh-vods/546457563/33780
-#EXTINF:-1 tvg-id="" tvg-name="Netflix Family HD" tvg-logo="http://vod-logo.net/photos/2361e4e5e6852d5e64359e591546e6ed.png" group-title="Netflix Movies",Family HD
+#EXTINF:-1 tvg-id="" tvg-name="Netflix Family HD" tvg-logo="http://vod-logo.net/photos/2361e4e5e6852d5e64359e591546e6ed.png" group-title="Movies",Family HD
 http://forevertv.me:8080/pk-moh-vods/546457563/33782
 #EXTINF:-1 tvg-id="" tvg-name="Netflix Fast And Furious 2HD" tvg-logo="http://vod-logo.net/photos/2361e4e5e6852d5e64359e591546e6ed.png" group-title="Movies",Netflix Fast And Furious 2HD
 http://forevertv.me:8080/pk-moh-vods/546457563/37355
@@ -5912,30 +5908,6 @@ http://goiptv.co:8080/avatar/fVkKAhhBlr/816
 
 
 
-#EXTINF:-1 tvg-id="" tvg-name="بث ١" tvg-logo="" group-title="وقت المباريات فقط♤",بث ١
-https://d3279x19q6fwxj.cloudfront.net/out/v1/da9768ad371f4c3b8b16838bc1867927/index_1.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="بث ٢" tvg-logo="" group-title="وقت المباريات فقط♤",بث ٢
-https://d1538xu1tez9sg.cloudfront.net/out/v1/5ad0dc57fbf243da8ea13e836b56816b/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="بث ٣" tvg-logo="" group-title="وقت المباريات فقط♤",بث ٣
-http://de7.thefitnesshints.com/live/ch01prem/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="بث ٤" tvg-logo="" group-title="وقت المباريات فقط♤",بث ٤
-http://de-66.thefitnesshints.com/live/ch02prem/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="بث ٥" tvg-logo="" group-title="وقت المباريات فقط♤",بث ٥
-https://d3279x19q6fwxj.cloudfront.net/out/v1/da9768ad371f4c3b8b16838bc1867927/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="بث ٦" tvg-logo="" group-title="وقت المباريات فقط♤",بث ٦
-https://d1538xu1tez9sg.cloudfront.net/out/v1/5ad0dc57fbf243da8ea13e836b56816b/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="بث ٧" tvg-logo="" group-title="وقت المباريات فقط♤",بث ٧
-http://213.136.69.245:8080/live/6071c5e2b00c2/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="بث ٨" tvg-logo="" group-title="وقت المباريات فقط♤",بث ٨
-http://213.136.69.245:8080/live/60686a9792403/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="بث ٩" tvg-logo="" group-title="وقت المباريات فقط♤",بث ٩
-http://moomi.xyz:25461/ramadan2021/iptvm3u45/9778
-#EXTINF:-1 tvg-id="" tvg-name="بث ١٠" tvg-logo="" group-title="وقت المباريات فقط♤",بث ١٠
-http://moomi.xyz:25461/ramadan2021/iptvm3u45/5946
-#EXTINF:-1 tvg-id="" tvg-name="بث ١١" tvg-logo="" group-title="وقت المباريات فقط♤",بث ١١
-https://s-33.streamtec.xyz/hls2/stream.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="بث ١٢" tvg-logo="" group-title="وقت المباريات فقط♤",بث ١٢
-https://s-35.streamtec.xyz/hls/stream.m3u8
 
 
 
