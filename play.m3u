@@ -1,5 +1,5 @@
 #EXTM3U
-#EXTINF:-1 tvg-logo="" group-title="সর্বশেষ আপডেট      Date [14.04.2021]  Time [07:00pm]",
+#EXTINF:-1 tvg-logo="" group-title="সর্বশেষ আপডেট      Date [15.04.2021]  Time [11:30am]",
 #EXTINF:-1 tvg-logo="" group-title="IPL Live",IPL----------------------------------------
 #EXTINF:-1 tvg-logo="" group-title="New",N-----------------------------------------------------------------------
 
@@ -1094,8 +1094,8 @@ https://piratesiptv.shortcm.li/somoytv.m3u8
 https://piratesiptv.shortcm.li/kids.m3u8
 #EXTINF:0 tvg-language="Bangla" tvg-logo="https://play-lh.googleusercontent.com/FL5bvHvXb9w5_l_g7vaV37ybt1xPwOSGxcFyO894fX6H17Qg315T8v-KjvMyEG0ha6c=s180-rw" group-title="BDIX Server 4 (4G Server)",Talking Tom (Kids Channel)
 https://piratesiptv.shortcm.li/tom.m3u8
-
-
+#EXTINF:0 tvg-language="Bangla" tvg-logo="https://seeklogo.com/images/P/pubg-mobile-logo-28E182F8A8-seeklogo.com.png" group-title="BDIX Server 4 (4G Server)",PUBG Game Live
+https://piratesiptv.shortcm.li/pubg.m3u8
 
 
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="CONTRACT SEASON 01E1" tvg-logo="http://10.16.100.244/files/contract_season_01__2021__completed.jpg" group-title="Drive 1 (Bangla Series)",Contract (S1E1)
