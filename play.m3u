@@ -1119,6 +1119,8 @@ http://209.126.120.153/hls/mohonatv.m3u8
 http://209.126.120.153/hls/mytv.m3u8
 #EXTINF:-19 group-title="BDIX Server 5"tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTQ7dMi2ANLmmqkwUViLty0Oc0KGF5udWj-lg&s",Nagorik TV
 http://209.126.120.153/hls/nagorik.m3u8
+#EXTINF:-18 group-title="BDIX Server 5"tvg-logo="https://upload.wikimedia.org/wikipedia/en/0/00/News24logo%28BD%29.jpg",News24
+http://209.126.120.153/hls/news24.m3u8
 #EXTINF:-17 group-title="BDIX Server 5"tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/e/ef/NTV_%28Bangladesh%29_logo.svg/1200px-NTV_%28Bangladesh%29_logo.svg.png",NTV
 http://209.126.120.153/hls/ntv.m3u8
 #EXTINF:-9 group-title="BDIX Server 5"tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTfx-bEQ3macnIZuO_JzbQo-g7xZChVynBSxQ&usqp=CAU",RTV
@@ -1127,16 +1129,14 @@ http://209.126.120.153/hls/rtv.m3u8
 http://209.126.120.153/hls/satv.m3u8
 #EXTINF:-11 group-title="BDIX Server 5"tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR-xVb-Ect_PcrZkEL_DyfrnfdKEhjV9OX5dg&usqp=CAU",Somoy TV
 http://209.126.120.153/hls/somoy.m3u8
-
-
 #EXTINF:-34 group-title="BDIX Server 5"tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT1vU-ha0SddMrhJhqgZ4D5wFTCC-6rjJFtRA&usqp=CAU",Dhoom
 http://209.126.120.153/hls/dhoommusic.m3u8
 #EXTINF:-36 group-title="BDIX Server 5"tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRX-VzfIwGS2Xf-xLd4qQqlsd62a_I477v2Gg&usqp=CAU",Sangeet Bangla
 http://209.126.120.153/hls/sangeetbangla.m3u8
 #EXTINF:-35 group-title="BDIX Server 5"tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRZyJ2tK6_lWITqktAIrBuzZIfwUgJPHwAGwQ&usqp=CAU",9xm
 http://209.126.120.153/hls/9xm.m3u8
-
-
+#EXTINF:-102 group-title="BDIX Server 5"tvg-logo="https://upload.wikimedia.org/wikipedia/en/1/11/T_Sports_logo.png",T Sports
+http://209.126.120.153/hls/tsports.m3u8
 #EXTINF:-30 group-title="BDIX Server 5"tvg-logo="https://origin-staticv2.sonyliv.com/masthead_logo/SonyTEN1HD_Masthead_Logo.png",Ten 1
 http://209.126.120.153/hls/ten1.m3u8
 #EXTINF:-31 group-title="BDIX Server 5"tvg-logo="https://origin-staticv2.sonyliv.com/masthead_logo/SonyTEN2HD_Masthead_Logo.png",Ten 2
@@ -1145,45 +1145,27 @@ http://209.126.120.153/hls/ten2.m3u8
 http://209.126.120.153/hls/ten3.m3u8
 #EXTINF:-33 group-title="BDIX Server 5"tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQKsfinweqDVYoUAfPxFMNBybi2BfxRdIzNdA&usqp=CAU",Sony Six
 http://209.126.120.153/hls/sonysix.m3u8
-
-
+#EXTINF:-25 group-title="BDIX Server 5"tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSUc9JqU4yWFBQfCiPDk8Q5b74nT-oGe3AAoQ&usqp=CAU",Star Sports 1
+http://209.126.120.153/hls/chss1.m3u8
+#EXTINF:-27 group-title="BDIX Server 5"tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTXvg5rffCV3VyAswZPE_NiGm9o46_KIzBWxg&usqp=CAU",Star Sports Select 1
+http://209.126.120.153/hls/chss2.m3u8
 #EXTINF:-22 group-title="BDIX Server 5"tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSXIrqFypKCm7Xkcdniepuqwu16IpwsxB3y3w&usqp=CAU",Star Jalsa
 http://209.126.120.153/hls/chsj.m3u8
 #EXTINF:-23 group-title="BDIX Server 5"tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTwfKHMXs3wEon1FMQXKPeTtex6seen25do8w&usqp=CAU",Sony Aath
 http://209.126.120.153/hls/sony8.m3u8
 #EXTINF:-24 group-title="BDIX Server 5"tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRMTBC4Ih5ZUYCg-aUTdnaKEyg0rsDWa1eKyQ&usqp=CAU",Zee Bangla
 http://209.126.120.153/hls/zeebangla.m3u8
-
-
 #EXTINF:-25 group-title="BDIX Server 5"tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS7bzvVPi9EivFawC5l6aRn11sE34t-ZsSR6Q&usqp=CAU",& Tv
 http://209.126.120.153/hls/andtv.m3u8
-#EXTINF:-26 group-title="BDIX Server 5"tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR_3vASrNVJrjztJPXKwY7BlZ3r48ECOIyRYg&usqp=CAU",Sony
-http://209.126.120.153/hls/chs.m3u8
-
-
-
-
-
-
-
-
-
-
-
-#EXTINF:-28 group-title="BDIX Server 5"tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS4A4m5ksRVXbtFs10GM7fJytEgTMCqVOurBQ&usqp=CAU",Star Plus
-http://209.126.120.153/hls/chsp.m3u8
 #EXTINF:-29 group-title="BDIX Server 5"tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/5c/Colors_tv2017.png",Colors
 http://209.126.120.153/hls/chc.m3u8
-#EXTINF:-25 group-title="BDIX Server 5"tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSUc9JqU4yWFBQfCiPDk8Q5b74nT-oGe3AAoQ&usqp=CAU",Star Sports 1
-http://209.126.120.153/hls/chss1.m3u8
-#EXTINF:-102 group-title="BDIX Server 5"tvg-logo="https://upload.wikimedia.org/wikipedia/en/1/11/T_Sports_logo.png",T Sports
-http://209.126.120.153/hls/tsports.m3u8
-#EXTINF:-27 group-title="BDIX Server 5"tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTXvg5rffCV3VyAswZPE_NiGm9o46_KIzBWxg&usqp=CAU",Star Sports Select 1
-http://209.126.120.153/hls/chss2.m3u8
+#EXTINF:-26 group-title="BDIX Server 5"tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR_3vASrNVJrjztJPXKwY7BlZ3r48ECOIyRYg&usqp=CAU",Sony TV
+http://209.126.120.153/hls/chs.m3u8
+#EXTINF:-28 group-title="BDIX Server 5"tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS4A4m5ksRVXbtFs10GM7fJytEgTMCqVOurBQ&usqp=CAU",Star Plus
+http://209.126.120.153/hls/chsp.m3u8
 #EXTINF:-41 group-title="BDIX Server 5"tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQhALvCCsXUBAU1p_uPYLO6_TKw5Ky-pFyIdg&usqp=CAU",Sony Pix
 http://209.126.120.153/hls/sonypix.m3u8
-#EXTINF:-18 group-title="BDIX Server 5"tvg-logo="https://upload.wikimedia.org/wikipedia/en/0/00/News24logo%28BD%29.jpg",News24
-http://209.126.120.153/hls/news24.m3u8
+
 
 
 
