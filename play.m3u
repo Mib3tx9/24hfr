@@ -1,5 +1,5 @@
 #EXTM3U
-#EXTINF:-1 tvg-logo="" group-title="সর্বশেষ আপডেট      Date [16.04.2021]  Time [07:10pm]",
+#EXTINF:-1 tvg-logo="" group-title="সর্বশেষ আপডেট      Date [16.04.2021]  Time [11:10pm]",
 #EXTINF:-1 tvg-logo="" group-title="IPL Live",IPL----------------------------------------
 #EXTINF:-1 tvg-logo="" group-title="New",N-----------------------------------------------------------------------
 
@@ -1139,22 +1139,12 @@ http://209.126.120.153/hls/9xm.m3u8
 http://209.126.120.153/hls/tsports.m3u8
 #EXTINF:-30 group-title="BDIX Server 5"tvg-logo="https://origin-staticv2.sonyliv.com/masthead_logo/SonyTEN1HD_Masthead_Logo.png",Ten 1
 http://209.126.120.153/hls/ten1.m3u8
-#EXTINF:-31 group-title="BDIX Server 5"tvg-logo="https://origin-staticv2.sonyliv.com/masthead_logo/SonyTEN2HD_Masthead_Logo.png",Ten 2
-http://209.126.120.153/hls/ten2.m3u8
-#EXTINF:-32 group-title="BDIX Server 5"tvg-logo="https://static.wikia.nocookie.net/logopedia/images/6/6c/Sony_Ten_3.png/revision/latest/scale-to-width-down/340?cb=20190322144135",Ten 3
-http://209.126.120.153/hls/ten3.m3u8
-#EXTINF:-33 group-title="BDIX Server 5"tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQKsfinweqDVYoUAfPxFMNBybi2BfxRdIzNdA&usqp=CAU",Sony Six
-http://209.126.120.153/hls/sonysix.m3u8
 #EXTINF:-25 group-title="BDIX Server 5"tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSUc9JqU4yWFBQfCiPDk8Q5b74nT-oGe3AAoQ&usqp=CAU",Star Sports 1
 http://209.126.120.153/hls/chss1.m3u8
-#EXTINF:-27 group-title="BDIX Server 5"tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTXvg5rffCV3VyAswZPE_NiGm9o46_KIzBWxg&usqp=CAU",Star Sports Select 1
-http://209.126.120.153/hls/chss2.m3u8
 #EXTINF:-22 group-title="BDIX Server 5"tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSXIrqFypKCm7Xkcdniepuqwu16IpwsxB3y3w&usqp=CAU",Star Jalsa
 http://209.126.120.153/hls/chsj.m3u8
 #EXTINF:-23 group-title="BDIX Server 5"tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTwfKHMXs3wEon1FMQXKPeTtex6seen25do8w&usqp=CAU",Sony Aath
 http://209.126.120.153/hls/sony8.m3u8
-#EXTINF:-24 group-title="BDIX Server 5"tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRMTBC4Ih5ZUYCg-aUTdnaKEyg0rsDWa1eKyQ&usqp=CAU",Zee Bangla
-http://209.126.120.153/hls/zeebangla.m3u8
 #EXTINF:-25 group-title="BDIX Server 5"tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS7bzvVPi9EivFawC5l6aRn11sE34t-ZsSR6Q&usqp=CAU",& Tv
 http://209.126.120.153/hls/andtv.m3u8
 #EXTINF:-29 group-title="BDIX Server 5"tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/5c/Colors_tv2017.png",Colors
@@ -1163,8 +1153,7 @@ http://209.126.120.153/hls/chc.m3u8
 http://209.126.120.153/hls/chs.m3u8
 #EXTINF:-28 group-title="BDIX Server 5"tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS4A4m5ksRVXbtFs10GM7fJytEgTMCqVOurBQ&usqp=CAU",Star Plus
 http://209.126.120.153/hls/chsp.m3u8
-#EXTINF:-41 group-title="BDIX Server 5"tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQhALvCCsXUBAU1p_uPYLO6_TKw5Ky-pFyIdg&usqp=CAU",Sony Pix
-http://209.126.120.153/hls/sonypix.m3u8
+
 
 
 
