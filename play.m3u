@@ -575,12 +575,10 @@ https://live.hungama.com/linear/dil-se/playlist.m3u8?token=soheliptv01826655778
 https://live.hungama.com/linear/pop-pataka/playlist.m3u8?token=soheliptv01826655778
 #EXTINF:-1 tvg-logo="https://bhojpurihungama.net/images/mast.png" group-title="Music",138.Bhojpuri Hungama
 https://live.hungama.com/linear/dhamaal/playlist.m3u8?token=soheliptv01826655778
-#EXTINF:-1 tvg-logo="" group-title="Music",138.Bol Hadippa
+#EXTINF:-1 tvg-logo="" group-title="Music",139.Bol Hadippa
 https://live.hungama.com/linear/bol-hadippa/playlist.m3u8?token=soheliptv01826655778
-#EXTINF:-1 tvg-logo="https://i.imgur.com/W8qIZmQ.jpg" group-title="Music",139.MH 1
+#EXTINF:-1 tvg-logo="https://i.imgur.com/W8qIZmQ.jpg" group-title="Music",140.MH 1
 http://rtmp.smartstream.video:1935/mhonemusic/mhonemusic/playlist.m3u8?token=soheliptv01826655778
-#EXTINF:-1 tvg-logo="https://i.imgur.com/BnCF4JT.png" group-title="Music",140.Gabruu TV
-http://104.237.60.234/live/gabruutv.m3u8?token=soheliptv01826655778
 #EXTINF:-1 tvg-logo="https://i.imgur.com/alJj9sb.jpg" group-title="Music",141.Boogle Bollywood
 http://live.agmediachandigarh.com/booglebollywood/774e3ea9f3fa9bcdac47f445b83b6653.sdp/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/0ujfLYr.png" group-title="Music",142.RU TV
