@@ -1,5 +1,5 @@
 #EXTM3U
-#EXTINF:-1 tvg-logo="" group-title="সর্বশেষ আপডেট      Date [17.04.2021]  Time [12:40pm]",
+#EXTINF:-1 tvg-logo="" group-title="সর্বশেষ আপডেট      Date [17.04.2021]  Time [06:20pm]",
 #EXTINF:-1 tvg-logo="" group-title="IPL Live",IPL----------------------------------------
 #EXTINF:-1 tvg-logo="" group-title="New",N-----------------------------------------------------------------------
 #EXTINF:0 tvg-language="Bangla" tvg-logo="https://images.all-free-download.com/images/graphiclarge/retro_pirates_logo_vector_588227.jpg" group-title="",Pirates IPTV Live
@@ -697,7 +697,14 @@ http://portal.simiptv.co.uk:8080/alipajiuk/oRGQpcPAkZ/220
 
 #EXTINF:-1 tvg-logo="https://cdn.bein.net/bmg/wp-content/uploads/2015/03/beINSPORTS.png" group-title="Sports",158.Bein Sports 12 HD
 
-
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSUrU8mm3L9Z3Jz0FUGZX4B-xYSuynFxdqeug&usqp=CAU" group-title="Sports",159.Eurosports 1
+http://91.126.141.201:1935/live/eurosport1nntv/index.m3u8
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSUrU8mm3L9Z3Jz0FUGZX4B-xYSuynFxdqeug&usqp=CAU" group-title="Sports",159.Eurosports 1
+http://91.126.141.201:1935/live/smil:eurosport1nntv.smil/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSUrU8mm3L9Z3Jz0FUGZX4B-xYSuynFxdqeug&usqp=CAU" group-title="Sports",159.Eurosports 2
+http://91.126.141.201:1935/live/eurosport2hdnntv/index.m3u8
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSUrU8mm3L9Z3Jz0FUGZX4B-xYSuynFxdqeug&usqp=CAU" group-title="Sports",159.Eurosports 2
+http://91.126.141.201:1935/live/smil:eurosport2hdnntv.smil/playlist.m3u8
 
 #EXTINF:0 tvg-logo="https://i.imgur.com/YTI1AMs.jpg" group-title="Sports",160.Real Madrid TV 1
 http://rmtvlive-lh.akamaihd.net/i/rmtv_1@154306/index_1000_av-b.m3u8?token=soheliptv01826655778
