@@ -817,6 +817,42 @@ https://edge1.dashmedia.tv/onestudio/cooking_4u_network/playlist.m3u8?fluxustv.m
 https://bozztv.com/36bay2/gin/giniko_tvbox-cine-series_800kb_36bay2/tracks-v1a1/mono.m3u8
 
 
+#EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/en/f/f3/ARY_Digital_Logo_2.png" group-title="Pakistani",ARY Digital                               
+https://6zklx4wryw9b-hls-live.5centscdn.com/arydigital/f7b44cfafd5c52223d5498196c8a2e7b.sdp/arydigital/stream4/chunks.m3u8
+#EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/en/e/e6/PTV_World_logo.png" group-title="Pakistani",PTV World
+https://live.ptv.com.pk/live/ptvworld/chunklist_w1311361788.m3u8
+#EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/en/3/36/PTV_Home.png" group-title="Pakistani",PTV Home
+https://live.ptv.com.pk/live/stream/ptvhome/chunklist_w387091921.m3u8
+#EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/b/bb/ARY_Musik_logo.png/220px-ARY_Musik_logo.png" group-title="Pakistani",Ary Musik
+https://stream.arylive.com/MusikLive/tracks-v2a1/mono.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/3/38/ARY_Qtv_logo.png" group-title="Pakistani",Q TV 
+https://stream.arylive.com/QtvLive/tracks-v2a1/mono.m3u8
+#EXTINF:0 tvg-logo="https://s2.dmcdn.net/u/53P8M1W0DekQzZ_AY/200x200" group-title="Pakistani",ARY Zindegi
+https://stream.arylive.com/ZindagiLive/tracks-v2a1/mono.m3u8
+#EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/en/e/e8/Masala_TV.png" group-title="Pakistani",Hum Masala
+http://tjszdhm3.tvclub.xyz/iptv/69AWBEYGGS5VZ6/6733/index.m3u8
+#EXTINF:-0 tvg-logo="https://i.imgur.com/MMe4JMX.png" group-title="Pakistani",Tag TV 1
+http://cdn11.live247stream.com/tag/tv/playlist.m3u8
+#EXTINF:0 tvg-logo="https://avtkhyber.tv/demo/wp-content/uploads/2014/08/Khyber-Tv-Live-Streaming-watch-live-khyber-tv-streaming-hd-watch-khyber-tv-on-mobile.jpg" group-title="Pakistani",AVT KHYBER
+https://dcunilive38-lh.akamaihd.net/i/dclive_1@692670/index_150_av-p.m3u8
+#EXTINF:0 tvg-logo="https://avtkhyber.tv/demo/wp-content/uploads/2014/08/Khyber-Tv-Live-Streaming-watch-live-khyber-tv-streaming-hd-watch-khyber-tv-on-mobile.jpg" group-title="Pakistani",Khybber TV
+https://dcunilive83-lh.akamaihd.net/i/dclive_1@16122/index_150_av-p.m3u8
+#EXTINF:-1 tvg-logo="https://live-tv-channels.org/pt-data/uploads/logo/pk-khyber-news-tv-4017.jpg" group-title="Pakistani",Khyber News TV
+https://dcunilive38-lh.akamaihd.net/i/dclive_1@692677/index_150_av-p.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/7/70/WION_news_Logo.svg/1200px-WION_news_Logo.svg.png" group-title="Pakistani",Win Channel
+http://cdn.smartstream.video/smartstream-us/channelwinlive/channelwinlive/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRh-fIoMzOs7RsWZ1g9Gu_VcXkIqtMca-pbOw&usqp=CAU" group-title="Pakistani",HUMRAZ TV
+http://cdn61.liveonlineservices.com/hls/humraaz.m3u8
+#EXTINF:0 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRAiDENLlulFYBb7BoxRo1L_Y32_QX1Xnla-A&usqp=CAU" group-title="Pakistani",92 News
+http://92news.vdn.dstreamone.net/92newshd/92hd/playlist.m3u8
+#EXTINF:0 tvg-logo="https://www.brandsynario.com/directory/wp-content/uploads/2018/01/a-32.png" group-title="Pakistani",KAY 2
+http://dcunilive36-lh.akamaihd.net/i/dclive_1@662109/master.m3u8
+#EXTINF:0 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTklDLCn-ODHwiFR1DoJDl0chZAXTwprpO0cA&usqp=CAU" group-title="Pakistani",Lahore News
+http://mlive.lahorenews.tv/lahorelive/lnews_1/chunklist_DVR.m3u8
+#EXTINF:0 tvg-logo="https://www.subrangtv.com/wp-content/uploads/2018/01/For-TV.jpg" group-title="Pakistani",Subrang TV
+http://cdn61.liveonlineservices.com/hls/subrang.m3u8
+
+
 #EXTINF: -1 tvg-logo="https://i.pinimg.com/474x/de/fc/23/defc2375723ec0e5d75ad1c7595e7dce.jpg" group-title="FM Radio",Al Quran Radio
 http://66.45.232.131:9994/;stream.mp3
 #EXTINF: -1 tvg-logo="https://www.dropbox.com/s/tz0japl7j0xaq8e/88.0.jpg?raw=1" group-title="FM Radio",Radio Foorti (88.0)
@@ -2096,18 +2132,22 @@ http://pn.tvott.info:80/307254552277/307254552277/83952
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcS_3lZ-3SjyKCjtm6yO_Hud67PWDfVlYQvpXMVEA_2NZnwkaip4&usqp=CAU" group-title="IPL Live",Gazi TV
 https://piratesiptv.shortcm.li/ipl.m3u8
 #EXTINF:-1 tvg-logo="https://static.india.com/wp-content/uploads/2020/08/IPL-Logo.jpg" group-title="IPL Live",Live 1
-http://103.102.27.172:6464/Channel-1/tracks-v1a1/mono.m3u8
+http://diamondiptv.ddns.net:25461/AdnanAhmed26/123450/661
 #EXTINF:-1 tvg-logo="https://static.india.com/wp-content/uploads/2020/08/IPL-Logo.jpg" group-title="IPL Live",Live 2
-http://10.16.100.207:8082/sports/starsports_select1.m3u8
+http://diamondiptv.ddns.net:25461/AdnanAhmed26/123450/122
 #EXTINF:-1 tvg-logo="https://static.india.com/wp-content/uploads/2020/08/IPL-Logo.jpg" group-title="IPL Live",Live 3
-https://ipl-live.s3.ap-south-1.amazonaws.com/pkcast123.me_1/index2.m3u8
+http://103.102.27.172:6464/Channel-1/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://static.india.com/wp-content/uploads/2020/08/IPL-Logo.jpg" group-title="IPL Live",Live 4
-https://ipl-live.s3.ap-south-1.amazonaws.com/mixcasthd.com_2/index2.m3u8
+http://10.16.100.207:8082/sports/starsports_select1.m3u8
 #EXTINF:-1 tvg-logo="https://static.india.com/wp-content/uploads/2020/08/IPL-Logo.jpg" group-title="IPL Live",Live 5
-https://ipl-live.s3.ap-south-1.amazonaws.com/mixcasthd.com_3/index2.m3u8
+https://ipl-live.s3.ap-south-1.amazonaws.com/pkcast123.me_1/index2.m3u8
 #EXTINF:-1 tvg-logo="https://static.india.com/wp-content/uploads/2020/08/IPL-Logo.jpg" group-title="IPL Live",Live 6
-http://103.102.27.172:6464/Channel-2/tracks-v1a1/mono.m3u8
+https://ipl-live.s3.ap-south-1.amazonaws.com/mixcasthd.com_2/index2.m3u8
 #EXTINF:-1 tvg-logo="https://static.india.com/wp-content/uploads/2020/08/IPL-Logo.jpg" group-title="IPL Live",Live 7
+https://ipl-live.s3.ap-south-1.amazonaws.com/mixcasthd.com_3/index2.m3u8
+#EXTINF:-1 tvg-logo="https://static.india.com/wp-content/uploads/2020/08/IPL-Logo.jpg" group-title="IPL Live",Live 8
+http://103.102.27.172:6464/Channel-2/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-logo="https://static.india.com/wp-content/uploads/2020/08/IPL-Logo.jpg" group-title="IPL Live",Live 9
 http://103.205.133.21/hls/chss1.m3u8
 
 
