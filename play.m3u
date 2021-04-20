@@ -914,6 +914,8 @@ http://103.205.133.21/hls/dbcnews.m3u8
 http://103.205.133.21/hls/deeptotv.m3u8
 #EXTINF:-1 tvg-logo="https://www.tradebangla.com.bd/images/business/profile/2017/12/12/222121217071805.jpg" group-title="BDIX Server 1",Desh TV [1]
 http://103.205.133.21/hls/deshtv.m3u8
+#EXTINF:-1 tvg-logo="https://2.bp.blogspot.com/-W7By0Drr_FY/W7hLyJYDouI/AAAAAAAACig/XkemryiwRXoPiDD07DTc_xlzgrziU6SpgCLcBGAs/s1600/Digi-Bangla-24-bd.png" group-title="BDIX Server 1",Digi Bangla TV [1]
+http://103.205.133.21/hls/digibangla.m3u8
 #EXTINF:0 tvg-logo="https://s4.gifyu.com/images/imagea02f4314e761661d.png" group-title="BDIX Server 1",Ekattor [1]
 http://103.205.133.21/hls/ekatoortv.m3u8
 #EXTINF:0 tvg-logo="https://s4.gifyu.com/images/image534fa27d7683f33d.png" group-title="BDIX Server 1",Ekushey TV [1]
@@ -1116,6 +1118,8 @@ http://209.126.120.153/hls/dbcnews.m3u8
 http://209.126.120.153/hls/deeptotv.m3u8
 #EXTINF:-7 group-title="BDIX Server 5"tvg-logo="https://upload.wikimedia.org/wikipedia/en/8/81/Desh_tv.png",Desh TV [5]
 http://209.126.120.153/hls/deshtv.m3u8
+#EXTINF:-1 tvg-logo="https://2.bp.blogspot.com/-W7By0Drr_FY/W7hLyJYDouI/AAAAAAAACig/XkemryiwRXoPiDD07DTc_xlzgrziU6SpgCLcBGAs/s1600/Digi-Bangla-24-bd.png" group-title="BDIX Server 5",Digi Bangla TV [5]
+http://209.126.120.153/hls/digibangla.m3u8
 #EXTINF:0 tvg-logo="https://s4.gifyu.com/images/imagea02f4314e761661d.png" group-title="BDIX Server 5",Ekattoor [5]
 http://209.126.120.153/hls/ekatoortv.m3u8
 #EXTINF:-21 group-title="BDIX Server 5"tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTCjoYEe6dNWXvcB5A8Az4fvNHBOqJGYUDTSg&usqp=CAU",Ekushe TV [5]
