@@ -967,13 +967,14 @@ http://103.205.133.21/hls/chc.m3u8
 http://103.205.133.21/hls/chs.m3u8
 #EXTINF:0 tvg-logo="https://sgp1.digitaloceanspaces.com/quickcompany/trademark/912d9aff2264860b.jpg" group-title="BDIX Server 1",Star Plus [1]
 http://103.205.133.21/hls/chsp.m3u8
+#EXTINF:0 tvg-logo="https://akamaividz.zee5.com/resources/0-9-zeetvhd/list/386x386/09zeetvhdzeetvhd.png" group-title="BDIX Server 1",Zee TV [1]
+http://103.205.133.21/hls/zeetvhd.m3u8
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcS3Aq3_P0CBcD4KKC9OHbrUrT3gKp-7J6TQ_UfRLAluaFU_N9Fc&usqp=CAU" group-title="BDIX Server 1",Wow Cinema [1]
 
 #EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/en/d/d5/Zee_Cinema_New_Logo.png" group-title="BDIX Server 1",Zee Cinema [1]
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQzu-b5btRQeV5JJEecxY3SA-l-qCIpwic1RJphzXl8JyfLPojv&usqp=CAU" group-title="BDIX Server 1",Zee Salam [1]
 
-#EXTINF:0 tvg-logo="https://akamaividz.zee5.com/resources/0-9-zeetvhd/list/386x386/09zeetvhdzeetvhd.png" group-title="BDIX Server 1",Zee TV [1]
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/5/5f/Sony_PIX.png" group-title="BDIX Server 1",Sony Pix [1]
 
@@ -1165,18 +1166,20 @@ http://209.126.120.153/hls/chc.m3u8
 http://209.126.120.153/hls/chs.m3u8
 #EXTINF:0 tvg-logo="https://sgp1.digitaloceanspaces.com/quickcompany/trademark/912d9aff2264860b.jpg" group-title="BDIX Server 5",Star Plus [5]
 http://209.126.120.153/hls/chsp.m3u8
+#EXTINF:0 tvg-logo="https://akamaividz.zee5.com/resources/0-9-zeetvhd/list/386x386/09zeetvhdzeetvhd.png" group-title="BDIX Server 5",Zee TV [5]
+http://209.126.120.153/hls/zeetvhd.m3u8
 #EXTINF:-102 group-title="BDIX Server 5"tvg-logo="https://upload.wikimedia.org/wikipedia/en/1/11/T_Sports_logo.png",T Sports [5]
-http://103.205.133.21/hls/tsports.m3u8
+http://209.126.120.153/hls/tsports.m3u8
 #EXTINF:-1 tvg-logo="https://img2.pngio.com/sony-ten-1-logopedia-fandom-sony-ten-2-png-650_390.jpg" group-title="BDIX Server 5",Sony Ten 1 [5]
-http://103.205.133.21/hls/ten1.m3u8
+http://209.126.120.153/hls/ten1.m3u8
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQBTnEK5BWeUD2NioqBxKSXvBrS2hOvgtATkw&usqp=CAU" group-title="BDIX Server 5",Sony Ten 2 [5]
-http://103.205.133.21/hls/ten2.m3u8
+http://209.126.120.153/hls/ten2.m3u8
 #EXTINF:-1 tvg-logo="https://i2.wp.com/bdixsports.com/wp-content/uploads/2018/04/ten2.jpg" group-title="BDIX Server 5",Sony Ten 3 [5]
-http://103.205.133.21/hls/ten3.m3u8
+http://209.126.120.153/hls/ten3.m3u8
 #EXTINF:-25 group-title="BDIX Server 5"tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSUc9JqU4yWFBQfCiPDk8Q5b74nT-oGe3AAoQ&usqp=CAU",Star Sports 1 [5]
-http://103.205.133.21/hls/chss1.m3u8
+http://209.126.120.153/hls/chss1.m3u8
 #EXTINF:-1 tvg-logo="https://www.tvchannelpricelist.com/wp-content/uploads/channels-logo-300/star-sports-hd-2-logo-300x300.jpg" group-title="BDIX Server 5",Star Sports Select 2 HD [5]
-http://103.205.133.21/hls/chss2.m3u8
+http://209.126.120.153/hls/chss2.m3u8
 
 
 
