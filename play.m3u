@@ -1,9 +1,31 @@
 #EXTM3U
-#EXTINF:-1 tvg-logo="" group-title="সর্বশেষ আপডেট      Date [23.04.2021]  Time [08:30pm]",
-#EXTINF:-1 tvg-logo="" group-title="IPL Live",IPL----------------------------------------
-#EXTINF:-1 tvg-logo="" group-title="New",N-----------------------------------------------------------------------
+#EXTINF:-1 tvg-logo="" group-title="সর্বশেষ আপডেট      Date [23.04.2021]  Time [08:45pm]",
+#EXTINF:-1 tvg-logo="" group-title="IPL Live",IPL--------------------------------------------------------------------------------------------------------------------
+#EXTINF:-1 tvg-logo="" group-title="New",N---------------------------------------------------------------------------------------------------------------------------
+#EXTINF:-1 tvg-logo="" group-title="BDIX Server 1",Server1-----------------------------------------------------------------------------------------------------------
+#EXTINF:-1 tvg-logo="" group-title="BDIX Server 2",Server2-----------------------------------------------------------------------------------------------------------
+#EXTINF:-1 tvg-logo="" group-title="BDIX Server 3 (12:00am-6:00pm)",Server3------------------------------------------------------------------------------------------
+#EXTINF:-1 tvg-logo="" group-title="BDIX Server 4 (4G Server)",Server------------------------------------------------------------------------------------------------
+#EXTINF:-1 tvg-logo="" group-title="BDIX Server 5",Server5-----------------------------------------------------------------------------------------------------------
+#EXTINF:-1 tvg-logo="" group-title="BDIX Server 6",Server6-----------------------------------------------------------------------------------------------------------
+#EXTINF:-1 tvg-logo="" group-title="BDIX Server 7",Server6-----------------------------------------------------------------------------------------------------------
+#EXTINF:-1 tvg-logo="" group-title="Pirates IPTV (HD Server)",N------------------------------------------------------------------------------------------------------
+#EXTINF:-1 tvg-logo="" group-title="BD IPTV",BD----------------------------------------------------------------------------------------------------------------------
+#EXTINF:-1 tvg-logo="" group-title="Documentary",DC------------------------------------------------------------------------------------------------------------------
+#EXTINF:-1 tvg-logo="" group-title="Indian Bangla",IB----------------------------------------------------------------------------------------------------------------
+#EXTINF:-1 tvg-logo="" group-title="Indian",I------------------------------------------------------------------------------------------------------------------------
+#EXTINF:-1 tvg-logo="" group-title="English",E-----------------------------------------------------------------------------------------------------------------------
+#EXTINF:-1 tvg-logo="" group-title="Sports",S------------------------------------------------------------------------------------------------------------------------
+#EXTINF:-1 tvg-logo="" group-title="Music",M-------------------------------------------------------------------------------------------------------------------------
+#EXTINF:-1 tvg-logo="" group-title="Kids",K--------------------------------------------------------------------------------------------------------------------------
+#EXTINF:-1 tvg-logo="" group-title="Others",O------------------------------------------------------------------------------------------------------------------------
+#EXTINF:-1 tvg-logo="" group-title="Ityadi",IT-----------------------------------------------------------------------------------------------------------------------
+#EXTINF:-1 tvg-logo="" group-title="FM Radio",F----------------------------------------------------------------------------------------------------------------------
 #EXTINF:-1 tvg-logo="https://download.logo.wine/logo/BKash/BKash-Icon2-Logo.wine.png" group-title="",01826655778
 https://www.dropbox.com/s/4zlpmj76rii9n13/01826655778.mp4?raw=1
+
+
+
 
 
 #EXTINF:0 tvg-language="Bangla" tvg-logo="https://i.imgur.com/WpMA9kC.png" group-title="Bangladeshi",1.Anando TV
@@ -85,52 +107,20 @@ https://piratesiptv.shortcm.li/somoytv.m3u8
 
 
 
-#EXTINF:-1 tvg-logo="" group-title="BDIX Server 1",Server1------------------------------------------------------------------------
-#EXTINF:-1 tvg-logo="" group-title="BDIX Server 2",Server2-----------
-#EXTINF:-1 tvg-logo="" group-title="BDIX Server 3 (12:00am-6:00pm)",Server3-----------
-#EXTINF:-1 tvg-logo="" group-title="BDIX Server 4 (4G Server)",Server-----------
-#EXTINF:-1 tvg-logo="" group-title="BDIX Server 5",Server5-----------
-#EXTINF:-1 tvg-logo="" group-title="BDIX Server 6",Server6----------
-#EXTINF:-1 tvg-logo="" group-title="BDIX Server 7",Server6-----------
-#EXTINF:-1 tvg-logo="" group-title="Pirates IPTV (HD Server)",N---------------------------------------------
-
-
-
-
-#EXTINF:-1 tvg-logo="" group-title="BD IPTV",BD-----------------------------------------------------------------------
-#EXTINF:-1 tvg-logo="" group-title="Documentary",DC------------------------------------------------------------------------
-#EXTINF:-1 tvg-logo="" group-title="Indian Bangla",IB------------------------------------------------------------------------
-#EXTINF:-1 tvg-logo="" group-title="Indian",I-----------------------------------------------------------------------
-#EXTINF:-1 tvg-logo="" group-title="English",E----------------------------------------------------------------------
-#EXTINF:-1 tvg-logo="" group-title="Sports",S-----------------------------------------------------------------------
-#EXTINF:-1 tvg-logo="" group-title="Music",M------------------------------------------------------------------------
-#EXTINF:-1 tvg-logo="" group-title="Kids",K-----------------------------------------------------------------------
-#EXTINF:-1 tvg-logo="" group-title="Others",O-----------------------------------------------------------------------
-#EXTINF:-1 tvg-logo="" group-title="Ityadi",IT-----------------------------------------------------------------------
-#EXTINF:-1 tvg-logo="" group-title="FM Radio",F------------------------------------------------------------------------
 
 
 
 
 
-
-
-
-
-
-
-#EXTINF:-1 tvg-logo="" group-title="New",31.AB TV
-
-#EXTINF:-1 tvg-logo="" group-title="BD IPTV",31.Agami TV
-http://str24.l9574.com/510.stream/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/3KDVQiO.jpg" group-title="BD IPTV",31.Al Dawah
-https://tempsignature.jagobd.com:444/cZVydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZT00U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/dawah-eu.stream/chunks.m3u8
-#EXTINF:0 tvg-logo="https://i.imgur.com/kxFshHZ.png" group-title="BD IPTV",31.Alif TV
+https://piratesiptv.shortcm.li/aldawah.m3u8
+
 
 #EXTINF:-1 tvg-logo="http://www.jagobd.com/wp-content/uploads/2020/06/alponatv.jpg" group-title="BD IPTV",32.Alpona TV
-https://tempsignature.jagobd.com:444/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PT0mdFsaWRtaW51aiPhnPTI/alponatv.stream/chunks.m3u8
-#EXTINF:-1 tvg-logo="https://cdn.bongobd.com/upload/channels/landscape/DJcpP2t4Mdp.png" group-title="BD IPTV",32.ATN Islamic TV
+https://piratesiptv.shortcm.li/alpona.m3u8
 
+#EXTINF:-1 tvg-logo="https://cdn.bongobd.com/upload/channels/landscape/DJcpP2t4Mdp.png" group-title="BD IPTV",32.ATN Islamic TV
+https://piratesiptv.shortcm.li/atnislam.m3u8
 #EXTINF:-1 tvg-logo="https://cdn.bongobd.com/upload/channels/landscape/DJcpP2t4Mdp.png" group-title="BD IPTV",32.Ayna TV
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/Tr6mXmp/Bangla-Channel.jpg" group-title="BD IPTV",32.Bangla Channel
@@ -2300,14 +2290,8 @@ http://103.102.27.172:6464/Channel-1/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://static.india.com/wp-content/uploads/2020/08/IPL-Logo.jpg" group-title="IPL Live",Live 4
 http://10.16.100.207:8082/sports/starsports_select1.m3u8
 #EXTINF:-1 tvg-logo="https://static.india.com/wp-content/uploads/2020/08/IPL-Logo.jpg" group-title="IPL Live",Live 5
-https://ipl-live.s3.ap-south-1.amazonaws.com/pkcast123.me_1/index2.m3u8
-#EXTINF:-1 tvg-logo="https://static.india.com/wp-content/uploads/2020/08/IPL-Logo.jpg" group-title="IPL Live",Live 6
-https://ipl-live.s3.ap-south-1.amazonaws.com/mixcasthd.com_2/index2.m3u8
-#EXTINF:-1 tvg-logo="https://static.india.com/wp-content/uploads/2020/08/IPL-Logo.jpg" group-title="IPL Live",Live 7
-https://ipl-live.s3.ap-south-1.amazonaws.com/mixcasthd.com_3/index2.m3u8
-#EXTINF:-1 tvg-logo="https://static.india.com/wp-content/uploads/2020/08/IPL-Logo.jpg" group-title="IPL Live",Live 8
 http://103.102.27.172:6464/Channel-2/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-logo="https://static.india.com/wp-content/uploads/2020/08/IPL-Logo.jpg" group-title="IPL Live",Live 9
+#EXTINF:-1 tvg-logo="https://static.india.com/wp-content/uploads/2020/08/IPL-Logo.jpg" group-title="IPL Live",Live 6
 http://103.205.133.21/hls/chss1.m3u8
 
 
