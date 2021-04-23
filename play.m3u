@@ -104,135 +104,39 @@ https://piratesiptv.shortcm.li/somoytv.m3u8
 
 
 
-
-
-
-
-
-
-
-
 #EXTINF:-1 tvg-logo="https://i.imgur.com/3KDVQiO.jpg" group-title="BD IPTV",31.Al Dawah
 https://piratesiptv.shortcm.li/aldawah.m3u8
-
-
 #EXTINF:-1 tvg-logo="http://www.jagobd.com/wp-content/uploads/2020/06/alponatv.jpg" group-title="BD IPTV",32.Alpona TV
 https://piratesiptv.shortcm.li/alpona.m3u8
-
-#EXTINF:-1 tvg-logo="https://cdn.bongobd.com/upload/channels/landscape/DJcpP2t4Mdp.png" group-title="BD IPTV",32.ATN Islamic TV
+#EXTINF:-1 tvg-logo="https://cdn.bongobd.com/upload/channels/landscape/DJcpP2t4Mdp.png" group-title="BD IPTV",33.ATN Islamic TV
 https://piratesiptv.shortcm.li/atnislam.m3u8
-#EXTINF:-1 tvg-logo="https://cdn.bongobd.com/upload/channels/landscape/DJcpP2t4Mdp.png" group-title="BD IPTV",32.Ayna TV
-
-#EXTINF:-1 tvg-logo="https://i.ibb.co/Tr6mXmp/Bangla-Channel.jpg" group-title="BD IPTV",32.Bangla Channel
-http://str24.l9574.com/515.stream/index.m3u8
-#EXTINF:-1 tvg-logo="https://image.winudf.com/v2/image/Y29tLmJkdHViZS5saXZlLnR2X3NjcmVlbnNob3RzXzFfOWI0ZTcwMTI/screen-1.jpg?fakeurl=1&type=.jpg" group-title="New",32.BD Live TV
-
-#EXTINF:-1 tvg-logo="" group-title="BD IPTV",33.Biswa Bangla 24 TV
-https://bdsl.jagobd.com:444/c2VydmVyX6RpbEU8Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/biswabanglatv.stream/chunks.m3u8
-#EXTINF:-1 tvg-logo="https://dl.dropbox.com/s/m28fuy4f9lpdkmw/bg.png" group-title="BD IPTV",33.Bongo TV
-
-#EXTINF:-1 tvg-logo="" group-title="BD IPTV",34.Can Bangla TV
-https://bdsl.jagobd.com:444/c2VydmVyX6RpbEU8Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/canbanglatv.stream/chunks.m3u8
-#EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/Qruo84PP04jnPb1rC1TR67DHd5gU9CfP8mZtdh2kVbbGB9equQKFIGjlYK4k62TJ8Yk" group-title="BD IPTV",34.CCN Bangla
-https://cdn1-europe.smartcast.tv/rtvd/cnnb_backup/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/03/Channel_H-logo.png" group-title="BD IPTV",34.Channel H
-
-#EXTINF:-1 tvg-logo="https://chsuk.tv/img/cateringcircle.png" group-title="BD IPTV",34.Channel S
-http://str24.l9574.com/519.stream/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/BKJ6bs4/Channel-t1.png" group-title="BD IPTV",34.Channel T1
-
-#EXTINF:-1 tvg-logo="" group-title="BD IPTV",35.Channel 23
-http://103.108.140.164:1009/channel23/livestream/chunklist.m3u8?token=soheliptv01826655778
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/a/a2/City_Channel_%28Dublin%29.png/200px-City_Channel_%28Dublin%29.png" group-title="BD IPTV",36.City TV
-https://tempx.jagobd.com:441/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PT0mdFsaWRtaW51aiPhnPTI/citytv.stream/chunks.m3u8
-#EXTINF:-1 tvg-logo="" group-title="BD IPTV",36.Colors BD TV
-
-#EXTINF:-1 tvg-logo="https://i.ibb.co/kVT6VKt/cumilla24.png" group-title="BD IPTV",37.Cumilla 24 TV
-https://tempsignature.jagobd.com:444/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PT0mdFsaWRtaW51aiPhnPTI/cumilla24.stream/chunks.m3u8
-#EXTINF:-1 tvg-logo="https://www.deshebideshe.com/wp-content/uploads/2020/10/Newspaper-Logo.png" group-title="BD IPTV",37.Deshe Bideshe
-
-#EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/proxy/6KsBwmAHtmufM3Yd7voJ7vq-5H_mgdWLcP4BGSnznamzn55wreYqbvCPD7dySpWqr7d-au-L2kuZEgTHm225Ovr58Eh7X892i5jFhUl-xpIPPsVaY96yHy9s" group-title="BD IPTV",38.Deshi TV
-http://72.139.72.18:1935/live/myStream/chunklist_w1702774192.m3u8?token=soheliptv01826655778
-#EXTINF:-1 tvg-logo="https://i.imgur.com/FEnjO1i.png" group-title="New",38.Digi Bangla
-
-#EXTINF:-1 tvg-logo="" group-title="BD IPTV",38.Doyel TV
-https://tempx.jagobd.com:441/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PT0mdFsaWRtaW51aiPhnPTI/doyeltv.stream/chunks.m3u8
-#EXTINF: -1 tvg-logo="" group-title="BD IPTV",38.Falguni TV
-https://atv-hls.telelivebd.com:443/atv/atv.m3u8
-#EXTINF: -1 tvg-logo="" group-title="BD IPTV",38.Fan Fest TV
-
-#EXTINF: -1 tvg-logo="https://i.imgur.com/iPJ2KkS.png" group-title="BD IPTV",38.Hernet TV
-
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQNtLHvYmy2sk22brHad-7L-Vdoxn-i-PI3zg&usqp=CAU" group-title="BD IPTV",39.ION TV
-https://bdsl.jagobd.com:444/c2VydmVyX6RpbEU8Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/iontvuk.stream/chunks.m3u8
-#EXTINF:0 tvg-logo="https://i.imgur.com/ASztPbS.png" group-title="BD IPTV",40.ITV Bangla
-http://str24.l9574.com/512.stream/index.m3u8
-#EXTINF:-1 tvg-logo="http://www.jagobd.com/wp-content/uploads/2020/02/jagoronitv.jpg" group-title="BD IPTV",40.Jagoroni TV
-
-#EXTINF:-1 tvg-logo="https://3.bp.blogspot.com/-DM-9bTa8Ebw/W7hLpa9mpmI/AAAAAAAACic/_ZEd4iFe4xEg4KnqWLyFZryB5duQRosHQCLcBGAs/w1200-h630-p-k-no-nu/Jonmobhumi-TV-bd.png" group-title="BD IPTV",41.JonmoBhumi TV
-https://bdsl.jagobd.com:444/c2VydmVyX6RpbEU8Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/jonmobhumitv.stream/chunks.m3u8
-#EXTINF:-1 tvg-logo="http://joyjatra.tv/front_end_assets/images/logo.png" group-title="BD IPTV",42.JoyJatra TV
-https://tempsignature.jagobd.com:444/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PT0mdFsaWRtaW51aiPhnPTI/joyjatratv.stream/chunks.m3u8
-#EXTINF:-1 tvg-logo="https://yt3.ggpht.com/ytc/AAUvwnjwGg2XyMGxFITXm_54WBnNF_zBYcYw9n1E_PlCxoo=s900-c-k-c0x00ffffff-no-rj" group-title="BD IPTV",43.KTV Bangla
-https://server1.jadubd.com/ktvbangla/ktvbangla/playlist.m3u8?token=soheliptv01826655778
-#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1037326822327771137/3kMT-9Go_400x400.jpg" group-title="BD IPTV",43.Magic Bangla IPTV
-
-#EXTINF:-1 tvg-logo="" group-title="BD IPTV",43.MAQ TV
-http://str24.l9574.com/517.stream/index.m3u8
-#EXTINF:-1 tvg-logo="" group-title="BD IPTV",43.Meem TV
-
-#EXTINF:-1 tvg-logo="https://www.millenniumtv.org/wp-content/uploads/2017/01/IMG_1669-e1484721043731.png" group-title="BD IPTV",44.Millennium TV
-
-#EXTINF:-1 tvg-logo="https://tv.bdtype.com/uploads/tv_image/movie-bangla.png" group-title="BD IPTV",45.Movie Bangla
-https://tempinfobase.jagobd.com:444/cZVydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZT00U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/moviebanglalink2.stream/chunks.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/AntJjP7.jpg" group-title="BD IPTV",46.My Cinema
-https://tempsignature.jagobd.com:444/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PT0mdFsaWRtaW51aiPhnPTI/mycinema-up2.stream/chunks.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/xJjQP6L/Nan-Tv-Logo-Final.png" group-title="BD IPTV",47.NAN TV
-https://tempsignature.jagobd.com:444/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PT0mdFsaWRtaW51aiPhnPTI/nantv.stream/chunks.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/7HplreU.jpg" group-title="BD IPTV",47.Nandan TV
+#EXTINF:-1 tvg-logo="" group-title="BD IPTV",34.Bangla 21 TV
+https://piratesiptv.shortcm.li/bangla21.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/a/a2/City_Channel_%28Dublin%29.png/200px-City_Channel_%28Dublin%29.png" group-title="BD IPTV",35.City TV
+https://piratesiptv.shortcm.li/city.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/kVT6VKt/cumilla24.png" group-title="BD IPTV",36.Cumilla 24 TV
+https://piratesiptv.shortcm.li/cumilla.m3u8
+#EXTINF:-1 tvg-logo="" group-title="BD IPTV",37.Doyel TV
+https://piratesiptv.shortcm.li/doyel.m3u8
+#EXTINF:-1 tvg-logo="http://joyjatra.tv/front_end_assets/images/logo.png" group-title="BD IPTV",38.JoyJatra TV
+https://piratesiptv.shortcm.li/joyjatra.m3u8
+#EXTINF:-1 tvg-logo="https://yt3.ggpht.com/ytc/AAUvwnjwGg2XyMGxFITXm_54WBnNF_zBYcYw9n1E_PlCxoo=s900-c-k-c0x00ffffff-no-rj" group-title="BD IPTV",39.KTV Bangla
+https://piratesiptv.shortcm.li/ktv.m3u8
+#EXTINF:-1 tvg-logo="https://tv.bdtype.com/uploads/tv_image/movie-bangla.png" group-title="BD IPTV",40.Movie Bangla
+https://piratesiptv.shortcm.li/mbangla.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/AntJjP7.jpg" group-title="BD IPTV",41.My Cinema
+https://piratesiptv.shortcm.li/mcinema.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/xJjQP6L/Nan-Tv-Logo-Final.png" group-title="BD IPTV",42.NAN TV
+https://piratesiptv.shortcm.li/nan.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/4d/VoiceTV.png" group-title="BD IPTV",43.Voice TV
+https://piratesiptv.shortcm.li/voice.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/iPJ2KkS.png" group-title="BD IPTV",44.71 Bangla TV
+https://piratesiptv.shortcm.li/71bangla.m3u8
 
 
-#EXTINF:-1 tvg-logo="" group-title="BD IPTV",48.NB TV
 
-#EXTINF:-1 tvg-logo="" group-title="BD IPTV",48.Nobodip TV
-http://nobodip.mywire.org:8081/beeiptv/nobodip/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/RbDyWwm/Nokshi-TV.jpg" group-title="BD IPTV",47.Nokshi TV
 
-#EXTINF:-1 tvg-logo="" group-title="BD IPTV",48.Notun Somoy
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/Brv8XBm/NRB-TV.png" group-title="BD IPTV",48.NRB TV
-
-#EXTINF:-1 tvg-logo="https://i.ibb.co/frXHYFM/NRB-Connect.jpg" group-title="BD IPTV",48.NRB Connect
-
-#EXTINF:-1 tvg-logo="https://res06.noxgroup.com/noxinfluencer/youtube/avatar/db892508ed4b5138ecd0fbc57902a122.png" group-title="BD IPTV",49.Panvision TV
-
-#EXTINF:-1 tvg-logo="https://i.ibb.co/R90Dt54/Probashi-Bangla.jpg" group-title="BD IPTV",49.Probashi Bangla
-
-#EXTINF:-1 tvg-logo="https://i.ibb.co/yVhj8XM/Rang-TV.jpg" group-title="BD IPTV",49.Rang TV
-
-#EXTINF:-1 tvg-logo="https://i.ibb.co/tBZhq2c/Roal-TV.jpg" group-title="BD IPTV",49.Roal TV
-
-#EXTINF:-1 tvg-logo="https://media-exp1.licdn.com/dms/image/C4E0BAQE158A8SYFWWw/company-logo_200_200/0?e=2159024400&v=beta&t=5FmfI6ynqEqdIlnTmc3cUkRp5vmwV6RnC5kZLA_4LSw" group-title="BD IPTV",50.TBN 24
-http://fingerme.dg21bd.com/TBN24/index.m3u8
-#EXTINF:-1 tvg-logo="" group-title="BD IPTV",51.The Channel TV
-http://str24.l9574.com/518.stream/index.m3u8
-https://tempsignature.jagobd.com:444/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PT0mdFsaWRtaW51aiPhnPTI/royaltv.stream/chunks.m3u8
-#EXTINF:-1 tvg-logo="https://yt3.ggpht.com/a/AATXAJyu9IgVGbqT0a7Ip2Vu8dAAZQfJ43mMgMtBWd1O=s900-c-k-c0x00ffffff-no-rj" group-title="BD IPTV",51.Time TV
-https://bdsl.jagobd.com:444/c2VydmVyX6RpbEU8Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/timetvusa.stream/chunks.m3u8
-#EXTINF:-1 tvg-logo="" group-title="New",51.US Bangla
-
-#EXTINF:-1 tvg-logo="" group-title="New",51.Utshorgo TV
-
-#EXTINF:-1 tvg-logo="https://i1.sndcdn.com/avatars-000666839783-brht5n-t500x500.jpg" group-title="New",51.Varendra TV
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/4d/VoiceTV.png" group-title="BD IPTV",52.Voice TV
-https://tempx.jagobd.com:441/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PT0mdFsaWRtaW51aiPhnPTI/voicetv.stream/chunks.m3u8
-#EXTINF:-1 tvg-logo="https://image.winudf.com/v2/image/Y29tLnlvdXRoYmFuZ2xhdHYudHZfc2NyZWVuXzBfMTUyMTgxMDE4NF8wMjE/screen-0.jpg?fakeurl=1&type=.jpg" group-title="BD IPTV",53.Youth Bangla TV
-
-#EXTINF:-1 tvg-logo="" group-title="BD IPTV",54.52 TV
-http://str24.l9574.com/503.stream/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/iPJ2KkS.png" group-title="BD IPTV",54.71 Bangla TV
-https://tempx.jagobd.com:441/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PT0mdFsaWRtaW51aiPhnPTI/71bangla.stream/chunks.m3u8
 
 
 
