@@ -397,47 +397,27 @@ https://piratesiptv.shortcm.li/select1.m3u8
 https://piratesiptv.shortcm.li/select2.m3u8
 #EXTINF:0 tvg-language="Sohel_Ahmed" tvg-logo="https://www.dropbox.com/s/rgblmfl0utzapcv/sohel.jpeg?raw=1" group-title="Sports",180.T Sports
 https://piratesiptv.shortcm.li/tsports.m3u8
+#EXTINF:0 tvg-language="Sohel_Ahmed" tvg-logo="https://www.dropbox.com/s/rgblmfl0utzapcv/sohel.jpeg?raw=1" group-title="Sports",181.DD Sports
+https://piratesiptv.shortcm.li/ddsports.meu8
+#EXTINF:0 tvg-language="Sohel_Ahmed" tvg-logo="https://www.dropbox.com/s/rgblmfl0utzapcv/sohel.jpeg?raw=1" group-title="Sports",182.PTV Sports
+https://piratesiptv.shortcm.li/ptvsports.m3u8
+#EXTINF:0 tvg-language="Sohel_Ahmed" tvg-logo="https://www.dropbox.com/s/rgblmfl0utzapcv/sohel.jpeg?raw=1" group-title="Sports",183.AD Sports 1
+https://piratesiptv.shortcm.li/adsports1.m3u8
+#EXTINF:0 tvg-language="Sohel_Ahmed" tvg-logo="https://www.dropbox.com/s/rgblmfl0utzapcv/sohel.jpeg?raw=1" group-title="Sports",183.AD Sports 2
+https://piratesiptv.shortcm.li/adsports2.m3u8
+#EXTINF:0 tvg-language="Sohel_Ahmed" tvg-logo="https://www.dropbox.com/s/rgblmfl0utzapcv/sohel.jpeg?raw=1" group-title="Sports",184.Bein Sports
+
+#EXTINF:0 tvg-language="Sohel_Ahmed" tvg-logo="https://www.dropbox.com/s/rgblmfl0utzapcv/sohel.jpeg?raw=1" group-title="Sports",185.Eurosports 1
+https://piratesiptv.shortcm.li/euro1.m3u8
+#EXTINF:0 tvg-language="Sohel_Ahmed" tvg-logo="https://www.dropbox.com/s/rgblmfl0utzapcv/sohel.jpeg?raw=1" group-title="Sports",185.Eurosports 2
+https://piratesiptv.shortcm.li/euro2.m3u8
+#EXTINF:0 tvg-language="Sohel_Ahmed" tvg-logo="https://www.dropbox.com/s/rgblmfl0utzapcv/sohel.jpeg?raw=1" group-title="Sports",186.FC Bayern TV Live
+https://piratesiptv.shortcm.li/fcbayan.m3u8
 
 
 
 
 
-
-
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcRuY1FfH8Si2SPvu9Hw4LNliLdeBVyYs6kW6jY9Hy6iMfY3D-34&usqp=CAU" group-title="Sports",151.PTV Sports
-http://42.201.228.226:8678/PTVSPORT_NOC_MOMILE/mono.m3u8
-
-
-
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSUrU8mm3L9Z3Jz0FUGZX4B-xYSuynFxdqeug&usqp=CAU" group-title="Sports",159.Eurosports 1
-http://91.126.141.201:1935/live/eurosport1nntv/index.m3u8
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSUrU8mm3L9Z3Jz0FUGZX4B-xYSuynFxdqeug&usqp=CAU" group-title="Sports",159.Eurosports 1
-http://91.126.141.201:1935/live/smil:eurosport1nntv.smil/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSUrU8mm3L9Z3Jz0FUGZX4B-xYSuynFxdqeug&usqp=CAU" group-title="Sports",159.Eurosports 2
-http://91.126.141.201:1935/live/eurosport2hdnntv/index.m3u8
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSUrU8mm3L9Z3Jz0FUGZX4B-xYSuynFxdqeug&usqp=CAU" group-title="Sports",159.Eurosports 2
-http://91.126.141.201:1935/live/smil:eurosport2hdnntv.smil/playlist.m3u8
-
-#EXTINF:0 tvg-logo="https://i.imgur.com/YTI1AMs.jpg" group-title="Sports",160.Real Madrid TV 1
-http://rmtvlive-lh.akamaihd.net/i/rmtv_1@154306/index_1000_av-b.m3u8?token=soheliptv01826655778
-
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcT-VkQ2htIclLyzQ5UZsgtVpVhBkD-daAqDTw&usqp=CAU" group-title="Sports",162.FC Bayern TV Live
-http://fcblive-a.akamaized.net/dc-1/live/hls/p/2090621/e/1_ts6d5c4t/sd/6000/t/wPWuj7PJbQj6MbHjb-7PzA/index-s32.m3u8?token=soheliptv01826655778
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcR75_RsxHPl2jXXH3qQA6WjbsTobdOg8_AXzw&usqp=CAU" group-title="Sports",163.BT Sports 2
-
-
-#EXTINF:-1 tvg-logo="https://abudhabi3x3.files.wordpress.com/2015/10/adsports.png" group-title="Sports",165.Abu Dhabi Sports 1
-https://admdn1.cdn.mangomolo.com/adsports1/smil:adsports1.stream.smil/chunklist_b1800000_t64NzIwcA==.m3u8
-#EXTINF:-1 tvg-logo="https://abudhabi3x3.files.wordpress.com/2015/10/adsports.png" group-title="Sports",166.Abu Dhabi Sports 2
-https://admdn5.cdn.mangomolo.com/adsports2/smil:adsports2.stream.smil/chunklist_b1800000_t64NzIwcA==.m3u8
-#EXTINF:-1 group-title="Sports",167.Dubai Sports 1
-http://www.elahmad.com/tv/m3u8/dubaitv.m3u8?id=dubaisports1
-#EXTINF:0 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcRTsAJDKaJMiyjtdK34JEE09bEq3fHvUQ7rfg&usqp=CAU" group-title="Sports",168.WWE Network
-
-#EXTINF:0 tvg-logo="https://i.imgur.com/YTI1AMs.jpg" group-title="Sports",169.Real Madrid TV
-http://rmtvlive-lh.akamaihd.net/i/rmtv_1@154306/index_1000_av-b.m3u8
-#EXTINF:0 tvg-logo="https://s6.gifyu.com/images/imagec5ef8fcea3c5fef5.png" group-title="Sports",170.DD Sports
-http://103.199.161.254/Content/ddsports/Live/Channel(DDSPORTS)/index.m3u8
 
 
 
