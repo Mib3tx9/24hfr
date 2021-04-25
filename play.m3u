@@ -368,93 +368,46 @@ https://piratesiptv.shortcm.li/foxlife.m3u8
 #EXTINF:0 tvg-language="Sohel_Ahmed" tvg-logo="https://www.dropbox.com/s/rgblmfl0utzapcv/sohel.jpeg?raw=1" group-title="English",163.AXN
 https://piratesiptv.shortcm.li/axn.m3u8
 #EXTINF:0 tvg-language="Sohel_Ahmed" tvg-logo="https://www.dropbox.com/s/rgblmfl0utzapcv/sohel.jpeg?raw=1" group-title="English",164.HBO
-http://36.37.252.114:888/Apple/OneTV-030/playlist.m3u8
+https://piratesiptv.shortcm.li/hbo.m3u8
 #EXTINF:0 tvg-language="Sohel_Ahmed" tvg-logo="https://www.dropbox.com/s/rgblmfl0utzapcv/sohel.jpeg?raw=1" group-title="English",165.HBO Family
-http://36.37.252.114:888/Apple/OneTV-033/playlist.m3u8
+https://piratesiptv.shortcm.li/hbofamily.m3u8
 #EXTINF:0 tvg-language="Sohel_Ahmed" tvg-logo="https://www.dropbox.com/s/rgblmfl0utzapcv/sohel.jpeg?raw=1" group-title="English",166.HBO Hits
-http://36.37.252.114:888/Apple/OneTV-031/playlist.m3u8
+https://piratesiptv.shortcm.li/hbohits1.m3u8
 #EXTINF:0 tvg-language="Sohel_Ahmed" tvg-logo="https://www.dropbox.com/s/rgblmfl0utzapcv/sohel.jpeg?raw=1" group-title="English",166.HBO Hits [2]
-https://liveorigin01.hbogoasia.com:8443/origin/live/main/HITS/index.m3u8
+https://piratesiptv.shortcm.li/hbohits2.m3u8
+#EXTINF:0 tvg-language="Sohel_Ahmed" tvg-logo="https://www.dropbox.com/s/rgblmfl0utzapcv/sohel.jpeg?raw=1" group-title="English",167.HBO Signature
+https://piratesiptv.shortcm.li/hbosig.m3u8
+#EXTINF:0 tvg-language="Sohel_Ahmed" tvg-logo="https://www.dropbox.com/s/rgblmfl0utzapcv/sohel.jpeg?raw=1" group-title="Sports",171.Sony Ten 1
+https://piratesiptv.shortcm.li/ten1.m3u8
+#EXTINF:0 tvg-language="Sohel_Ahmed" tvg-logo="https://www.dropbox.com/s/rgblmfl0utzapcv/sohel.jpeg?raw=1" group-title="Sports",172.Sony Ten 2
+https://piratesiptv.shortcm.li/ten2.m3u8
+#EXTINF:0 tvg-language="Sohel_Ahmed" tvg-logo="https://www.dropbox.com/s/rgblmfl0utzapcv/sohel.jpeg?raw=1" group-title="Sports",173.Sony Ten 3
+https://piratesiptv.shortcm.li/ten3.m3u8
+#EXTINF:0 tvg-language="Sohel_Ahmed" tvg-logo="https://www.dropbox.com/s/rgblmfl0utzapcv/sohel.jpeg?raw=1" group-title="Sports",174.Sony Six HD
+https://piratesiptv.shortcm.li/six.m3u8
+#EXTINF:0 tvg-language="Sohel_Ahmed" tvg-logo="https://www.dropbox.com/s/rgblmfl0utzapcv/sohel.jpeg?raw=1" group-title="Sports",175.Star Sports 1
+https://piratesiptv.shortcm.li/starsports1.m3u8
+#EXTINF:0 tvg-language="Sohel_Ahmed" tvg-logo="https://www.dropbox.com/s/rgblmfl0utzapcv/sohel.jpeg?raw=1" group-title="Sports",176.Star Sports 2
+https://piratesiptv.shortcm.li/starsports2.m3u8
+#EXTINF:0 tvg-language="Sohel_Ahmed" tvg-logo="https://www.dropbox.com/s/rgblmfl0utzapcv/sohel.jpeg?raw=1" group-title="Sports",177.Star Sports 3
+
+#EXTINF:0 tvg-language="Sohel_Ahmed" tvg-logo="https://www.dropbox.com/s/rgblmfl0utzapcv/sohel.jpeg?raw=1" group-title="Sports",178.Star Sports Select 1
+https://piratesiptv.shortcm.li/select1.m3u8
+#EXTINF:0 tvg-language="Sohel_Ahmed" tvg-logo="https://www.dropbox.com/s/rgblmfl0utzapcv/sohel.jpeg?raw=1" group-title="Sports",179.Star Sports Select 2
+https://piratesiptv.shortcm.li/select2.m3u8
+#EXTINF:0 tvg-language="Sohel_Ahmed" tvg-logo="https://www.dropbox.com/s/rgblmfl0utzapcv/sohel.jpeg?raw=1" group-title="Sports",180.T Sports
+https://piratesiptv.shortcm.li/tsports.m3u8
 
 
 
 
 
 
-
-#EXTINF:-1 tvg-logo="" group-title="Sports",151.Ten Sports
-http://portal.simiptv.co.uk:8080/alipajiuk/oRGQpcPAkZ/223
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/1/11/T_Sports_logo.png" group-title="Sports",151.T Sports
-http://10.16.100.207:8082/sports/sportst.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/1/11/T_Sports_logo.png" group-title="Sports",151.T Sports [1]
-http://103.102.27.172:6464/Channel-1/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/1/11/T_Sports_logo.png" group-title="Sports",151.T Sports [2]
-http://otv.ftpbd.net/streams/121/index.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/1/11/T_Sports_logo.png" group-title="Sports",151.T Sports [3]
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcRuY1FfH8Si2SPvu9Hw4LNliLdeBVyYs6kW6jY9Hy6iMfY3D-34&usqp=CAU" group-title="Sports",151.PTV Sports
-https://32x2cn7zz29m47vnqt4z-kyz6hw.p5cdn.com/abr_PSLME/zxcv/PSLME/zxcv_720p/chunks.m3u8
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcRuY1FfH8Si2SPvu9Hw4LNliLdeBVyYs6kW6jY9Hy6iMfY3D-34&usqp=CAU" group-title="Sports",151.PTV Sports [2]
 http://42.201.228.226:8678/PTVSPORT_NOC_MOMILE/mono.m3u8
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcRuY1FfH8Si2SPvu9Hw4LNliLdeBVyYs6kW6jY9Hy6iMfY3D-34&usqp=CAU" group-title="Sports",151.PTV Sports [3]
-http://103.102.27.172:6464/Channel-4/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/HOB0eef.jpg" group-title="Sports",152.Sony Ten 1
-http://103.205.133.21/hls/ten1.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/Ryh5Cdy.jpg" group-title="Sports",153.Sony Ten 2
-http://103.205.133.21/hls/ten2.m3u8
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcSl1Yq3bZ22fNuVU2Mv6QoJ3oWXL8MuIFWeSRFvaJaS7PkODkoe&usqp=CAU" group-title="Sports",154.Sony Ten 3
-http://103.205.133.21/hls/ten3.m3u8
-#EXTINF:-1 tvg-id="Sony Six" tvg-name="Sony Six" tvg-logo="https://upload.wikimedia.org/wikipedia/en/2/20/Sony_SIX_logo.png" group-title="Sports",154.Sony Six HD
-http://103.205.133.21/hls/sonysix.m3u8
-#EXTINF:-1 tvg-id="Sony Six" tvg-name="Sony Six" tvg-logo="https://upload.wikimedia.org/wikipedia/en/2/20/Sony_SIX_logo.png" group-title="Sports",154.Sony Six HD
-http://103.102.27.172:6464/Channel-3/tracks-v1a1/mono.m3u8
 
-#EXTINF:0 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcSNVGhs7QhbNaKPnV8CB3v-AWYPXm0Ogk67mx__hKnLLrEddb-y&usqp=CAU" group-title="Sports",155.Star Sports 1
-http://103.205.133.21/hls/chss1.m3u8
-#EXTINF:0 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcSNVGhs7QhbNaKPnV8CB3v-AWYPXm0Ogk67mx__hKnLLrEddb-y&usqp=CAU" group-title="Sports",155.Star Sports 1 HD
 
-#EXTINF:0 tvg-logo="https://s4.gifyu.com/images/image04e6530896d42919.png" group-title="Sports",156.Star Sports 2 HD
-http://221.120.204.4/STAR-SPORTS-2/tracks-v1a1/mono.m3u8
-#EXTINF:0 tvg-logo="https://s4.gifyu.com/images/image04e6530896d42919.png" group-title="Sports",156.Star Sports 2 HD
-http://portal.simiptv.co.uk:8080/alipajiuk/oRGQpcPAkZ/221
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcR6tKGIbFwRkp6-mPHONnKs7Z3z1gn0awHUZsF14CHLfGIs-q4J&usqp=CAU" group-title="Sports",156.Star Sports 3
-
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcRTRFl6hSXeS1mPQ0DqOy3GU_JVY45Yj2x-pTR4orQrheauFZQD&usqp=CAU" group-title="Sports",156.Star Sports Select 1
-http://10.16.100.207:8082/sports/starsports_select1.m3u8
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQLJgDCNnSBTB40fYZEqNlHlemsytR0lzCqlhH8a-ksiN1ZH9LS&usqp=CAU" group-title="Sports",156.Star Sports Select 2
-http://103.205.133.21/hls/chss2.m3u8
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQLJgDCNnSBTB40fYZEqNlHlemsytR0lzCqlhH8a-ksiN1ZH9LS&usqp=CAU" group-title="Sports",156.Star Sports Select 2
-http://tjszdhm3.tvclub.xyz/iptv/69AWBEYGGS5VZ6/2507/index.m3u8
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQLJgDCNnSBTB40fYZEqNlHlemsytR0lzCqlhH8a-ksiN1ZH9LS&usqp=CAU" group-title="Sports",156.Star Sports Select 2
-http://portal.simiptv.co.uk:8080/alipajiuk/oRGQpcPAkZ/220
-
-#EXTINF:-1 tvg-logo="https://apps.beinsports.com/dev/au/images/XTRA.png" group-title="Sports",158.Bein Sports Xtra
-
-#EXTINF:-1 tvg-logo="https://cdn.bein.net/bmg/wp-content/uploads/2015/03/beINSPORTS.png" group-title="Sports",158.Bein Sports HD
-
-#EXTINF:-1 tvg-logo="https://cdn.bein.net/bmg/wp-content/uploads/2015/03/beINSPORTS.png" group-title="Sports",158.Bein Sports 1 HD
-
-#EXTINF:-1 tvg-logo="https://cdn.bein.net/bmg/wp-content/uploads/2015/03/beINSPORTS.png" group-title="Sports",158.Bein Sports 2 HD
-
-#EXTINF:-1 tvg-logo="https://cdn.bein.net/bmg/wp-content/uploads/2015/03/beINSPORTS.png" group-title="Sports",158.Bein Sports 3 HD
-
-#EXTINF:-1 tvg-logo="https://cdn.bein.net/bmg/wp-content/uploads/2015/03/beINSPORTS.png" group-title="Sports",158.Bein Sports 4 HD
-
-#EXTINF:-1 tvg-logo="https://cdn.bein.net/bmg/wp-content/uploads/2015/03/beINSPORTS.png" group-title="Sports",158.Bein Sports 5 HD
-
-#EXTINF:-1 tvg-logo="https://cdn.bein.net/bmg/wp-content/uploads/2015/03/beINSPORTS.png" group-title="Sports",158.Bein Sports 6 HD
-
-#EXTINF:-1 tvg-logo="https://cdn.bein.net/bmg/wp-content/uploads/2015/03/beINSPORTS.png" group-title="Sports",158.Bein Sports 7 HD
-
-#EXTINF:-1 tvg-logo="https://cdn.bein.net/bmg/wp-content/uploads/2015/03/beINSPORTS.png" group-title="Sports",158.Bein Sports 8 HD
-
-#EXTINF:-1 tvg-logo="https://cdn.bein.net/bmg/wp-content/uploads/2015/03/beINSPORTS.png" group-title="Sports",158.Bein Sports 9 HD
-
-#EXTINF:-1 tvg-logo="https://cdn.bein.net/bmg/wp-content/uploads/2015/03/beINSPORTS.png" group-title="Sports",158.Bein Sports 10 HD
-
-#EXTINF:-1 tvg-logo="https://cdn.bein.net/bmg/wp-content/uploads/2015/03/beINSPORTS.png" group-title="Sports",158.Bein Sports 11 HD
-
-#EXTINF:-1 tvg-logo="https://cdn.bein.net/bmg/wp-content/uploads/2015/03/beINSPORTS.png" group-title="Sports",158.Bein Sports 12 HD
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSUrU8mm3L9Z3Jz0FUGZX4B-xYSuynFxdqeug&usqp=CAU" group-title="Sports",159.Eurosports 1
 http://91.126.141.201:1935/live/eurosport1nntv/index.m3u8
@@ -800,51 +753,6 @@ http://10.16.100.207:8082/sports/ten1_720.m3u8
 http://10.16.100.207:8082/sports/starsports_select1.m3u8
 #EXTINF:-1 tvg-logo="" group-title="BDIX Server 2",T Sports [2]
 http://10.16.100.207:8082/sports/sportst.m3u8
-
-
-
-
-#EXTINF:0 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcS_3lZ-3SjyKCjtm6yO_Hud67PWDfVlYQvpXMVEA_2NZnwkaip4&usqp=CAU" group-title="BDIX Server 3 (12:00am-6:00pm)",Gazi TV (GTV) [3]
-http://otv.ftpbd.net/streams/121/index.m3u8
-#EXTINF:0 tvg-logo="https://i.imgur.com/oTIxOpZ.png" group-title="BDIX Server 3 (12:00am-6:00pm)",Zee Bangla [3]
-http://otv.ftpbd.net/streams/107/index.m3u8
-#EXTINF:0 tvg-logo="https://i.imgur.com/gigcgc2.png" group-title="BDIX Server 3 (12:00am-6:00pm)",Sony Aath [3]
-http://otv.ftpbd.net/streams/127/index.m3u8
-#EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/en/d/d0/Star_Jalsha_logo.jpg" group-title="BDIX Server 3 (12:00am-6:00pm)",Jalsha Movies [3]
-http://otv.ftpbd.net/streams/115/index.m3u8
-#EXTINF:0 tvg-logo="https://broadcastprome.com/wp-content/uploads/2017/11/logo-300x200.png" group-title="BDIX Server 3 (12:00am-6:00pm)",National Geographic HD [3]
-http://otv.ftpbd.net/streams/110/index.m3u8
-#EXTINF:0 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSXt7K10kZzu0Lo2xK6YbkcFe2C4ShIqGtJ7w&usqp=CAU" group-title="BDIX Server 3 (12:00am-6:00pm)",UTV Action [3]
-http://otv.ftpbd.net/streams/124/index.m3u8
-#EXTINF:0 tvg-logo="https://i.imgur.com/NIfMrhI.png" group-title="BDIX Server 3 (12:00am-6:00pm)",Star Movies HD [3]
-http://otv.ftpbd.net/streams/125/index.m3u8
-#EXTINF:0 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcTriqQiQCfQXMvr_Ak8e-T7vwUSpXsdzf_OYg4S0bhmSXiMpPKv&usqp=CAU" group-title="BDIX Server 3 (12:00am-6:00pm)",Cartoon Network [3]
-http://otv.ftpbd.net/streams/123/index.m3u8
-#EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/en/2/20/Sony_SIX_logo.png" group-title="BDIX Server 3 (12:00am-6:00pm)",Sony Six [3]
-http://otv.ftpbd.net/streams/106/index.m3u8
-#EXTINF:0 tvg-logo="https://i.imgur.com/HOB0eef.jpg" group-title="BDIX Server 3 (12:00am-6:00pm)",Sony Ten 1 [3]
-http://otv.ftpbd.net/streams/122/index.m3u8
-#EXTINF:0 tvg-logo="https://i.imgur.com/Ryh5Cdy.jpg" group-title="BDIX Server 3 (12:00am-6:00pm)",Sony Ten 2 [3]
-http://otv.ftpbd.net/streams/109/index.m3u8
-#EXTINF:0 tvg-logo="https://s4.gifyu.com/images/image04e6530896d42919.png" group-title="BDIX Server 3 (12:00am-6:00pm)",Star Sports 2 HD [3]
-http://otv.ftpbd.net/streams/116/index.m3u8
-#EXTINF:0 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcRTRFl6hSXeS1mPQ0DqOy3GU_JVY45Yj2x-pTR4orQrheauFZQD&usqp=CAU" group-title="BDIX Server 3 (12:00am-6:00pm)",Star Sports Select 1 HD [3]
-http://otv.ftpbd.net/streams/111/index.m3u8
-#EXTINF:0 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQLJgDCNnSBTB40fYZEqNlHlemsytR0lzCqlhH8a-ksiN1ZH9LS&usqp=CAU" group-title="BDIX Server 3 (12:00am-6:00pm)",Star Sports Select 2 HD [3]
-http://otv.ftpbd.net/streams/114/index.m3u8
-
-
-#EXTINF:0 tvg-language="Bangla" tvg-logo="https://s4.gifyu.com/images/image2b075f0e0fd37461.png" group-title="BDIX Server 4 (4G Server)",ATN News [4]
-https://piratesiptv.shortcm.li/atnnews.m3u8
-#EXTINF:0 tvg-language="Bangla" tvg-logo="https://cdn.bongobd.com/upload/channels/landscape/Dh0neKDKLrs.png" group-title="BDIX Server 4 (4G Server)",Channel 24 [4]
-https://piratesiptv.shortcm.li/channel24.m3u8
-#EXTINF:0 tvg-language="Bangla" tvg-logo="https://s4.gifyu.com/images/imagea02f4314e761661d.png" group-title="BDIX Server 4 (4G Server)",Ekattoor [4]
-https://piratesiptv.shortcm.li/ekattor.m3u8
-#EXTINF:0 tvg-language="Bangla" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcS_3lZ-3SjyKCjtm6yO_Hud67PWDfVlYQvpXMVEA_2NZnwkaip4&usqp=CAU" group-title="BDIX Server 4 (4G Server)",Gazi TV (GTV) [4]
-https://piratesiptv.shortcm.li/gazitv.m3u8
-#EXTINF:0 tvg-language="Bangla" tvg-logo="https://s4.gifyu.com/images/image099aceca4574557b.png" group-title="BDIX Server 4 (4G Server)",Somoy TV [4]
-https://piratesiptv.shortcm.li/somoytv.m3u8
-
 
 
 
@@ -1647,43 +1555,24 @@ http://10.16.100.206/ftps3/ftps3d1/TV%20Show/Other%20Foreign/Turkish/Dirilis%20E
 
 
 
-#EXTM3U
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Tamil" tvg-logo="" tvg-country="IN" tvg-url="" group-title="Tamil",K TV IND
-http://portal.simiptv.co.uk:8080/alipajiuk/oRGQpcPAkZ/611
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Tamil" tvg-logo="" tvg-country="IN" tvg-url="" group-title="Tamil",K TV
-http://uk1.zecast.com:1935/star-live/ktv/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Tamil" tvg-logo="" tvg-country="IN" tvg-url="" group-title="Tamil",K TV HD
-http://uk1.zecast.com:1935/star-live/ktv/chunklist_w866208673.m3u8
+
+
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Tamil" tvg-logo="" tvg-country="IN" tvg-url="" group-title="Tamil",K TV HD Link 2
 http://pn.tvott.info:80/307254552277/307254552277/83959
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Tamil" tvg-logo="" tvg-country="IN" tvg-url="" group-title="Tamil",K TV FHD USA
-http://portal.simiptv.co.uk:8080/alipajiuk/oRGQpcPAkZ/610
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Tamil" tvg-logo="" tvg-country="IN" tvg-url="" group-title="Tamil",K TV FHD UK
-http://portal.simiptv.co.uk:8080/alipajiuk/oRGQpcPAkZ/417
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Tamil" tvg-logo="" tvg-country="IN" tvg-url="" group-title="Tamil",Sun TV IND
-http://portal.simiptv.co.uk:8080/alipajiuk/oRGQpcPAkZ/382
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Tamil" tvg-logo="" tvg-country="IN" tvg-url="" group-title="Tamil",Sun TV Link 2
 http://pn.tvott.info:80/307254552277/307254552277/83947
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Tamil" tvg-logo="" tvg-country="IN" tvg-url="" group-title="Tamil",Sun TV UK
-http://portal.simiptv.co.uk:8080/alipajiuk/oRGQpcPAkZ/631
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Tamil" tvg-logo="" tvg-country="IN" tvg-url="" group-title="Tamil",Sun TV USA
 http://uk4.zecast.com:1935/star-live/suntv.stream/chunklist_w1331398042.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Tamil" tvg-logo="" tvg-country="IN" tvg-url="" group-title="Tamil",Sun TV USA 2
-http://portal.simiptv.co.uk:8080/alipajiuk/oRGQpcPAkZ/384
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Tamil" tvg-logo="" tvg-country="IN" tvg-url="" group-title="Tamil",STAR VIJAY HD
 http://pn.tvott.info:80/307254552277/307254552277/83951
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Tamil" tvg-logo="" tvg-country="IN" tvg-url="" group-title="Tamil",Zee Tamil
 https://oreotv.us/live/gee/zee_v2.m3u8?id=0-9-zeetamil
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Tamil" tvg-logo="" tvg-country="IN" tvg-url="" group-title="Tamil",Zee Tamil Link 2
-http://portal.simiptv.co.uk:8080/alipajiuk/oRGQpcPAkZ/368
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Tamil" tvg-logo="" tvg-country="IN" tvg-url="" group-title="Tamil",Zee Tamil Link 3
 http://pn.tvott.info:80/307254552277/307254552277/83943
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Tamil" tvg-logo="" tvg-country="IN" tvg-url="" group-title="Tamil",Zee Tamil SD
 http://pn.tvott.info:80/307254552277/307254552277/83923
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Tamil" tvg-logo="" tvg-country="IN" tvg-url="" group-title="Tamil",Kalaignar
 http://103.199.161.254/Content/kalaignartv/Live/Channel(KalaignarTV)/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Tamil" tvg-logo="" tvg-country="IN" tvg-url="" group-title="Tamil",Sun Life 
-http://portal.simiptv.co.uk:8080/alipajiuk/oRGQpcPAkZ/738
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Tamil" tvg-logo="" tvg-country="IN" tvg-url="" group-title="Tamil",Sun Life Link 2 
 http://pn.tvott.info:80/307254552277/307254552277/83950
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Tamil" tvg-logo="" tvg-country="IN" tvg-url="" group-title="Tamil",Sun Life USA
@@ -1694,14 +1583,10 @@ http://103.199.161.254/Content/rajtv/Live/Channel(RajTV)/Stream(01)/index.m3u8
 http://pn.tvott.info:80/307254552277/307254552277/83953
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Tamil" tvg-logo="" tvg-country="IN" tvg-url="" group-title="Tamil",Jaya TV Link 2
 http://pn.tvott.info:80/307254552277/307254552277/83960
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Tamil" tvg-logo="" tvg-country="IN" tvg-url="" group-title="Tamil",Jaya TV
-http://portal.simiptv.co.uk:8080/alipajiuk/oRGQpcPAkZ/409
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Tamil" tvg-logo="" tvg-country="IN" tvg-url="" group-title="Tamil",Colors Tamil
 http://uk1.zecast.com:1935/star-live/colours/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Tamil" tvg-logo="" tvg-country="IN" tvg-url="" group-title="Tamil",Colors Tamil HD
 http://uk1.zecast.com:1935/star-live/colours/chunklist_w907334263.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Tamil" tvg-logo="" tvg-country="IN" tvg-url="" group-title="Tamil",Colors Tamil HD Link 2
-http://portal.simiptv.co.uk:8080/alipajiuk/oRGQpcPAkZ/412
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Tamil" tvg-logo="" tvg-country="IN" tvg-url="" group-title="Tamil",Colors Tamil HD Link 3
 http://pn.tvott.info:80/307254552277/307254552277/83965
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Tamil" tvg-logo="" tvg-country="IN" tvg-url="" group-title="Tamil",Vasanth TV
@@ -1732,9 +1617,6 @@ https://oreotv.us/live/gee/zee_v2.m3u8?id=0-9-ddpodhigai
 http://uk1.zecast.com:1935/star-live/smusic/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Tamil" tvg-logo="" tvg-country="IN" tvg-url="" group-title="Tamil",Sun Music Link 2
 http://pn.tvott.info:80/307254552277/307254552277/83949
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Tamil" tvg-logo="" tvg-country="IN" tvg-url="" group-title="Tamil",Sun Music USA
-http://portal.simiptv.co.uk:8080/alipajiuk/oRGQpcPAkZ/589
-
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Tamil" tvg-logo="" tvg-country="IN" tvg-url="" group-title="Tamil",Jaya Max 
 http://portal.simiptv.co.uk:8080/alipajiuk/oRGQpcPAkZ/1148
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Tamil" tvg-logo="" tvg-country="IN" tvg-url="" group-title="Tamil",Jaya Max Link 2
@@ -1755,8 +1637,6 @@ http://pn.tvott.info:80/307254552277/307254552277/83954
 https://oreotv.us/live/gee/zee_v2.m3u8?id=0-9-224
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Tamil" tvg-logo="" tvg-country="IN" tvg-url="" group-title="Tamil",Zee Thirai Link 2
 http://pn.tvott.info:80/307254552277/307254552277/83914
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Tamil" tvg-logo="" tvg-country="IN" tvg-url="" group-title="Tamil",Zee Thirai Link 3
-http://portal.simiptv.co.uk:8080/alipajiuk/oRGQpcPAkZ/1153
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Tamil" tvg-logo="" tvg-country="IN" tvg-url="" group-title="Tamil",Zee Thirai Link 4
 https://bit.ly/37g7c4z
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Tamil" tvg-logo="" tvg-country="IN" tvg-url="" group-title="Tamil",Zee Thirai HD
