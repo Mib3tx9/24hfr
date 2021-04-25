@@ -292,9 +292,9 @@ https://piratesiptv.shortcm.li/mh1.m3u8
 #EXTINF:0 tvg-language="Sohel_Ahmed" tvg-logo="https://www.dropbox.com/s/rgblmfl0utzapcv/sohel.jpeg?raw=1" group-title="Indian",130.Wow Cinema
 https://piratesiptv.shortcm.li/wow.m3u8
 #EXTINF:0 tvg-language="Sohel_Ahmed" tvg-logo="https://www.dropbox.com/s/rgblmfl0utzapcv/sohel.jpeg?raw=1" group-title="English",131.And Flix HD
-https://y5w8j4a9.ssl.hwcdn.net/andflixhd/tracks-v1a1/index.m3u8?token=soheliptv01826655778
+https://piratesiptv.shortcm.li/andflix.m3u8
 #EXTINF:0 tvg-language="Sohel_Ahmed" tvg-logo="https://www.dropbox.com/s/rgblmfl0utzapcv/sohel.jpeg?raw=1" group-title="English",132.And Prive HD
-http://cv.khushitv.xyz/channels.php?c=andprivehd&e=.m3u8?token=soheliptv01826655778
+https://piratesiptv.shortcm.li/andprive.m3u8
 #EXTINF:0 tvg-language="Sohel_Ahmed" tvg-logo="https://www.dropbox.com/s/rgblmfl0utzapcv/sohel.jpeg?raw=1" group-title="Indian",133.And Picture
 https://piratesiptv.shortcm.li/andpic.m3u8
 #EXTINF:0 tvg-language="Sohel_Ahmed" tvg-logo="https://www.dropbox.com/s/rgblmfl0utzapcv/sohel.jpeg?raw=1" group-title="Indian",134.And TV
@@ -308,19 +308,19 @@ https://piratesiptv.shortcm.li/colorsbangla.m3u8
 #EXTINF:0 tvg-language="Sohel_Ahmed" tvg-logo="https://www.dropbox.com/s/rgblmfl0utzapcv/sohel.jpeg?raw=1" group-title="Indian Bangla",137.Sony Aath
 
 #EXTINF:0 tvg-language="Sohel_Ahmed" tvg-logo="https://www.dropbox.com/s/rgblmfl0utzapcv/sohel.jpeg?raw=1" group-title="Indian",138.Sony TV
-http://103.205.133.21/hls/chs.m3u8
+https://piratesiptv.shortcm.li/sony.m3u8
 #EXTINF:0 tvg-language="Sohel_Ahmed" tvg-logo="https://www.dropbox.com/s/rgblmfl0utzapcv/sohel.jpeg?raw=1" group-title="Indian",139.Sony Max HD
-http://208.115.215.42:80/SonY_Max_HD/tracks-v1a1/mono.m3u8
+https://piratesiptv.shortcm.li/maxhd.m3u8
 #EXTINF:0 tvg-language="Sohel_Ahmed" tvg-logo="https://www.dropbox.com/s/rgblmfl0utzapcv/sohel.jpeg?raw=1" group-title="Indian",140.Sony Max 2
-http://208.115.215.42:80/SonY_Max_HD_02/tracks-v1a1/mono.m3u8
+https://piratesiptv.shortcm.li/max2.m3u8
 #EXTINF:0 tvg-language="Sohel_Ahmed" tvg-logo="https://www.dropbox.com/s/rgblmfl0utzapcv/sohel.jpeg?raw=1" group-title="Indian",141.Sony Pal
-http://tjszdhm3.tvclub.xyz/iptv/69AWBEYGGS5VZ6/6626/index.m3u8
+https://piratesiptv.shortcm.li/pal.m3u8
 #EXTINF:0 tvg-language="Sohel_Ahmed" tvg-logo="https://www.dropbox.com/s/rgblmfl0utzapcv/sohel.jpeg?raw=1" group-title="English",142.Sony Pix
-
+http://pn.tvott.info:80/307254552277/307254552277/83703
 #EXTINF:0 tvg-language="Sohel_Ahmed" tvg-logo="https://www.dropbox.com/s/rgblmfl0utzapcv/sohel.jpeg?raw=1" group-title="Indian",143.Sony Sab HD
-http://208.115.215.42:80/SonY_Sab_HD/tracks-v1a1/mono.m3u8
+https://piratesiptv.shortcm.li/sabhd.m3u8
 #EXTINF:0 tvg-language="Sohel_Ahmed" tvg-logo="https://www.dropbox.com/s/rgblmfl0utzapcv/sohel.jpeg?raw=1" group-title="Indian",144.Sony Wah
-https://d2gowxuvx77j6q.cloudfront.net/WAH.m3u8
+https://piratesiptv.shortcm.li/wah.m3u8
 #EXTINF:0 tvg-language="Sohel_Ahmed" tvg-logo="https://www.dropbox.com/s/rgblmfl0utzapcv/sohel.jpeg?raw=1" group-title="Indian Bangla",145.Star Jalsha
 https://piratesiptv.shortcm.li/jalsha.m3u8
 #EXTINF:0 tvg-language="Sohel_Ahmed" tvg-logo="https://www.dropbox.com/s/rgblmfl0utzapcv/sohel.jpeg?raw=1" group-title="Indian Bangla",145.Star Jalsha
@@ -1981,12 +1981,9 @@ http://cv.khushitv.xyz/channels.php?c=andflix&e=.m3u8
 https://y5w8j4a9.ssl.hwcdn.net/andflix/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Tamil" tvg-logo="" tvg-country="IN" tvg-url="" group-title="English",And Flix SD 3
 https://oreotv.us/live/gee/zee_v2.m3u8?id=0-9-channel_2105335046
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Tamil" tvg-logo="" tvg-country="IN" tvg-url="" group-title="English",Sony PIX HD 
-http://portal.simiptv.co.uk:8080/alipajiuk/oRGQpcPAkZ/46
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Tamil" tvg-logo="" tvg-country="IN" tvg-url="" group-title="English",Sony PIX HD 2
 http://pn.tvott.info:80/307254552277/307254552277/83703
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Tamil" tvg-logo="" tvg-country="IN" tvg-url="" group-title="English",Sony PIX HD 3
-http://pn.tvott.info:80/wade/wade/83703
+
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Tamil" tvg-logo="" tvg-country="IN" tvg-url="" group-title="Sports",Star Sports Select 1 Hindi
 http://tjszdhm3.tvclub.xyz/iptv/69AWBEYGGS5VZ6/2508/index.m3u8
