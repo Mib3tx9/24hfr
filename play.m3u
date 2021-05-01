@@ -470,132 +470,107 @@ http://162.244.81.145:2215/live/livestream/playlist.m3u8
 #EXTINF:0 tvg-language="Sohel_Ahmed" tvg-logo="https://www.dropbox.com/s/rgblmfl0utzapcv/sohel.jpeg?raw=1" group-title="Mix",224.Times Now HD
 https://timesnow-lh.akamaihd.net/i/TNHD_1@129288/master.m3u8
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-#EXTINF: -1 tvg-logo="https://i.pinimg.com/474x/de/fc/23/defc2375723ec0e5d75ad1c7595e7dce.jpg" group-title="FM Radio",Al Quran Radio
+#EXTINF:0 tvg-language="Sohel_Ahmed" tvg-logo="https://www.dropbox.com/s/rgblmfl0utzapcv/sohel.jpeg?raw=1" group-title="FM Radio",Al Quran Radio
 http://66.45.232.131:9994/;stream.mp3
-#EXTINF: -1 tvg-logo="https://www.dropbox.com/s/tz0japl7j0xaq8e/88.0.jpg?raw=1" group-title="FM Radio",Radio Foorti (88.0)
+#EXTINF:0 tvg-language="Sohel_Ahmed" tvg-logo="https://www.dropbox.com/s/rgblmfl0utzapcv/sohel.jpeg?raw=1" group-title="FM Radio",Radio Foorti (88.0)
 https://node-11.zeno.fm/f0bfdk2w34zuv?rj-ttl=5&rj-tok=AAABdMRV22UAcwucDbg4sNb1IQ
-#EXTINF: -1 tvg-logo="https://www.dropbox.com/s/e9sdpnq3nme5ofp/88.4.jpg?raw=1" group-title="FM Radio",Radio Amar (88.4)
+#EXTINF:0 tvg-language="Sohel_Ahmed" tvg-logo="https://www.dropbox.com/s/rgblmfl0utzapcv/sohel.jpeg?raw=1" group-title="FM Radio",Radio Amar (88.4)
 http://118.179.215.45:8000/;stream/1
-#EXTINF: -1 tvg-logo="https://www.dropbox.com/s/8kep16hlpiefltb/88.8.png?raw=1" group-title="FM Radio",Bangladesh Betar (88.8)
+#EXTINF:0 tvg-language="Sohel_Ahmed" tvg-logo="https://www.dropbox.com/s/rgblmfl0utzapcv/sohel.jpeg?raw=1" group-title="FM Radio",Bangladesh Betar (88.8)
 http://as3.digitalsynapsebd.com:8263/;stream.mp3
-#EXTINF: -1 tvg-logo="https://www.dropbox.com/s/e7srdi4nxhapd3p/89.2.jpg?raw=1" group-title="FM Radio",ABC Radio (89.2)*
+#EXTINF:0 tvg-language="Sohel_Ahmed" tvg-logo="https://www.dropbox.com/s/rgblmfl0utzapcv/sohel.jpeg?raw=1" group-title="FM Radio",ABC Radio (89.2)
 http://ample-zeno-20.radiojar.com/aqs8z2kn944tv
-#EXTINF: -1 tvg-logo="https://www.dropbox.com/s/cyq72fl6gi22ztg/89.6.png?raw=1" group-title="FM Radio",Radio Today (89.6)
+#EXTINF:0 tvg-language="Sohel_Ahmed" tvg-logo="https://www.dropbox.com/s/rgblmfl0utzapcv/sohel.jpeg?raw=1" group-title="FM Radio",Radio Today (89.6)
 http://node-24.zeno.fm/0zha3rfq02quv?rj-ttl=5&rj-tok=AAABdMQIscsAumYfZ0oUroNvhQ
-#EXTINF: -1 tvg-logo="https://www.dropbox.com/s/tvwkt5ftew2l6vi/91.2.png?raw=1" group-title="FM Radio",Radio Dhoni (91.2)*
-http://182.160.110.180:1020/;stream.mp3
-#EXTINF: -1 tvg-logo="https://www.dropbox.com/s/co2c78z23q1zipu/92.4.png?raw=1" group-title="FM Radio",Radio Shadhin (92.4)
+#EXTINF:0 tvg-language="Sohel_Ahmed" tvg-logo="https://www.dropbox.com/s/rgblmfl0utzapcv/sohel.jpeg?raw=1" group-title="FM Radio",Radio Shadhin (92.4)
 http://ample-zeno-03.radiojar.com/8wv4d8g4344tv
-#EXTINF: -1 tvg-logo="https://www.dropbox.com/s/zs6rjx0wjj0lki1/92.7.jpg?raw=1" group-title="FM Radio",Big FM (92.7)
+#EXTINF:0 tvg-language="Sohel_Ahmed" tvg-logo="https://www.dropbox.com/s/rgblmfl0utzapcv/sohel.jpeg?raw=1" group-title="FM Radio",Big FM (92.7)
 http://sc-bb.1.fm:8017/;?listening-from-radio-garden=1601016386228
-#EXTINF: -1 tvg-logo="https://www.dropbox.com/s/wwu6mams4pv2yfs/94.4.png?raw=1" group-title="FM Radio",Jago FM (94.4)
+#EXTINF:0 tvg-language="Sohel_Ahmed" tvg-logo="https://www.dropbox.com/s/rgblmfl0utzapcv/sohel.jpeg?raw=1" group-title="FM Radio",Jago FM (94.4)
 http://128.199.184.111:12496/;stream/1?listening-from-radio-garden=1601015113662
-#EXTINF: -1 tvg-logo="https://www.dropbox.com/s/d32unlv8de1kn89/96.4.jpg?raw=1" group-title="FM Radio",Spice FM (96.4)
+#EXTINF:0 tvg-language="Sohel_Ahmed" tvg-logo="https://www.dropbox.com/s/rgblmfl0utzapcv/sohel.jpeg?raw=1" group-title="FM Radio",Spice FM (96.4)
 http://162.254.149.187:9300/;?listening-from-radio-garden=1601016233761
-#EXTINF: -1 tvg-logo="https://www.dropbox.com/s/n6hjp3quq2gzn9u/98.3.jpg?raw=1" group-title="FM Radio",Radio Mirchi (98.3)
+#EXTINF:0 tvg-language="Sohel_Ahmed" tvg-logo="https://www.dropbox.com/s/rgblmfl0utzapcv/sohel.jpeg?raw=1" group-title="FM Radio",Radio Mirchi (98.3)
 http://peridot.streamguys.com:7150/Mirchi
-#EXTINF: -1 tvg-logo="https://www.dropbox.com/s/gcxmz0bbw72pit7/98.4.png?raw=1" group-title="FM Radio",Radio Ekattor (98.4)
+#EXTINF:0 tvg-language="Sohel_Ahmed" tvg-logo="https://www.dropbox.com/s/rgblmfl0utzapcv/sohel.jpeg?raw=1" group-title="FM Radio",Radio Ekattor (98.4)
 http://162.254.149.187:9302/;stream/1;?listening-from-radio-garden=1601015834943
-#EXTINF: -1 tvg-logo="https://www.dropbox.com/s/pn9rydep7xzxfcg/101.6.jpg?raw=1" group-title="FM Radio",Colours FM (101.6)
+#EXTINF:0 tvg-language="Sohel_Ahmed" tvg-logo="https://www.dropbox.com/s/rgblmfl0utzapcv/sohel.jpeg?raw=1" group-title="FM Radio",Colours FM (101.6)
 http://45.64.135.88:8000/stream1
 
-
-
-
-
-#EXTINF:-1 tvg-logo="https://www.dropbox.com/s/9mq84r9bq0ui22p/hqdefault.jpg?raw=1" group-title="Ityadi",Bandarban
+#EXTINF:0 tvg-language="Sohel_Ahmed" tvg-logo="https://www.dropbox.com/s/rgblmfl0utzapcv/sohel.jpeg?raw=1" group-title="Ityadi",Bandarban
 https://www.dropbox.com/s/vyvg48ad1mb9ell/Ityadi%20-%20Bandarban.mp4?raw=1
-#EXTINF:-1 tvg-logo="https://www.dropbox.com/s/9mq84r9bq0ui22p/hqdefault.jpg?raw=1" group-title="Ityadi",Cox's Bazar
+#EXTINF:0 tvg-language="Sohel_Ahmed" tvg-logo="https://www.dropbox.com/s/rgblmfl0utzapcv/sohel.jpeg?raw=1" group-title="Ityadi",Cox's Bazar
 https://www.dropbox.com/s/3athznre8ydpxiq/Ityadi%20-%20Cox%27s%20Bazar.mp4?raw=1
-#EXTINF:-1 tvg-logo="https://www.dropbox.com/s/9mq84r9bq0ui22p/hqdefault.jpg?raw=1" group-title="Ityadi",Jessore
+#EXTINF:0 tvg-language="Sohel_Ahmed" tvg-logo="https://www.dropbox.com/s/rgblmfl0utzapcv/sohel.jpeg?raw=1" group-title="Ityadi",Jessore
 https://www.dropbox.com/s/pdmm32ahygie1t4/Ityadi%20-%20Jessore.mkv?raw=1
-#EXTINF:-1 tvg-logo="https://www.dropbox.com/s/9mq84r9bq0ui22p/hqdefault.jpg?raw=1" group-title="Ityadi",Kishoreganj
+#EXTINF:0 tvg-language="Sohel_Ahmed" tvg-logo="https://www.dropbox.com/s/rgblmfl0utzapcv/sohel.jpeg?raw=1" group-title="Ityadi",Kishoreganj
 https://www.dropbox.com/s/c4lrfjs61nq7w71/Ityadi%20-%20Kishoreganj.mp4?raw=1
-#EXTINF:-1 tvg-logo="https://www.dropbox.com/s/9mq84r9bq0ui22p/hqdefault.jpg?raw=1" group-title="Ityadi",Kuakata
+#EXTINF:0 tvg-language="Sohel_Ahmed" tvg-logo="https://www.dropbox.com/s/rgblmfl0utzapcv/sohel.jpeg?raw=1" group-title="Ityadi",Kuakata
 https://www.dropbox.com/s/dhhrxkj0ibfieb8/Ityadi%20-%20Kuakata.mp4?raw=1
-#EXTINF:-1 tvg-logo="https://www.dropbox.com/s/9mq84r9bq0ui22p/hqdefault.jpg?raw=1" group-title="Ityadi",Nilphamari
+#EXTINF:0 tvg-language="Sohel_Ahmed" tvg-logo="https://www.dropbox.com/s/rgblmfl0utzapcv/sohel.jpeg?raw=1" group-title="Ityadi",Nilphamari
 https://www.dropbox.com/s/udbmnwlzkwrwo4o/Ityadi%20-%20Nilphamari.mp4?raw=1
-#EXTINF:-1 tvg-logo="https://www.dropbox.com/s/9mq84r9bq0ui22p/hqdefault.jpg?raw=1" group-title="Ityadi",Pabna
+#EXTINF:0 tvg-language="Sohel_Ahmed" tvg-logo="https://www.dropbox.com/s/rgblmfl0utzapcv/sohel.jpeg?raw=1" group-title="Ityadi",Pabna
 https://www.dropbox.com/s/3dhewf0m79sz2cz/Ityadi%20-Pabna.mp4?raw=1
-#EXTINF:-1 tvg-logo="https://www.dropbox.com/s/9mq84r9bq0ui22p/hqdefault.jpg?raw=1" group-title="Ityadi",Panchagarh
+#EXTINF:0 tvg-language="Sohel_Ahmed" tvg-logo="https://www.dropbox.com/s/rgblmfl0utzapcv/sohel.jpeg?raw=1" group-title="Ityadi",Panchagarh
 https://www.dropbox.com/s/kwkj7frdpzf1jjw/Ityadi%20-Panchagarh.mp4?raw=1
-#EXTINF:-1 tvg-logo="https://www.dropbox.com/s/9mq84r9bq0ui22p/hqdefault.jpg?raw=1" group-title="Ityadi",Rangamati
+#EXTINF:0 tvg-language="Sohel_Ahmed" tvg-logo="https://www.dropbox.com/s/rgblmfl0utzapcv/sohel.jpeg?raw=1" group-title="Ityadi",Rangamati
 https://www.dropbox.com/s/jd6zncymgj3k6g0/Ityadi%20-%20Rangamati.mp4?raw=1
-#EXTINF:-1 tvg-logo="https://www.dropbox.com/s/9mq84r9bq0ui22p/hqdefault.jpg?raw=1" group-title="Ityadi",Sunamganj
+#EXTINF:0 tvg-language="Sohel_Ahmed" tvg-logo="https://www.dropbox.com/s/rgblmfl0utzapcv/sohel.jpeg?raw=1" group-title="Ityadi",Sunamganj
 https://www.dropbox.com/s/obzcxrqb5nb36hz/Ityadi%20-%20Sunamganj.mp4?raw=1
-#EXTINF:-1 tvg-logo="https://www.dropbox.com/s/9mq84r9bq0ui22p/hqdefault.jpg?raw=1" group-title="Ityadi",Sundarbans
+#EXTINF:0 tvg-language="Sohel_Ahmed" tvg-logo="https://www.dropbox.com/s/rgblmfl0utzapcv/sohel.jpeg?raw=1" group-title="Ityadi",Sundarbans
 https://www.dropbox.com/s/9o0o5gkzdf8zq5o/Ityadi%20-%20%20Sundarbans.mp4?raw=1
 
-
-
-
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="CONTRACT SEASON 01E1" tvg-logo="http://10.16.100.244/files/contract_season_01__2021__completed.jpg" group-title="Drive 1 (Bangla Series)",Contract (S1E1)
+#EXTINF:0 tvg-language="Sohel_Ahmed" tvg-logo="https://www.dropbox.com/s/rgblmfl0utzapcv/sohel.jpeg?raw=1" group-title="Drive 1 (Bangla Series)",Contract (S1E1)
 http://10.16.100.202/ftps10/iccftps10sasd10/TV%20Shows/Bangla/Contract%20Season%2001%20(2021)%20Completed/Contract%20S01E01.mkv
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="CONTRACT SEASON 01E2" tvg-logo="http://10.16.100.244/files/contract_season_01__2021__completed.jpg" group-title="Drive 1 (Bangla Series)",Contract (S1E2)
+#EXTINF:0 tvg-language="Sohel_Ahmed" tvg-logo="https://www.dropbox.com/s/rgblmfl0utzapcv/sohel.jpeg?raw=1" group-title="Drive 1 (Bangla Series)",Contract (S1E2)
 http://10.16.100.202/ftps10/iccftps10sasd10/TV%20Shows/Bangla/Contract%20Season%2001%20(2021)%20Completed/Contract%20S01E02.mkv
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="CONTRACT SEASON 01E3" tvg-logo="http://10.16.100.244/files/contract_season_01__2021__completed.jpg" group-title="Drive 1 (Bangla Series)",Contract (S1E3)
+#EXTINF:0 tvg-language="Sohel_Ahmed" tvg-logo="https://www.dropbox.com/s/rgblmfl0utzapcv/sohel.jpeg?raw=1" group-title="Drive 1 (Bangla Series)",Contract (S1E3)
 http://10.16.100.202/ftps10/iccftps10sasd10/TV%20Shows/Bangla/Contract%20Season%2001%20(2021)%20Completed/Contract%20S01E03.mkv
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="CONTRACT SEASON 01E4" tvg-logo="http://10.16.100.244/files/contract_season_01__2021__completed.jpg" group-title="Drive 1 (Bangla Series)",Contract (S1E4)
+#EXTINF:0 tvg-language="Sohel_Ahmed" tvg-logo="https://www.dropbox.com/s/rgblmfl0utzapcv/sohel.jpeg?raw=1" group-title="Drive 1 (Bangla Series)",Contract (S1E4)
 http://10.16.100.202/ftps10/iccftps10sasd10/TV%20Shows/Bangla/Contract%20Season%2001%20(2021)%20Completed/Contract%20S01E04.mkv
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="CONTRACT SEASON 01E5" tvg-logo="http://10.16.100.244/files/contract_season_01__2021__completed.jpg" group-title="Drive 1 (Bangla Series)",Contract (S1E5)
+#EXTINF:0 tvg-language="Sohel_Ahmed" tvg-logo="https://www.dropbox.com/s/rgblmfl0utzapcv/sohel.jpeg?raw=1" group-title="Drive 1 (Bangla Series)",Contract (S1E5)
 http://10.16.100.202/ftps10/iccftps10sasd10/TV%20Shows/Bangla/Contract%20Season%2001%20(2021)%20Completed/Contract%20S01E05.mkv
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="CONTRACT SEASON 01E6" tvg-logo="http://10.16.100.244/files/contract_season_01__2021__completed.jpg" group-title="Drive 1 (Bangla Series)",Contract (S1E6)
+#EXTINF:0 tvg-language="Sohel_Ahmed" tvg-logo="https://www.dropbox.com/s/rgblmfl0utzapcv/sohel.jpeg?raw=1" group-title="Drive 1 (Bangla Series)",Contract (S1E6)
 http://10.16.100.202/ftps10/iccftps10sasd10/TV%20Shows/Bangla/Contract%20Season%2001%20(2021)%20Completed/Contract%20S01E06.mkv
-#EXTINF: -1 tvg-id="(no tvg-id)" tvg-name="MONEY HONEY SEASON 01E1" tvg-logo="http://10.16.100.244/files/money_honey_season_01__2019__completed.jpg" group-title="Drive 1 (Bangla Series)",Money Honey (S1E11)
+#EXTINF:0 tvg-language="Sohel_Ahmed" tvg-logo="https://www.dropbox.com/s/rgblmfl0utzapcv/sohel.jpeg?raw=1" group-title="Drive 1 (Bangla Series)",Money Honey (S1E11)
 http://10.16.100.206/ftps3/ftps3d2/TV%20Show/Bangla%20(BD)/Money%20Honey%20Season%2001%20(2019)%20Completed/Money%20Honey%20S01E01.mkv
-#EXTINF: -1 tvg-id="(no tvg-id)" tvg-name="MONEY HONEY SEASON 01E2" tvg-logo="http://10.16.100.244/files/money_honey_season_01__2019__completed.jpg" group-title="Drive 1 (Bangla Series)",Money Honey (S1E2)
+#EXTINF:0 tvg-language="Sohel_Ahmed" tvg-logo="https://www.dropbox.com/s/rgblmfl0utzapcv/sohel.jpeg?raw=1" group-title="Drive 1 (Bangla Series)",Money Honey (S1E2)
 http://10.16.100.206/ftps3/ftps3d2/TV%20Show/Bangla%20(BD)/Money%20Honey%20Season%2001%20(2019)%20Completed/Money%20Honey%20S01E02.mkv
-#EXTINF: -1 tvg-id="(no tvg-id)" tvg-name="MONEY HONEY SEASON 01E3" tvg-logo="http://10.16.100.244/files/money_honey_season_01__2019__completed.jpg" group-title="Drive 1 (Bangla Series)",Money Honey (S1E3)
+#EXTINF:0 tvg-language="Sohel_Ahmed" tvg-logo="https://www.dropbox.com/s/rgblmfl0utzapcv/sohel.jpeg?raw=1" group-title="Drive 1 (Bangla Series)",Money Honey (S1E3)
 http://10.16.100.206/ftps3/ftps3d2/TV%20Show/Bangla%20(BD)/Money%20Honey%20Season%2001%20(2019)%20Completed/Money%20Honey%20S01E03.mkv
-#EXTINF: -1 tvg-id="(no tvg-id)" tvg-name="MONEY HONEY SEASON 01E4" tvg-logo="http://10.16.100.244/files/money_honey_season_01__2019__completed.jpg" group-title="Drive 1 (Bangla Series)",Money Honey (S1E4)
+#EXTINF:0 tvg-language="Sohel_Ahmed" tvg-logo="https://www.dropbox.com/s/rgblmfl0utzapcv/sohel.jpeg?raw=1" group-title="Drive 1 (Bangla Series)",Money Honey (S1E4)
 http://10.16.100.206/ftps3/ftps3d2/TV%20Show/Bangla%20(BD)/Money%20Honey%20Season%2001%20(2019)%20Completed/Money%20Honey%20S01E04.mkv
-#EXTINF: -1 tvg-id="(no tvg-id)" tvg-name="MONEY HONEY SEASON 01E5" tvg-logo="http://10.16.100.244/files/money_honey_season_01__2019__completed.jpg" group-title="Drive 1 (Bangla Series)",Money Honey (S1E5)
+#EXTINF:0 tvg-language="Sohel_Ahmed" tvg-logo="https://www.dropbox.com/s/rgblmfl0utzapcv/sohel.jpeg?raw=1" group-title="Drive 1 (Bangla Series)",Money Honey (S1E5)
 http://10.16.100.206/ftps3/ftps3d2/TV%20Show/Bangla%20(BD)/Money%20Honey%20Season%2001%20(2019)%20Completed/Money%20Honey%20S01E05.mkv
-#EXTINF: -1 tvg-id="(no tvg-id)" tvg-name="MONEY HONEY SEASON 01E6" tvg-logo="http://10.16.100.244/files/money_honey_season_01__2019__completed.jpg" group-title="Drive 1 (Bangla Series)",Money Honey (S1E6)
+#EXTINF:0 tvg-language="Sohel_Ahmed" tvg-logo="https://www.dropbox.com/s/rgblmfl0utzapcv/sohel.jpeg?raw=1" group-title="Drive 1 (Bangla Series)",Money Honey (S1E6)
 http://10.16.100.206/ftps3/ftps3d2/TV%20Show/Bangla%20(BD)/Money%20Honey%20Season%2001%20(2019)%20Completed/Money%20Honey%20S01E06.mkv
-#EXTINF: -1 tvg-id="(no tvg-id)" tvg-name="MONEY HONEY SEASON 01E7" tvg-logo="http://10.16.100.244/files/money_honey_season_01__2019__completed.jpg" group-title="Drive 1 (Bangla Series)",Money Honey (S1E7)
+#EXTINF:0 tvg-language="Sohel_Ahmed" tvg-logo="https://www.dropbox.com/s/rgblmfl0utzapcv/sohel.jpeg?raw=1" group-title="Drive 1 (Bangla Series)",Money Honey (S1E7)
 http://10.16.100.206/ftps3/ftps3d2/TV%20Show/Bangla%20(BD)/Money%20Honey%20Season%2001%20(2019)%20Completed/Money%20Honey%20S01E07.mkv
-#EXTINF: -1 tvg-id="(no tvg-id)" tvg-name="MONEY HONEY SEASON 01E8" tvg-logo="http://10.16.100.244/files/money_honey_season_01__2019__completed.jpg" group-title="Drive 1 (Bangla Series)",Money Honey (S1E8)
+#EXTINF:0 tvg-language="Sohel_Ahmed" tvg-logo="https://www.dropbox.com/s/rgblmfl0utzapcv/sohel.jpeg?raw=1" group-title="Drive 1 (Bangla Series)",Money Honey (S1E8)
 http://10.16.100.206/ftps3/ftps3d2/TV%20Show/Bangla%20(BD)/Money%20Honey%20Season%2001%20(2019)%20Completed/Money%20Honey%20S01E08.mkv
-#EXTINF: -1 tvg-id="(no tvg-id)" tvg-name="MONEY HONEY SEASON 01E9" tvg-logo="http://10.16.100.244/files/money_honey_season_01__2019__completed.jpg" group-title="Drive 1 (Bangla Series)",Money Honey (S1E9)
+#EXTINF:0 tvg-language="Sohel_Ahmed" tvg-logo="https://www.dropbox.com/s/rgblmfl0utzapcv/sohel.jpeg?raw=1" group-title="Drive 1 (Bangla Series)",Money Honey (S1E9)
 http://10.16.100.206/ftps3/ftps3d2/TV%20Show/Bangla%20(BD)/Money%20Honey%20Season%2001%20(2019)%20Completed/Money%20Honey%20S01E09.mkv
-#EXTINF: -1 tvg-id="(no tvg-id)" tvg-name="MONEY HONEY SEASON 01E10" tvg-logo="http://10.16.100.244/files/money_honey_season_01__2019__completed.jpg" group-title="Drive 1 (Bangla Series)",Money Honey (S1E10)
+#EXTINF:0 tvg-language="Sohel_Ahmed" tvg-logo="https://www.dropbox.com/s/rgblmfl0utzapcv/sohel.jpeg?raw=1" group-title="Drive 1 (Bangla Series)",Money Honey (S1E10)
 http://10.16.100.206/ftps3/ftps3d2/TV%20Show/Bangla%20(BD)/Money%20Honey%20Season%2001%20(2019)%20Completed/Money%20Honey%20S01E10.mkv
-#EXTINF: -1 tvg-id="(no tvg-id)" tvg-name="MONEY HONEY SEASON 01E11" tvg-logo="http://10.16.100.244/files/money_honey_season_01__2019__completed.jpg" group-title="Drive 1 (Bangla Series)",Money Honey (S1E11)
+#EXTINF:0 tvg-language="Sohel_Ahmed" tvg-logo="https://www.dropbox.com/s/rgblmfl0utzapcv/sohel.jpeg?raw=1" group-title="Drive 1 (Bangla Series)",Money Honey (S1E11)
 http://10.16.100.206/ftps3/ftps3d2/TV%20Show/Bangla%20(BD)/Money%20Honey%20Season%2001%20(2019)%20Completed/Money%20Honey%20S01E11.mkv
-#EXTINF: -1 tvg-id="(no tvg-id)" tvg-name="MONEY HONEY SEASON 01E12" tvg-logo="http://10.16.100.244/files/money_honey_season_01__2019__completed.jpg" group-title="Drive 1 (Bangla Series)",Money Honey (S1E12)
+#EXTINF:0 tvg-language="Sohel_Ahmed" tvg-logo="https://www.dropbox.com/s/rgblmfl0utzapcv/sohel.jpeg?raw=1" group-title="Drive 1 (Bangla Series)",Money Honey (S1E12)
 http://10.16.100.206/ftps3/ftps3d2/TV%20Show/Bangla%20(BD)/Money%20Honey%20Season%2001%20(2019)%20Completed/Money%20Honey%20S01E12.mkv
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="KUHOK SEASON 01E1" tvg-logo="http://10.16.100.244/files/kuhok_season_01__2019__completed.jpg" group-title="Drive 1 (Bangla Series)",Kuhok (S1E1)
+#EXTINF:0 tvg-language="Sohel_Ahmed" tvg-logo="https://www.dropbox.com/s/rgblmfl0utzapcv/sohel.jpeg?raw=1" group-title="Drive 1 (Bangla Series)",Kuhok (S1E1)
 http://10.16.100.202/ftps10/iccftps10sasd4/Tv%20Show/Bangla/Kuhok%20Season%2001%20(2019)%20Completed/Kuhok%20S01E01.mkv
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="KUHOK SEASON 01E2" tvg-logo="http://10.16.100.244/files/kuhok_season_01__2019__completed.jpg" group-title="Drive 1 (Bangla Series)",Kuhok (S1E2)
+#EXTINF:0 tvg-language="Sohel_Ahmed" tvg-logo="https://www.dropbox.com/s/rgblmfl0utzapcv/sohel.jpeg?raw=1" group-title="Drive 1 (Bangla Series)",Kuhok (S1E2)
 http://10.16.100.202/ftps10/iccftps10sasd4/Tv%20Show/Bangla/Kuhok%20Season%2001%20(2019)%20Completed/Kuhok%20S01E02.mkv
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="KUHOK SEASON 01E3" tvg-logo="http://10.16.100.244/files/kuhok_season_01__2019__completed.jpg" group-title="Drive 1 (Bangla Series)",Kuhok (S1E3)
+#EXTINF:0 tvg-language="Sohel_Ahmed" tvg-logo="https://www.dropbox.com/s/rgblmfl0utzapcv/sohel.jpeg?raw=1" group-title="Drive 1 (Bangla Series)",Kuhok (S1E3)
 http://10.16.100.202/ftps10/iccftps10sasd4/Tv%20Show/Bangla/Kuhok%20Season%2001%20(2019)%20Completed/Kuhok%20S01E03.mkv
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="KUHOK SEASON 01E4" tvg-logo="http://10.16.100.244/files/kuhok_season_01__2019__completed.jpg" group-title="Drive 1 (Bangla Series)",Kuhok (S1E4)
+#EXTINF:0 tvg-language="Sohel_Ahmed" tvg-logo="https://www.dropbox.com/s/rgblmfl0utzapcv/sohel.jpeg?raw=1" group-title="Drive 1 (Bangla Series)",Kuhok (S1E4)
 http://10.16.100.202/ftps10/iccftps10sasd4/Tv%20Show/Bangla/Kuhok%20Season%2001%20(2019)%20Completed/Kuhok%20S01E04.mkv
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="KUHOK SEASON 01E5" tvg-logo="http://10.16.100.244/files/kuhok_season_01__2019__completed.jpg" group-title="Drive 1 (Bangla Series)",Kuhok (S1E5)
+#EXTINF:0 tvg-language="Sohel_Ahmed" tvg-logo="https://www.dropbox.com/s/rgblmfl0utzapcv/sohel.jpeg?raw=1" group-title="Drive 1 (Bangla Series)",Kuhok (S1E5)
 http://10.16.100.202/ftps10/iccftps10sasd4/Tv%20Show/Bangla/Kuhok%20Season%2001%20(2019)%20Completed/Kuhok%20S01E05.mkv
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="KUHOK SEASON 01E6" tvg-logo="http://10.16.100.244/files/kuhok_season_01__2019__completed.jpg" group-title="Drive 1 (Bangla Series)",Kuhok (S1E6)
+#EXTINF:0 tvg-language="Sohel_Ahmed" tvg-logo="https://www.dropbox.com/s/rgblmfl0utzapcv/sohel.jpeg?raw=1" group-title="Drive 1 (Bangla Series)",Kuhok (S1E6)
 http://10.16.100.202/ftps10/iccftps10sasd4/Tv%20Show/Bangla/Kuhok%20Season%2001%20(2019)%20Completed/Kuhok%20S01E06.mkv
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="KUHOK SEASON 01E7" tvg-logo="http://10.16.100.244/files/kuhok_season_01__2019__completed.jpg" group-title="Drive 1 (Bangla Series)",Kuhok (S1E7)
+#EXTINF:0 tvg-language="Sohel_Ahmed" tvg-logo="https://www.dropbox.com/s/rgblmfl0utzapcv/sohel.jpeg?raw=1" group-title="Drive 1 (Bangla Series)",Kuhok (S1E7)
 http://10.16.100.202/ftps10/iccftps10sasd4/Tv%20Show/Bangla/Kuhok%20Season%2001%20(2019)%20Completed/Kuhok%20S01E07.mkv
+
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Tom & Jerry" tvg-logo="https://m.media-amazon.com/images/M/MV5BYzE3ODhiNzAtOWY4MS00NTdiLThmNDctNDM4NjRiNGFmYjI1XkEyXkFqcGdeQXVyMTI2ODM1ODUw._V1_UY268_CR16,0,182,268_AL_.jpg" group-title="Drive 2 (Animation)",Tom & Jerry
 https://cdn81.turkakisi.tv/content/stream/indfilms/Tom.and.Jerry.2021.720p.WEBRip.TAM.DUB.1XBET.mp4
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="100 PERCENT WOLF" tvg-logo="http://10.16.100.244/files/100_percent_wolf.jpg" group-title="Drive 2 (Animation)",100 PERCENT WOLF
