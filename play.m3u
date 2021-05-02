@@ -412,9 +412,6 @@ https://piratesiptv.shortcm.li/euro1.m3u8
 https://piratesiptv.shortcm.li/euro2.m3u8
 #EXTINF:0 tvg-language="Sohel_Ahmed" tvg-logo="https://www.dropbox.com/s/rgblmfl0utzapcv/sohel.jpeg?raw=1" group-title="Sports",186.FC Bayern TV Live
 https://piratesiptv.shortcm.li/fcbayan.m3u8
-
-
-
 #EXTINF:0 tvg-language="Sohel_Ahmed" tvg-logo="https://www.dropbox.com/s/rgblmfl0utzapcv/sohel.jpeg?raw=1" group-title="English",201.Al Fajer Movie
 http://two.alfajertv.com:8081/AlfajertvHDTwo_web/web/playlist.m3u8
 #EXTINF:0 tvg-language="Sohel_Ahmed" tvg-logo="https://www.dropbox.com/s/rgblmfl0utzapcv/sohel.jpeg?raw=1" group-title="English",202.Britcom
@@ -469,7 +466,6 @@ https://cdn30.liveonlineservices.com/hls/tagtv.m3u8
 http://162.244.81.145:2215/live/livestream/playlist.m3u8
 #EXTINF:0 tvg-language="Sohel_Ahmed" tvg-logo="https://www.dropbox.com/s/rgblmfl0utzapcv/sohel.jpeg?raw=1" group-title="Mix",224.Times Now HD
 https://timesnow-lh.akamaihd.net/i/TNHD_1@129288/master.m3u8
-
 #EXTINF:0 tvg-language="Sohel_Ahmed" tvg-logo="https://www.dropbox.com/s/rgblmfl0utzapcv/sohel.jpeg?raw=1" group-title="FM Radio",Al Quran Radio
 http://66.45.232.131:9994/;stream.mp3
 #EXTINF:0 tvg-language="Sohel_Ahmed" tvg-logo="https://www.dropbox.com/s/rgblmfl0utzapcv/sohel.jpeg?raw=1" group-title="FM Radio",Radio Foorti (88.0)
@@ -496,7 +492,6 @@ http://peridot.streamguys.com:7150/Mirchi
 http://162.254.149.187:9302/;stream/1;?listening-from-radio-garden=1601015834943
 #EXTINF:0 tvg-language="Sohel_Ahmed" tvg-logo="https://www.dropbox.com/s/rgblmfl0utzapcv/sohel.jpeg?raw=1" group-title="FM Radio",Colours FM (101.6)
 http://45.64.135.88:8000/stream1
-
 #EXTINF:0 tvg-language="Sohel_Ahmed" tvg-logo="https://www.dropbox.com/s/rgblmfl0utzapcv/sohel.jpeg?raw=1" group-title="Ityadi",Bandarban
 https://www.dropbox.com/s/vyvg48ad1mb9ell/Ityadi%20-%20Bandarban.mp4?raw=1
 #EXTINF:0 tvg-language="Sohel_Ahmed" tvg-logo="https://www.dropbox.com/s/rgblmfl0utzapcv/sohel.jpeg?raw=1" group-title="Ityadi",Cox's Bazar
@@ -519,7 +514,6 @@ https://www.dropbox.com/s/jd6zncymgj3k6g0/Ityadi%20-%20Rangamati.mp4?raw=1
 https://www.dropbox.com/s/obzcxrqb5nb36hz/Ityadi%20-%20Sunamganj.mp4?raw=1
 #EXTINF:0 tvg-language="Sohel_Ahmed" tvg-logo="https://www.dropbox.com/s/rgblmfl0utzapcv/sohel.jpeg?raw=1" group-title="Ityadi",Sundarbans
 https://www.dropbox.com/s/9o0o5gkzdf8zq5o/Ityadi%20-%20%20Sundarbans.mp4?raw=1
-
 #EXTINF:0 tvg-language="Sohel_Ahmed" tvg-logo="https://www.dropbox.com/s/rgblmfl0utzapcv/sohel.jpeg?raw=1" group-title="Drive 1 (Bangla Series)",Contract (S1E1)
 http://10.16.100.202/ftps10/iccftps10sasd10/TV%20Shows/Bangla/Contract%20Season%2001%20(2021)%20Completed/Contract%20S01E01.mkv
 #EXTINF:0 tvg-language="Sohel_Ahmed" tvg-logo="https://www.dropbox.com/s/rgblmfl0utzapcv/sohel.jpeg?raw=1" group-title="Drive 1 (Bangla Series)",Contract (S1E2)
@@ -570,7 +564,6 @@ http://10.16.100.206/ftps3/ftps3d2/TV%20Show/Bangla%20(BD)/Money%20Honey%20Seaso
 http://10.16.100.206/ftps3/ftps3d2/TV%20Show/Bangla%20(BD)/Money%20Honey%20Season%2001%20(2019)%20Completed/Money%20Honey%20S01E11.mkv
 #EXTINF:0 tvg-language="Sohel_Ahmed" tvg-logo="https://www.dropbox.com/s/rgblmfl0utzapcv/sohel.jpeg?raw=1" group-title="Drive 1 (Bangla Series)",Money Honey (S1E12)
 http://10.16.100.206/ftps3/ftps3d2/TV%20Show/Bangla%20(BD)/Money%20Honey%20Season%2001%20(2019)%20Completed/Money%20Honey%20S01E12.mkv
-
 #EXTINF:0 tvg-language="Sohel_Ahmed" tvg-logo="https://www.dropbox.com/s/rgblmfl0utzapcv/sohel.jpeg?raw=1" group-title="Drive 2 (Animation)",100 Percent Wolf
 http://10.16.100.206/ftps3/ftps3d5/Movies/Animated/100%20Percent%20Wolf%20(2020)%201080p%20WEBRip.mkv
 #EXTINF:0 tvg-language="Sohel_Ahmed" tvg-logo="https://www.dropbox.com/s/rgblmfl0utzapcv/sohel.jpeg?raw=1" group-title="Drive 2 (Animation)",Big Fish & Begonia
@@ -629,15 +622,6 @@ https://cdn81.turkakisi.tv/content/stream/indfilms/Tom.and.Jerry.2021.720p.WEBRi
 http://10.16.100.202/ftps10/iccftps10sasd4/Movies/Animated/Ireland/Two%20by%20Two%20Overboard%20(Ooops!%20The%20Adventure%20Continues)%20(2021)%201080p%20WEBDL.mkv
 #EXTINF:0 tvg-language="Sohel_Ahmed" tvg-logo="https://www.dropbox.com/s/rgblmfl0utzapcv/sohel.jpeg?raw=1" group-title="Drive 2 (Animation)",We Bare Bears The Movie
 http://10.16.100.202/ftps10/iccftps10sasd7/Movies/Animated/We%20Bare%20Bears%20The%20Movie%20(2020)%201080p%20BluRay.mkv
-
-
-
-
-
-
-
-
-
 #EXTINF:0 tvg-language="Sohel_Ahmed" tvg-logo="https://www.dropbox.com/s/rgblmfl0utzapcv/sohel.jpeg?raw=1" group-title="Drive 3 (Movie)",Asur (2020) Bengali Original  1080p
 http://103.222.20.150/ftpdata/Movies/Bollywood/2020/Asur%20%282020%29/Asur%20%282020%29%20Bengali%20Original%20%201080p%20ZEE5%20WEB-DL.mp4
 #EXTINF:0 tvg-language="Sohel_Ahmed" tvg-logo="https://www.dropbox.com/s/rgblmfl0utzapcv/sohel.jpeg?raw=1" group-title="Drive 3 (Movie)",SARKAR (2018)
@@ -706,7 +690,6 @@ http://10.16.100.202/ftps10/iccftps10sasd10/Movies/Animated/Magic%20Arch%203D%20
 http://103.222.20.150/ftpdata/Movies/Bollywood/2020/Bank%20Chor%20%282017%29/Bank%20Chor%202017%20Hindi%20720p%20HDRip%20x264%20AAC%20MSubS%20-%20Hon3y.mkv
 #EXTINF:0 tvg-language="Sohel_Ahmed" tvg-logo="https://www.dropbox.com/s/rgblmfl0utzapcv/sohel.jpeg?raw=1" group-title="Drive 3 (Movie)",SUPER OVER
 http://10.16.100.206/ftps3/ftps3d2/Movies/South%20Indian/Super%20Over%20(2021)%20Tamil%201080%20WEBDL.mkv
-
 #EXTINF:0 tvg-language="Sohel_Ahmed" tvg-logo="https://www.dropbox.com/s/rgblmfl0utzapcv/sohel.jpeg?raw=1" group-title="Drive 3 (Movie)",THE GREAT INDIAN KITCHEN (ORU KUDAM)
 http://10.16.100.248/ftps6d3/Movies/South%20Indian/The%20Great%20Indian%20Kitchen%20(Oru%20Kudam)%20(2021)%20Malayam%201080p%20WEBDL.mkv
 #EXTINF:0 tvg-language="Sohel_Ahmed" tvg-logo="https://www.dropbox.com/s/rgblmfl0utzapcv/sohel.jpeg?raw=1" group-title="Drive 3 (Movie)",Barot House (2019) Hindi 720p
@@ -769,7 +752,6 @@ http://newtube.ps/components/com_contushdvideoshare/videos/1830_video.mp4
 http://newtube.ps/components/com_contushdvideoshare/videos/2439_video.mp4
 #EXTINF:0 tvg-language="Sohel_Ahmed" tvg-logo="https://www.dropbox.com/s/rgblmfl0utzapcv/sohel.jpeg?raw=1" group-title="Drive 3 (Movie)",Terminator Salvation
 http://newtube.ps/components/com_contushdvideoshare/videos/2049_video.mp4
-
 #EXTINF:0 tvg-language="Sohel_Ahmed" tvg-logo="https://www.dropbox.com/s/rgblmfl0utzapcv/sohel.jpeg?raw=1" group-title="Drive 3 (Movie)",Superman Returns
 http://newtube.ps/components/com_contushdvideoshare/videos/2834_video.mp4
 #EXTINF:0 tvg-language="Sohel_Ahmed" tvg-logo="https://www.dropbox.com/s/rgblmfl0utzapcv/sohel.jpeg?raw=1" group-title="Drive 3 (Movie)",The Terminator
@@ -886,7 +868,6 @@ https://llvod.mxplay.com/video/9e3e11f825174638bd62f21b9b251b7e/1/hls/h264_1080_
 https://llvod.mxplay.com/video/05b1ad5ecca1de1bab337aa411a1455f/1/hls/h264_1080_high_5800k.m3u8
 #EXTINF:0 tvg-language="Sohel_Ahmed" tvg-logo="https://www.dropbox.com/s/rgblmfl0utzapcv/sohel.jpeg?raw=1" group-title="Drive 3 (Movie)",Gamer (Hindi Dubbed)
 https://llvod.mxplay.com/video/cc2b17d16c61eb2fd7e598361fb00768/1/hls/h264_1080_high_5800k.m3u8
-
 #EXTINF:0 tvg-language="Sohel_Ahmed" tvg-logo="https://www.dropbox.com/s/rgblmfl0utzapcv/sohel.jpeg?raw=1" group-title="Drive 4 (Series)",Dirilis Ertugrul E1
 http://10.16.100.206/ftps3/ftps3d1/TV%20Show/Other%20Foreign/Turkish/Dirilis%20Ertugrul%20Season%2001%20(2014)%20Completed/Dirilis%20Ertugrul%20Episodes%20(01%20-%2012)/Single%20Dirilis%20Ertugrul%20S01E01.mkv
 #EXTINF:0 tvg-language="Sohel_Ahmed" tvg-logo="https://www.dropbox.com/s/rgblmfl0utzapcv/sohel.jpeg?raw=1" group-title="Drive 4 (Series)",Dirilis Ertugrul E2
