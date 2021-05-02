@@ -1422,69 +1422,6 @@ http://209.126.120.153:80/hls/chss2.m3u8
 
 
 
-#EXTINF:0 tvg-logo="https://i.imgur.com/D6jGMpw.jpg" group-title="BDIX Server 7",Star Jalsha HD
-http://starshare.live:8080/live/738323/277337/8540.ts
-#EXTINF:0 tvg-logo="https://i.imgur.com/hAmFkQB.jpg" group-title="BDIX Server 7",Jalsha Movies HD
-http://starshare.live:8080/live/738323/277337/425.ts
-#EXTINF:0 tvg-logo="https://i.imgur.com/fLLse5Q.jpg" group-title="BDIX Server 7",Zee Bangla HD [Opt]
-http://starshare.live:8080/live/738323/277337/435.ts
-#EXTINF:0 tvg-logo="https://i.imgur.com/09phOKV.jpg" group-title="BDIX Server 7",Colors Bangla HD
-http://starshare.live:8080/live/738323/277337/23306.ts
-#EXTINF:0 tvg-logo="https://origindev-static.sonyliv.com/UI_icons/SET_india_HD.png" group-title="BDIX Server 7",Sony HD
-http://starshare.live:8080/live/738323/277337/224.ts
-#EXTINF:0 tvg-logo="https://data.apksum.com/64/in.com.sonymaxmobiletv/2.0.0/icon.png" group-title="BDIX Server 7",Sony Max HD
-http://starshare.live:8080/live/738323/277337/151.ts
-#EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-_3_0i-y26m0/Tm5wVcNv-VI/AAAAAAAACIA/GJ-OHQR67ow/s500/StarGold+logo+2011.jpg" group-title="BDIX Server 7",STAR Gold HD
-http://starshare.live:8080/live/738323/277337/194.ts
-#EXTINF:0 tvg-logo="https://www.exchange4media.com/news-photo/98204-xplore.jpg" group-title="BDIX Server 7",And Xplore HD
-http://starshare.live:8080/live/738323/277337/4082.ts
-#EXTINF:0 tvg-logo="https://www.medianews4u.com/wp-content/uploads/2017/09/utv-movies-1-2-2.jpg" group-title="BDIX Server 7",UTV Movies
-#http://starshare.live:8080/live/738323/277337/972.ts
-#EXTINF:-1 tvg-logo="https://image.airtel.tv/MWTV/MWTV_LIVETVCHANNEL_10000000050850000/PORTRAIT/hLnucnRV.png" group-title="BDIX Server 7",Colors Cineplex
-#http://starshare.live:8080/live/738323/277337/867.ts
-#EXTINF:0 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/2/22/Star_Utsav_logo.jpg" group-title="BDIX Server 7",Star Utsav
-http://starshare.live:8080/live/738323/277337/6206.ts
-#EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/en/4/40/Star_Bharat_Official_Logo.jpg" group-title="BDIX Server 7",Star Bharaat HD
-http://starshare.live:8080/live/738323/277337/199.ts
-#EXTINF:0 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/1/10/Sony_Pal.jpg" group-title="BDIX Server 7",Sony Pal
-http://starshare.live:8080/live/738323/277337/6627.ts
-#EXTINF:0 tvg-logo="https://akamaividz.zee5.com/resources/0-9-zeetvhd/list/386x386/09zeetvhdzeetvhd.png" group-title="BDIX Server 7",Zee TV HD
-http://starshare.live:8080/live/738323/277337/161.ts
-#EXTINF:0 tvg-logo="https://sgp1.digitaloceanspaces.com/quickcompany/trademark/912d9aff2264860b.jpg" group-title="BDIX Server 7",Star Plus HD
-http://starshare.live:8080/live/738323/277337/167.ts
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/5/5f/Sony_PIX.png" group-title="BDIX Server 7",Sony Pix
-#http://starshare.live:8080/live/738323/277337/147.ts
-#EXTINF:-1 tvg-logo="https://i.imgur.com/y0P8mgs.jpg" group-title="BDIX Server 7",Star Movies
-http://starshare.live:8080/live/738323/277337/9384.ts
-#EXTINF:0 tvg-logo="https://download.logo.wine/logo/UTV_Software_Communications/UTV_Software_Communications-Logo.wine.png" group-title="BDIX Server 7",UTV HD
-http://starshare.live:8080/live/738323/277337/1382.ts
-#EXTINF:0 tvg-logo="https://i.pinimg.com/originals/f2/96/43/f296437b67192658e1a9b095b2f6a063.jpg" group-title="BDIX Server 7",MTV India
-http://starshare.live:8080/live/738323/277337/4029.ts
-#EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f7/Fox_Life_pt_logo.PNG" group-title="BDIX Server 7",Fox Life Hindi
-http://starshare.live:8080/live/738323/277337/2115.ts
-#EXTINF:-1 tvg-logo="https://origindev-static.sonyliv.com/UI_icons/Sony_Yay.png" group-title="BDIX Server 7",Sony YAY
-http://starshare.live:8080/live/738323/277337/204.ts
-#EXTINF:-1 tvg-logo="https://www.tvchannelpricelist.com/wp-content/uploads/channels-logo-300/nicks-hd-plus-logo-300x300.jpg" tvg-name="Nick"  group-title="BDIX Server 7",Nick
-http://starshare.live:8080/live/738323/277337/205.ts
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/89/POGO-logo.png" group-title="BDIX Server 7",POGO Hindi
-http://starshare.live:8080/live/738323/277337/1918.ts
-#EXTINF:0 tvg-logo="https://i.imgur.com/M9Z5cfD.png" group-title="BDIX Server 7",Cartoon Network Hindi
-http://starshare.live:8080/live/738323/277337/8.ts
-#EXTINF:-1 tvg-logo="https://dsnnepal.com/wp-content/uploads/2020/08/sony-ten-2-hd.png" group-title="BDIX Server 7",Sony Ten 2
-http://starshare.live:8080/live/738323/277337/192.ts
-#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/e/e8/STAR_Sports_1_logo.png" group-title="BDIX Server 7",Star Sports 1
-http://starshare.live:8080/live/738323/277337/23936.ts
-#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/e/e8/STAR_Sports_1_logo.png" group-title="BDIX Server 7",Star Sports Select 1 HD
-http://starshare.live:8080/live/738323/277337/238.ts
-#EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/en/e/e8/Masala_TV.png" group-title="BDIX Server 7",Hum Masala
-http://starshare.live:8080/live/738323/277337/1919.ts
-#EXTINF:-1 tvg-logo="https://static.india.com/wp-content/uploads/2020/08/IPL-Logo.jpg" group-title="BDIX Server 7",IPL
-http://starshare.live:8080/live/738323/277337/23943.ts
-#EXTINF:-1 tvg-logo="https://static.india.com/wp-content/uploads/2020/08/IPL-Logo.jpg" group-title="BDIX Server 7",IPL
-http://starshare.live:8080/live/738323/277337/4748.ts
-
-
-
 
 
 
