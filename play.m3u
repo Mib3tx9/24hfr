@@ -660,7 +660,7 @@ http://10.16.100.241/ftps3d3/Movies/Harry%20Potter%20and%20the%20Goblet%20of%20F
 http://10.16.100.241/ftps3d6/English/Harry%20Potter%20and%20the%20Order%20of%20the%20Phoenix%20(2007)1080p.mkv
 #EXTINF:0 tvg-language="Sohel_Ahmed" tvg-logo="https://www.dropbox.com/s/rgblmfl0utzapcv/sohel.jpeg?raw=1" group-title="Drive 3 (Movie)",HARRY POTTER AND THE SORCERERS STONE (2001)
 http://10.16.100.245/ftps2d1/ftps1d3/English%20Movies/2015/Harry%20Potter%20and%20the%20Sorcerers%20Stone%20(2001)%201080p%20BrRip.mkv
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="WRONG TURN" tvg-logo="http://10.16.100.244/files/wrong_turn.jpg" group-title="Drive 3 (Movie)",WRONG TURN
+#EXTINF:0 tvg-language="Sohel_Ahmed" tvg-logo="https://www.dropbox.com/s/rgblmfl0utzapcv/sohel.jpeg?raw=1" group-title="Drive 3 (Movie)",WRONG TURN
 http://10.16.100.206/ftps3/ftps3d2/Movies/English/Wrong%20Turn%20(2021)%201080p%20BluRay.mkv
 #EXTINF:0 tvg-language="Sohel_Ahmed" tvg-logo="https://www.dropbox.com/s/rgblmfl0utzapcv/sohel.jpeg?raw=1" group-title="Drive 3 (Movie)",WRONG TURN 2 DEAD END
 http://10.16.100.241/ftps3d3/Movies/English/Wrong%20Turn%202%20Dead%20End%20(2007)%201080p%20BrRip.mkv
