@@ -1359,6 +1359,7 @@ http://103.205.133.21/hls/chss2.m3u8
 
 
 
+
 #EXTINF:-1 tvg-logo="" group-title="BDIX Server 2",ATN Bangla [2]
 http://10.16.100.203:8082/bangla/atnbangla.m3u8
 #EXTINF:-1 tvg-logo="" group-title="BDIX Server 2",Bangla TV [2]
@@ -1369,7 +1370,7 @@ http://10.16.100.203:8082/bangla/vision_bangla.m3u8
 http://10.16.100.205/hls/ch_i.m3u8
 #EXTINF:-1 tvg-logo="" group-title="BDIX Server 2",DBC News [2]
 http://10.16.100.203:8082/bangla/dbcnews.m3u8
-#EXTINF:-1 tvg-logo="" group-title="BDIX Server 2",Deepto TV [2]
+#EXTINF:-1 tvg-logo="" group-title="BDIX Server 2",Deepto TV [2]*****
 http://10.16.100.203:8082/bangla/deeptotv.m3u8
 #EXTINF:-1 tvg-logo="" group-title="BDIX Server 2",Desh TV [2]
 http://10.16.100.205/hls/des_tv_local480.m3u8
@@ -1389,11 +1390,11 @@ http://10.16.100.207:8082/sports/akash_8_1stop.m3u8
 http://10.16.100.205/hls/colorsbd480.m3u8
 #EXTINF:-1 tvg-logo="" group-title="BDIX Server 2",Star Jalsha [2]
 http://10.16.100.203:8082/bangla/starjalsha_1stop_bd.m3u8
-#EXTINF:-1 tvg-logo="" group-title="BDIX Server 2",& Pictures HD [2]
+#EXTINF:-1 tvg-logo="" group-title="BDIX Server 2",& Pictures HD [2]*****
 http://10.16.100.204:8082/hls/&Pictures_hd_bd.m3u8
-#EXTINF:-1 tvg-logo="" group-title="BDIX Server 2",Sony Pix HD [2]
+#EXTINF:-1 tvg-logo="" group-title="BDIX Server 2",Sony Pix HD [2]*****
 http://10.16.100.204:8082/hls/sony_pixhd_bd_720.m3u8
-#EXTINF:-1 tvg-logo="" group-title="BDIX Server 2",WoW Cinema [2]
+#EXTINF:-1 tvg-logo="" group-title="BDIX Server 2",WoW Cinema [2]*****
 http://10.16.100.201/hindi/wow_cinema.m3u8
 #EXTINF:-1 tvg-logo="" group-title="BDIX Server 2",Gaan Bangla [2]
 http://10.16.100.203:8082/bangla/ganbangla_1stop_hd.m3u8
