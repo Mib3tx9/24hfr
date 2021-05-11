@@ -2126,18 +2126,7 @@ http://103.102.27.172:6464/Channel-2/tracks-v1a1/mono.m3u8
 
 
 
-#EXTINF:-1 tvg-id="" tvg-name="M Movies 1 HD" tvg-logo="" group-title="Movies",M Movies 1 HD
-http://ferrarich.referrari.com:8080/live/98855_.m3u8?token=e179aa282d824c1ca816901cb02038d3
-#EXTINF:-1 tvg-id="" tvg-name="M Movies 2 HD" tvg-logo="" group-title="Movies",M Movies 2 HD
-http://ferrarich.referrari.com:8080/live/98856_.m3u8?token=e179aa282d824c1ca816901cb02038d3
-#EXTINF:-1 tvg-id="" tvg-name="M Movies 3 HD" tvg-logo="" group-title="Movies",M Movies 3 HD
-http://ferrarich.referrari.com:8080/live/98857_.m3u8?token=e179aa282d824c1ca816901cb02038d3
-#EXTINF:-1 tvg-id="" tvg-name="M Movies 4 HD" tvg-logo="" group-title="Movies",M Movies 4 HD
-http://ferrarich.referrari.com:8080/live/98858_.m3u8?token=e179aa282d824c1ca816901cb02038d3
-#EXTINF:-1 tvg-id="" tvg-name="M Movies 5 HD" tvg-logo="" group-title="Movies",M Movies 5 HD
-http://ferrarich.referrari.com:8080/live/98859_.m3u8?token=e179aa282d824c1ca816901cb02038d3
-#EXTINF:-1 tvg-id="" tvg-name="M Movies 6 HD" tvg-logo="" group-title="Movies",M Movies 6 HD
-http://ferrarich.referrari.com:8080/live/98860_.m3u8?token=e179aa282d824c1ca816901cb02038d3
+
 #EXTINF:-1 tvg-id="" tvg-name="Netflix Action HD" tvg-logo="http://vod-logo.net/photos/2361e4e5e6852d5e64359e591546e6ed.png" group-title="Movies",Netflix Action HD
 http://forevertv.me:8080/pk-moh-vods/546457563/33776
 #EXTINF:-1 tvg-id="" tvg-name="Netflix Anime HD" tvg-logo="http://vod-logo.net/photos/2361e4e5e6852d5e64359e591546e6ed.png" group-title="Movies",Netflix Anime HD
