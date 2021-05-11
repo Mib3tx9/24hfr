@@ -202,7 +202,7 @@ https://piratesiptv.shortcm.li/aniplus.m3u8
 #EXTINF:0 tvg-language="Sohel_Ahmed" tvg-logo="https://www.dropbox.com/s/rgblmfl0utzapcv/sohel.jpeg?raw=1" group-title="Kids",84.Baby First
 https://piratesiptv.shortcm.li/baby.m3u8
 #EXTINF:0 tvg-language="Sohel_Ahmed" tvg-logo="https://www.dropbox.com/s/rgblmfl0utzapcv/sohel.jpeg?raw=1" group-title="Kids",85.BBC Cbeebies
-https://piratesiptv.shortcm.li/bbccbeebies.m3u8
+
 #EXTINF:0 tvg-language="Sohel_Ahmed" tvg-logo="https://www.dropbox.com/s/rgblmfl0utzapcv/sohel.jpeg?raw=1" group-title="Kids",86.Boomerang
 https://piratesiptv.shortcm.li/boom.m3u8
 #EXTINF:0 tvg-language="Sohel_Ahmed" tvg-logo="https://www.dropbox.com/s/rgblmfl0utzapcv/sohel.jpeg?raw=1" group-title="Kids",87.Cartoon Network
@@ -213,8 +213,12 @@ https://piratesiptv.shortcm.li/dkids.m3u8
 
 #EXTINF:0 tvg-language="Sohel_Ahmed" tvg-logo="https://www.dropbox.com/s/rgblmfl0utzapcv/sohel.jpeg?raw=1" group-title="Kids",90.EBS Kids
 https://piratesiptv.shortcm.li/ebs.m3u8
+#EXTINF:0 tvg-language="Sohel_Ahmed" tvg-logo="https://www.dropbox.com/s/rgblmfl0utzapcv/sohel.jpeg?raw=1" group-title="Kids",91.Majed
+https://admdn4.cdn.mangomolo.com/majid/smil:majid.stream.smil/playlist.m3u8?checkedby:hlscat.com
 #EXTINF:0 tvg-language="Sohel_Ahmed" tvg-logo="https://www.dropbox.com/s/rgblmfl0utzapcv/sohel.jpeg?raw=1" group-title="Kids",91.MBC 3
 https://piratesiptv.shortcm.li/mbc3.m3u8
+#EXTINF:0 tvg-language="Sohel_Ahmed" tvg-logo="https://www.dropbox.com/s/rgblmfl0utzapcv/sohel.jpeg?raw=1" group-title="Kids",91.MBC 3 4K
+https://shls-mbc3-prod-dub.shahid.net/out/v1/d5bbe570e1514d3d9a142657d33d85e6/index_1.m3u8
 #EXTINF:0 tvg-language="Sohel_Ahmed" tvg-logo="https://www.dropbox.com/s/rgblmfl0utzapcv/sohel.jpeg?raw=1" group-title="Kids",92.Mr Bean Show
 https://www.dropbox.com/s/86zww54vybbqipw/Mr.%20Bean.mp4?raw=1
 #EXTINF:0 tvg-language="Sohel_Ahmed" tvg-logo="https://www.dropbox.com/s/rgblmfl0utzapcv/sohel.jpeg?raw=1" group-title="Kids",93.Nick
@@ -224,11 +228,13 @@ https://piratesiptv.shortcm.li/nickjr.m3u8
 #EXTINF:0 tvg-language="Sohel_Ahmed" tvg-logo="https://www.dropbox.com/s/rgblmfl0utzapcv/sohel.jpeg?raw=1" group-title="Kids",94.Pogo
 http://starshare.live:8080/live/7383236789/2773376789/1918.m3u8
 #EXTINF:0 tvg-language="Sohel_Ahmed" tvg-logo="https://www.dropbox.com/s/rgblmfl0utzapcv/sohel.jpeg?raw=1" group-title="Kids",95.Shemaroo Kids
-https://piratesiptv.shortcm.li/skids.m3u8
+
 #EXTINF:0 tvg-language="Sohel_Ahmed" tvg-logo="https://www.dropbox.com/s/rgblmfl0utzapcv/sohel.jpeg?raw=1" group-title="Kids",96.Sonic
 
 #EXTINF:0 tvg-language="Sohel_Ahmed" tvg-logo="https://www.dropbox.com/s/rgblmfl0utzapcv/sohel.jpeg?raw=1" group-title="Kids",97.Sony Yay Bangla
 https://piratesiptv.shortcm.li/sonyyay.m3u8
+#EXTINF:0 tvg-language="Sohel_Ahmed" tvg-logo="https://www.dropbox.com/s/rgblmfl0utzapcv/sohel.jpeg?raw=1" group-title="Kids",98.Spacetoon
+https://streams.spacetoon.com/live/stchannel/smil:livesmil.smil/playlist.m3u8
 #EXTINF:0 tvg-language="Sohel_Ahmed" tvg-logo="https://www.dropbox.com/s/rgblmfl0utzapcv/sohel.jpeg?raw=1" group-title="Music",101.Bangla Talkies
 https://piratesiptv.shortcm.li/banglatalkies.m3u8
 #EXTINF:0 tvg-language="Sohel_Ahmed" tvg-logo="https://www.dropbox.com/s/rgblmfl0utzapcv/sohel.jpeg?raw=1" group-title="Music",102.Dhoom Music
@@ -3869,28 +3875,6 @@ https://shls-masr-prod-dub.shahid.net/out/v1/b7093401da27496797a8949de23f4578/in
 https://shls-masr2-prod-dub.shahid.net/out/v1/f683685242b549f48ea8a5171e3e993a/index_1.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Persian" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/8f/MBC_Persia_Logo.png" tvg-country="AE" tvg-url="" group-title="MBC",MBC Persia
 https://shls-mbcpersia-prod-dub.shahid.net/out/v1/bdc7cd0d990e4c54808632a52c396946/index_1.m3u8
-
-
-
-
-#EXTINF:-1 tvg-id="mbc3.ae" tvg-name="MBC 3 4K" tvg-logo="http://163.172.48.123/logos/LogoEVDTV/My-HD/MBC3.png" group-title="Kids",MBC 3 4K
-https://shls-mbc3-prod-dub.shahid.net/out/v1/d5bbe570e1514d3d9a142657d33d85e6/index_1.m3u8
-#EXTINF:-1 tvg-id="jeemtv.qa" tvg-name="Jeem HD" tvg-logo="http://163.172.48.123/logos/LogoEVDTV/BeIN/Entertainment/Jeem.png" group-title="Kids",Jeem HD	
-http://51.15.1.11:25461/BEST-LIVE5656/BEST-LIVE5656/31
-#EXTINF:-1 tvg-id="jeemtv.qa" tvg-name="majed" tvg-logo="http://163.172.48.123/logos/LogoEVDTV/BeIN/Entertainment/Jeem.png" group-title="Kids",majed
-https://admdn4.cdn.mangomolo.com/majid/smil:majid.stream.smil/playlist.m3u8?checkedby:hlscat.com
-#EXTINF:-1 tvg-id="D.qa" tvg-name="tom&Jerry" tvg-logo="http://163.172.48.123/logos/LogoEVDTV/BeIN/Entertainment/Jeem.png" group-title="Kids",tom&Jerry
-http://gigaiptv.pro:25461/razmenausa/2XcIPAKg1j/22283
-#EXTINF:-1 tvg-id="baraem.qa" tvg-name="Baraem HD" tvg-logo="http://163.172.48.123/logos/LogoEVDTV/BeIN/Entertainment/Baraem.png" group-title="Kids",Baraem HD
-http://mac-tv.live:8880/moaBIcb4KO/18AUjUX0pU/24367
-#EXTINF:-1 tvg-id="baraem.qa" tvg-name="Boomerang HD" tvg-logo="http://163.172.48.123/logos/LogoEVDTV/BeIN/Entertainment/Baraem.png" group-title="Kids",Boomerang HD
-http://goldenrocket.club:8080/platinum/xHq8vck9Nd/120165
-#EXTINF:-1 tvg-id="spacetoon" tvg-name="spacetoon" tvg-logo="http://163.172.48.123/logos/LogoEVDTV/BeIN/Entertainment/Baraem.png" group-title="Kids",spacetoon
-https://streams.spacetoon.com/live/stchannel/smil:livesmil.smil/playlist.m3u8
-#EXTINF:-1 tvg-id="Taha_TV" tvg-name="Rotana kids" tvg-logo="http://163.172.48.123/logos/LogoEVDTV/BeIN/Entertainment/Baraem.png" group-title="Kids",Rotana kids
-https://rotana.hibridmedia.com/rotana/kids_dabr/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Cartoon Network HD" tvg-logo="http://163.172.48.123/logos/LogoEVDTV/BeIN/Entertainment/CartoonNetworkHD.png" group-title="Kids",Cartoon Network HD
-https://shls-cartoon-net-prod-dub.shahid.net/out/v1/dc4aa87372374325a66be458f29eab0f/index.m3u8?checkedby:hlscat.com
 
 
 
