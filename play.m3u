@@ -400,13 +400,13 @@ https://piratesiptv.shortcm.li/starsports2.m3u8
 #EXTINF:0 tvg-language="Sohel_Ahmed" tvg-logo="https://www.dropbox.com/s/rgblmfl0utzapcv/sohel.jpeg?raw=1" group-title="Sports",177.Star Sports 3
 
 #EXTINF:0 tvg-language="Sohel_Ahmed" tvg-logo="https://www.dropbox.com/s/rgblmfl0utzapcv/sohel.jpeg?raw=1" group-title="Sports",178.Star Sports Select 1
-https://piratesiptv.shortcm.li/select1.m3u8
+http://103.102.27.172:6464/Channel-2/tracks-v1a1/mono.m3u8
 #EXTINF:0 tvg-language="Sohel_Ahmed" tvg-logo="https://www.dropbox.com/s/rgblmfl0utzapcv/sohel.jpeg?raw=1" group-title="Sports",179.Star Sports Select 2
 https://piratesiptv.shortcm.li/select2.m3u8
 #EXTINF:0 tvg-language="Sohel_Ahmed" tvg-logo="https://www.dropbox.com/s/rgblmfl0utzapcv/sohel.jpeg?raw=1" group-title="Sports",180.T Sports
-https://piratesiptv.shortcm.li/tsports.m3u8
+
 #EXTINF:0 tvg-language="Sohel_Ahmed" tvg-logo="https://www.dropbox.com/s/rgblmfl0utzapcv/sohel.jpeg?raw=1" group-title="Sports",181.DD Sports
-https://piratesiptv.shortcm.li/ddsports.meu8
+
 #EXTINF:0 tvg-language="Sohel_Ahmed" tvg-logo="https://www.dropbox.com/s/rgblmfl0utzapcv/sohel.jpeg?raw=1" group-title="Sports",182.PTV Sports
 https://piratesiptv.shortcm.li/ptvsports.m3u8
 #EXTINF:0 tvg-language="Sohel_Ahmed" tvg-logo="https://www.dropbox.com/s/rgblmfl0utzapcv/sohel.jpeg?raw=1" group-title="Sports",183.AD Sports 1
@@ -2063,17 +2063,6 @@ http://nwbz1u.ecm.tm/806B6CF/89181e/SM_FHD-HINDI-ANIMALPLANET/tracks-v1a1/index.
 http://nwbz1u.ecm.tm/806B6CF/89181e/SM_FHD-HINDI-NATGEOWILD/tracks-v1a1/index.m3u8?token=0558356b27398f74c6bf8c38eb01782ca657f46036bac31f9cfbf64fa8235da80cdab652f86b9c1be050328d447b1471bc025e2f9ab03c30a7a2fd1c43b523fa41b6455412145b1a2d6878b1a28fbd4d706e48afb1602866940927ea134da9170e97eebc29f3823a69f42e90681f26&mac=00:1A:79:4B:57:A3&ip=27.96.95.31&magic_server=MAIN_MP
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Tamil" tvg-logo="" tvg-country="IN" tvg-url="" group-title="Documentary",SONY BBC EARTH HD
 http://pn.tvott.info:80/307254552277/307254552277/83952
-
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcS_3lZ-3SjyKCjtm6yO_Hud67PWDfVlYQvpXMVEA_2NZnwkaip4&usqp=CAU" group-title="IPL Live",Gazi TV (IPL Live Only)
-http://tiny.cc/ipl-m3u8
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcS_3lZ-3SjyKCjtm6yO_Hud67PWDfVlYQvpXMVEA_2NZnwkaip4&usqp=CAU" group-title="IPL Live",Gazi TV (Update Playlist)
-https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1619984162/ei/waqOYO-bOa784-EP9pWj0AY/ip/103.71.43.107/id/rGTrmQEOY5A.1/source/yt_live_broadcast/requiressl/yes/hfr/1/maxh/2160/maudio/1/gcr/bd/vprv/1/go/1/nvgoi/1/keepalive/yes/fexp/24001373%2C24007246/dover/11/itag/0/playlist_type/LIVE/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Chfr%2Cmaxh%2Cmaudio%2Cgcr%2Cvprv%2Cgo%2Citag%2Cplaylist_type/sig/AOq0QJ8wRAIgCWLeb4f82f3iL6tDHDiY3ieJlwsmBTVmHkKgh3o2IEICIF7GnFwyZSoF_manSr0q3As5XeGsMf5tINpYA36g_Zuz/file/index.m3u8
-#EXTINF:-1 tvg-logo="https://static.india.com/wp-content/uploads/2020/08/IPL-Logo.jpg" group-title="IPL Live",Live 1
-http://103.102.27.172:6464/Channel-1/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-logo="https://static.india.com/wp-content/uploads/2020/08/IPL-Logo.jpg" group-title="IPL Live",Live 2
-http://10.16.100.207:8082/sports/starsports_select1.m3u8
-#EXTINF:-1 tvg-logo="https://static.india.com/wp-content/uploads/2020/08/IPL-Logo.jpg" group-title="IPL Live",Live 3
-http://103.102.27.172:6464/Channel-2/tracks-v1a1/mono.m3u8
 
 
 
