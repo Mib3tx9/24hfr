@@ -5,7 +5,6 @@
 #EXTINF:-1 tvg-logo="" group-title="BDIX Server 2",Server2-----------------------------------------------------------------------------------------------------------
 #EXTINF:-1 tvg-logo="" group-title="BDIX Server 5",Server5-----------------------------------------------------------------------------------------------------------
 #EXTINF:-1 tvg-logo="" group-title="BDIX Server 6",Server6-----------------------------------------------------------------------------------------------------------
-#EXTINF:-1 tvg-logo="" group-title="BDIX Server 7",Server6-----------------------------------------------------------------------------------------------------------
 #EXTINF:-1 tvg-logo="" group-title="BD IPTV",BD----------------------------------------------------------------------------------------------------------------------
 #EXTINF:-1 tvg-logo="" group-title="Documentary",DC------------------------------------------------------------------------------------------------------------------
 #EXTINF:-1 tvg-logo="" group-title="Indian Bangla",IB----------------------------------------------------------------------------------------------------------------
@@ -1741,100 +1740,6 @@ http://209.126.120.153:80/hls/chss2.m3u8
 
 
 
-
-
-#EXTINF:0 tvg-language="Sohel_Ahmed" tvg-logo="https://www.dropbox.com/s/rgblmfl0utzapcv/sohel.jpeg?raw=1" group-title="BDIX Server 7",Sony HD
-http://starshare.live:8080/live/7383236789/2773376789/144.m3u8
-#EXTINF:0 tvg-language="Sohel_Ahmed" tvg-logo="https://www.dropbox.com/s/rgblmfl0utzapcv/sohel.jpeg?raw=1" group-title="BDIX Server 7",Sony Sab HD
-http://starshare.live:8080/live/7383236789/2773376789/145.m3u8
-#EXTINF:0 tvg-language="Sohel_Ahmed" tvg-logo="https://www.dropbox.com/s/rgblmfl0utzapcv/sohel.jpeg?raw=1" group-title="BDIX Server 7",Sony Max HD
-http://starshare.live:8080/live/7383236789/2773376789/151.m3u8
-#EXTINF:0 tvg-language="Sohel_Ahmed" tvg-logo="https://www.dropbox.com/s/rgblmfl0utzapcv/sohel.jpeg?raw=1" group-title="BDIX Server 7",Sony Pix HD
-http://starshare.live:8080/live/7383236789/2773376789/147.m3u8
-#EXTINF:0 tvg-language="Sohel_Ahmed" tvg-logo="https://www.dropbox.com/s/rgblmfl0utzapcv/sohel.jpeg?raw=1" group-title="BDIX Server 7",Discovery HD
-http://starshare.live:8080/live/7383236789/2773376789/156.m3u8
-#EXTINF:0 tvg-language="Sohel_Ahmed" tvg-logo="https://www.dropbox.com/s/rgblmfl0utzapcv/sohel.jpeg?raw=1" group-title="BDIX Server 7",Star.....
-http://starshare.live:8080/live/7383236789/2773376789/157.m3u8
-#EXTINF:0 tvg-language="Sohel_Ahmed" tvg-logo="https://www.dropbox.com/s/rgblmfl0utzapcv/sohel.jpeg?raw=1" group-title="BDIX Server 7",Star Bharat HD
-http://starshare.live:8080/live/7383236789/2773376789/199.m3u8
-#EXTINF:0 tvg-language="Sohel_Ahmed" tvg-logo="https://www.dropbox.com/s/rgblmfl0utzapcv/sohel.jpeg?raw=1" group-title="BDIX Server 7",Star Jalsha HD
-http://starshare.live:8080/live/7383236789/2773376789/198.m3u8
-#EXTINF:0 tvg-language="Sohel_Ahmed" tvg-logo="https://www.dropbox.com/s/rgblmfl0utzapcv/sohel.jpeg?raw=1" group-title="BDIX Server 7",Star Gold HD
-http://starshare.live:8080/live/7383236789/2773376789/194.m3u8
-#EXTINF:0 tvg-language="Sohel_Ahmed" tvg-logo="https://www.dropbox.com/s/rgblmfl0utzapcv/sohel.jpeg?raw=1" group-title="BDIX Server 7",Star Gold Select HD
-http://starshare.live:8080/live/7383236789/2773376789/210.m3u8
-#EXTINF:0 tvg-language="Sohel_Ahmed" tvg-logo="https://www.dropbox.com/s/rgblmfl0utzapcv/sohel.jpeg?raw=1" group-title="BDIX Server 7",Star Movies Select HD
-http://starshare.live:8080/live/7383236789/2773376789/218.m3u8
-#EXTINF:0 tvg-language="Sohel_Ahmed" tvg-logo="https://www.dropbox.com/s/rgblmfl0utzapcv/sohel.jpeg?raw=1" group-title="BDIX Server 7",Star Plus HD
-http://starshare.live:8080/live/7383236789/2773376789/167.m3u8
-#EXTINF:0 tvg-language="Sohel_Ahmed" tvg-logo="https://www.dropbox.com/s/rgblmfl0utzapcv/sohel.jpeg?raw=1" group-title="BDIX Server 7",Sony BBC Earth HD
-http://starshare.live:8080/live/7383236789/2773376789/174.m3u8
-#EXTINF:0 tvg-language="Sohel_Ahmed" tvg-logo="https://www.dropbox.com/s/rgblmfl0utzapcv/sohel.jpeg?raw=1" group-title="BDIX Server 7",Sun TV HD
-http://starshare.live:8080/live/7383236789/2773376789/158.m3u8
-#EXTINF:0 tvg-language="Sohel_Ahmed" tvg-logo="https://www.dropbox.com/s/rgblmfl0utzapcv/sohel.jpeg?raw=1" group-title="BDIX Server 7",Sun Music
-http://starshare.live:8080/live/7383236789/2773376789/159.m3u8
-#EXTINF:0 tvg-language="Sohel_Ahmed" tvg-logo="https://www.dropbox.com/s/rgblmfl0utzapcv/sohel.jpeg?raw=1" group-title="BDIX Server 7",Travel XP
-http://starshare.live:8080/live/7383236789/2773376789/181.m3u8
-#EXTINF:0 tvg-language="Sohel_Ahmed" tvg-logo="https://www.dropbox.com/s/rgblmfl0utzapcv/sohel.jpeg?raw=1" group-title="BDIX Server 7",Animal Planet HD
-http://starshare.live:8080/live/7383236789/2773376789/182.m3u8
-#EXTINF:0 tvg-language="Sohel_Ahmed" tvg-logo="https://www.dropbox.com/s/rgblmfl0utzapcv/sohel.jpeg?raw=1" group-title="BDIX Server 7",HBO
-http://starshare.live:8080/live/7383236789/2773376789/95.m3u8
-#EXTINF:0 tvg-language="Sohel_Ahmed" tvg-logo="https://www.dropbox.com/s/rgblmfl0utzapcv/sohel.jpeg?raw=1" group-title="BDIX Server 7",HBO 2
-http://starshare.live:8080/live/7383236789/2773376789/185.m3u8
-#EXTINF:0 tvg-language="Sohel_Ahmed" tvg-logo="https://www.dropbox.com/s/rgblmfl0utzapcv/sohel.jpeg?raw=1" group-title="BDIX Server 7",MNX
-http://starshare.live:8080/live/7383236789/2773376789/191.m3u8
-#EXTINF:0 tvg-language="Sohel_Ahmed" tvg-logo="https://www.dropbox.com/s/rgblmfl0utzapcv/sohel.jpeg?raw=1" group-title="BDIX Server 7",Zee Cafe HD
-http://starshare.live:8080/live/7383236789/2773376789/196.m3u8
-#EXTINF:0 tvg-language="Sohel_Ahmed" tvg-logo="https://www.dropbox.com/s/rgblmfl0utzapcv/sohel.jpeg?raw=1" group-title="BDIX Server 7",Sony Yay
-http://starshare.live:8080/live/7383236789/2773376789/204.m3u8
-#EXTINF:0 tvg-language="Sohel_Ahmed" tvg-logo="https://www.dropbox.com/s/rgblmfl0utzapcv/sohel.jpeg?raw=1" group-title="BDIX Server 7",Nick
-http://starshare.live:8080/live/7383236789/2773376789/205.m3u8
-#EXTINF:0 tvg-language="Sohel_Ahmed" tvg-logo="https://www.dropbox.com/s/rgblmfl0utzapcv/sohel.jpeg?raw=1" group-title="BDIX Server 7",Nick Jr
-http://starshare.live:8080/live/7383236789/2773376789/206.m3u8
-#EXTINF:0 tvg-language="Sohel_Ahmed" tvg-logo="https://www.dropbox.com/s/rgblmfl0utzapcv/sohel.jpeg?raw=1" group-title="BDIX Server 7",PTV Home
-http://starshare.live:8080/live/7383236789/2773376789/110.m3u8
-#EXTINF:0 tvg-language="Sohel_Ahmed" tvg-logo="https://www.dropbox.com/s/rgblmfl0utzapcv/sohel.jpeg?raw=1" group-title="BDIX Server 7",8XM
-http://starshare.live:8080/live/7383236789/2773376789/112.m3u8
-#EXTINF:0 tvg-language="Sohel_Ahmed" tvg-logo="https://www.dropbox.com/s/rgblmfl0utzapcv/sohel.jpeg?raw=1" group-title="BDIX Server 7",Atv
-http://starshare.live:8080/live/7383236789/2773376789/116.m3u8
-#EXTINF:0 tvg-language="Sohel_Ahmed" tvg-logo="https://www.dropbox.com/s/rgblmfl0utzapcv/sohel.jpeg?raw=1" group-title="BDIX Server 7",Hum Europe
-http://starshare.live:8080/live/7383236789/2773376789/121.m3u8
-#EXTINF:0 tvg-language="Sohel_Ahmed" tvg-logo="https://www.dropbox.com/s/rgblmfl0utzapcv/sohel.jpeg?raw=1" group-title="BDIX Server 7",HUM HD
-http://starshare.live:8080/live/7383236789/2773376789/122.m3u8
-#EXTINF:0 tvg-language="Sohel_Ahmed" tvg-logo="https://www.dropbox.com/s/rgblmfl0utzapcv/sohel.jpeg?raw=1" group-title="BDIX Server 7",ARY
-http://starshare.live:8080/live/7383236789/2773376789/123.m3u8
-#EXTINF:0 tvg-language="Sohel_Ahmed" tvg-logo="https://www.dropbox.com/s/rgblmfl0utzapcv/sohel.jpeg?raw=1" group-title="BDIX Server 7",ARY Digital
-http://starshare.live:8080/live/7383236789/2773376789/124.m3u8
-#EXTINF:0 tvg-language="Sohel_Ahmed" tvg-logo="https://www.dropbox.com/s/rgblmfl0utzapcv/sohel.jpeg?raw=1" group-title="BDIX Server 7",A plus
-http://starshare.live:8080/live/7383236789/2773376789/126.m3u8
-#EXTINF:0 tvg-language="Sohel_Ahmed" tvg-logo="https://www.dropbox.com/s/rgblmfl0utzapcv/sohel.jpeg?raw=1" group-title="BDIX Server 7",Ary TV
-http://starshare.live:8080/live/7383236789/2773376789/127.m3u8
-#EXTINF:0 tvg-language="Sohel_Ahmed" tvg-logo="https://www.dropbox.com/s/rgblmfl0utzapcv/sohel.jpeg?raw=1" group-title="BDIX Server 7",Ten Sports
-http://starshare.live:8080/live/7383236789/2773376789/98.m3u8
-#EXTINF:0 tvg-language="Sohel_Ahmed" tvg-logo="https://www.dropbox.com/s/rgblmfl0utzapcv/sohel.jpeg?raw=1" group-title="BDIX Server 7",Geo Super
-http://starshare.live:8080/live/7383236789/2773376789/101.m3u8
-#EXTINF:0 tvg-language="Sohel_Ahmed" tvg-logo="https://www.dropbox.com/s/rgblmfl0utzapcv/sohel.jpeg?raw=1" group-title="BDIX Server 7",PTV Sports
-http://starshare.live:8080/live/7383236789/2773376789/89.m3u8
-#EXTINF:0 tvg-language="Sohel_Ahmed" tvg-logo="https://www.dropbox.com/s/rgblmfl0utzapcv/sohel.jpeg?raw=1" group-title="BDIX Server 7",Willow HD
-http://starshare.live:8080/live/7383236789/2773376789/215.m3u8
-#EXTINF:0 tvg-language="Sohel_Ahmed" tvg-logo="https://www.dropbox.com/s/rgblmfl0utzapcv/sohel.jpeg?raw=1" group-title="BDIX Server 7",Sony Ten 1
-http://starshare.live:8080/live/7383236789/2773376789/154.m3u8
-#EXTINF:0 tvg-language="Sohel_Ahmed" tvg-logo="https://www.dropbox.com/s/rgblmfl0utzapcv/sohel.jpeg?raw=1" group-title="BDIX Server 7",Somy Ten 2
-http://starshare.live:8080/live/7383236789/2773376789/192.m3u8
-#EXTINF:0 tvg-language="Sohel_Ahmed" tvg-logo="https://www.dropbox.com/s/rgblmfl0utzapcv/sohel.jpeg?raw=1" group-title="BDIX Server 7",Sony Ten 3
-http://starshare.live:8080/live/7383236789/2773376789/146.m3u8
-#EXTINF:0 tvg-language="Sohel_Ahmed" tvg-logo="https://www.dropbox.com/s/rgblmfl0utzapcv/sohel.jpeg?raw=1" group-title="BDIX Server 7",Sony Six HD
-http://starshare.live:8080/live/7383236789/2773376789/176.m3u8
-#EXTINF:0 tvg-language="Sohel_Ahmed" tvg-logo="https://www.dropbox.com/s/rgblmfl0utzapcv/sohel.jpeg?raw=1" group-title="BDIX Server 7",Star Sports 1 HD
-http://starshare.live:8080/live/7383236789/2773376789/148.m3u8
-#EXTINF:0 tvg-language="Sohel_Ahmed" tvg-logo="https://www.dropbox.com/s/rgblmfl0utzapcv/sohel.jpeg?raw=1" group-title="BDIX Server 7",Star Sports 1 HD Hindi
-http://starshare.live:8080/live/7383236789/2773376789/211.m3u8
-#EXTINF:0 tvg-language="Sohel_Ahmed" tvg-logo="https://www.dropbox.com/s/rgblmfl0utzapcv/sohel.jpeg?raw=1" group-title="BDIX Server 7",Star Sports 2 HD
-http://starshare.live:8080/live/7383236789/2773376789/239.m3u8
-#EXTINF:0 tvg-language="Sohel_Ahmed" tvg-logo="https://www.dropbox.com/s/rgblmfl0utzapcv/sohel.jpeg?raw=1" group-title="BDIX Server 7",Star Sports Select 1 HD
-http://starshare.live:8080/live/7383236789/2773376789/238.m3u8
-#EXTINF:0 tvg-language="Sohel_Ahmed" tvg-logo="https://www.dropbox.com/s/rgblmfl0utzapcv/sohel.jpeg?raw=1" group-title="BDIX Server 7",Star Sports Select 2 HD
-http://starshare.live:8080/live/7383236789/2773376789/200.m3u8
 
 
 
