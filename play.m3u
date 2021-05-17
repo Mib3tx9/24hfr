@@ -121,6 +121,8 @@ https://piratesiptv.shortcm.li/nan.m3u8
 https://piratesiptv.shortcm.li/pan.m3u8
 #EXTINF:0 tvg-language="Sohel_Ahmed" tvg-logo="https://www.dropbox.com/s/rgblmfl0utzapcv/sohel.jpeg?raw=1" group-title="BD IPTV",45.Roal TV
 https://piratesiptv.shortcm.li/roal.m3u8
+#EXTINF:0 tvg-language="Sohel_Ahmed" tvg-logo="https://www.dropbox.com/s/rgblmfl0utzapcv/sohel.jpeg?raw=1" group-title="BD IPTV",46.Shopno TV
+http://talusafagroup.ddns.net:8080/shopno/shopnotv.m3u8
 #EXTINF:0 tvg-language="Sohel_Ahmed" tvg-logo="https://www.dropbox.com/s/rgblmfl0utzapcv/sohel.jpeg?raw=1" group-title="BD IPTV",46.Voice TV
 https://piratesiptv.shortcm.li/voice.m3u8
 #EXTINF:0 tvg-language="Sohel_Ahmed" tvg-logo="https://www.dropbox.com/s/rgblmfl0utzapcv/sohel.jpeg?raw=1" group-title="BD IPTV",47.71 Bangla TV
