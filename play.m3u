@@ -1474,7 +1474,7 @@ http://103.205.133.21/hls/zeetvhd.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/5/5f/Sony_PIX.png" group-title="BDIX Server 1",Sony Pix [1]
-
+http://103.205.133.21/hls/sonypix.m3u8
 #EXTINF:-102 group-title="BDIX Server 1"tvg-logo="https://upload.wikimedia.org/wikipedia/en/1/11/T_Sports_logo.png",T Sports [1]
 
 #EXTINF:-1 tvg-logo="https://img2.pngio.com/sony-ten-1-logopedia-fandom-sony-ten-2-png-650_390.jpg" group-title="BDIX Server 1",Sony Ten 1 [1]
@@ -1726,7 +1726,7 @@ http://209.126.120.153:80/hls/chsp.m3u8
 #EXTINF:0 tvg-logo="https://akamaividz.zee5.com/resources/0-9-zeetvhd/list/386x386/09zeetvhdzeetvhd.png" group-title="BDIX Server 6",Zee TV [6]
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/5/5f/Sony_PIX.png" group-title="BDIX Server 6",Sony Pix [6]
-
+http://209.126.120.153:80/hls/sonypix.m3u8
 #EXTINF:-1 tvg-logo="https://img2.pngio.com/sony-ten-1-logopedia-fandom-sony-ten-2-png-650_390.jpg" group-title="BDIX Server 6",Sony Ten 1 [6]
 http://209.126.120.153:80/hls/ten1.m3u8
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQBTnEK5BWeUD2NioqBxKSXvBrS2hOvgtATkw&usqp=CAU" group-title="BDIX Server 6",Sony Ten 2 [6]
