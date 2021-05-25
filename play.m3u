@@ -1,5 +1,5 @@
 #EXTM3U
-#EXTINF:-1 tvg-logo="" group-title="সর্বশেষ আপডেট      Date [23.05.2021]  Time [01:30pm]",
+#EXTINF:-1 tvg-logo="" group-title="সর্বশেষ আপডেট      Date [25.05.2021]  Time [05:00pm]",
 #EXTINF:-1 tvg-logo="" group-title="Bangladeshi",BD------------------------------------------------------------------------------------------------------------------
 #EXTINF:-1 tvg-logo="" group-title="BDIX Server 1",Server1-----------------------------------------------------------------------------------------------------------
 #EXTINF:-1 tvg-logo="" group-title="BDIX Server 2",Server2-----------------------------------------------------------------------------------------------------------
@@ -21,8 +21,11 @@
 #EXTINF:-1 tvg-logo="" group-title="FM Radio",F----------------------------------------------------------------------------------------------------------------------
 #EXTINF:0 tvg-language="Sohel_Ahmed" tvg-logo="https://www.pngkey.com/png/detail/339-3393421_copyright-icon-png-free-shipping-logo-png.png" group-title="",Sohel Ahmed
 https://www.dropbox.com/s/4zlpmj76rii9n13/01826655778.mp4?raw=1
+#EXTINF:0 tvg-language="Sohel_Ahmed" tvg-logo="https://www.dropbox.com/s/rgblmfl0utzapcv/sohel.jpeg?raw=1" group-title="Sports",Bangladesh VS Srilanka
+https://piratesiptv.shortcm.li/bd-vs-sl.m3u8
 #EXTINF:0 tvg-language="Sohel_Ahmed" tvg-logo="https://www.dropbox.com/s/rgblmfl0utzapcv/sohel.jpeg?raw=1" group-title="Sports",T Sports
 https://streamcdn.getloconow.com/CJV0DSAWS5_9c38275b-e244-443f-96aa-4f83e53b0dfd/CJV0DSAWS5_9c38275b-e244-443f-96aa-4f83e53b0dfd_hi/manifest.m3u8
+
 
 #EXTINF:0 tvg-language="Sohel_Ahmed" tvg-logo="https://www.dropbox.com/s/rgblmfl0utzapcv/sohel.jpeg?raw=1" group-title="Bangladeshi",1.Anando TV
 https://piratesiptv.shortcm.li/anandatv.m3u8
