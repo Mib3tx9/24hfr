@@ -1,5 +1,5 @@
 #EXTM3U
-#EXTINF:-1 tvg-logo="" group-title="সর্বশেষ আপডেট      Date [25.05.2021]  Time [05:00pm]",
+#EXTINF:-1 tvg-logo="" group-title="সর্বশেষ আপডেট      Date [28.05.2021]  Time [10:30am]",
 #EXTINF:-1 tvg-logo="" group-title="Bangladeshi",BD------------------------------------------------------------------------------------------------------------------
 #EXTINF:-1 tvg-logo="" group-title="BDIX Server 1",Server1-----------------------------------------------------------------------------------------------------------
 #EXTINF:-1 tvg-logo="" group-title="BDIX Server 2",Server2-----------------------------------------------------------------------------------------------------------
@@ -23,9 +23,6 @@
 https://www.dropbox.com/s/4zlpmj76rii9n13/01826655778.mp4?raw=1
 #EXTINF:0 tvg-language="Sohel_Ahmed" tvg-logo="https://www.dropbox.com/s/rgblmfl0utzapcv/sohel.jpeg?raw=1" group-title="Sports",Bangladesh VS Srilanka
 https://piratesiptv.shortcm.li/bd-vs-sl.m3u8
-#EXTINF:0 tvg-language="Sohel_Ahmed" tvg-logo="https://www.dropbox.com/s/rgblmfl0utzapcv/sohel.jpeg?raw=1" group-title="Sports",T Sports
-https://streamcdn.getloconow.com/CJV0DSAWS5_9c38275b-e244-443f-96aa-4f83e53b0dfd/CJV0DSAWS5_9c38275b-e244-443f-96aa-4f83e53b0dfd_hi/manifest.m3u8
-
 
 #EXTINF:0 tvg-language="Sohel_Ahmed" tvg-logo="https://www.dropbox.com/s/rgblmfl0utzapcv/sohel.jpeg?raw=1" group-title="Bangladeshi",1.Anando TV
 https://piratesiptv.shortcm.li/anandatv.m3u8
@@ -1438,71 +1435,6 @@ http://pn.tvott.info:80/307254552277/307254552277/83952
 
 
 
-
-
-
-#EXTINF:-1 tvg-id="" tvg-name="Netflix Action HD" tvg-logo="http://vod-logo.net/photos/2361e4e5e6852d5e64359e591546e6ed.png" group-title="Movies",Netflix Action HD
-http://forevertv.me:8080/pk-moh-vods/546457563/33776
-#EXTINF:-1 tvg-id="" tvg-name="Netflix Anime HD" tvg-logo="http://vod-logo.net/photos/2361e4e5e6852d5e64359e591546e6ed.png" group-title="Movies",Netflix Anime HD
-http://forevertv.me:8080/pk-moh-vods/546457563/33781
-#EXTINF:-1 tvg-id="" tvg-name="Netflix Anime HD2" tvg-logo="http://vod-logo.net/photos/2361e4e5e6852d5e64359e591546e6ed.png" group-title="Movies",Netflix Anime HD2
-http://forevertv.me:8080/pk-moh-vods/546457563/37352
-#EXTINF:-1 tvg-id="" tvg-name="Netflix Arabic 1 HD" tvg-logo="http://vod-logo.net/photos/2361e4e5e6852d5e64359e591546e6ed.png" group-title="Movies",Arabic 1 HD
-http://forevertv.me:8080/pk-moh-vods/546457563/33778
-#EXTINF:-1 tvg-id="" tvg-name="Netflix Arabic 2 HD" tvg-logo="http://vod-logo.net/photos/2361e4e5e6852d5e64359e591546e6ed.png" group-title="Movies",Arabic 2 HD
-http://forevertv.me:8080/pk-moh-vods/546457563/33779
-#EXTINF:-1 tvg-id="" tvg-name="Netflix Arabic HD3" tvg-logo="http://vod-logo.net/photos/2361e4e5e6852d5e64359e591546e6ed.png" group-title="Movies",Arabic HD3
-http://forevertv.me:8080/pk-moh-vods/546457563/37348
-#EXTINF:-1 tvg-id="" tvg-name="Netflix Arabic HD4" tvg-logo="http://vod-logo.net/photos/2361e4e5e6852d5e64359e591546e6ed.png" group-title="Movies",Arabic HD4
-http://forevertv.me:8080/pk-moh-vods/546457563/37349
-#EXTINF:-1 tvg-id="" tvg-name="Netflix Drama HD" tvg-logo="http://vod-logo.net/photos/2361e4e5e6852d5e64359e591546e6ed.png" group-title="Movies",Drama HD
-http://forevertv.me:8080/pk-moh-vods/546457563/33780
-#EXTINF:-1 tvg-id="" tvg-name="Netflix Family HD" tvg-logo="http://vod-logo.net/photos/2361e4e5e6852d5e64359e591546e6ed.png" group-title="Movies",Family HD
-http://forevertv.me:8080/pk-moh-vods/546457563/33782
-#EXTINF:-1 tvg-id="" tvg-name="Netflix Fast And Furious 2HD" tvg-logo="http://vod-logo.net/photos/2361e4e5e6852d5e64359e591546e6ed.png" group-title="Movies",Netflix Fast And Furious 2HD
-http://forevertv.me:8080/pk-moh-vods/546457563/37355
-#EXTINF:-1 tvg-id="" tvg-name="Netflix Fast And Furious HD" tvg-logo="http://vod-logo.net/photos/2361e4e5e6852d5e64359e591546e6ed.png" group-title="Movies",Netflix Fast And Furious HD
-http://forevertv.me:8080/pk-moh-vods/546457563/33783
-#EXTINF:-1 tvg-id="" tvg-name="Netflix HD1 Ar" tvg-logo="http://vod-logo.net/photos/2361e4e5e6852d5e64359e591546e6ed.png" group-title="Movies",Netflix HD1 Ar
-http://forevertv.me:8080/pk-moh-vods/546457563/29933
-#EXTINF:-1 tvg-id="" tvg-name="Netflix HD10 Ar" tvg-logo="http://vod-logo.net/photos/2361e4e5e6852d5e64359e591546e6ed.png" group-title="Movies",Netflix HD10 Ar
-http://forevertv.me:8080/pk-moh-vods/546457563/32739
-#EXTINF:-1 tvg-id="" tvg-name="Netflix HD11 Ar" tvg-logo="http://vod-logo.net/photos/2361e4e5e6852d5e64359e591546e6ed.png" group-title="Movies",Netflix HD11 Ar
-http://forevertv.me:8080/pk-moh-vods/546457563/32743
-#EXTINF:-1 tvg-id="" tvg-name="Netflix HD12 Ar" tvg-logo="http://vod-logo.net/photos/2361e4e5e6852d5e64359e591546e6ed.png" group-title="Movies",Netflix HD12 Ar
-http://forevertv.me:8080/pk-moh-vods/546457563/32744
-#EXTINF:-1 tvg-id="" tvg-name="Netflix HD13 Ar" tvg-logo="http://vod-logo.net/photos/2361e4e5e6852d5e64359e591546e6ed.png" group-title="Movies",Netflix HD13 Ar
-http://forevertv.me:8080/pk-moh-vods/546457563/32745
-#EXTINF:-1 tvg-id="" tvg-name="Netflix HD14 Ar" tvg-logo="http://vod-logo.net/photos/2361e4e5e6852d5e64359e591546e6ed.png" group-title="Movies",Netflix HD14 Ar
-http://forevertv.me:8080/pk-moh-vods/546457563/32746
-#EXTINF:-1 tvg-id="" tvg-name="Netflix HD15 Ar" tvg-logo="http://vod-logo.net/photos/2361e4e5e6852d5e64359e591546e6ed.png" group-title="Movies",Netflix HD15 Ar
-http://forevertv.me:8080/pk-moh-vods/546457563/32747
-#EXTINF:-1 tvg-id="" tvg-name="Netflix HD2 Ar" tvg-logo="http://vod-logo.net/photos/2361e4e5e6852d5e64359e591546e6ed.png" group-title="Movies",Netflix HD2 Ar
-http://forevertv.me:8080/pk-moh-vods/546457563/29934
-#EXTINF:-1 tvg-id="" tvg-name="Netflix HD3 Ar" tvg-logo="http://vod-logo.net/photos/2361e4e5e6852d5e64359e591546e6ed.png" group-title="Movies",Netflix HD3 Ar
-http://forevertv.me:8080/pk-moh-vods/546457563/29935
-#EXTINF:-1 tvg-id="" tvg-name="Netflix HD4 Ar" tvg-logo="http://vod-logo.net/photos/2361e4e5e6852d5e64359e591546e6ed.png" group-title="Movies",Netflix HD4 Ar
-http://forevertv.me:8080/pk-moh-vods/546457563/29936
-#EXTINF:-1 tvg-id="" tvg-name="Netflix HD5 Ar" tvg-logo="http://vod-logo.net/photos/2361e4e5e6852d5e64359e591546e6ed.png" group-title="Movies",Netflix HD5 Ar
-http://forevertv.me:8080/pk-moh-vods/546457563/32731
-#EXTINF:-1 tvg-id="" tvg-name="Netflix HD6 Ar" tvg-logo="http://vod-logo.net/photos/2361e4e5e6852d5e64359e591546e6ed.png" group-title="Movies",Netflix HD6 Ar
-http://forevertv.me:8080/pk-moh-vods/546457563/32732
-#EXTINF:-1 tvg-id="" tvg-name="Netflix HD7 Ar" tvg-logo="http://vod-logo.net/photos/2361e4e5e6852d5e64359e591546e6ed.png" group-title="Movies",Netflix HD7 Ar
-http://forevertv.me:8080/pk-moh-vods/546457563/32733
-#EXTINF:-1 tvg-id="" tvg-name="Netflix HD8 Ar" tvg-logo="http://vod-logo.net/photos/2361e4e5e6852d5e64359e591546e6ed.png" group-title="Movies",Netflix HD8 Ar
-http://forevertv.me:8080/pk-moh-vods/546457563/32737
-#EXTINF:-1 tvg-id="" tvg-name="Netflix HD9 Ar" tvg-logo="http://vod-logo.net/photos/2361e4e5e6852d5e64359e591546e6ed.png" group-title="Movies",Netflix HD9 Ar
-http://forevertv.me:8080/pk-moh-vods/546457563/32738
-#EXTINF:-1 tvg-id="" tvg-name="Netflix Horror HD" tvg-logo="http://vod-logo.net/photos/2361e4e5e6852d5e64359e591546e6ed.png" group-title="Movies",Netflix Horror HD
-http://forevertv.me:8080/pk-moh-vods/546457563/33784
-#EXTINF:-1 tvg-id="" tvg-name="Netflix James Bond 007" tvg-logo="http://vod-logo.net/photos/2361e4e5e6852d5e64359e591546e6ed.png" group-title="Movies",Netflix James Bond 007
-http://forevertv.me:8080/pk-moh-vods/546457563/37346
-#EXTINF:-1 tvg-id="" tvg-name="Netflix Lord Of The Rings HD" tvg-logo="http://vod-logo.net/photos/2361e4e5e6852d5e64359e591546e6ed.png" group-title="Movies",Netflix Lord Of The Rings HD
-http://forevertv.me:8080/pk-moh-vods/546457563/37357
-#EXTINF:-1 tvg-id="" tvg-name="Netflix Mission Impossible HD" tvg-logo="http://vod-logo.net/photos/2361e4e5e6852d5e64359e591546e6ed.png" group-title="Movies",Netflix Mission Impossible HD
-http://forevertv.me:8080/pk-moh-vods/546457563/37358
-#EXTINF:-1 tvg-id="" tvg-name="Netflix The Hobbit HD" tvg-logo="http://vod-logo.net/photos/2361e4e5e6852d5e64359e591546e6ed.png" group-title="Movies",Netflix The Hobbit HD
-http://forevertv.me:8080/pk-moh-vods/546457563/37359
 
 
 
