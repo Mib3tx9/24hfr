@@ -1,12 +1,10 @@
 #EXTM3U
-#EXTINF:-1 tvg-logo="" group-title="সর্বশেষ আপডেট      Date [28.05.2021]  Time [10:30am]",
+#EXTINF:-1 tvg-logo="" group-title="সর্বশেষ আপডেট      Date [01.06.2021]  Time [10:30am]",
 #EXTINF:-1 tvg-logo="" group-title="Bangladeshi",BD------------------------------------------------------------------------------------------------------------------
 #EXTINF:-1 tvg-logo="" group-title="BDIX Server 1",Server1-----------------------------------------------------------------------------------------------------------
 #EXTINF:-1 tvg-logo="" group-title="BDIX Server 2",Server2-----------------------------------------------------------------------------------------------------------
-#EXTINF:-1 tvg-logo="" group-title="BDIX Server 3",Server3-----------------------------------------------------------------------------------------------------------
 #EXTINF:-1 tvg-logo="" group-title="BDIX Server 5",Server5-----------------------------------------------------------------------------------------------------------
 #EXTINF:-1 tvg-logo="" group-title="BDIX Server 6",Server6-----------------------------------------------------------------------------------------------------------
-#EXTINF:-1 tvg-logo="" group-title="BDIX Server 7",Server7-----------------------------------------------------------------------------------------------------------
 #EXTINF:-1 tvg-logo="" group-title="BD IPTV",BD----------------------------------------------------------------------------------------------------------------------
 #EXTINF:-1 tvg-logo="" group-title="Documentary",DC------------------------------------------------------------------------------------------------------------------
 #EXTINF:-1 tvg-logo="" group-title="Indian Bangla",IB----------------------------------------------------------------------------------------------------------------
@@ -780,86 +778,7 @@ https://ott.bingebd.com/live/ngrp:b4u_music_all/sohel.m3u8
 https://ott.bingebd.com/live/ngrp:zing_all/sohel.m3u8
 
 
-#EXTINF:0 tvg-language="Sohel_Ahmed" tvg-logo="https://www.dropbox.com/s/rgblmfl0utzapcv/sohel.jpeg?raw=1" group-title="BDIX Server 3",ATN Bangla [3]
-http://103.153.175.254:8080/hls/stream17.m3u8
-#EXTINF:0 tvg-language="Sohel_Ahmed" tvg-logo="https://www.dropbox.com/s/rgblmfl0utzapcv/sohel.jpeg?raw=1" group-title="BDIX Server 3",Channel 24 [3]
-http://103.153.175.254:8080/hls/stream22.m3u8
-#EXTINF:0 tvg-language="Sohel_Ahmed" tvg-logo="https://www.dropbox.com/s/rgblmfl0utzapcv/sohel.jpeg?raw=1" group-title="BDIX Server 3",Channel I [3]
-http://103.153.175.254:8080/hls/stream18.m3u8
-#EXTINF:0 tvg-language="Sohel_Ahmed" tvg-logo="https://www.dropbox.com/s/rgblmfl0utzapcv/sohel.jpeg?raw=1" group-title="BDIX Server 3",Maasranga [3]
-http://103.153.175.254:8080/hls/stream20.m3u8
-#EXTINF:0 tvg-language="Sohel_Ahmed" tvg-logo="https://www.dropbox.com/s/rgblmfl0utzapcv/sohel.jpeg?raw=1" group-title="BDIX Server 3",Nagorik [3]
-http://103.153.175.254:8080/hls/stream24.m3u8
-#EXTINF:0 tvg-language="Sohel_Ahmed" tvg-logo="https://www.dropbox.com/s/rgblmfl0utzapcv/sohel.jpeg?raw=1" group-title="BDIX Server 3",Somoy [3]
-http://103.153.175.254:8080/hls/stream21.m3u8
-#EXTINF:0 tvg-language="Sohel_Ahmed" tvg-logo="https://www.dropbox.com/s/rgblmfl0utzapcv/sohel.jpeg?raw=1" group-title="BDIX Server 3",Colors Bangla HD [3]
-http://103.153.175.254:8080/hls/stream28.m3u8
-#EXTINF:0 tvg-language="Sohel_Ahmed" tvg-logo="https://www.dropbox.com/s/rgblmfl0utzapcv/sohel.jpeg?raw=1" group-title="BDIX Server 3",Enterr 10 Bangla [3]
-http://103.153.175.254:8080/hls/stream26.m3u8
-#EXTINF:0 tvg-language="Sohel_Ahmed" tvg-logo="https://www.dropbox.com/s/rgblmfl0utzapcv/sohel.jpeg?raw=1" group-title="BDIX Server 3",Jalsha Movies HD [3]
-http://103.153.175.254:8080/hls/stream27.m3u8
-#EXTINF:0 tvg-language="Sohel_Ahmed" tvg-logo="https://www.dropbox.com/s/rgblmfl0utzapcv/sohel.jpeg?raw=1" group-title="BDIX Server 3",Star Jalsha HD [3]
-http://103.153.175.254:8080/hls/stream31.m3u8
-#EXTINF:0 tvg-language="Sohel_Ahmed" tvg-logo="https://www.dropbox.com/s/rgblmfl0utzapcv/sohel.jpeg?raw=1" group-title="BDIX Server 3",Zee Bangla HD [3]
-http://103.153.175.254:8080/hls/stream30.m3u8
-#EXTINF:0 tvg-language="Sohel_Ahmed" tvg-logo="https://www.dropbox.com/s/rgblmfl0utzapcv/sohel.jpeg?raw=1" group-title="BDIX Server 3",And Pictures HD [3]
-http://103.153.175.254:8080/hls/stream14.m3u8
-#EXTINF:0 tvg-language="Sohel_Ahmed" tvg-logo="https://www.dropbox.com/s/rgblmfl0utzapcv/sohel.jpeg?raw=1" group-title="BDIX Server 3",Colors Cineplex HD [3]
-http://103.153.175.254:8080/hls/stream29.m3u8
-#EXTINF:0 tvg-language="Sohel_Ahmed" tvg-logo="https://www.dropbox.com/s/rgblmfl0utzapcv/sohel.jpeg?raw=1" group-title="BDIX Server 3",Sony Max HD [3]
 
-#EXTINF:0 tvg-language="Sohel_Ahmed" tvg-logo="https://www.dropbox.com/s/rgblmfl0utzapcv/sohel.jpeg?raw=1" group-title="BDIX Server 3",Star Gold HD [3]
-http://103.153.175.254:8080/hls/stream19.m3u8
-#EXTINF:0 tvg-language="Sohel_Ahmed" tvg-logo="https://www.dropbox.com/s/rgblmfl0utzapcv/sohel.jpeg?raw=1" group-title="BDIX Server 3",Star Plus HD [3]
-http://103.153.175.254:8080/hls/stream38.m3u8
-#EXTINF:0 tvg-language="Sohel_Ahmed" tvg-logo="https://www.dropbox.com/s/rgblmfl0utzapcv/sohel.jpeg?raw=1" group-title="BDIX Server 3",UTV Action [3]
-http://103.153.175.254:8080/hls/stream7.m3u8
-#EXTINF:0 tvg-language="Sohel_Ahmed" tvg-logo="https://www.dropbox.com/s/rgblmfl0utzapcv/sohel.jpeg?raw=1" group-title="BDIX Server 3",Zee Cinema HD [3]
-http://103.153.175.254:8080/hls/stream25.m3u8
-#EXTINF:0 tvg-language="Sohel_Ahmed" tvg-logo="https://www.dropbox.com/s/rgblmfl0utzapcv/sohel.jpeg?raw=1" group-title="BDIX Server 3",9XM [3]
-http://103.153.175.254:8080/hls/stream4.m3u8
-#EXTINF:0 tvg-language="Sohel_Ahmed" tvg-logo="https://www.dropbox.com/s/rgblmfl0utzapcv/sohel.jpeg?raw=1" group-title="BDIX Server 3",Zoom [3]
-http://103.153.175.254:8080/hls/stream8.m3u8
-#EXTINF:0 tvg-language="Sohel_Ahmed" tvg-logo="https://www.dropbox.com/s/rgblmfl0utzapcv/sohel.jpeg?raw=1" group-title="BDIX Server 3",Nick [3]
-http://103.153.175.254:8080/hls/stream23.m3u8
-#EXTINF:0 tvg-language="Sohel_Ahmed" tvg-logo="https://www.dropbox.com/s/rgblmfl0utzapcv/sohel.jpeg?raw=1" group-title="BDIX Server 3",Sony Yay [3]
-http://103.153.175.254:8080/hls/stream32.m3u8
-#EXTINF:0 tvg-language="Sohel_Ahmed" tvg-logo="https://www.dropbox.com/s/rgblmfl0utzapcv/sohel.jpeg?raw=1" group-title="BDIX Server 3",BBC Earth [3]
-http://103.153.175.254:8080/hls/stream5.m3u8
-#EXTINF:0 tvg-language="Sohel_Ahmed" tvg-logo="https://www.dropbox.com/s/rgblmfl0utzapcv/sohel.jpeg?raw=1" group-title="BDIX Server 3",Discovery Bangla HD [3]
-http://103.153.175.254:8080/hls/stream9.m3u8
-#EXTINF:0 tvg-language="Sohel_Ahmed" tvg-logo="https://www.dropbox.com/s/rgblmfl0utzapcv/sohel.jpeg?raw=1" group-title="BDIX Server 3",National Geographic Bangla HD [3]
-http://103.153.175.254:8080/hls/stream13.m3u8
-#EXTINF:0 tvg-language="Sohel_Ahmed" tvg-logo="https://www.dropbox.com/s/rgblmfl0utzapcv/sohel.jpeg?raw=1" group-title="BDIX Server 3",Travel XP Bangla HD [3]
-http://103.153.175.254:8080/hls/stream37.m3u8
-#EXTINF:0 tvg-language="Sohel_Ahmed" tvg-logo="https://www.dropbox.com/s/rgblmfl0utzapcv/sohel.jpeg?raw=1" group-title="BDIX Server 3",AXN [3]
-http://103.153.175.254:8080/hls/stream2.m3u8
-#EXTINF:0 tvg-language="Sohel_Ahmed" tvg-logo="https://www.dropbox.com/s/rgblmfl0utzapcv/sohel.jpeg?raw=1" group-title="BDIX Server 3",Sony Pix HD [3]
-http://103.153.175.254:8080/hls/stream1.m3u8
-#EXTINF:0 tvg-language="Sohel_Ahmed" tvg-logo="https://www.dropbox.com/s/rgblmfl0utzapcv/sohel.jpeg?raw=1" group-title="BDIX Server 3",Star Movies [3]
-http://103.153.175.254:8080/hls/stream3.m3u8
-#EXTINF:0 tvg-language="Sohel_Ahmed" tvg-logo="https://www.dropbox.com/s/rgblmfl0utzapcv/sohel.jpeg?raw=1" group-title="BDIX Server 3",PTV Sports [3]
-http://103.153.175.254:8080/hls/stream11.m3u8
-#EXTINF:0 tvg-language="Sohel_Ahmed" tvg-logo="https://www.dropbox.com/s/rgblmfl0utzapcv/sohel.jpeg?raw=1" group-title="BDIX Server 3",Sony Ten 1 HD [3]
-http://103.153.175.254:8080/hls/stream40.m3u8
-#EXTINF:0 tvg-language="Sohel_Ahmed" tvg-logo="https://www.dropbox.com/s/rgblmfl0utzapcv/sohel.jpeg?raw=1" group-title="BDIX Server 3",Sony Ten 2 HD [3]
-http://103.153.175.254:8080/hls/stream39.m3u8
-#EXTINF:0 tvg-language="Sohel_Ahmed" tvg-logo="https://www.dropbox.com/s/rgblmfl0utzapcv/sohel.jpeg?raw=1" group-title="BDIX Server 3",Sony Six HD [3]
-http://103.153.175.254:8080/hls/stream10.m3u8
-#EXTINF:0 tvg-language="Sohel_Ahmed" tvg-logo="https://www.dropbox.com/s/rgblmfl0utzapcv/sohel.jpeg?raw=1" group-title="BDIX Server 3",Star Sports 1 HD [3]
-http://103.153.175.254:8080/hls/stream15.m3u8
-#EXTINF:0 tvg-language="Sohel_Ahmed" tvg-logo="https://www.dropbox.com/s/rgblmfl0utzapcv/sohel.jpeg?raw=1" group-title="BDIX Server 3",Star Sports 2 HD [3]
-http://103.153.175.254:8080/hls/stream16.m3u8
-#EXTINF:0 tvg-language="Sohel_Ahmed" tvg-logo="https://www.dropbox.com/s/rgblmfl0utzapcv/sohel.jpeg?raw=1" group-title="BDIX Server 3",Star Sports Select 1 HD [3]
-http://103.153.175.254:8080/hls/stream12.m3u8
-#EXTINF:0 tvg-language="Sohel_Ahmed" tvg-logo="https://www.dropbox.com/s/rgblmfl0utzapcv/sohel.jpeg?raw=1" group-title="BDIX Server 3",Ten Cricket [3]
-http://103.153.175.254:8080/hls/stream34.m3u8
-#EXTINF:0 tvg-language="Sohel_Ahmed" tvg-logo="https://www.dropbox.com/s/rgblmfl0utzapcv/sohel.jpeg?raw=1" group-title="BDIX Server 3",Al Jazeera [3]
-http://103.153.175.254:8080/hls/stream35.m3u8
-#EXTINF:0 tvg-language="Sohel_Ahmed" tvg-logo="https://www.dropbox.com/s/rgblmfl0utzapcv/sohel.jpeg?raw=1" group-title="BDIX Server 3",BBC World [3]
-http://103.153.175.254:8080/hls/stream36.m3u8
-#EXTINF:0 tvg-language="Sohel_Ahmed" tvg-logo="https://www.dropbox.com/s/rgblmfl0utzapcv/sohel.jpeg?raw=1" group-title="BDIX Server 3",Macca [3]
-http://103.153.175.254:8080/hls/stream33.m3u8
 
 
 #EXTINF:-1 group-title="BDIX Server 5"tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2e/ATN_Bangla.svg/1200px-ATN_Bangla.svg.png",ATN Bangla [5]
@@ -1069,74 +988,6 @@ http://209.126.120.153:80/hls/chss2.m3u8
 
 
 
-
-
-#EXTINF:0 tvg-language="Sohel_Ahmed" tvg-logo="https://www.dropbox.com/s/rgblmfl0utzapcv/sohel.jpeg?raw=1" group-title="BDIX Server 7",& Pictures HD [7]
-http://oqab.life:8080/live/8181/8181/114.ts
-#EXTINF:0 tvg-language="Sohel_Ahmed" tvg-logo="https://www.dropbox.com/s/rgblmfl0utzapcv/sohel.jpeg?raw=1" group-title="BDIX Server 7",& TV HD [7]
-http://oqab.life:8080/live/8181/8181/115.ts
-#EXTINF:0 tvg-language="Sohel_Ahmed" tvg-logo="https://www.dropbox.com/s/rgblmfl0utzapcv/sohel.jpeg?raw=1" group-title="BDIX Server 7",Bollywood Classic HD [7]
-http://oqab.life:8080/live/8181/8181/120.ts
-#EXTINF:0 tvg-language="Sohel_Ahmed" tvg-logo="https://www.dropbox.com/s/rgblmfl0utzapcv/sohel.jpeg?raw=1" group-title="BDIX Server 7",Bollywood HD [7]
-http://oqab.life:8080/live/8181/8181/121.ts
-#EXTINF:0 tvg-language="Sohel_Ahmed" tvg-logo="https://www.dropbox.com/s/rgblmfl0utzapcv/sohel.jpeg?raw=1" group-title="BDIX Server 7",Colors HD [7]
-http://oqab.life:8080/live/8181/8181/102.ts
-#EXTINF:0 tvg-language="Sohel_Ahmed" tvg-logo="https://www.dropbox.com/s/rgblmfl0utzapcv/sohel.jpeg?raw=1" group-title="BDIX Server 7",Colors Cineplex HD [7]
-http://oqab.life:8080/live/8181/8181/117.ts
-#EXTINF:0 tvg-language="Sohel_Ahmed" tvg-logo="https://www.dropbox.com/s/rgblmfl0utzapcv/sohel.jpeg?raw=1" group-title="BDIX Server 7",Colors Infinity HD [7]
-http://oqab.life:8080/live/8181/8181/98.ts
-#EXTINF:0 tvg-language="Sohel_Ahmed" tvg-logo="https://www.dropbox.com/s/rgblmfl0utzapcv/sohel.jpeg?raw=1" group-title="BDIX Server 7",Sony TV HD [7]
-http://oqab.life:8080/live/8181/8181/85.ts
-#EXTINF:0 tvg-language="Sohel_Ahmed" tvg-logo="https://www.dropbox.com/s/rgblmfl0utzapcv/sohel.jpeg?raw=1" group-title="BDIX Server 7",Sony Max HD [7]
-http://oqab.life:8080/live/8181/8181/89.ts
-#EXTINF:0 tvg-language="Sohel_Ahmed" tvg-logo="https://www.dropbox.com/s/rgblmfl0utzapcv/sohel.jpeg?raw=1" group-title="BDIX Server 7",Sony Sab HD [7]
-http://oqab.life:8080/live/8181/8181/86.ts
-#EXTINF:0 tvg-language="Sohel_Ahmed" tvg-logo="https://www.dropbox.com/s/rgblmfl0utzapcv/sohel.jpeg?raw=1" group-title="BDIX Server 7",Star Bharat HD [7]
-http://oqab.life:8080/live/8181/8181/104.ts
-#EXTINF:0 tvg-language="Sohel_Ahmed" tvg-logo="https://www.dropbox.com/s/rgblmfl0utzapcv/sohel.jpeg?raw=1" group-title="BDIX Server 7",Star Gold HD [7]
-http://oqab.life:8080/live/8181/8181/101.ts
-#EXTINF:0 tvg-language="Sohel_Ahmed" tvg-logo="https://www.dropbox.com/s/rgblmfl0utzapcv/sohel.jpeg?raw=1" group-title="BDIX Server 7",Star Gold Select HD [7]
-http://oqab.life:8080/live/8181/8181/106.ts
-#EXTINF:0 tvg-language="Sohel_Ahmed" tvg-logo="https://www.dropbox.com/s/rgblmfl0utzapcv/sohel.jpeg?raw=1" group-title="BDIX Server 7",Star Plus HD [7]
-http://oqab.life:8080/live/8181/8181/91.ts
-#EXTINF:0 tvg-language="Sohel_Ahmed" tvg-logo="https://www.dropbox.com/s/rgblmfl0utzapcv/sohel.jpeg?raw=1" group-title="BDIX Server 7",Zee TV HD [7]
-http://oqab.life:8080/live/8181/8181/90.ts
-#EXTINF:0 tvg-language="Sohel_Ahmed" tvg-logo="https://www.dropbox.com/s/rgblmfl0utzapcv/sohel.jpeg?raw=1" group-title="BDIX Server 7",Zee Cinema HD [7]
-http://oqab.life:8080/live/8181/8181/113.ts
-#EXTINF:0 tvg-language="Sohel_Ahmed" tvg-logo="https://www.dropbox.com/s/rgblmfl0utzapcv/sohel.jpeg?raw=1" group-title="BDIX Server 7",Animal Planet HD [7]
-http://oqab.life:8080/live/8181/8181/95.ts
-#EXTINF:0 tvg-language="Sohel_Ahmed" tvg-logo="https://www.dropbox.com/s/rgblmfl0utzapcv/sohel.jpeg?raw=1" group-title="BDIX Server 7",History TV HD [7]
-http://oqab.life:8080/live/8181/8181/93.ts
-#EXTINF:0 tvg-language="Sohel_Ahmed" tvg-logo="https://www.dropbox.com/s/rgblmfl0utzapcv/sohel.jpeg?raw=1" group-title="BDIX Server 7",Sony BBC Earth HD [7]
-http://oqab.life:8080/live/8181/8181/99.ts
-#EXTINF:0 tvg-language="Sohel_Ahmed" tvg-logo="https://www.dropbox.com/s/rgblmfl0utzapcv/sohel.jpeg?raw=1" group-title="BDIX Server 7",Travel XP HD [7]
-http://oqab.life:8080/live/8181/8181/94.ts
-#EXTINF:0 tvg-language="Sohel_Ahmed" tvg-logo="https://www.dropbox.com/s/rgblmfl0utzapcv/sohel.jpeg?raw=1" group-title="BDIX Server 7",& Flix HD [7]
-http://oqab.life:8080/live/8181/8181/116.ts
-#EXTINF:0 tvg-language="Sohel_Ahmed" tvg-logo="https://www.dropbox.com/s/rgblmfl0utzapcv/sohel.jpeg?raw=1" group-title="BDIX Server 7",& PRIVE HD [7]
-http://oqab.life:8080/live/8181/8181/105.ts
-#EXTINF:0 tvg-language="Sohel_Ahmed" tvg-logo="https://www.dropbox.com/s/rgblmfl0utzapcv/sohel.jpeg?raw=1" group-title="BDIX Server 7",AXN HD [7]
-http://oqab.life:8080/live/8181/8181/96.ts
-#EXTINF:0 tvg-language="Sohel_Ahmed" tvg-logo="https://www.dropbox.com/s/rgblmfl0utzapcv/sohel.jpeg?raw=1" group-title="BDIX Server 7",Comedy Central HD [7]
-http://oqab.life:8080/live/8181/8181/97.ts
-#EXTINF:0 tvg-language="Sohel_Ahmed" tvg-logo="https://www.dropbox.com/s/rgblmfl0utzapcv/sohel.jpeg?raw=1" group-title="BDIX Server 7",HBO HD [7]
-http://oqab.life:8080/live/8181/8181/88.ts
-#EXTINF:0 tvg-language="Sohel_Ahmed" tvg-logo="https://www.dropbox.com/s/rgblmfl0utzapcv/sohel.jpeg?raw=1" group-title="BDIX Server 7",MNX HD [7]
-http://oqab.life:8080/live/8181/8181/100.ts
-#EXTINF:0 tvg-language="Sohel_Ahmed" tvg-logo="https://www.dropbox.com/s/rgblmfl0utzapcv/sohel.jpeg?raw=1" group-title="BDIX Server 7",Romedy Now HD [7]
-http://oqab.life:8080/live/8181/8181/92.ts
-#EXTINF:0 tvg-language="Sohel_Ahmed" tvg-logo="https://www.dropbox.com/s/rgblmfl0utzapcv/sohel.jpeg?raw=1" group-title="BDIX Server 7",Sony Pix HD [7]
-http://oqab.life:8080/live/8181/8181/87.ts
-#EXTINF:0 tvg-language="Sohel_Ahmed" tvg-logo="https://www.dropbox.com/s/rgblmfl0utzapcv/sohel.jpeg?raw=1" group-title="BDIX Server 7",Star Movies HD [7]
-http://oqab.life:8080/live/8181/8181/119.ts
-#EXTINF:0 tvg-language="Sohel_Ahmed" tvg-logo="https://www.dropbox.com/s/rgblmfl0utzapcv/sohel.jpeg?raw=1" group-title="BDIX Server 7",STAR Movies Select HD [7]
-http://oqab.life:8080/live/8181/8181/108.ts
-#EXTINF:0 tvg-language="Sohel_Ahmed" tvg-logo="https://www.dropbox.com/s/rgblmfl0utzapcv/sohel.jpeg?raw=1" group-title="BDIX Server 7",Star World HD [7]
-http://oqab.life:8080/live/8181/8181/118.ts
-#EXTINF:0 tvg-language="Sohel_Ahmed" tvg-logo="https://www.dropbox.com/s/rgblmfl0utzapcv/sohel.jpeg?raw=1" group-title="BDIX Server 7",Star World Premiere HD [7]
-http://oqab.life:8080/live/8181/8181/107.ts
-#EXTINF:0 tvg-language="Sohel_Ahmed" tvg-logo="https://www.dropbox.com/s/rgblmfl0utzapcv/sohel.jpeg?raw=1" group-title="BDIX Server 7",Zee Cafe HD [7]
-http://oqab.life:8080/live/8181/8181/103.ts
 
 
 
