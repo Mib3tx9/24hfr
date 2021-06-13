@@ -792,6 +792,8 @@ http://212.224.98.196:2200/R-EX/HINDI_CINEPLEX_HD-in/index.m3u8?token=piratesipt
 http://212.224.98.196:2200/R-EX/HINDI_SONY_MAX_HD-in/index.m3u8?token=piratesiptv_sohelahmed
 #EXTINF:0 tvg-language="" tvg-logo="https://www.dropbox.com/s/rgblmfl0utzapcv/sohel.jpeg?raw=1" group-title="BDIX Server 2",Sony Max 2 [2]
 http://212.224.98.196:2200/R-EX/HINDI_SONY_MAX_2-in/index.m3u8?token=piratesiptv_sohelahmed
+#EXTINF:0 tvg-language="" tvg-logo="https://www.dropbox.com/s/rgblmfl0utzapcv/sohel.jpeg?raw=1" group-title="BDIX Server 2",Sony Pix HD [2]
+http://212.224.98.196:2200/R-EX/HINDI_SONY_PIX_HD-in/index.m3u8?token=piratesiptv_sohelahmed
 #EXTINF:0 tvg-language="" tvg-logo="https://www.dropbox.com/s/rgblmfl0utzapcv/sohel.jpeg?raw=1" group-title="BDIX Server 2",Sony Sab HD [2]
 http://212.224.98.196:2200/R-EX/HINDI_SONY_SAB_HD-in/index.m3u8?token=piratesiptv_sohelahmed
 #EXTINF:0 tvg-language="" tvg-logo="https://www.dropbox.com/s/rgblmfl0utzapcv/sohel.jpeg?raw=1" group-title="BDIX Server 2",Star Bharat HD [2]
