@@ -1,5 +1,5 @@
 #EXTM3U
-#EXTINF:-1 tvg-logo="" group-title="সর্বশেষ আপডেট      Date [14.06.2021]  Time [12:30am]",
+#EXTINF:-1 tvg-logo="" group-title="সর্বশেষ আপডেট      Date [14.06.2021]  Time [01:15am]",
 #EXTINF:-1 tvg-logo="" group-title="Bangladeshi",BD------------------------------------------------------------------------------------------------------------------
 #EXTINF:-1 tvg-logo="" group-title="BDIX Server 1",Server1-----------------------------------------------------------------------------------------------------------
 #EXTINF:-1 tvg-logo="" group-title="BDIX Server 2",Server2-----------------------------------------------------------------------------------------------------------
@@ -791,6 +791,8 @@ http://212.102.60.40:2200/R-EX/HINDI_AND_TV_HD-in/index.m3u8?token=piratesiptv_s
 http://212.224.98.196:2200/R-EX/HINDI_AND_PICTURES_HD-in/index.m3u8?token=piratesiptv_sohelahmed
 #EXTINF:0 tvg-language="" tvg-logo="https://www.dropbox.com/s/rgblmfl0utzapcv/sohel.jpeg?raw=1" group-title="BDIX Server 2",Colors HD [2]
 http://212.224.98.196:2200/R-EX/HINDI_COLORS_HD-in/index.m3u8?token=piratesiptv_sohelahmed
+#EXTINF:0 tvg-language="" tvg-logo="https://www.dropbox.com/s/rgblmfl0utzapcv/sohel.jpeg?raw=1" group-title="BDIX Server 2",Colors Bangla HD [2]
+http://212.224.98.196:2200/R-EX/BENGALI_COLORS_BANGLA_HD-in/index.m3u8?token=piratesiptv_sohelahmed
 #EXTINF:0 tvg-language="" tvg-logo="https://www.dropbox.com/s/rgblmfl0utzapcv/sohel.jpeg?raw=1" group-title="BDIX Server 2",Colors Cineplex HD [2]
 http://212.224.98.196:2200/R-EX/HINDI_CINEPLEX_HD-in/index.m3u8?token=piratesiptv_sohelahmed
 #EXTINF:0 tvg-language="" tvg-logo="https://www.dropbox.com/s/rgblmfl0utzapcv/sohel.jpeg?raw=1" group-title="BDIX Server 2",Colors Infinity HD [2]
@@ -878,6 +880,9 @@ http://212.224.98.196:2200/R-EX/HINDI_B4U_MUSIC-in/index.m3u8?token=piratesiptv_
 
 ভাই চুরি করবি সমস্যা নাই | একটু ক্রেডিট দিয়া চুরি করিস | আমি সোহেল কষ্ট করে লিংক বের করি | আর তোরা কপি কইরা ফ্রি বইলা চালাইয়া দেস | এই কষ্ট গুলার তো ভাই একটু মূল্য দিবি ভাই |------
 
+
+
+http://212.224.98.196:2200/R-EX/HINDI_MTV_PLUS_HD-in/index.m3u8?token=piratesiptv_sohelahmed
 
 
 #EXTINF:0 tvg-language="Sohel_Ahmed" tvg-logo="https://www.dropbox.com/s/rgblmfl0utzapcv/sohel.jpeg?raw=1" group-title="Tamil",Sun TV USA
