@@ -1,5 +1,5 @@
 #EXTM3U
-#EXTINF:-1 tvg-logo="" group-title="সর্বশেষ আপডেট      Date [14.06.2021]  Time [12:01am]",
+#EXTINF:-1 tvg-logo="" group-title="সর্বশেষ আপডেট      Date [14.06.2021]  Time [12:10am]",
 #EXTINF:-1 tvg-logo="" group-title="Bangladeshi",BD------------------------------------------------------------------------------------------------------------------
 #EXTINF:-1 tvg-logo="" group-title="BDIX Server 1",Server1-----------------------------------------------------------------------------------------------------------
 #EXTINF:-1 tvg-logo="" group-title="BDIX Server 2",Server2-----------------------------------------------------------------------------------------------------------
@@ -800,8 +800,24 @@ http://212.224.98.196:2200/R-EX/HINDI_STAR_BHARAT_HD-in/index.m3u8?token=pirates
 http://212.224.98.196:2200/R-EX/HINDI_STAR_GOLD_HD-in/index.m3u8?token=piratesiptv_sohelahmed
 #EXTINF:0 tvg-language="" tvg-logo="https://www.dropbox.com/s/rgblmfl0utzapcv/sohel.jpeg?raw=1" group-title="BDIX Server 2",Star Plus HD [2]
 http://212.224.98.196:2200/R-EX/HINDI_STAR_PLUS_HD-in/index.m3u8?token=piratesiptv_sohelahmed
+#EXTINF:0 tvg-language="" tvg-logo="https://www.dropbox.com/s/rgblmfl0utzapcv/sohel.jpeg?raw=1" group-title="BDIX Server 2",Star Vijay HD [2]
+http://212.224.98.196:2200/R-EX/TAMIL_STAR_VIJAY_HD-in/index.m3u8?token=piratesiptv_sohelahmed
+#EXTINF:0 tvg-language="" tvg-logo="https://www.dropbox.com/s/rgblmfl0utzapcv/sohel.jpeg?raw=1" group-title="BDIX Server 2",Star Vijay Music HD [2]
+http://212.224.98.196:2200/R-EX/Star_Viyaj_Music-in/index.m3u8?token=piratesiptv_sohelahmed
+#EXTINF:0 tvg-language="" tvg-logo="https://www.dropbox.com/s/rgblmfl0utzapcv/sohel.jpeg?raw=1" group-title="BDIX Server 2",Star Vijay Super HD [2]
+http://212.224.98.196:2200/R-EX/TAMIL_VIJAY_SUPER-in/index.m3u8?token=piratesiptv_sohelahmed
+#EXTINF:0 tvg-language="" tvg-logo="https://www.dropbox.com/s/rgblmfl0utzapcv/sohel.jpeg?raw=1" group-title="BDIX Server 2",Star Movies Select HD [2]
+http://212.224.98.196:2200/R-EX/ENGLISH_STAR_MOVIES_HD-in/index.m3u8?token=piratesiptv_sohelahmed
+#EXTINF:0 tvg-language="" tvg-logo="https://www.dropbox.com/s/rgblmfl0utzapcv/sohel.jpeg?raw=1" group-title="BDIX Server 2",Sun TV HD [2]
+http://212.224.98.196:2200/R-EX/TAMIL_SUN_TV_HD-in/index.m3u8?token=piratesiptv_sohelahmed
+#EXTINF:0 tvg-language="" tvg-logo="https://www.dropbox.com/s/rgblmfl0utzapcv/sohel.jpeg?raw=1" group-title="BDIX Server 2",Sun Music HD [2]
+http://212.224.98.196:2200/R-EX/TAMIL_SUN_MUSIC_HD-in/index.m3u8?token=piratesiptv_sohelahmed
+#EXTINF:0 tvg-language="" tvg-logo="https://www.dropbox.com/s/rgblmfl0utzapcv/sohel.jpeg?raw=1" group-title="BDIX Server 2",Zee Cinema HD [2]
+http://212.224.98.196:2200/R-EX/HINDI_ZEE_CINEMA_HD-in/index.m3u8?token=piratesiptv_sohelahmed
 #EXTINF:0 tvg-language="" tvg-logo="https://www.dropbox.com/s/rgblmfl0utzapcv/sohel.jpeg?raw=1" group-title="BDIX Server 2",Zee TV HD [2]
 http://212.224.98.196:2200/R-EX/HINDI_ZEE_TV_HD-in/index.m3u8?token=piratesiptv_sohelahmed
+#EXTINF:0 tvg-language="" tvg-logo="https://www.dropbox.com/s/rgblmfl0utzapcv/sohel.jpeg?raw=1" group-title="BDIX Server 2",Zee Tamil HD [2]
+http://212.224.98.196:2200/R-EX/TAMIL_ZEE_TAMIL_HD-in/index.m3u8?token=piratesiptv_sohelahmed
 #EXTINF:0 tvg-language="" tvg-logo="https://www.dropbox.com/s/rgblmfl0utzapcv/sohel.jpeg?raw=1" group-title="BDIX Server 2",Sony Ten 1 HD [2]
 http://212.224.98.196:2200/R-EX/SPORTS_TEN_1_HD-in/index.m3u8?token=piratesiptv_sohelahmed
 #EXTINF:0 tvg-language="" tvg-logo="https://www.dropbox.com/s/rgblmfl0utzapcv/sohel.jpeg?raw=1" group-title="BDIX Server 2",Sony Ten 2 HD [2]
