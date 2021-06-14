@@ -784,46 +784,40 @@ http://103.205.133.21/hls/chss2.m3u8
 http://cdn.ihub.live:8080/j-TSports/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://www.dropbox.com/s/rgblmfl0utzapcv/sohel.jpeg?raw=1" group-title="BDIX Server 3",Gtv
 http://cdn.ihub.live:8080/j-GTV/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-logo="https://www.dropbox.com/s/rgblmfl0utzapcv/sohel.jpeg?raw=1" group-title="BDIX Server 3",Gtv 2
-http://cdn.naturalbd.com:8083/j-GTV/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://www.dropbox.com/s/rgblmfl0utzapcv/sohel.jpeg?raw=1" group-title="BDIX Server 3",ATN Bangla
-http://cdn.ihub.live:8080/j-ATNBangla/tracks-v1a1/mono.m3u8
+http://cdn.ihub.live:8080/ATNBangla/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://www.dropbox.com/s/rgblmfl0utzapcv/sohel.jpeg?raw=1" group-title="BDIX Server 3",ATN News
-http://cdn.ihub.live:8080/j-ATNNews/tracks-v1a1/mono.m3u8
+http://cdn.ihub.live:8080/ATNNews/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://www.dropbox.com/s/rgblmfl0utzapcv/sohel.jpeg?raw=1" group-title="BDIX Server 3",Banglavision
-http://cdn.ihub.live:8080/j-BanglaVision/tracks-v1a1/mono.m3u8
+http://cdn.ihub.live:8080/BanglaVision/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://www.dropbox.com/s/rgblmfl0utzapcv/sohel.jpeg?raw=1" group-title="BDIX Server 3",BijoyTV
-http://cdn.ihub.live:8080/j-BijoyTV/tracks-v1a1/mono.m3u8
+http://cdn.ihub.live:8080/BijoyTV/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://www.dropbox.com/s/rgblmfl0utzapcv/sohel.jpeg?raw=1" group-title="BDIX Server 3",BoishakhiTV
-http://cdn.ihub.live:8080/j-BoishakhiTV/tracks-v1a1/mono.m3u8
+http://cdn.ihub.live:8080/BoishakhiTV/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://www.dropbox.com/s/rgblmfl0utzapcv/sohel.jpeg?raw=1" group-title="BDIX Server 3",BTV World
 http://cdn.ihub.live:8080/BTVWorld/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://www.dropbox.com/s/rgblmfl0utzapcv/sohel.jpeg?raw=1" group-title="BDIX Server 3",Channel 24
-http://cdn.ihub.live:8080/j-Channel24/tracks-v1a1/mono.m3u8
+http://cdn.ihub.live:8080/Channel24/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://www.dropbox.com/s/rgblmfl0utzapcv/sohel.jpeg?raw=1" group-title="BDIX Server 3",Channel 9
-http://cdn.ihub.live:8080/j-Channel9/tracks-v1a1/mono.m3u8
+http://cdn.ihub.live:8080/Channel9/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://www.dropbox.com/s/rgblmfl0utzapcv/sohel.jpeg?raw=1" group-title="BDIX Server 3",Channel I
-http://cdn.ihub.live:8080/j-ChannelI/tracks-v1a1/mono.m3u8
+http://cdn.ihub.live:8080/ChannelI/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://www.dropbox.com/s/rgblmfl0utzapcv/sohel.jpeg?raw=1" group-title="BDIX Server 3",DBC News
-http://cdn.ihub.live:8080/j-DBCNews/tracks-v1a1/mono.m3u8
+http://cdn.ihub.live:8080/DBCNews/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://www.dropbox.com/s/rgblmfl0utzapcv/sohel.jpeg?raw=1" group-title="BDIX Server 3",EkattorTV
 http://cdn.ihub.live:8080/EkattorTV/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-logo="https://www.dropbox.com/s/rgblmfl0utzapcv/sohel.jpeg?raw=1" group-title="BDIX Server 3",colors-hd
-http://cdn.ihub.live:8080/j-colors-hd/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-logo="https://www.dropbox.com/s/rgblmfl0utzapcv/sohel.jpeg?raw=1" group-title="BDIX Server 3",Colors-hd
-https://cutt.ly/hnEcdNk
 #EXTINF:-1 tvg-logo="https://www.dropbox.com/s/rgblmfl0utzapcv/sohel.jpeg?raw=1" group-title="BDIX Server 3",Deepto TV
-http://cdn.ihub.live:8080/j-DeeptoTV/tracks-v1a1/mono.m3u8
+http://cdn.ihub.live:8080/DeeptoTV/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://www.dropbox.com/s/rgblmfl0utzapcv/sohel.jpeg?raw=1" group-title="BDIX Server 3",Gaan Bangla
-http://cdn.ihub.live:8080/j-GaanBangla/tracks-v1a1/mono.m3u8
+http://cdn.ihub.live:8080/GaanBangla/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://www.dropbox.com/s/rgblmfl0utzapcv/sohel.jpeg?raw=1" group-title="BDIX Server 3",Jamuna TV
-http://cdn.ihub.live:8080/j-JamunaTV/tracks-v1a1/mono.m3u8
+http://cdn.ihub.live:8080/JamunaTV/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://www.dropbox.com/s/rgblmfl0utzapcv/sohel.jpeg?raw=1" group-title="BDIX Server 3",Maasranga
-http://cdn.ihub.live:8080/j-Maasranga/tracks-v1a1/mono.m3u8
+http://cdn.ihub.live:8080/Maasranga/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://www.dropbox.com/s/rgblmfl0utzapcv/sohel.jpeg?raw=1" group-title="BDIX Server 3",Mohona TV
-http://cdn.ihub.live:8080/j-MohonaTV/tracks-v1a1/mono.m3u8
+http://cdn.ihub.live:8080/MohonaTV/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://www.dropbox.com/s/rgblmfl0utzapcv/sohel.jpeg?raw=1" group-title="BDIX Server 3",My TV
-http://cdn.ihub.live:8080/j-MyTV/tracks-v1a1/mono.m3u8
+http://cdn.ihub.live:8080/MyTV/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://www.dropbox.com/s/rgblmfl0utzapcv/sohel.jpeg?raw=1" group-title="BDIX Server 3",Nagorik TV
 http://cdn.ihub.live:8080/NagorikTV/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://www.dropbox.com/s/rgblmfl0utzapcv/sohel.jpeg?raw=1" group-title="BDIX Server 3",itv
