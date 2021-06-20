@@ -3,8 +3,6 @@
 #EXTINF:-1 tvg-logo="" group-title="Euro Cup 2021",ES----------------------------------------------------------------------------------------------------------------
 #EXTINF:-1 tvg-logo="" group-title="Bangladeshi",BD------------------------------------------------------------------------------------------------------------------
 #EXTINF:-1 tvg-logo="" group-title="BDIX Server 1",Server1-----------------------------------------------------------------------------------------------------------
-#EXTINF:-1 tvg-logo="" group-title="BDIX Server 2",Server2-----------------------------------------------------------------------------------------------------------
-#EXTINF:-1 tvg-logo="" group-title="BDIX Server 3",Server3-----------------------------------------------------------------------------------------------------------
 #EXTINF:-1 tvg-logo="" group-title="BDIX Server 4",Server4-----------------------------------------------------------------------------------------------------------
 #EXTINF:-1 tvg-logo="" group-title="BD IPTV",BD----------------------------------------------------------------------------------------------------------------------
 #EXTINF:-1 tvg-logo="" group-title="Documentary",DC------------------------------------------------------------------------------------------------------------------
@@ -871,202 +869,6 @@ http://103.205.133.21/hls/tsports.m3u8
 #EXTINF:-1 tvg-logo="https://www.tvchannelpricelist.com/wp-content/uploads/channels-logo-300/star-sports-hd-2-logo-300x300.jpg" group-title="BDIX Server 1",Star Sports 2 HD [1]
 
 
-
-ভাই চুরি করবি সমস্যা নাই | একটু ক্রেডিট দিয়া চুরি করিস | আমি সোহেল কষ্ট করে লিংক বের করি | আর তোরা কপি কইরা ফ্রি বইলা চালাইয়া দেস | এই কষ্ট গুলার তো ভাই একটু মূল্য দিবি ভাই |------
-
-#EXTINF:0 tvg-language="" tvg-logo="https://www.dropbox.com/s/rgblmfl0utzapcv/sohel.jpeg?raw=1" group-title="BDIX Server 2",BTV [2]
-http://212.102.60.40:2200/R-EX/BTV_NATIONAL-in/tracks-v1a1/mono.m3u8
-
-#EXTINF:0 tvg-language="" tvg-logo="https://www.dropbox.com/s/rgblmfl0utzapcv/sohel.jpeg?raw=1" group-title="BDIX Server 2",And TV HD [2]
-http://212.102.60.40:2200/R-EX/HINDI_AND_TV_HD-in/index.m3u8?token=piratesiptv_sohelahmed
-#EXTINF:0 tvg-language="" tvg-logo="https://www.dropbox.com/s/rgblmfl0utzapcv/sohel.jpeg?raw=1" group-title="BDIX Server 2",And Picture HD [2]
-http://212.224.98.196:2200/R-EX/HINDI_AND_PICTURES_HD-in/index.m3u8?token=piratesiptv_sohelahmed
-#EXTINF:0 tvg-language="" tvg-logo="https://www.dropbox.com/s/rgblmfl0utzapcv/sohel.jpeg?raw=1" group-title="BDIX Server 2",Colors HD [2]
-http://212.224.98.196:2200/R-EX/HINDI_COLORS_HD-in/index.m3u8?token=piratesiptv_sohelahmed
-#EXTINF:0 tvg-language="" tvg-logo="https://www.dropbox.com/s/rgblmfl0utzapcv/sohel.jpeg?raw=1" group-title="BDIX Server 2",Colors Bangla HD [2]
-http://212.224.98.196:2200/R-EX/BENGALI_COLORS_BANGLA_HD-in/index.m3u8?token=piratesiptv_sohelahmed
-#EXTINF:0 tvg-language="" tvg-logo="https://www.dropbox.com/s/rgblmfl0utzapcv/sohel.jpeg?raw=1" group-title="BDIX Server 2",Colors Cineplex HD [2]
-http://212.224.98.196:2200/R-EX/HINDI_CINEPLEX_HD-in/index.m3u8?token=piratesiptv_sohelahmed
-#EXTINF:0 tvg-language="" tvg-logo="https://www.dropbox.com/s/rgblmfl0utzapcv/sohel.jpeg?raw=1" group-title="BDIX Server 2",Colors Infinity HD [2]
-http://212.224.98.196:2200/R-EX/ENGLISH_COLORS_INFINITY_HD-in/index.m3u8?token=piratesiptv_sohelahmed
-#EXTINF:0 tvg-language="" tvg-logo="https://www.dropbox.com/s/rgblmfl0utzapcv/sohel.jpeg?raw=1" group-title="BDIX Server 2",Sony Max HD [2]
-http://212.224.98.196:2200/R-EX/HINDI_SONY_MAX_HD-in/index.m3u8?token=piratesiptv_sohelahmed
-#EXTINF:0 tvg-language="" tvg-logo="https://www.dropbox.com/s/rgblmfl0utzapcv/sohel.jpeg?raw=1" group-title="BDIX Server 2",Sony Max 2 [2]
-http://212.224.98.196:2200/R-EX/HINDI_SONY_MAX_2-in/index.m3u8?token=piratesiptv_sohelahmed
-#EXTINF:0 tvg-language="" tvg-logo="https://www.dropbox.com/s/rgblmfl0utzapcv/sohel.jpeg?raw=1" group-title="BDIX Server 2",Sony Pix HD [2]
-http://212.224.98.196:2200/R-EX/HINDI_SONY_PIX_HD-in/index.m3u8?token=piratesiptv_sohelahmed
-#EXTINF:0 tvg-language="" tvg-logo="https://www.dropbox.com/s/rgblmfl0utzapcv/sohel.jpeg?raw=1" group-title="BDIX Server 2",Sony Sab HD [2]
-http://212.224.98.196:2200/R-EX/HINDI_SONY_SAB_HD-in/index.m3u8?token=piratesiptv_sohelahmed
-#EXTINF:0 tvg-language="" tvg-logo="https://www.dropbox.com/s/rgblmfl0utzapcv/sohel.jpeg?raw=1" group-title="BDIX Server 2",Star Bharat HD [2]
-http://212.224.98.196:2200/R-EX/HINDI_STAR_BHARAT_HD-in/index.m3u8?token=piratesiptv_sohelahmed
-#EXTINF:0 tvg-language="" tvg-logo="https://www.dropbox.com/s/rgblmfl0utzapcv/sohel.jpeg?raw=1" group-title="BDIX Server 2",Star Jalsha HD [2]
-http://212.224.98.196:2200/R-EX/BENGALI_STAR_JALSHA_HD-in/index.m3u8?token=piratesiptv_sohelahmed
-#EXTINF:0 tvg-language="" tvg-logo="https://www.dropbox.com/s/rgblmfl0utzapcv/sohel.jpeg?raw=1" group-title="BDIX Server 2",Star Jalsha Movies HD [2]
-http://212.224.98.196:2200/R-EX/BENGALI_STAR_JALSHA_MOVIES_HD-in/index.m3u8?token=piratesiptv_sohelahmed
-#EXTINF:0 tvg-language="" tvg-logo="https://www.dropbox.com/s/rgblmfl0utzapcv/sohel.jpeg?raw=1" group-title="BDIX Server 2",Star Gold HD [2]
-http://212.224.98.196:2200/R-EX/HINDI_STAR_GOLD_HD-in/index.m3u8?token=piratesiptv_sohelahmed
-#EXTINF:0 tvg-language="" tvg-logo="https://www.dropbox.com/s/rgblmfl0utzapcv/sohel.jpeg?raw=1" group-title="BDIX Server 2",Star Gold Select HD [2]
-http://212.224.98.196:2200/R-EX/HINDI_STAR_GOLD_SELECT_HD-in/index.m3u8?token=piratesiptv_sohelahmed
-#EXTINF:0 tvg-language="" tvg-logo="https://www.dropbox.com/s/rgblmfl0utzapcv/sohel.jpeg?raw=1" group-title="BDIX Server 2",Star Plus HD [2]
-http://212.224.98.196:2200/R-EX/HINDI_STAR_PLUS_HD-in/index.m3u8?token=piratesiptv_sohelahmed
-#EXTINF:0 tvg-language="" tvg-logo="https://www.dropbox.com/s/rgblmfl0utzapcv/sohel.jpeg?raw=1" group-title="BDIX Server 2",Star Vijay HD [2]
-http://212.224.98.196:2200/R-EX/TAMIL_STAR_VIJAY_HD-in/index.m3u8?token=piratesiptv_sohelahmed
-#EXTINF:0 tvg-language="" tvg-logo="https://www.dropbox.com/s/rgblmfl0utzapcv/sohel.jpeg?raw=1" group-title="BDIX Server 2",Star Vijay Music HD [2]
-http://212.224.98.196:2200/R-EX/Star_Viyaj_Music-in/index.m3u8?token=piratesiptv_sohelahmed
-#EXTINF:0 tvg-language="" tvg-logo="https://www.dropbox.com/s/rgblmfl0utzapcv/sohel.jpeg?raw=1" group-title="BDIX Server 2",Star Vijay Super HD [2]
-http://212.224.98.196:2200/R-EX/TAMIL_VIJAY_SUPER-in/index.m3u8?token=piratesiptv_sohelahmed
-#EXTINF:0 tvg-language="" tvg-logo="https://www.dropbox.com/s/rgblmfl0utzapcv/sohel.jpeg?raw=1" group-title="BDIX Server 2",Star Movies Select HD [2]
-http://212.224.98.196:2200/R-EX/ENGLISH_STAR_MOVIES_HD-in/index.m3u8?token=piratesiptv_sohelahmed
-#EXTINF:0 tvg-language="" tvg-logo="https://www.dropbox.com/s/rgblmfl0utzapcv/sohel.jpeg?raw=1" group-title="BDIX Server 2",Star World HD [2]
-http://212.224.98.196:2200/R-EX/ENGLISH_STAR_WORLD_HD-in/index.m3u8?token=piratesiptv_sohelahmed
-#EXTINF:0 tvg-language="" tvg-logo="https://www.dropbox.com/s/rgblmfl0utzapcv/sohel.jpeg?raw=1" group-title="BDIX Server 2",Sun Music HD [2]
-http://212.224.98.196:2200/R-EX/TAMIL_SUN_MUSIC_HD-in/index.m3u8?token=piratesiptv_sohelahmed
-#EXTINF:0 tvg-language="" tvg-logo="https://www.dropbox.com/s/rgblmfl0utzapcv/sohel.jpeg?raw=1" group-title="BDIX Server 2",Sangeet Bangla [2]
-http://212.224.98.196:2200/R-EX/BENGALI_SANGEET_BANGLA-in/index.m3u8?token=piratesiptv_sohelahmed
-#EXTINF:0 tvg-language="" tvg-logo="https://www.dropbox.com/s/rgblmfl0utzapcv/sohel.jpeg?raw=1" group-title="BDIX Server 2",UTV HD [2]
-http://212.224.98.196:2200/R-EX/HINDI_UTV_HD-in/index.m3u8?token=piratesiptv_sohelahmed
-#EXTINF:0 tvg-language="" tvg-logo="https://www.dropbox.com/s/rgblmfl0utzapcv/sohel.jpeg?raw=1" group-title="BDIX Server 2",Zee Bangla HD [2]
-http://212.224.98.196:2200/R-EX/BENGALI_ZEE_BANGLA_HD-in/index.m3u8?token=piratesiptv_sohelahmed
-#EXTINF:0 tvg-language="" tvg-logo="https://www.dropbox.com/s/rgblmfl0utzapcv/sohel.jpeg?raw=1" group-title="BDIX Server 2",Zee Bangla Cinema [2]
-http://212.224.98.196:2200/R-EX/BENGALI_ZEE_BANGLA_CINEMA-in/index.m3u8?token=piratesiptv_sohelahmed
-#EXTINF:0 tvg-language="" tvg-logo="https://www.dropbox.com/s/rgblmfl0utzapcv/sohel.jpeg?raw=1" group-title="BDIX Server 2",Zee Action [2]
-http://212.224.98.196:2200/R-EX/HINDI_ZEE_ACTION-in/index.m3u8?token=piratesiptv_sohelahmed
-#EXTINF:0 tvg-language="" tvg-logo="https://www.dropbox.com/s/rgblmfl0utzapcv/sohel.jpeg?raw=1" group-title="BDIX Server 2",Zee Cinema HD [2]
-http://212.224.98.196:2200/R-EX/HINDI_ZEE_CINEMA_HD-in/index.m3u8?token=piratesiptv_sohelahmed
-#EXTINF:0 tvg-language="" tvg-logo="https://www.dropbox.com/s/rgblmfl0utzapcv/sohel.jpeg?raw=1" group-title="BDIX Server 2",Zee TV HD [2]
-http://212.224.98.196:2200/R-EX/HINDI_ZEE_TV_HD-in/index.m3u8?token=piratesiptv_sohelahmed
-#EXTINF:0 tvg-language="" tvg-logo="https://www.dropbox.com/s/rgblmfl0utzapcv/sohel.jpeg?raw=1" group-title="BDIX Server 2",Zee Tamil HD [2]
-http://212.224.98.196:2200/R-EX/TAMIL_ZEE_TAMIL_HD-in/index.m3u8?token=piratesiptv_sohelahmed
-#EXTINF:0 tvg-language="" tvg-logo="https://www.dropbox.com/s/rgblmfl0utzapcv/sohel.jpeg?raw=1" group-title="BDIX Server 2",Sony Ten 1 HD [2]
-http://212.224.98.196:2200/R-EX/SPORTS_TEN_1_HD-in/index.m3u8?token=piratesiptv_sohelahmed
-#EXTINF:0 tvg-language="" tvg-logo="https://www.dropbox.com/s/rgblmfl0utzapcv/sohel.jpeg?raw=1" group-title="BDIX Server 2",Sony Ten 2 HD [2]
-http://212.224.98.196:2200/R-EX/SPORTS_TEN_2_HD-in/index.m3u8?token=piratesiptv_sohelahmed
-#EXTINF:0 tvg-language="" tvg-logo="https://www.dropbox.com/s/rgblmfl0utzapcv/sohel.jpeg?raw=1" group-title="BDIX Server 2",Sony Ten 3 HD [2]
-http://212.224.98.196:2200/R-EX/SPORTS_TEN_3_HD-in/index.m3u8?token=piratesiptv_sohelahmed
-#EXTINF:0 tvg-language="" tvg-logo="https://www.dropbox.com/s/rgblmfl0utzapcv/sohel.jpeg?raw=1" group-title="BDIX Server 2",Sony Six HD [2]
-http://212.224.98.196:2200/R-EX/SPORTS_SONY_SIX_HD-in/index.m3u8?token=piratesiptv_sohelahmed
-#EXTINF:0 tvg-language="" tvg-logo="https://www.dropbox.com/s/rgblmfl0utzapcv/sohel.jpeg?raw=1" group-title="BDIX Server 2",Star Sports 1 HD [2]
-http://212.224.98.196:2200/R-EX/STAR_SPORTSHINDI_HD_1-in/index.m3u8?token=piratesiptv_sohelahmed
-#EXTINF:0 tvg-language="" tvg-logo="https://www.dropbox.com/s/rgblmfl0utzapcv/sohel.jpeg?raw=1" group-title="BDIX Server 2",Star Sports 2 HD [2]
-http://212.224.98.196:2200/R-EX/SPORTS_STAR_SPORTS_2_HD-in/index.m3u8?token=piratesiptv_sohelahmed
-#EXTINF:0 tvg-language="" tvg-logo="https://www.dropbox.com/s/rgblmfl0utzapcv/sohel.jpeg?raw=1" group-title="BDIX Server 2",Star Sports Select 1 HD [2]
-http://212.224.98.196:2200/R-EX/SPORTS_STAR_SPORTS_SELECT_1_HD-in/index.m3u8?token=piratesiptv_sohelahmed
-#EXTINF:0 tvg-language="" tvg-logo="https://www.dropbox.com/s/rgblmfl0utzapcv/sohel.jpeg?raw=1" group-title="BDIX Server 2",Star Sports Select 2 HD [2]
-http://212.224.98.196:2200/R-EX/SPORTS_STAR_SPORTS_SELECT_2_HD-in/index.m3u8?token=piratesiptv_sohelahmed
-#EXTINF:0 tvg-language="" tvg-logo="https://www.dropbox.com/s/rgblmfl0utzapcv/sohel.jpeg?raw=1" group-title="BDIX Server 2",Star Sports 3 HD [2]
-http://212.224.98.196:2200/R-EX/SPORTS_STAR_SPORTS_3_-in/index.m3u8?token=piratesiptv_sohelahmed
-#EXTINF:0 tvg-language="" tvg-logo="https://www.dropbox.com/s/rgblmfl0utzapcv/sohel.jpeg?raw=1" group-title="BDIX Server 2",T Sports HD [2]
-http://212.224.98.196:2200/R-EX/T_SPORTS_HD-in/index.m3u8?token=piratesiptv_sohelahmed
-#EXTINF:0 tvg-language="" tvg-logo="https://www.dropbox.com/s/rgblmfl0utzapcv/sohel.jpeg?raw=1" group-title="BDIX Server 2",Sony BBC Earth HD [2]
-http://212.224.98.196:2200/R-EX/ENGLISH_BBC_EARTH_HD-in/index.m3u8?token=piratesiptv_sohelahmed
-#EXTINF:0 tvg-language="" tvg-logo="https://www.dropbox.com/s/rgblmfl0utzapcv/sohel.jpeg?raw=1" group-title="BDIX Server 2",Fox Life HD [2]
-http://212.224.98.196:2200/R-EX/HINDI_FOX_LIFE_HD-in/index.m3u8?token=piratesiptv_sohelahmed
-#EXTINF:0 tvg-language="" tvg-logo="https://www.dropbox.com/s/rgblmfl0utzapcv/sohel.jpeg?raw=1" group-title="BDIX Server 2",Nat Geo Bangla [2]
-http://212.224.98.196:2200/R-EX/BENGALI_NAT_GEO_BENGALI_HD-in/index.m3u8?token=piratesiptv_sohelahmed
-#EXTINF:0 tvg-language="" tvg-logo="https://www.dropbox.com/s/rgblmfl0utzapcv/sohel.jpeg?raw=1" group-title="BDIX Server 2",Nat Geo [2]
-http://212.224.98.196:2200/R-EX/HINDI_NAT_GEO_HD-in/index.m3u8?token=piratesiptv_sohelahmed
-#EXTINF:0 tvg-language="" tvg-logo="https://www.dropbox.com/s/rgblmfl0utzapcv/sohel.jpeg?raw=1" group-title="BDIX Server 2",Nat Geo Wild [2]
-http://212.224.98.196:2200/R-EX/HINDI_NAT_GEO_WILD_HD-in/index.m3u8?token=piratesiptv_sohelahmed
-#EXTINF:0 tvg-language="" tvg-logo="https://www.dropbox.com/s/rgblmfl0utzapcv/sohel.jpeg?raw=1" group-title="BDIX Server 2",B4U Music [2]
-http://212.224.98.196:2200/R-EX/HINDI_B4U_MUSIC-in/index.m3u8?token=piratesiptv_sohelahmed
-
-ভাই চুরি করবি সমস্যা নাই | একটু ক্রেডিট দিয়া চুরি করিস | আমি সোহেল কষ্ট করে লিংক বের করি | আর তোরা কপি কইরা ফ্রি বইলা চালাইয়া দেস | এই কষ্ট গুলার তো ভাই একটু মূল্য দিবি ভাই |------
-
-
-
-
-#EXTINF:-1 tvg-logo="https://www.dropbox.com/s/rgblmfl0utzapcv/sohel.jpeg?raw=1" group-title="BDIX Server 3",ATN Bangla [3]
-http://cdn.ihub.live:8080/ATNBangla/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-logo="https://www.dropbox.com/s/rgblmfl0utzapcv/sohel.jpeg?raw=1" group-title="BDIX Server 3",ATN News [3]
-http://cdn.ihub.live:8080/ATNNews/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-logo="https://www.dropbox.com/s/rgblmfl0utzapcv/sohel.jpeg?raw=1" group-title="BDIX Server 3",Banglavision [3]
-http://cdn.ihub.live:8080/BanglaVision/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-logo="https://www.dropbox.com/s/rgblmfl0utzapcv/sohel.jpeg?raw=1" group-title="BDIX Server 3",Boishakhi [3]
-http://cdn.ihub.live:8080/BoishakhiTV/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-logo="https://www.dropbox.com/s/rgblmfl0utzapcv/sohel.jpeg?raw=1" group-title="BDIX Server 3",BTV World [3]
-http://cdn.ihub.live:8080/BTVWorld/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-logo="https://www.dropbox.com/s/rgblmfl0utzapcv/sohel.jpeg?raw=1" group-title="BDIX Server 3",Channel 24 [3]
-http://cdn.ihub.live:8080/Channel24/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-logo="https://www.dropbox.com/s/rgblmfl0utzapcv/sohel.jpeg?raw=1" group-title="BDIX Server 3",Channel I [3]
-http://cdn.ihub.live:8080/ChannelI/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-logo="https://www.dropbox.com/s/rgblmfl0utzapcv/sohel.jpeg?raw=1" group-title="BDIX Server 3",DBC News [3]
-http://cdn.ihub.live:8080/DBCNews/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-logo="https://www.dropbox.com/s/rgblmfl0utzapcv/sohel.jpeg?raw=1" group-title="BDIX Server 3",Deepto TV [3]
-http://cdn.ihub.live:8080/DeeptoTV/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-logo="https://www.dropbox.com/s/rgblmfl0utzapcv/sohel.jpeg?raw=1" group-title="BDIX Server 3",Ekattor TV [3]
-http://cdn.ihub.live:8080/EkattorTV/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-logo="https://www.dropbox.com/s/rgblmfl0utzapcv/sohel.jpeg?raw=1" group-title="BDIX Server 3",Gaan Bangla [3]
-http://cdn.ihub.live:8080/GaanBangla/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-logo="https://www.dropbox.com/s/rgblmfl0utzapcv/sohel.jpeg?raw=1" group-title="BDIX Server 3",Gazi TV [3]
-http://cdn.ihub.live:8080/j-GTV/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-logo="https://www.dropbox.com/s/rgblmfl0utzapcv/sohel.jpeg?raw=1" group-title="BDIX Server 3",Independent TV [3]
-http://cdn.ihub.live:8080/IndependentTV/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-logo="https://www.dropbox.com/s/rgblmfl0utzapcv/sohel.jpeg?raw=1" group-title="BDIX Server 3",Mohona TV [3]
-http://cdn.ihub.live:8080/MohonaTV/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-logo="https://www.dropbox.com/s/rgblmfl0utzapcv/sohel.jpeg?raw=1" group-title="BDIX Server 3",My TV [3]
-http://cdn.ihub.live:8080/MyTV/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-logo="https://www.dropbox.com/s/rgblmfl0utzapcv/sohel.jpeg?raw=1" group-title="BDIX Server 3",Nagorik TV [3]
-http://cdn.ihub.live:8080/NagorikTV/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-logo="https://www.dropbox.com/s/rgblmfl0utzapcv/sohel.jpeg?raw=1" group-title="BDIX Server 3",News 24 [3]
-http://cdn.ihub.live:8080/News24/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-logo="https://www.dropbox.com/s/rgblmfl0utzapcv/sohel.jpeg?raw=1" group-title="BDIX Server 3",SATV [3]
-http://cdn.ihub.live:8080/SATV/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-logo="https://www.dropbox.com/s/rgblmfl0utzapcv/sohel.jpeg?raw=1" group-title="BDIX Server 3",Somoy TV [3]
-http://cdn.ihub.live:8080/SomoyTv/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-logo="https://www.dropbox.com/s/rgblmfl0utzapcv/sohel.jpeg?raw=1" group-title="BDIX Server 3",Al Jazeera [3]
-http://cdn.ihub.live:8080/Aljazeera/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-logo="https://www.dropbox.com/s/rgblmfl0utzapcv/sohel.jpeg?raw=1" group-title="BDIX Server 3",Animal Planet [3]
-http://cdn.ihub.live:8080/AnimalPlanet/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-logo="https://www.dropbox.com/s/rgblmfl0utzapcv/sohel.jpeg?raw=1" group-title="BDIX Server 3",TLC HD [3]
-http://cdn.ihub.live:8080/TLCHD/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-logo="https://www.dropbox.com/s/rgblmfl0utzapcv/sohel.jpeg?raw=1" group-title="BDIX Server 3",Discovery Kids [3]
-https://d31i2h2maeqv2f.cloudfront.net/DIS_KIDS.m3u8
-#EXTINF:-1 tvg-logo="https://www.dropbox.com/s/rgblmfl0utzapcv/sohel.jpeg?raw=1" group-title="BDIX Server 3",Nick Jr. [3]
-http://cdn.ihub.live:8080/Nick/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-logo="https://www.dropbox.com/s/rgblmfl0utzapcv/sohel.jpeg?raw=1" group-title="BDIX Server 3",Sony Yay [3]
-http://cdn.ihub.live:8080/SonyYay/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-logo="https://www.dropbox.com/s/rgblmfl0utzapcv/sohel.jpeg?raw=1" group-title="BDIX Server 3",And Prive HD [3]
-http://cdn.ihub.live:8080/&privatehd/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-logo="https://www.dropbox.com/s/rgblmfl0utzapcv/sohel.jpeg?raw=1" group-title="BDIX Server 3",Bflix [3]
-http://cdn.ihub.live:8080/Bflix/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-logo="https://www.dropbox.com/s/rgblmfl0utzapcv/sohel.jpeg?raw=1" group-title="BDIX Server 3",Dubai One [3]
-http://cdn.ihub.live:8080/DubaiOne/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-logo="https://www.dropbox.com/s/rgblmfl0utzapcv/sohel.jpeg?raw=1" group-title="BDIX Server 3",Movies Active HD [3]
-https://cutt.ly/2nEd67E
-#EXTINF:-1 tvg-logo="https://www.dropbox.com/s/rgblmfl0utzapcv/sohel.jpeg?raw=1" group-title="BDIX Server 3",Sony TV [3]
-http://cdn.ihub.live:8080/j-SonyTV/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-logo="https://www.dropbox.com/s/rgblmfl0utzapcv/sohel.jpeg?raw=1" group-title="BDIX Server 3",Sony Pix [3]
-http://cdn.ihub.live:8080/SonyPix/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-logo="https://www.dropbox.com/s/rgblmfl0utzapcv/sohel.jpeg?raw=1" group-title="BDIX Server 3",Sony SAB [3]
-http://cdn.ihub.live:8080/SonySAB/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-logo="https://www.dropbox.com/s/rgblmfl0utzapcv/sohel.jpeg?raw=1" group-title="BDIX Server 3",Star Movies [3]
-https://cutt.ly/hnEcdNk
-#EXTINF:-1 tvg-logo="https://www.dropbox.com/s/rgblmfl0utzapcv/sohel.jpeg?raw=1" group-title="BDIX Server 3",Star Gold HD [3]
-http://cdn.ihub.live:8080/j-star-gold-hd/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-logo="https://www.dropbox.com/s/rgblmfl0utzapcv/sohel.jpeg?raw=1" group-title="BDIX Server 3",Zee Bangla [3]
-http://cdn.ihub.live:8080/ZeeBangla/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-logo="https://www.dropbox.com/s/rgblmfl0utzapcv/sohel.jpeg?raw=1" group-title="BDIX Server 3",Zee Bangla [3]
-http://cdn.ihub.live:8080/ZeeBanglaCinema/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-logo="https://www.dropbox.com/s/rgblmfl0utzapcv/sohel.jpeg?raw=1" group-title="BDIX Server 3",Zee Cinema [3]
-http://cdn.ihub.live:8080/ZeeCinema/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-logo="https://www.dropbox.com/s/rgblmfl0utzapcv/sohel.jpeg?raw=1" group-title="BDIX Server 3",AD Sports 1 [3]
-http://cdn.ihub.live:8080/ADSPORTS1/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-logo="https://www.dropbox.com/s/rgblmfl0utzapcv/sohel.jpeg?raw=1" group-title="BDIX Server 3",AD Sports 2 [3]
-http://cdn.ihub.live:8080/ADSPORTS2/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-logo="https://www.dropbox.com/s/rgblmfl0utzapcv/sohel.jpeg?raw=1" group-title="BDIX Server 3",AD Sports 3 [3]
-http://cdn.ihub.live:8080/ADSPORTS3/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-logo="https://www.dropbox.com/s/rgblmfl0utzapcv/sohel.jpeg?raw=1" group-title="BDIX Server 3",AD Sports 4 [3]
-http://cdn.ihub.live:8080/ADSPORTS4/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-logo="https://www.dropbox.com/s/rgblmfl0utzapcv/sohel.jpeg?raw=1" group-title="BDIX Server 3",Sony Six [3]
-http://cdn.ihub.live:8080/SonySix/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-logo="https://www.dropbox.com/s/rgblmfl0utzapcv/sohel.jpeg?raw=1" group-title="BDIX Server 3",Sony Ten 1 [3]
-http://cdn.ihub.live:8080/j-Sony-Ten1/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-logo="https://www.dropbox.com/s/rgblmfl0utzapcv/sohel.jpeg?raw=1" group-title="BDIX Server 3",Sony Ten 2 [3]
-http://cdn.ihub.live:8080/SonyTen2/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-logo="https://www.dropbox.com/s/rgblmfl0utzapcv/sohel.jpeg?raw=1" group-title="BDIX Server 3",Sony Ten 3 [3]
-http://cdn.ihub.live:8080/SonyTen3/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-logo="https://www.dropbox.com/s/rgblmfl0utzapcv/sohel.jpeg?raw=1" group-title="BDIX Server 3",T Sports [3]
-http://cdn.ihub.live:8080/j-TSports/tracks-v1a1/mono.m3u8
 
 
 #EXTINF:0 tvg-language="Sohel_Ahmed" tvg-logo="https://www.dropbox.com/s/rgblmfl0utzapcv/sohel.jpeg?raw=1" group-title="BDIX Server 4",ATN Bangla [4]
@@ -3113,50 +2915,42 @@ http://streaming.medi1tv.com/live/Medi1tvmaghreb.sdp/chunklist.m3u8
 
 #চোর ভাই এসে গেছে সোহেল ভাই এর EURO Cup এর লিংক চুরি করতে
 #EXTINF:0 tvg-language="" tvg-logo="https://www.dropbox.com/s/rgblmfl0utzapcv/sohel.jpeg?raw=1" group-title="Euro Cup 2021",Channel 1
-https://streamer-1.toffeelive.com/mobile_hls/sony_ten2_hd/5/04dfcf51f5f17bc7739a41f294e2adbb/auto
-#EXTINF:0 tvg-language="" tvg-logo="" group-title="Euro Cup 2021",
-#চোর ভাই এসে গেছে সোহেল ভাই এর EURO Cup এর লিংক চুরি করতে
-#EXTINF:0 tvg-language="" tvg-logo="https://www.dropbox.com/s/rgblmfl0utzapcv/sohel.jpeg?raw=1" group-title="Euro Cup 2021",Channel 2
 https://piratesiptv.shortcm.li/sohel-vai-er-theke-curi-korsi-link1.m3u8
 #EXTINF:0 tvg-language="" tvg-logo="" group-title="Euro Cup 2021",
 #চোর ভাই এসে গেছে সোহেল ভাই এর EURO Cup এর লিংক চুরি করতে
-#EXTINF:0 tvg-language="" tvg-logo="https://www.dropbox.com/s/rgblmfl0utzapcv/sohel.jpeg?raw=1" group-title="Euro Cup 2021",Channel 3
+#EXTINF:0 tvg-language="" tvg-logo="https://www.dropbox.com/s/rgblmfl0utzapcv/sohel.jpeg?raw=1" group-title="Euro Cup 2021",Channel 2
 https://piratesiptv.shortcm.li/sohel-vai-er-theke-curi-korsi-link2.m3u8
 #EXTINF:0 tvg-language="" tvg-logo="" group-title="Euro Cup 2021",
 #চোর ভাই এসে গেছে সোহেল ভাই এর EURO Cup এর লিংক চুরি করতে
-#EXTINF:0 tvg-language="" tvg-logo="https://www.dropbox.com/s/rgblmfl0utzapcv/sohel.jpeg?raw=1" group-title="Euro Cup 2021",Channel 4
-https://streamer-1.toffeelive.com/mobile_hls/sony_ten3_hd/5/04dfcf51f5f17bc7739a41f294e2adbb/auto
-#EXTINF:0 tvg-language="" tvg-logo="" group-title="Euro Cup 2021",
-#চোর ভাই এসে গেছে সোহেল ভাই এর EURO Cup এর লিংক চুরি করতে
-#EXTINF:0 tvg-language="" tvg-logo="https://www.dropbox.com/s/rgblmfl0utzapcv/sohel.jpeg?raw=1" group-title="Euro Cup 2021",Channel 5
+#EXTINF:0 tvg-language="" tvg-logo="https://www.dropbox.com/s/rgblmfl0utzapcv/sohel.jpeg?raw=1" group-title="Euro Cup 2021",Channel 3
 https://piratesiptv.shortcm.li/sohel-vai-er-theke-curi-korsi-link3.m3u8
 #EXTINF:0 tvg-language="" tvg-logo="" group-title="Euro Cup 2021",
 #চোর ভাই এসে গেছে সোহেল ভাই এর EURO Cup এর লিংক চুরি করতে
-#EXTINF:0 tvg-language="" tvg-logo="https://www.dropbox.com/s/rgblmfl0utzapcv/sohel.jpeg?raw=1" group-title="Euro Cup 2021",Channel 6
+#EXTINF:0 tvg-language="" tvg-logo="https://www.dropbox.com/s/rgblmfl0utzapcv/sohel.jpeg?raw=1" group-title="Euro Cup 2021",Channel 4
 https://piratesiptv.shortcm.li/sohel-vai-er-theke-curi-korsi-link4.m3u8
 #EXTINF:0 tvg-language="" tvg-logo="" group-title="Euro Cup 2021",
 #চোর ভাই এসে গেছে সোহেল ভাই এর EURO Cup এর লিংক চুরি করতে
-#EXTINF:0 tvg-language="" tvg-logo="https://www.dropbox.com/s/rgblmfl0utzapcv/sohel.jpeg?raw=1" group-title="Euro Cup 2021",Channel 7
+#EXTINF:0 tvg-language="" tvg-logo="https://www.dropbox.com/s/rgblmfl0utzapcv/sohel.jpeg?raw=1" group-title="Euro Cup 2021",Channel 5
 https://piratesiptv.shortcm.li/sohel-vai-er-theke-curi-korsi-link5.m3u8
 #EXTINF:0 tvg-language="" tvg-logo="" group-title="Euro Cup 2021",
 #চোর ভাই এসে গেছে সোহেল ভাই এর EURO Cup এর লিংক চুরি করতে
-#EXTINF:0 tvg-language="" tvg-logo="https://www.dropbox.com/s/rgblmfl0utzapcv/sohel.jpeg?raw=1" group-title="Euro Cup 2021",Channel 8
+#EXTINF:0 tvg-language="" tvg-logo="https://www.dropbox.com/s/rgblmfl0utzapcv/sohel.jpeg?raw=1" group-title="Euro Cup 2021",Channel 6
 https://piratesiptv.shortcm.li/sohel-vai-er-theke-curi-korsi-link6.m3u8
 #EXTINF:0 tvg-language="" tvg-logo="" group-title="Euro Cup 2021",
 #চোর ভাই এসে গেছে সোহেল ভাই এর EURO Cup এর লিংক চুরি করতে
-#EXTINF:0 tvg-language="" tvg-logo="https://www.dropbox.com/s/rgblmfl0utzapcv/sohel.jpeg?raw=1" group-title="Euro Cup 2021",Channel 9
+#EXTINF:0 tvg-language="" tvg-logo="https://www.dropbox.com/s/rgblmfl0utzapcv/sohel.jpeg?raw=1" group-title="Euro Cup 2021",Channel 7
 https://piratesiptv.shortcm.li/sohel-vai-er-theke-curi-korsi-link7.m3u8
 #EXTINF:0 tvg-language="" tvg-logo="" group-title="Euro Cup 2021",
 #চোর ভাই এসে গেছে সোহেল ভাই এর EURO Cup এর লিংক চুরি করতে
-#EXTINF:0 tvg-language="" tvg-logo="https://www.dropbox.com/s/rgblmfl0utzapcv/sohel.jpeg?raw=1" group-title="Euro Cup 2021",Channel 10
+#EXTINF:0 tvg-language="" tvg-logo="https://www.dropbox.com/s/rgblmfl0utzapcv/sohel.jpeg?raw=1" group-title="Euro Cup 2021",Channel 8
 https://piratesiptv.shortcm.li/sohel-vai-er-theke-curi-korsi-link8.m3u8
 #EXTINF:0 tvg-language="" tvg-logo="" group-title="Euro Cup 2021",
 #চোর ভাই এসে গেছে সোহেল ভাই এর EURO Cup এর লিংক চুরি করতে
-#EXTINF:0 tvg-language="" tvg-logo="https://www.dropbox.com/s/rgblmfl0utzapcv/sohel.jpeg?raw=1" group-title="Euro Cup 2021",Channel 11
+#EXTINF:0 tvg-language="" tvg-logo="https://www.dropbox.com/s/rgblmfl0utzapcv/sohel.jpeg?raw=1" group-title="Euro Cup 2021",Channel 9
 https://piratesiptv.shortcm.li/sohel-vai-er-theke-curi-korsi-link9.m3u8
 #EXTINF:0 tvg-language="" tvg-logo="" group-title="Euro Cup 2021",
 #চোর ভাই এসে গেছে সোহেল ভাই এর EURO Cup এর লিংক চুরি করতে
-#EXTINF:0 tvg-language="" tvg-logo="https://www.dropbox.com/s/rgblmfl0utzapcv/sohel.jpeg?raw=1" group-title="Euro Cup 2021",Channel 12
+#EXTINF:0 tvg-language="" tvg-logo="https://www.dropbox.com/s/rgblmfl0utzapcv/sohel.jpeg?raw=1" group-title="Euro Cup 2021",Channel 10
 https://piratesiptv.shortcm.li/sohel-vai-er-theke-curi-korsi-link10.m3u8
 
 
