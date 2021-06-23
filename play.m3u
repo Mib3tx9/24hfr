@@ -547,19 +547,7 @@ https://piratesiptv.shortcm.li/adsports1.m3u8
 #EXTINF:0 tvg-language="Sohel_Ahmed" tvg-logo="https://www.dropbox.com/s/rgblmfl0utzapcv/sohel.jpeg?raw=1" group-title="Sports",183.AD Sports 2
 https://piratesiptv.shortcm.li/adsports2.m3u8
 #EXTINF:0 tvg-language="Sohel_Ahmed" tvg-logo="https://www.dropbox.com/s/rgblmfl0utzapcv/sohel.jpeg?raw=1" group-title="Sports",184.Bein Sports 1
-http://185.180.15.15:2200/EX/bein1hd-ar/tracks-v1a1/mono.m3u8?token=RED_qLtbE2uetYblp57I2zLiDw==,1622828752.3742543580
-#EXTINF:0 tvg-language="Sohel_Ahmed" tvg-logo="https://www.dropbox.com/s/rgblmfl0utzapcv/sohel.jpeg?raw=1" group-title="Sports",184.Bein Sports 2
-http://185.180.15.15:2200/EX/bein2hd-ar/tracks-v1a1/mono.m3u8?token=RED_qLtbE2uetYblp57I2zLiDw==,1622828752.3742543580
-#EXTINF:0 tvg-language="Sohel_Ahmed" tvg-logo="https://www.dropbox.com/s/rgblmfl0utzapcv/sohel.jpeg?raw=1" group-title="Sports",184.Bein Sports 3
-http://185.180.15.15:2200/EX/bein3hd-ar/tracks-v1a1/mono.m3u8?token=RED_qLtbE2uetYblp57I2zLiDw==,1622828752.3742543580
-#EXTINF:0 tvg-language="Sohel_Ahmed" tvg-logo="https://www.dropbox.com/s/rgblmfl0utzapcv/sohel.jpeg?raw=1" group-title="Sports",184.Bein Sports 4
-http://185.180.15.15:2200/EX/bein4hd-ar/tracks-v1a1/mono.m3u8?token=RED_qLtbE2uetYblp57I2zLiDw==,1622828752.3742543580
-#EXTINF:0 tvg-language="Sohel_Ahmed" tvg-logo="https://www.dropbox.com/s/rgblmfl0utzapcv/sohel.jpeg?raw=1" group-title="Sports",184.Bein Sports 5
-http://185.180.15.15:2200/EX/bein5hd-ar/tracks-v1a1/mono.m3u8?token=RED_qLtbE2uetYblp57I2zLiDw==,1622828752.3742543580
-#EXTINF:0 tvg-language="Sohel_Ahmed" tvg-logo="https://www.dropbox.com/s/rgblmfl0utzapcv/sohel.jpeg?raw=1" group-title="Sports",184.Bein Sports 6
-http://185.180.15.15:2200/EX/bein6hd-ar/tracks-v1a1/mono.m3u8?token=RED_qLtbE2uetYblp57I2zLiDw==,1622828752.3742543580
-#EXTINF:0 tvg-language="Sohel_Ahmed" tvg-logo="https://www.dropbox.com/s/rgblmfl0utzapcv/sohel.jpeg?raw=1" group-title="Sports",184.Bein Sports 6
-http://185.180.15.15:2200/EX/bein7hd-ar/tracks-v1a1/mono.m3u8?token=RED_qLtbE2uetYblp57I2zLiDw==,1622828752.3742543580
+
 #EXTINF:0 tvg-language="Sohel_Ahmed" tvg-logo="https://www.dropbox.com/s/rgblmfl0utzapcv/sohel.jpeg?raw=1" group-title="Sports",185.Dubai Sports 1
 https://dmitnthvll.cdn.mangomolo.com/dubaisports/smil:dubaisports.smil/index.m3u8
 #EXTINF:0 tvg-language="Sohel_Ahmed" tvg-logo="https://www.dropbox.com/s/rgblmfl0utzapcv/sohel.jpeg?raw=1" group-title="Sports",185.Dubai Sports 2
