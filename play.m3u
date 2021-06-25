@@ -708,15 +708,18 @@ https://shls-mbcbollywood-prod-dub.shahid.net/out/v1/a79c9d7ef2a64a54a64d5c4567b
 https://shls-mbcdramaksa-prod-dub.shahid.net/out/v1/ce0f0762d89e4394a856c5fd13e43645/index_2.m3u8
 #EXTINF:0 tvg-language="Sohel_Ahmed" tvg-logo="https://www.dropbox.com/s/rgblmfl0utzapcv/sohel.jpeg?raw=1" group-title="MBC",259.MBC Drama+
 https://shls-mbcplusdrama-prod-dub.shahid.net/out/v1/97ca0ce6fc6142f4b14c0a694af59eab/index_1.m3u8
-#EXTINF:0 tvg-language="Sohel_Ahmed" tvg-logo="https://www.dropbox.com/s/rgblmfl0utzapcv/sohel.jpeg?raw=1" group-title="MBC",260.MBC Masr 1
+#EXTINF:0 tvg-language="Sohel_Ahmed" tvg-logo="https://www.dropbox.com/s/rgblmfl0utzapcv/sohel.jpeg?raw=1" group-title="MBC",260.MBC FM
+https://mbcfm-riyadh-prod-dub.shahid.net/out/v1/69c8a03f507e422f99cf5c07291c9e3a/index.m3u8
+#EXTINF:0 tvg-language="Sohel_Ahmed" tvg-logo="https://www.dropbox.com/s/rgblmfl0utzapcv/sohel.jpeg?raw=1" group-title="MBC",261.MBC Iraq
+https://shls-iraq-prod-dub.shahid.net/out/v1/c9bf1e87ea66478bb20bc5c93c9d41ea/index.m3u8
+#EXTINF:0 tvg-language="Sohel_Ahmed" tvg-logo="https://www.dropbox.com/s/rgblmfl0utzapcv/sohel.jpeg?raw=1" group-title="MBC",262.MBC Masr 1
 https://shls-masr-prod-dub.shahid.net/out/v1/b7093401da27496797a8949de23f4578/index_1.m3u8
-#EXTINF:0 tvg-language="Sohel_Ahmed" tvg-logo="https://www.dropbox.com/s/rgblmfl0utzapcv/sohel.jpeg?raw=1" group-title="MBC",261.MBC Masr 2
+#EXTINF:0 tvg-language="Sohel_Ahmed" tvg-logo="https://www.dropbox.com/s/rgblmfl0utzapcv/sohel.jpeg?raw=1" group-title="MBC",263.MBC Masr 2
 https://shls-masr2-prod-dub.shahid.net/out/v1/f683685242b549f48ea8a5171e3e993a/index_1.m3u8
-#EXTINF:0 tvg-language="Sohel_Ahmed" tvg-logo="https://www.dropbox.com/s/rgblmfl0utzapcv/sohel.jpeg?raw=1" group-title="MBC",262.MBC Max
+#EXTINF:0 tvg-language="Sohel_Ahmed" tvg-logo="https://www.dropbox.com/s/rgblmfl0utzapcv/sohel.jpeg?raw=1" group-title="MBC",264.MBC Max
 https://shls-mbcmax-prod-dub.shahid.net/out/v1/13815a7cda864c249a88c38e66a2e653/index_1.m3u8
-#EXTINF:0 tvg-language="Sohel_Ahmed" tvg-logo="https://www.dropbox.com/s/rgblmfl0utzapcv/sohel.jpeg?raw=1" group-title="MBC",263.MBC Persia
+#EXTINF:0 tvg-language="Sohel_Ahmed" tvg-logo="https://www.dropbox.com/s/rgblmfl0utzapcv/sohel.jpeg?raw=1" group-title="MBC",265.MBC Persia
 https://shls-mbcpersia-prod-dub.shahid.net/out/v1/bdc7cd0d990e4c54808632a52c396946/index_1.m3u8
-
 
 
 
@@ -1190,22 +1193,6 @@ http://singamcloud.in:8080/vasantv/vasantv/playlist.m3u8
 
 
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Arabic" tvg-logo="https://i.imgur.com/0xHb3XM.jpg" group-title="Pirates IPTV (International Server)",Al Masirah Mubacher
-https://svs.itworkscdn.net/almasiramubacherlive/almasira.smil/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="" tvg-logo="https://i.imgur.com/KJTEVbf.png" tvg-country="YE" tvg-url="" group-title="Pirates IPTV (International Server)",Aden TV
-https://master.starmena-cloud.com/hls/aden.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Arabic" tvg-logo="https://i.imgur.com/poHvbNV.jpg" tvg-country="YE" tvg-url="" group-title="Pirates IPTV (International Server)",Al Masirah
-https://svs.itworkscdn.net/almasiralive/almasira.smil/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Arabic" tvg-logo="https://www.alghadye.com/wp-content/uploads/2018/07/image1.png" tvg-country="YE" tvg-url="" group-title="Pirates IPTV (International Server)",Alghad Almushreq
-http://82.212.74.3:8000/live/7512.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Arabic" tvg-logo="" tvg-country="YE" tvg-url="" group-title="Pirates IPTV (International Server)",Suhail TV
-http://82.212.74.98:8000/live/hls/7726.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Arabic" tvg-logo="" tvg-country="YE" tvg-url="" group-title="Pirates IPTV (International Server)",Yemen Shabab
-https://master.starmena-cloud.com/hls/yemenshabab.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="" tvg-logo="https://scripps.com/wp-content/uploads/2019/01/local_media_23_abc.png" group-title="United states",23 ABC (KERO)
-https://content.uplynk.com/channel/ff809e6d9ec34109abfb333f0d4444b5.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="English" tvg-logo="http://www.247retro.com/images/sidebar_logo_gradient.jpg" group-title="United states",24/7 Retro TV
-http://247retrotv.com:1935/live/smil:247retro.smil/chunklist_w1193920237_b1928000_sleng.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="English" tvg-logo="https://i.imgur.com/CKCtZo7.png" group-title="United states",30A Investment Pitch
 http://www.30a-tv.com/InvPit.m3u8?fluxustv.m3u8
@@ -2654,8 +2641,22 @@ https://gstream4.panet.co.il/edge/halaTV/chunks.m3u8
 
 
 
-#EXTINF:0 tvg-country="SA" tvg-logo="http://www.al-khalij.tv/wp-content/uploads/2015/03/logo-1.png" group-title="Pirates IPTV (International Server)",Al Khalij
-https://mn-nl.mncdn.com/khalij/khalij/playlist.m3u8?checkedby:hlscat.com
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Arabic" tvg-logo="https://i.imgur.com/0xHb3XM.jpg" group-title="Pirates IPTV (International Server)",Al Masirah Mubacher
+https://svs.itworkscdn.net/almasiramubacherlive/almasira.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="" tvg-logo="https://i.imgur.com/KJTEVbf.png" tvg-country="YE" tvg-url="" group-title="Pirates IPTV (International Server)",Aden TV
+https://master.starmena-cloud.com/hls/aden.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Arabic" tvg-logo="https://i.imgur.com/poHvbNV.jpg" tvg-country="YE" tvg-url="" group-title="Pirates IPTV (International Server)",Al Masirah
+https://svs.itworkscdn.net/almasiralive/almasira.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Arabic" tvg-logo="https://www.alghadye.com/wp-content/uploads/2018/07/image1.png" tvg-country="YE" tvg-url="" group-title="Pirates IPTV (International Server)",Alghad Almushreq
+http://82.212.74.3:8000/live/7512.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Arabic" tvg-logo="" tvg-country="YE" tvg-url="" group-title="Pirates IPTV (International Server)",Suhail TV
+http://82.212.74.98:8000/live/hls/7726.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Arabic" tvg-logo="" tvg-country="YE" tvg-url="" group-title="Pirates IPTV (International Server)",Yemen Shabab
+https://master.starmena-cloud.com/hls/yemenshabab.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="" tvg-logo="https://scripps.com/wp-content/uploads/2019/01/local_media_23_abc.png" group-title="United states",23 ABC (KERO)
+https://content.uplynk.com/channel/ff809e6d9ec34109abfb333f0d4444b5.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="English" tvg-logo="http://www.247retro.com/images/sidebar_logo_gradient.jpg" group-title="United states",24/7 Retro TV
+http://247retrotv.com:1935/live/smil:247retro.smil/chunklist_w1193920237_b1928000_sleng.m3u8
 #EXTINF:0 tvg-country="SA" tvg-logo="http://www.al-khalij.tv/wp-content/uploads/2015/03/logo-1.png" group-title="Pirates IPTV (International Server)",Al Khalij
 http://mn-nl.mncdn.com/khalij/khalij/playlist.m3u8?checkedby:hlscat.com
 #EXTINF:0 tvg-country="SA" tvg-logo="http://www.sba.sa/assets/uploads/2018/04/Image-87@2x.png" group-title="Pirates IPTV (International Server)",Al Quran Al Kareem (Mecca)
@@ -2674,56 +2675,24 @@ https://iqraac.cdn.mangomolo.com/iqraa/smil:iqraar1.stream.smil/playlist.m3u8?ch
 https://iqraac.cdn.mangomolo.com/iqraa/smil:iqraar2.stream.smil/playlist.m3u8?checkedby:hlscat.com
 #EXTINF:0 tvg-country="SA" tvg-logo="" group-title="Pirates IPTV (International Server)",Jasco Events TV
 http://82.212.74.100:8000/live/hls/8131.m3u8?checkedby:hlscat.com
-#EXTINF:0 tvg-country="SA" tvg-logo="https://www.lyngsat.com/logo/radio/mm/mbc_ae_fm.png" group-title="Pirates IPTV (International Server)",MBC FM
-https://mbcfm-riyadh-prod-dub.shahid.net/out/v1/69c8a03f507e422f99cf5c07291c9e3a/index.m3u8?checkedby:hlscat.com
 #EXTINF:0 tvg-country="SA" tvg-logo="https://i.imgur.com/5p2yUBb.png" group-title="Pirates IPTV (International Server)",Makkah TV
 http://makkahtv.srfms.com:1935/makkahtv/livestream/playlist.m3u8?checkedby:hlscat.com
-#EXTINF:0 tvg-country="SA" tvg-logo="https://i.imgur.com/SMk1hAy.png" group-title="Pirates IPTV (International Server)",SA | Saudi TV 1,Saudi TV 1
+#EXTINF:0 tvg-country="SA" tvg-logo="https://i.imgur.com/SMk1hAy.png" group-title="Pirates IPTV (International Server)",SA | Saudi TV 1
 http://cdnamd-hls-globecast.akamaized.net/live/ramdisk/saudi_tv/hls1/saudi_tv.m3u8?checkedby:hlscat.com
-#EXTINF:0 tvg-country="SA" tvg-logo="http://imageswoapi.whatsonindia.com/WhatsOnTV/images/Applicationchannellogo/medium/bZAUTCHe.png" group-title="Pirates IPTV (International Server)",Saudi TV 1
-https://cdnamd-hls-globecast.akamaized.net/live/ramdisk/saudi_tv/hls1/saudi_tv.m3u8?checkedby:hlscat.com
 #EXTINF:0 tvg-country="LB" tvg-logo="https://i.imgur.com/dmDzNQO.png" group-title="Pirates IPTV (International Server)",Al Manar
 https://manar.live/x.smil/tracks-v1a1/mono.m3u8?checkedby:hlscat.com
-#EXTINF:0 tvg-country="LB" tvg-logo="http://media.almayadeen.tv/uploads/archive/web-logo.png" group-title="Pirates IPTV (International Server)",Al Mayadeen
-https://mdnlv.cdn.octivid.com/almdn/smil:mpegts.stream.smil/playlist.m3u8?checkedby:hlscat.com
-#EXTINF:0 tvg-country="LB" tvg-logo="https://www.alhayat.tv/images/logo/main.34f5c635.png" group-title="Pirates IPTV (International Server)",Alhayat TV
-https://wowzaprod140-i.akamaihd.net/hls/live/750788/cdb837ca/playlist.m3u8?checkedby:hlscat.com
 #EXTINF:0 tvg-country="LB" tvg-logo="https://i.imgur.com/817xRPg.png" group-title="Pirates IPTV (International Server)",Aliman TV
 https://svs.itworkscdn.net/alimanlive/imantv.smil/playlist.m3u8?checkedby:hlscat.com
-
-#EXTINF:0 tvg-country="LB" tvg-logo="http://futuretvnetwork.com/images/logo.png" group-title="Pirates IPTV (International Server)",Future TV
-https://futuretv.cdn.mangomolo.com/futuretv/smil:futuretv.smil/master.m3u8?checkedby:hlscat.com
-#EXTINF:0 tvg-country="LB" tvg-logo="http://futuretvnetwork.com/images/logo.png" group-title="Pirates IPTV (International Server)",Future TV
-http://178.132.3.162:88/Future_TV/video.m3u8?token=test&checkedby:hlscat.com
-#EXTINF:0 tvg-country="LB" tvg-logo="https://rotana.net/assets/themes/TriTheme/images/channels/lbc.png" group-title="Pirates IPTV (International Server)",LBC
-http://178.132.3.162:88/LBC_SAT/video.m3u8?token=test&checkedby:hlscat.com
 #EXTINF:0 tvg-country="LB" tvg-logo="https://i.imgur.com/YPR45yP.png" group-title="Pirates IPTV (International Server)",LBC International
 https://shls-lbci-prod-dub.shahid.net/out/v1/d8cce30036e743318a7f338539689968/index.m3u8?checkedby:hlscat.com
-#EXTINF:0 tvg-country="LB" tvg-logo="https://www.mtv.com.lb/Content/images/logo-header.jpg" group-title="Pirates IPTV (International Server)",MTV Lebanon
-http://178.132.3.162:88/MTV_Lebanon/video.m3u8?token=test&checkedby:hlscat.com
-#EXTINF:0 tvg-country="LB" tvg-logo="https://nabaa.tv/wp-content/uploads/2018/07/nabaa-logo-66x116.png" group-title="Pirates IPTV (International Server)",Nabaa TV
-https://5dc7d824154d0.streamlock.net/live/Nabaa/playlist.m3u8?checkedby:hlscat.com
-#EXTINF:0 tvg-country="LB" tvg-logo="https://nabaa.tv/wp-content/uploads/2018/07/nabaa-logo-66x116.png" group-title="Pirates IPTV (International Server)",Nabaa TV
-http://31.14.40.237:1935/live/Nabaa/chunklist.m3u8?checkedby:hlscat.com
-#EXTINF:0 tvg-country="LB" tvg-logo="https://nabaa.tv/wp-content/uploads/2018/07/nabaa-logo-66x116.png" group-title="Pirates IPTV (International Server)",Nabaa TV
-http://31.14.40.237:1935/live/Nabaa/chunklist_w2118808920.m3u8?checkedby:hlscat.com
-#EXTINF:0 tvg-country="LB" tvg-logo="https://i.imgur.com/5VvPLEl.jpg" group-title="Pirates IPTV (International Server)",Nour Al Koddas
-https://svs.itworkscdn.net/nour1satlive/livestream/playlist.m3u8?checkedby:hlscat.com
-#EXTINF:0 tvg-country="LB" tvg-logo="https://i.imgur.com/6yxE1jv.jpg" group-title="Pirates IPTV (International Server)",Nour Al Shabab
-https://svs.itworkscdn.net/nour3satlive/livestream/playlist.m3u8?checkedby:hlscat.com
 #EXTINF:0 tvg-country="LB" tvg-logo="https://i.imgur.com/hiAwky4.jpg" group-title="Pirates IPTV (International Server)",Nour Al Sharq
 https://svs.itworkscdn.net/nour8satlive/livestream/playlist.m3u8?checkedby:hlscat.com
 #EXTINF:0 tvg-country="LB" tvg-logo="https://i.imgur.com/Ow5Lqh6.jpg" group-title="Pirates IPTV (International Server)",Nour Mariam
 https://svs.itworkscdn.net/nour9satlive/livestream/playlist.m3u8?checkedby:hlscat.com
 #EXTINF:0 tvg-country="LB" tvg-logo="https://i.imgur.com/QrwZu4W.png" group-title="Pirates IPTV (International Server)",NourSAT
 https://svs.itworkscdn.net/nour4satlive/livestream/playlist.m3u8?checkedby:hlscat.com
-#EXTINF:0 tvg-country="LB" tvg-logo="http://bookback.co/wp-content/uploads/2018/12/OTV-1.jpg" group-title="Pirates IPTV (International Server)",OTV
-http://178.132.3.162:88/OTV/video.m3u8?token=test&checkedby:hlscat.com
 #EXTINF:0 tvg-country="IQ;MY" tvg-logo="http://vidmgr.abnvideos.com/images/playlists/phpENpJQS.jpeg" group-title="Pirates IPTV (International Server)",ABN SAT (1280×720),ABNsat
 http://rtmp1.abnsat.com/hls/arabic.m3u8?checkedby:hlscat.com
-
-#EXTINF:0 tvg-country="IQ" tvg-logo="http://www.alfallujah.tv/sites/all/themes/progressive/progressive_sub/logo.png" group-title="Pirates IPTV (International Server)",Al Fallujah
-https://player-api.new.livestream.com/accounts/4671269/events/4213685/live.m3u8?checkedby:hlscat.com
 #EXTINF:0 tvg-country="IQ" tvg-logo="https://gdb.alhurra.eu/C4BE79AD-607A-4EBA-8449-7CC6E2B12566_w1200_r1_s.jpg" group-title="Pirates IPTV (International Server)",Al Hurra
 https://mbnhls-lh.akamaihd.net/i/MBN_1@118619/master.m3u8?checkedby:hlscat.com
 #EXTINF:0 tvg-country="IQ" tvg-logo="https://i.imgur.com/8EmVL2d.jpg" group-title="Pirates IPTV (International Server)",Al Hurra Iraq
@@ -2732,8 +2701,6 @@ https://mbningestworld-i.akamaihd.net/hls/live/644021/iraqworldsafe/master.m3u8?
 http://cdn.catiacast.video/abr/8d2ffb0aba244e8d9101a9488a7daa05/playlist.m3u8?checkedby:hlscat.com
 #EXTINF:0 tvg-country="IQ" tvg-logo="http://imn.iq/wp-content/uploads/2018/03/Logo.jpg" group-title="Pirates IPTV (International Server)",Al Iraqiya News
 http://cdn.catiacast.video/abr/78054972db7708422595bc96c6e024ac/playlist.m3u8?checkedby:hlscat.com
-#EXTINF:0 tvg-country="IQ" tvg-logo="https://alrafidain.org/style/assets/imgs/logo.png" group-title="Pirates IPTV (International Server)",Al Rafidain
-http://cdn.edge.tmed.pw/arrafidaintv/abr_live/playlist.m3u8?checkedby:hlscat.com
 #EXTINF:0 tvg-country="IQ" tvg-logo="https://i.imgur.com/x5buqzt.jpg" group-title="Pirates IPTV (International Server)",Al Rafidain HQ
 http://149.202.79.190:8081/arrafidaintv/publish/playlist.m3u8?checkedby:hlscat.com
 #EXTINF:0 tvg-country="IQ" tvg-logo="https://i.imgur.com/x5buqzt.jpg" group-title="Pirates IPTV (International Server)",Al Rafidain HQ
@@ -2742,16 +2709,8 @@ http://149.202.79.190:8081/arrafidaintv/publish/chunks.m3u8?checkedby:hlscat.com
 http://ns8.indexforce.com:1935/home/mystream/playlist.m3u8?checkedby:hlscat.com
 #EXTINF:0 tvg-country="IQ" tvg-logo="https://i.imgur.com/qNi4rwG.jpg" group-title="Pirates IPTV (International Server)",Al Sharqiya News
 http://ns8.indexforce.com:1935/alsharqiyalive/mystream/playlist.m3u8?checkedby:hlscat.com
-#EXTINF:0 tvg-country="IQ" tvg-logo="https://amozhgary.tv/style/img/logo.png" group-title="Pirates IPTV (International Server)",Amozhgary
-http://82.212.74.100:8000/live/hls/8951.m3u8?checkedby:hlscat.com
 #EXTINF:0 tvg-country="IQ" tvg-logo="https://i.imgur.com/way7KwN.jpg" group-title="Pirates IPTV (International Server)",Assyrian ANB
 https://597f64b67707a.streamlock.net/anbsat.com/anb2/playlist.m3u8?checkedby:hlscat.com
-#EXTINF:0 tvg-country="IQ" tvg-logo="https://babylontv.net/wp-content/themes/babylontv/images/logo.png" group-title="Pirates IPTV (International Server)",Babylon TV
-https://babylonlive.net/babylontv/kardokardo.m3u8?checkedby:hlscat.com
-#EXTINF:0 tvg-country="IQ" tvg-logo="https://babylontv.net/wp-content/themes/babylontv/images/logo.png" group-title="Pirates IPTV (International Server)",Babylon TV
-https://iqlivestream.com/babylontv/babylonlivestream.m3u8?checkedby:hlscat.com
-#EXTINF:0 tvg-country="IQ" tvg-logo="https://babylontv.net/wp-content/themes/babylontv/images/logo.png" group-title="Pirates IPTV (International Server)",Babylon TV
-https://iqlivestream.com/babylontv/kardokardo.m3u8?checkedby:hlscat.com
 #EXTINF:0 tvg-country="IQ" tvg-logo="https://www.dijlah.tv/templates/default-2/live-page/images/logo-new1.png" group-title="Pirates IPTV (International Server)",Dijlah
 https://ghaasiflu.online/Dijlah/index.m3u8?checkedby:hlscat.com
 #EXTINF:0 tvg-country="IQ" tvg-logo="https://www.dijlah.tv/templates/default-2/live-page/images/tarab-logo.png" group-title="Pirates IPTV (International Server)",Dijlah Tarab
@@ -2764,12 +2723,6 @@ https://ur.imamhusseintv.com/live/ih4.m3u8?checkedby:hlscat.com
 http://31.14.40.139:1935/liveTrans/ngrp:myStream_all/chunklist.m3u8?checkedby:hlscat.com
 #EXTINF:0 tvg-country="IQ" tvg-logo="https://i.imgur.com/GLfhYSH.png" group-title="Pirates IPTV (International Server)",Kurdistan TV
 https://5a3ed7a72ed4b.streamlock.net/live/SMIL:myStream.smil/chunklist.m3u8?checkedby:hlscat.com
-
-
-
-
-#EXTINF:0 tvg-country="IQ;AE" tvg-logo="https://www.lyngsat.com/logo/tv/mm/mbc-iraq-ae-iq.png" group-title="Pirates IPTV (International Server)",MBC Iraq
-https://shls-iraq-prod-dub.shahid.net/out/v1/c9bf1e87ea66478bb20bc5c93c9d41ea/index.m3u8?checkedby:hlscat.com
 #EXTINF:0 tvg-country="IQ" tvg-logo="https://i.imgur.com/5ZQ4GTu.jpg" group-title="Pirates IPTV (International Server)",Rudaw TV
 https://svs.itworkscdn.net/rudawlive/rudawlive.smil/playlist.m3u8?checkedby:hlscat.com
 #EXTINF:0 tvg-country="JO" tvg-logo="https://i.imgur.com/6njRt6c.png" group-title="Pirates IPTV (International Server)",Al Mamlaka TV
