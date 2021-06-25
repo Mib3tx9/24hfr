@@ -660,33 +660,61 @@ http://zainabia2.livebox.co.in/Zainabiachannel2hls/live.m3u8
 #EXTINF:0 tvg-language="Sohel_Ahmed" tvg-logo="https://www.dropbox.com/s/rgblmfl0utzapcv/sohel.jpeg?raw=1" group-title="Mix",231.Al Jazeera
 https://live-hls-web-aje.getaj.net/AJE/01.m3u8
 #EXTINF:0 tvg-language="Sohel_Ahmed" tvg-logo="https://www.dropbox.com/s/rgblmfl0utzapcv/sohel.jpeg?raw=1" group-title="Mix",232.BBC World
-http://51.52.156.22:8888/http/004
+
 #EXTINF:0 tvg-language="Sohel_Ahmed" tvg-logo="https://www.dropbox.com/s/rgblmfl0utzapcv/sohel.jpeg?raw=1" group-title="Mix",233.Deejay TV
 http://deejay_tv-lh.akamaihd.net/i/DeejayTv_1@129866/master.m3u8
 #EXTINF:0 tvg-language="Sohel_Ahmed" tvg-logo="https://www.dropbox.com/s/rgblmfl0utzapcv/sohel.jpeg?raw=1" group-title="Mix",234.DW TV
 https://dwstream4-lh.akamaihd.net:443/i/dwstream4_live@131329/master.m3u8
 #EXTINF:0 tvg-language="Sohel_Ahmed" tvg-logo="https://www.dropbox.com/s/rgblmfl0utzapcv/sohel.jpeg?raw=1" group-title="Mix",235.India News
 https://live-indiatvnews.akamaized.net/indiatv-origin/liveabr/indiatv-origin/live2/chunks.m3u8
-#EXTINF:0 tvg-language="Sohel_Ahmed" tvg-logo="https://www.dropbox.com/s/rgblmfl0utzapcv/sohel.jpeg?raw=1" group-title="Mix",236.ITV 1
+#EXTINF:0 tvg-language="Sohel_Ahmed" tvg-logo="https://www.dropbox.com/s/rgblmfl0utzapcv/sohel.jpeg?raw=1" group-title="Mix",236.ITV
 http://sportportal1.akamaized.net/hls/live/702646/itvlive/ITV1PORTAL2/master_Main1800.m3u8
-#EXTINF:0 tvg-language="Sohel_Ahmed" tvg-logo="https://www.dropbox.com/s/rgblmfl0utzapcv/sohel.jpeg?raw=1" group-title="Mix",237.ITV 2
-http://51.52.156.22:8888/http/005
-#EXTINF:0 tvg-language="Sohel_Ahmed" tvg-logo="https://www.dropbox.com/s/rgblmfl0utzapcv/sohel.jpeg?raw=1" group-title="Mix",238.Kappa TV
+#EXTINF:0 tvg-language="Sohel_Ahmed" tvg-logo="https://www.dropbox.com/s/rgblmfl0utzapcv/sohel.jpeg?raw=1" group-title="Mix",237.Kappa TV
 http://103.199.161.254/Content/kappa/Live/Channel(Kappa)/index.m3u8
-#EXTINF:0 tvg-language="Sohel_Ahmed" tvg-logo="https://www.dropbox.com/s/rgblmfl0utzapcv/sohel.jpeg?raw=1" group-title="Mix",239.Kay 2
+#EXTINF:0 tvg-language="Sohel_Ahmed" tvg-logo="https://www.dropbox.com/s/rgblmfl0utzapcv/sohel.jpeg?raw=1" group-title="Mix",238.Kay 2
 http://dcunilive36-lh.akamaihd.net/i/dclive_1@662109/master.m3u8
-#EXTINF:0 tvg-language="Sohel_Ahmed" tvg-logo="https://www.dropbox.com/s/rgblmfl0utzapcv/sohel.jpeg?raw=1" group-title="Mix",240.MTA 1 English
+#EXTINF:0 tvg-language="Sohel_Ahmed" tvg-logo="https://www.dropbox.com/s/rgblmfl0utzapcv/sohel.jpeg?raw=1" group-title="Mix",239.MTA 1 English
 https://ooyalahd2-f.akamaihd.net/i/mtaeng_delivery@345736/index_3000_av-p.m3u8?
-#EXTINF:0 tvg-language="Sohel_Ahmed" tvg-logo="https://www.dropbox.com/s/rgblmfl0utzapcv/sohel.jpeg?raw=1" group-title="Mix",241.MTA 1 Urdu
+#EXTINF:0 tvg-language="Sohel_Ahmed" tvg-logo="https://www.dropbox.com/s/rgblmfl0utzapcv/sohel.jpeg?raw=1" group-title="Mix",240.MTA 1 Urdu
 https://ooyalahd2-f.akamaihd.net/i/mtaurdu_delivery@350117/index_3000_av-p.m3u8
-#EXTINF:0 tvg-language="Sohel_Ahmed" tvg-logo="https://www.dropbox.com/s/rgblmfl0utzapcv/sohel.jpeg?raw=1" group-title="Mix",242.NDTV 24x7
+#EXTINF:0 tvg-language="Sohel_Ahmed" tvg-logo="https://www.dropbox.com/s/rgblmfl0utzapcv/sohel.jpeg?raw=1" group-title="Mix",241.NDTV 24x7
 https://ndtv24x7elemarchana.akamaized.net/hls/live/2003678/ndtv24x7/ndtv24x7master.m3u8
-#EXTINF:0 tvg-language="Sohel_Ahmed" tvg-logo="https://www.dropbox.com/s/rgblmfl0utzapcv/sohel.jpeg?raw=1" group-title="Mix",243.Tag TV 1
+#EXTINF:0 tvg-language="Sohel_Ahmed" tvg-logo="https://www.dropbox.com/s/rgblmfl0utzapcv/sohel.jpeg?raw=1" group-title="Mix",242.Tag TV 1
 http://cdn11.live247stream.com/tag/tv/playlist.m3u8
-#EXTINF:0 tvg-language="Sohel_Ahmed" tvg-logo="https://www.dropbox.com/s/rgblmfl0utzapcv/sohel.jpeg?raw=1" group-title="Mix",244.Tag TV 2
+#EXTINF:0 tvg-language="Sohel_Ahmed" tvg-logo="https://www.dropbox.com/s/rgblmfl0utzapcv/sohel.jpeg?raw=1" group-title="Mix",243.Tag TV 2
 https://cdn30.liveonlineservices.com/hls/tagtv.m3u8
-#EXTINF:0 tvg-language="Sohel_Ahmed" tvg-logo="https://www.dropbox.com/s/rgblmfl0utzapcv/sohel.jpeg?raw=1" group-title="Mix",245.Times Now HD
+#EXTINF:0 tvg-language="Sohel_Ahmed" tvg-logo="https://www.dropbox.com/s/rgblmfl0utzapcv/sohel.jpeg?raw=1" group-title="Mix",244.Times Now HD
 https://timesnow-lh.akamaihd.net/i/TNHD_1@129288/master.m3u8
+
+
+
+#EXTINF:0 tvg-language="Sohel_Ahmed" tvg-logo="https://www.dropbox.com/s/rgblmfl0utzapcv/sohel.jpeg?raw=1" group-title="MBC",251.MBC 1
+https://shls-mbc1ksa-prod-dub.shahid.net/out/v1/451b666db1fb41c7a4bbecf7b4865107/index_1.m3u8
+#EXTINF:0 tvg-language="Sohel_Ahmed" tvg-logo="https://www.dropbox.com/s/rgblmfl0utzapcv/sohel.jpeg?raw=1" group-title="MBC",252.MBC 2
+https://shls-mbc2-prod-dub.shahid.net/out/v1/b4befe19798745fe986f5a9bfba62126/index_1.m3u8
+#EXTINF:0 tvg-language="Sohel_Ahmed" tvg-logo="https://www.dropbox.com/s/rgblmfl0utzapcv/sohel.jpeg?raw=1" group-title="MBC",253.MBC 3
+https://shls-mbc3-prod-dub.shahid.net/out/v1/d5bbe570e1514d3d9a142657d33d85e6/index_1.m3u8
+#EXTINF:0 tvg-language="Sohel_Ahmed" tvg-logo="https://www.dropbox.com/s/rgblmfl0utzapcv/sohel.jpeg?raw=1" group-title="MBC",254.MBC 4
+https://shls-mbc4-prod-dub.shahid.net/out/v1/c08681f81775496ab4afa2bac7ae7638/index_1.m3u8
+#EXTINF:0 tvg-language="Sohel_Ahmed" tvg-logo="https://www.dropbox.com/s/rgblmfl0utzapcv/sohel.jpeg?raw=1" group-title="MBC",255.MBC 5
+https://shls-mbc5-prod-dub.shahid.net/out/v1/2720564b6a4641658fdfb6884b160da2/index_1.m3u8
+#EXTINF:0 tvg-language="Sohel_Ahmed" tvg-logo="https://www.dropbox.com/s/rgblmfl0utzapcv/sohel.jpeg?raw=1" group-title="MBC",256.MBC Action
+https://shls-mbcaction-prod-dub.shahid.net/out/v1/68dd761538e5460096c42422199d050b/index_1.m3u8
+#EXTINF:0 tvg-language="Sohel_Ahmed" tvg-logo="https://www.dropbox.com/s/rgblmfl0utzapcv/sohel.jpeg?raw=1" group-title="MBC",257.MBC Bollywood
+https://shls-mbcbollywood-prod-dub.shahid.net/out/v1/a79c9d7ef2a64a54a64d5c4567b3462a/index_1.m3u8
+#EXTINF:0 tvg-language="Sohel_Ahmed" tvg-logo="https://www.dropbox.com/s/rgblmfl0utzapcv/sohel.jpeg?raw=1" group-title="MBC",258.MBC Drama
+https://shls-mbcdramaksa-prod-dub.shahid.net/out/v1/ce0f0762d89e4394a856c5fd13e43645/index_2.m3u8
+#EXTINF:0 tvg-language="Sohel_Ahmed" tvg-logo="https://www.dropbox.com/s/rgblmfl0utzapcv/sohel.jpeg?raw=1" group-title="MBC",259.MBC Drama+
+https://shls-mbcplusdrama-prod-dub.shahid.net/out/v1/97ca0ce6fc6142f4b14c0a694af59eab/index_1.m3u8
+#EXTINF:0 tvg-language="Sohel_Ahmed" tvg-logo="https://www.dropbox.com/s/rgblmfl0utzapcv/sohel.jpeg?raw=1" group-title="MBC",260.MBC Masr 1
+https://shls-masr-prod-dub.shahid.net/out/v1/b7093401da27496797a8949de23f4578/index_1.m3u8
+#EXTINF:0 tvg-language="Sohel_Ahmed" tvg-logo="https://www.dropbox.com/s/rgblmfl0utzapcv/sohel.jpeg?raw=1" group-title="MBC",261.MBC Masr 2
+https://shls-masr2-prod-dub.shahid.net/out/v1/f683685242b549f48ea8a5171e3e993a/index_1.m3u8
+#EXTINF:0 tvg-language="Sohel_Ahmed" tvg-logo="https://www.dropbox.com/s/rgblmfl0utzapcv/sohel.jpeg?raw=1" group-title="MBC",262.MBC Max
+https://shls-mbcmax-prod-dub.shahid.net/out/v1/13815a7cda864c249a88c38e66a2e653/index_1.m3u8
+#EXTINF:0 tvg-language="Sohel_Ahmed" tvg-logo="https://www.dropbox.com/s/rgblmfl0utzapcv/sohel.jpeg?raw=1" group-title="MBC",263.MBC Persia
+https://shls-mbcpersia-prod-dub.shahid.net/out/v1/bdc7cd0d990e4c54808632a52c396946/index_1.m3u8
+
 
 
 
@@ -1172,8 +1200,6 @@ http://82.212.74.3:8000/live/7512.m3u8
 http://82.212.74.98:8000/live/hls/7726.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Arabic" tvg-logo="" tvg-country="YE" tvg-url="" group-title="Pirates IPTV (International Server)",Yemen Shabab
 https://master.starmena-cloud.com/hls/yemenshabab.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Arabic" tvg-logo="https://i.imgur.com/azGNY6n.jpg" tvg-country="YE" tvg-url="" group-title="Pirates IPTV (International Server)",Yemen TV
-https://bozztv.com/36bay2/gin/giniko_yementv_900kb_36bay2/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="" tvg-logo="https://scripps.com/wp-content/uploads/2019/01/local_media_23_abc.png" group-title="United states",23 ABC (KERO)
 https://content.uplynk.com/channel/ff809e6d9ec34109abfb333f0d4444b5.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="English" tvg-logo="http://www.247retro.com/images/sidebar_logo_gradient.jpg" group-title="United states",24/7 Retro TV
@@ -2813,34 +2839,6 @@ http://82.137.248.16:1935/Ugarit/stream10112020/playlist.m3u8?checkedby:hlscat.c
 http://185.96.70.242:1935/live/alltv/playlist.m3u8?checkedby:hlscat.com
 
 
-#EXTINF:-1 tvg-id="mbc1.ae" tvg-name="MBC 1 4K" tvg-logo="http://163.172.48.123/logos/LogoEVDTV/My-HD/Mbc1.png" group-title="MBC",MBC 1 4K
-https://shls-mbc1ksa-prod-dub.shahid.net/out/v1/451b666db1fb41c7a4bbecf7b4865107/index_1.m3u8
-#EXTINF:-1 tvg-id="mbc2.ae" tvg-name="MBC 2 4K" tvg-logo="http://163.172.48.123/logos/LogoEVDTV/My-HD/MBC2.png" group-title="MBC",MBC 2 4K
-https://shls-mbc2-prod-dub.shahid.net/out/v1/b4befe19798745fe986f5a9bfba62126/index_1.m3u8
-#EXTINF:-1 tvg-id="mbc3.ae" tvg-name="MBC 3 4K" tvg-logo="http://163.172.48.123/logos/LogoEVDTV/My-HD/MBC3.png" group-title="MBC",MBC 3 4K
-https://shls-mbc3-prod-dub.shahid.net/out/v1/d5bbe570e1514d3d9a142657d33d85e6/index_1.m3u8
-#EXTINF:-1 tvg-id="mbc4.sa" tvg-name="MBC 4 4K" tvg-logo="http://163.172.48.123/logos/LogoEVDTV/My-HD/MBC4.png" group-title="MBC",MBC 4 4K
-https://shls-mbc4-prod-dub.shahid.net/out/v1/c08681f81775496ab4afa2bac7ae7638/index_1.m3u8
-#EXTINF:-1 tvg-id="MBC 5 ARB" tvg-name="MBC 5 ARB" tvg-language="Arabic" tvg-logo="https://upload.wikimedia.org/wikipedia/ar/thumb/4/48/Mbc5.webp/168px-Mbc5.webp.png" tvg-country="AE" tvg-url="" group-title="MBC",MBC 5
-https://shls-mbc5-prod-dub.shahid.net/out/v1/2720564b6a4641658fdfb6884b160da2/index_1.m3u8
-#EXTINF:-1 tvg-id="mbcmax.ae" tvg-name="MBC Max 4K" tvg-logo="http://163.172.48.123/logos/LogoEVDTV/My-HD/MBCMax.png" group-title="MBC",MBC Max 4K
-https://shls-mbcmax-prod-dub.shahid.net/out/v1/13815a7cda864c249a88c38e66a2e653/index_1.m3u8
-#EXTINF:-1 tvg-id="MBC Action" tvg-name="MBC Action 4K" tvg-logo="http://163.172.48.123/logos/LogoEVDTV/My-HD/MBCAction.png" group-title="MBC",MBC Action 4K
-https://shls-mbcaction-prod-dub.shahid.net/out/v1/68dd761538e5460096c42422199d050b/index_1.m3u8
-#EXTINF:-1 tvg-id="mbcbollywood.ae" tvg-name="MBC Bollywood 4K" tvg-logo="http://163.172.48.123/logos/LogoEVDTV/My-HD/MBCBollywoodTV.png" group-title="MBC",MBC Bollywood 4K
-https://shls-mbcbollywood-prod-dub.shahid.net/out/v1/a79c9d7ef2a64a54a64d5c4567b3462a/index_1.m3u8
-#EXTINF:-1 tvg-id="mbcdrama.ae" tvg-name="MBC Drama 4K" tvg-logo="http://163.172.48.123/logos/LogoEVDTV/My-HD/MBCDrama.png" group-title="MBC",MBC Drama 4K
-https://shls-mbcdramaksa-prod-dub.shahid.net/out/v1/ce0f0762d89e4394a856c5fd13e43645/index_2.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="MBC Drama+ 4K" tvg-logo="http://163.172.48.123/logos/LogoEVDTV/My-HD/MBCPlusDrama.png" group-title="MBC",MBC Drama+ 4K
-https://shls-mbcplusdrama-prod-dub.shahid.net/out/v1/97ca0ce6fc6142f4b14c0a694af59eab/index_1.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="MBC Variety 4K" tvg-logo="http://163.172.48.123/logos/LogoEVDTV/My-HD/MBCPlusVariety.png" group-title="MBC",MBC Variety 4K
-http://185.246.210.55:2200/EX/MBC_Variety_HD-ar/index.m3u8?token=123zzzaaaxxaazzzxxx987
-#EXTINF:-1 tvg-id="MBC Masr 1 ARB" tvg-name="MBC Masr 1 ARB" tvg-language="Arabic" tvg-logo="https://i.imgur.com/SrvZduL.jpg" tvg-country="EG" tvg-url="" group-title="MBC",MBC Masr 1
-https://shls-masr-prod-dub.shahid.net/out/v1/b7093401da27496797a8949de23f4578/index_1.m3u8
-#EXTINF:-1 tvg-id="MBC Masr 2 ARB" tvg-name="MBC Masr 2 ARB" tvg-language="Arabic" tvg-logo="https://i.imgur.com/7dQmaj6.png" tvg-country="EG" tvg-url="" group-title="MBC",MBC Masr 2
-https://shls-masr2-prod-dub.shahid.net/out/v1/f683685242b549f48ea8a5171e3e993a/index_1.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Persian" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/8f/MBC_Persia_Logo.png" tvg-country="AE" tvg-url="" group-title="MBC",MBC Persia
-https://shls-mbcpersia-prod-dub.shahid.net/out/v1/bdc7cd0d990e4c54808632a52c396946/index_1.m3u8
 
 
 
@@ -2854,8 +2852,7 @@ http://cdnamd-hls-globecast.akamaized.net/live/ramdisk/al_maghribia_snrt/hls_snr
 http://cdnamd-hls-globecast.akamaized.net/live/ramdisk/assadissa/hls_snrt/assadissa-avc1_400000=2-mp4a_130400_qad=1.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="ALL" tvg-logo="" group-title="Pirates IPTV (International Server)",tamazight
 http://cdnamd-hls-globecast.akamaized.net/live/ramdisk/tamazight_tv8_snrt/hls_snrt/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="ALL" tvg-logo="" group-title="Pirates IPTV (International Server)",Medi1tv
-http://streaming.medi1tv.com/live/Medi1tvmaghreb.sdp/chunklist.m3u8
+
 
 
 
@@ -2891,7 +2888,7 @@ https://piratesiptv.shortcm.li/sohel-vai-er-theke-curi-korsi-link5.m3u8
 #EXTINF:0 tvg-language="" tvg-logo="" group-title="Euro Cup 2021",
 #চোর ভাই এসে গেছে সোহেল ভাই এর EURO Cup এর লিংক চুরি করতে
 #EXTINF:0 tvg-language="" tvg-logo="https://www.dropbox.com/s/rgblmfl0utzapcv/sohel.jpeg?raw=1" group-title="Euro Cup 2021",Channel 6
-https://piratesiptv.shortcm.li/sohel-vai-er-theke-curi-korsi-link6.m3u8
+
 #EXTINF:0 tvg-language="" tvg-logo="" group-title="Euro Cup 2021",
 #চোর ভাই এসে গেছে সোহেল ভাই এর EURO Cup এর লিংক চুরি করতে
 #EXTINF:0 tvg-language="" tvg-logo="https://www.dropbox.com/s/rgblmfl0utzapcv/sohel.jpeg?raw=1" group-title="Euro Cup 2021",Channel 7
@@ -2907,7 +2904,7 @@ https://piratesiptv.shortcm.li/sohel-vai-er-theke-curi-korsi-link9.m3u8
 #EXTINF:0 tvg-language="" tvg-logo="" group-title="Euro Cup 2021",
 #চোর ভাই এসে গেছে সোহেল ভাই এর EURO Cup এর লিংক চুরি করতে
 #EXTINF:0 tvg-language="" tvg-logo="https://www.dropbox.com/s/rgblmfl0utzapcv/sohel.jpeg?raw=1" group-title="Euro Cup 2021",Channel 10
-https://piratesiptv.shortcm.li/sohel-vai-er-theke-curi-korsi-link10.m3u8
+
 
 
 
