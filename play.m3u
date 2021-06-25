@@ -4,6 +4,7 @@
 #EXTINF:-1 tvg-logo="" group-title="Euro Cup 2021",ES----------------------------------------------------------------------------------------------------------------
 #EXTINF:-1 tvg-logo="" group-title="Bangladeshi",BD------------------------------------------------------------------------------------------------------------------
 #EXTINF:-1 tvg-logo="" group-title="BDIX Server 1",Server1-----------------------------------------------------------------------------------------------------------
+#EXTINF:-1 tvg-logo="" group-title="BDIX Server 3",Server3-----------------------------------------------------------------------------------------------------------
 #EXTINF:-1 tvg-logo="" group-title="Toffee Server",Server1-----------------------------------------------------------------------------------------------------------
 #EXTINF:-1 tvg-logo="" group-title="BD IPTV",BD----------------------------------------------------------------------------------------------------------------------
 #EXTINF:-1 tvg-logo="" group-title="Documentary",DC------------------------------------------------------------------------------------------------------------------
@@ -992,7 +993,7 @@ http://103.213.238.70:80/j-TSports/tracks-v1a1/mono.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/h5FhOWT.png" group-title="Toffee Server", Ananda TV
-https://streamer-1.toffeelive.com/mobile_hls/ananda_tv/5/04dfcf51f5f17bc7739a41f294e2adbb/auto=
+https://streamer-1.toffeelive.com/mobile_hls/ananda_tv/5/04dfcf51f5f17bc7739a41f294e2adbb/auto
 #EXTINF:-1 tvg-logo="https://i.imgur.com/K43LsMQ.png" group-title="Toffee Server", Bangla TV
 https://streamer-1.toffeelive.com/mobile_hls/bangla_tv_hd/5/04dfcf51f5f17bc7739a41f294e2adbb/auto
 #EXTINF:-1 tvg-logo="https://i.imgur.com/kDmkexe.png" group-title="Toffee Server", Bijoy TV
