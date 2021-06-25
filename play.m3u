@@ -342,6 +342,8 @@ http://103.153.39.34:8000/play/a04r/index.m3u8
 https://piratesiptv.shortcm.li/sonyyay.m3u8
 #EXTINF:0 tvg-language="Sohel_Ahmed" tvg-logo="https://www.dropbox.com/s/rgblmfl0utzapcv/sohel.jpeg?raw=1" group-title="Kids",98.Spacetoon
 https://streams.spacetoon.com/live/stchannel/smil:livesmil.smil/playlist.m3u8
+#EXTINF:0 tvg-language="Sohel_Ahmed" tvg-logo="https://www.dropbox.com/s/rgblmfl0utzapcv/sohel.jpeg?raw=1" group-title="Kids",98.Spacetoon 2
+https://shls-spacetoon-prod-dub.shahid.net/out/v1/6240b773a3f34cca95d119f9e76aec02/index.m3u8?checkedby:hlscat.com
 #EXTINF:0 tvg-language="Sohel_Ahmed" tvg-logo="https://www.dropbox.com/s/rgblmfl0utzapcv/sohel.jpeg?raw=1" group-title="Music",101.Bangla Talkies
 https://piratesiptv.shortcm.li/banglatalkies.m3u8
 #EXTINF:0 tvg-language="Sohel_Ahmed" tvg-logo="https://www.dropbox.com/s/rgblmfl0utzapcv/sohel.jpeg?raw=1" group-title="Music",102.Dhoom Music
@@ -2762,86 +2764,40 @@ https://ur.imamhusseintv.com/live/ih4.m3u8?checkedby:hlscat.com
 http://31.14.40.139:1935/liveTrans/ngrp:myStream_all/chunklist.m3u8?checkedby:hlscat.com
 #EXTINF:0 tvg-country="IQ" tvg-logo="https://i.imgur.com/GLfhYSH.png" group-title="Pirates IPTV (International Server)",Kurdistan TV
 https://5a3ed7a72ed4b.streamlock.net/live/SMIL:myStream.smil/chunklist.m3u8?checkedby:hlscat.com
-#EXTINF:0 tvg-country="IQ" tvg-logo="https://i.imgur.com/XFbwbi4.png" group-title="Pirates IPTV (International Server)",Kurdsat
-https://bozztv.com/36bay2/gin/giniko_kurdsat_700kb_36bay2/tracks-v1a1/mono.m3u8?checkedby:hlscat.com
+
+
+
+
 #EXTINF:0 tvg-country="IQ;AE" tvg-logo="https://www.lyngsat.com/logo/tv/mm/mbc-iraq-ae-iq.png" group-title="Pirates IPTV (International Server)",MBC Iraq
 https://shls-iraq-prod-dub.shahid.net/out/v1/c9bf1e87ea66478bb20bc5c93c9d41ea/index.m3u8?checkedby:hlscat.com
 #EXTINF:0 tvg-country="IQ" tvg-logo="https://i.imgur.com/5ZQ4GTu.jpg" group-title="Pirates IPTV (International Server)",Rudaw TV
 https://svs.itworkscdn.net/rudawlive/rudawlive.smil/playlist.m3u8?checkedby:hlscat.com
-#EXTINF:0 tvg-country="IQ" tvg-logo="https://i.imgur.com/5ZQ4GTu.jpg" group-title="Pirates IPTV (International Server)",Rudaw TV
-https://svs.itworkscdn.net/rudawlive/rudawlive.smil/chunklist.m3u8?checkedby:hlscat.com
-#EXTINF:0 tvg-country="JO;MY" tvg-logo="https://i.imgur.com/6njRt6c.png" group-title="Pirates IPTV (International Server)",Al Mamlaka TV,AL MAMLAKA TV (1920×1080)
-https://almamlka-live.ercdn.net/almamlka/almamlka.m3u8?checkedby:hlscat.com
 #EXTINF:0 tvg-country="JO" tvg-logo="https://i.imgur.com/6njRt6c.png" group-title="Pirates IPTV (International Server)",Al Mamlaka TV
 https://almamlka-live.ercdn.net/almamlka/almamlka_720p.m3u8?checkedby:hlscat.com
-#EXTINF:0 tvg-country="JO" tvg-logo="https://i.imgur.com/6njRt6c.png" group-title="Pirates IPTV (International Server)",Al Mamlaka TV
-https://almamlka-live.ercdn.net/almamlka/almamlka_480p.m3u8?checkedby:hlscat.com
-#EXTINF:0 tvg-country="JO" tvg-logo="https://i.imgur.com/6njRt6c.png" group-title="Pirates IPTV (International Server)",Al Mamlaka TV
-https://almamlka-live.ercdn.net/almamlka/almamlka_1080p.m3u8?checkedby:hlscat.com
 #EXTINF:0 tvg-country="JO" tvg-logo="https://i.imgur.com/vkqYIO4.jpg" group-title="Pirates IPTV (International Server)",Amman TV
 https://ammantv.c.s73cdn.net/23153d43-375a-472a-bc5f-9827582b5d22/elemental/live/master.m3u8?checkedby:hlscat.com
-#EXTINF:0 tvg-country="JO" tvg-logo="https://i.imgur.com/Plcqlr7.jpg" group-title="Pirates IPTV (International Server)",Jordan Sport TV
-https://jrtv-live.ercdn.net/jordansporthd/jordansporthd.m3u8?checkedby:hlscat.com
 #EXTINF:0 tvg-country="JO" tvg-logo="https://i.imgur.com/siAiiws.jpg" group-title="Pirates IPTV (International Server)",Jordan TV
 https://jrtv-live.ercdn.net/jordanhd/jordanhd.m3u8?checkedby:hlscat.com
-#EXTINF:0 tvg-country="JO" tvg-logo="https://i.imgur.com/Sa2nBTP.png" group-title="Pirates IPTV (International Server)",Ro'ya TV
-https://svs.itworkscdn.net/royalive/royatv.smil/royapublish/royatv/playlist.m3u8?checkedby:hlscat.com
-
-
-
 #EXTINF:0 tvg-country="DZ" tvg-logo="" group-title="Pirates IPTV (International Server)",AL HAYAT rtm
 rtmp://media.islamexplained.com:1935/live/_definst_mp4:ahme.stream_360p?checkedby:hlscat.com
 #EXTINF:0 tvg-country="DZ" tvg-logo="" group-title="Pirates IPTV (International Server)",AR-الوطن,AR:Watan TV,Watan TV
 http://watantv.origin.technostreaming.net:8081/watantv_source2/live/chunks.m3u8?checkedby:hlscat.com
-#EXTINF:0 tvg-country="DZ" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/Logo_Canal_Algerie.svg/220px-Logo_Canal_Algerie.svg.png" group-title="Pirates IPTV (International Server)",Canal Algérie
-http://178.132.3.162:88/canal_algerie/video.m3u8?token=test&checkedby:hlscat.com
 #EXTINF:0 tvg-country="DZ" tvg-logo="https://i.imgur.com/T6bEOQt.png" group-title="Pirates IPTV (International Server)",Chaine Nord-Africaine
 http://str81.creacast.com/cna/live.sdp/playlist.m3u8?checkedby:hlscat.com
-#EXTINF:0 tvg-country="DZ" tvg-logo="" group-title="Pirates IPTV (International Server)",DIJAH  rtm
-rtmp://91.134.145.75/?gmswf=/Dijlah&checkedby:hlscat.com
-#EXTINF:0 tvg-country="DZ" tvg-logo="" group-title="Pirates IPTV (International Server)",Dijlah TV  jordan rtm
-rtmp://91.134.145.75/Dijlah?speed=1/?speed=1&checkedby:hlscat.com
 #EXTINF:0 tvg-country="DZ" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/c/cc/Ennahar_TV.svg/330px-Ennahar_TV.svg.png" group-title="Pirates IPTV (International Server)",EL nahar Alg,Ennahar TV
 http://numidiatv-live.dzsecurity.net:8081/entv/EnnaharTV_SD/chunks.m3u8?checkedby:hlscat.com
-#EXTINF:0 tvg-country="DZ" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/c/cc/Ennahar_TV.svg/330px-Ennahar_TV.svg.png" group-title="Pirates IPTV (International Server)",Ennahar TV
-http://numidiatv-live.dzsecurity.net:8081/entv/EnnaharTV_SD/playlist.m3u8?checkedby:hlscat.com
-#EXTINF:0 tvg-country="DZ" tvg-logo="" group-title="Pirates IPTV (International Server)",LT  libya  rtm
-rtmp://82.212.74.2/live//7221?v=&checkedby:hlscat.com
 #EXTINF:0 tvg-country="DZ" tvg-logo="" group-title="Pirates IPTV (International Server)",Nogoum FM TV  rtm
 rtmp://stream-speed.extremesolution.mobi/nogoumfm/nogoumfmlive?checkedby:hlscat.com
 #EXTINF:0 tvg-country="SY" tvg-logo="https://alyaumtv.net/wp-content/uploads/2019/04/alyaom-1-1_small2.png" group-title="Pirates IPTV (International Server)",Al Yaum
 http://172.105.89.215:5080/LiveApp/streams/270434322502251479308014.m3u8?checkedby:hlscat.com
 #EXTINF:0 tvg-country="SY" tvg-logo="https://i.imgur.com/xBcBG2z.png" group-title="Pirates IPTV (International Server)",Halab Today TV
 http://streaming.tootvs.com:1935/8010/8010/playlist.m3u8?checkedby:hlscat.com
-#EXTINF:0 tvg-country="SY" tvg-logo="https://lanacanal.tv/lana/wp-content/uploads/2020/10/logo1.png" group-title="Pirates IPTV (International Server)",Lana HD TV
-https://stream.lanacanal.tv:5443/LiveApp/streams/369789291335520284765911.m3u8?checkedby:hlscat.com
-#EXTINF:0 tvg-country="SY" tvg-logo="https://lanacanal.tv/LanaTVPlus/wp-content/uploads/2019/09/Untitled-1.png" group-title="Pirates IPTV (International Server)",Lana Plus TV
-https://stream.lanacanal.tv:5443/LiveApp/streams/201553893335555441819965.m3u8?checkedby:hlscat.com
-#EXTINF:0 tvg-country="SY" tvg-logo="https://i.imgur.com/Dy2Eo33.png" group-title="Pirates IPTV (International Server)",Noor Al-Sham
-http://82.137.248.16:1935/Nour/stream10112020/playlist.m3u8?checkedby:hlscat.com
 #EXTINF:0 tvg-country="MY;SY" tvg-logo="https://i.imgur.com/rKTE8Qw.png" group-title="Pirates IPTV (International Server)",Syria TV,SYRIA TV (1920×1080)
 https://svs.itworkscdn.net/syriatvlive/syriatv.smil/playlist.m3u8?checkedby:hlscat.com
-#EXTINF:0 tvg-country="SY" tvg-logo="https://i.imgur.com/eR8QSEt.png" group-title="Pirates IPTV (International Server)",Souryana Radio
-http://82.137.248.16:1935/Souryana/stream10112020/playlist.m3u8?checkedby:hlscat.com
-#EXTINF:0 tvg-country="SY" tvg-logo="https://i.imgur.com/RzPOwqI.png" group-title="Pirates IPTV (International Server)",Spacetoon
-https://shls-spacetoon-prod-dub.shahid.net/out/v1/6240b773a3f34cca95d119f9e76aec02/index.m3u8?checkedby:hlscat.com
-#EXTINF:0 tvg-country="SY" tvg-logo="https://i.imgur.com/ajsrKzA.png" group-title="Pirates IPTV (International Server)",Syria Satellite Channel
-http://82.137.248.16:1935/Sat/stream10112020/playlist.m3u8?checkedby:hlscat.com
-#EXTINF:0 tvg-country="SY" tvg-logo="https://i.imgur.com/PrXBgQG.png" group-title="Pirates IPTV (International Server)",Syrian Education TV
-http://82.137.248.16:1935/SEdu/stream10112020/playlist.m3u8?checkedby:hlscat.com
-#EXTINF:0 tvg-country="SY" tvg-logo="https://i.imgur.com/6KUtkKz.png" group-title="Pirates IPTV (International Server)",Syrian News Channel
-http://82.137.248.16:1935/Snews/stream10112020/playlist.m3u8?checkedby:hlscat.com
 #EXTINF:0 tvg-country="SY" tvg-logo="https://i.imgur.com/nCGsD74.jpg" group-title="Pirates IPTV (International Server)",Syrian TV
 https://svs.itworkscdn.net/syriatvlive/syriatv.smil/syriatvpublish/syriatv/chunks.m3u8?checkedby:hlscat.com
-#EXTINF:0 tvg-country="SY" tvg-logo="https://i.imgur.com/4x2uwpx.png" group-title="Pirates IPTV (International Server)",Ugarit TV [not 24/7]
-http://82.137.248.16:1935/Ugarit/stream10112020/playlist.m3u8?checkedby:hlscat.com
 #EXTINF:0 tvg-country="SY" tvg-logo="" group-title="Pirates IPTV (International Server)",alltv
 http://185.96.70.242:1935/live/alltv/playlist.m3u8?checkedby:hlscat.com
-
-
-
-
-
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="ALL" tvg-logo="" group-title="Pirates IPTV (International Server)",al_aoula_inter
 http://cdnamd-hls-globecast.akamaized.net/live/ramdisk/al_aoula_inter/hls_snrt/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="ALL" tvg-logo="" group-title="Pirates IPTV (International Server)",arriadia
