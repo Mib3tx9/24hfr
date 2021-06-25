@@ -1,5 +1,6 @@
 #EXTM3U
-#EXTINF:-1 tvg-logo="" group-title="সর্বশেষ আপডেট      Date [25.06.2021]  Time [10:30am]",
+#EXTINF:-1 tvg-logo="" group-title="সর্বশেষ আপডেট      Date [25.06.2021]  Time [01:00pm]",
+#EXTINF:-1 tvg-logo="" group-title="TV দেখার পূর্বে Playlist Update করে নিন",
 #EXTINF:-1 tvg-logo="" group-title="Euro Cup 2021",ES----------------------------------------------------------------------------------------------------------------
 #EXTINF:-1 tvg-logo="" group-title="Bangladeshi",BD------------------------------------------------------------------------------------------------------------------
 #EXTINF:-1 tvg-logo="" group-title="BDIX Server 1",Server1-----------------------------------------------------------------------------------------------------------
@@ -891,6 +892,102 @@ http://103.205.133.19/hls/tsports.m3u8
 #EXTINF:-25 group-title="BDIX Server 1"tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSUc9JqU4yWFBQfCiPDk8Q5b74nT-oGe3AAoQ&usqp=CAU",Star Sports 1 [1]
 
 #EXTINF:-1 tvg-logo="https://www.tvchannelpricelist.com/wp-content/uploads/channels-logo-300/star-sports-hd-2-logo-300x300.jpg" group-title="BDIX Server 1",Star Sports 2 HD [1]
+
+
+#EXTINF:-1 tvg-logo="https://www.dropbox.com/s/rgblmfl0utzapcv/sohel.jpeg?raw=1" group-title="BDIX Server 3",ATN Bangla [3]
+http://103.213.238.70:80/ATNBangla/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-logo="https://www.dropbox.com/s/rgblmfl0utzapcv/sohel.jpeg?raw=1" group-title="BDIX Server 3",ATN News [3]
+http://103.213.238.70:80/ATNNews/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-logo="https://www.dropbox.com/s/rgblmfl0utzapcv/sohel.jpeg?raw=1" group-title="BDIX Server 3",Banglavision [3]
+http://103.213.238.70:80/BanglaVision/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-logo="https://www.dropbox.com/s/rgblmfl0utzapcv/sohel.jpeg?raw=1" group-title="BDIX Server 3",Boishakhi [3]
+http://103.213.238.70:80/BoishakhiTV/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-logo="https://www.dropbox.com/s/rgblmfl0utzapcv/sohel.jpeg?raw=1" group-title="BDIX Server 3",BTV World [3]
+http://103.213.238.70:80/BTVWorld/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-logo="https://www.dropbox.com/s/rgblmfl0utzapcv/sohel.jpeg?raw=1" group-title="BDIX Server 3",Channel 24 [3]
+http://103.213.238.70:80/Channel24/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-logo="https://www.dropbox.com/s/rgblmfl0utzapcv/sohel.jpeg?raw=1" group-title="BDIX Server 3",Channel I [3]
+http://103.213.238.70:80/ChannelI/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-logo="https://www.dropbox.com/s/rgblmfl0utzapcv/sohel.jpeg?raw=1" group-title="BDIX Server 3",DBC News [3]
+http://103.213.238.70:80/DBCNews/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-logo="https://www.dropbox.com/s/rgblmfl0utzapcv/sohel.jpeg?raw=1" group-title="BDIX Server 3",Deepto TV [3]
+http://103.213.238.70:80/DeeptoTV/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-logo="https://www.dropbox.com/s/rgblmfl0utzapcv/sohel.jpeg?raw=1" group-title="BDIX Server 3",Ekattor TV [3]
+http://103.213.238.70:80/EkattorTV/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-logo="https://www.dropbox.com/s/rgblmfl0utzapcv/sohel.jpeg?raw=1" group-title="BDIX Server 3",Ekushey TV [3]
+http://103.213.238.70:80/EkusheyTv/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-logo="https://www.dropbox.com/s/rgblmfl0utzapcv/sohel.jpeg?raw=1" group-title="BDIX Server 3",Gaan Bangla [3]
+http://103.213.238.70:80/GaanBangla/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-logo="https://www.dropbox.com/s/rgblmfl0utzapcv/sohel.jpeg?raw=1" group-title="BDIX Server 3",Gazi TV [3]
+http://103.213.238.70:80/GaziTV/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-logo="https://www.dropbox.com/s/rgblmfl0utzapcv/sohel.jpeg?raw=1" group-title="BDIX Server 3",Independent TV [3]
+http://103.213.238.70:80/IndependentTV/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-logo="https://www.dropbox.com/s/rgblmfl0utzapcv/sohel.jpeg?raw=1" group-title="BDIX Server 3",Mohona TV [3]
+http://103.213.238.70:80/MohonaTV/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-logo="https://www.dropbox.com/s/rgblmfl0utzapcv/sohel.jpeg?raw=1" group-title="BDIX Server 3",My TV [3]
+http://103.213.238.70:80/MyTV/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-logo="https://www.dropbox.com/s/rgblmfl0utzapcv/sohel.jpeg?raw=1" group-title="BDIX Server 3",Nagorik TV [3]
+http://103.213.238.70:80/NagorikTV/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-logo="https://www.dropbox.com/s/rgblmfl0utzapcv/sohel.jpeg?raw=1" group-title="BDIX Server 3",News 24 [3]
+http://103.213.238.70:80/News24/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-logo="https://www.dropbox.com/s/rgblmfl0utzapcv/sohel.jpeg?raw=1" group-title="BDIX Server 3",SATV [3]
+http://103.213.238.70:80/SATV/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-logo="https://www.dropbox.com/s/rgblmfl0utzapcv/sohel.jpeg?raw=1" group-title="BDIX Server 3",Somoy TV [3]
+http://103.213.238.70:80/SomoyTv/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-logo="https://www.dropbox.com/s/rgblmfl0utzapcv/sohel.jpeg?raw=1" group-title="BDIX Server 3",Al Jazeera [3]
+http://103.213.238.70:80/Aljazeera/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-logo="https://www.dropbox.com/s/rgblmfl0utzapcv/sohel.jpeg?raw=1" group-title="BDIX Server 3",Animal Planet [3]
+http://103.213.238.70:80/AnimalPlanet/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-logo="https://www.dropbox.com/s/rgblmfl0utzapcv/sohel.jpeg?raw=1" group-title="BDIX Server 3",TLC HD [3]
+http://103.213.238.70:80/TLCHD/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-logo="https://www.dropbox.com/s/rgblmfl0utzapcv/sohel.jpeg?raw=1" group-title="BDIX Server 3",Nick Jr. [3]
+http://103.213.238.70:80/Nick/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-logo="https://www.dropbox.com/s/rgblmfl0utzapcv/sohel.jpeg?raw=1" group-title="BDIX Server 3",Sony Yay [3]
+http://103.213.238.70:80/SonyYay/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-logo="https://www.dropbox.com/s/rgblmfl0utzapcv/sohel.jpeg?raw=1" group-title="BDIX Server 3",And Prive HD [3]
+http://103.213.238.70:80/&privatehd/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-logo="https://www.dropbox.com/s/rgblmfl0utzapcv/sohel.jpeg?raw=1" group-title="BDIX Server 3",Bflix [3]
+http://103.213.238.70:80/Bflix/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-logo="https://www.dropbox.com/s/rgblmfl0utzapcv/sohel.jpeg?raw=1" group-title="BDIX Server 3",Dubai One [3]
+http://103.213.238.70:80/DubaiOne/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-logo="https://www.dropbox.com/s/rgblmfl0utzapcv/sohel.jpeg?raw=1" group-title="BDIX Server 3",Sony TV [3]
+http://103.213.238.70:80/j-SonyTV/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-logo="https://www.dropbox.com/s/rgblmfl0utzapcv/sohel.jpeg?raw=1" group-title="BDIX Server 3",Sony Max HD [3]
+http://103.213.238.70:80/SonyMaxHD/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-logo="https://www.dropbox.com/s/rgblmfl0utzapcv/sohel.jpeg?raw=1" group-title="BDIX Server 3",Sony Pix [3]
+http://103.213.238.70:80/SonyPix/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-logo="https://www.dropbox.com/s/rgblmfl0utzapcv/sohel.jpeg?raw=1" group-title="BDIX Server 3",Sony SAB [3]
+http://103.213.238.70:80/SonySAB/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-logo="https://www.dropbox.com/s/rgblmfl0utzapcv/sohel.jpeg?raw=1" group-title="BDIX Server 3",Star Jalsha [3]
+http://103.213.238.70:80/j-star-jalsha/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-logo="https://www.dropbox.com/s/rgblmfl0utzapcv/sohel.jpeg?raw=1" group-title="BDIX Server 3",Star Gold HD [3]
+http://103.213.238.70:80/j-star-gold-hd/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-logo="https://www.dropbox.com/s/rgblmfl0utzapcv/sohel.jpeg?raw=1" group-title="BDIX Server 3",Star Plus [3]
+http://103.213.238.70:80/j-star-plus/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-logo="https://www.dropbox.com/s/rgblmfl0utzapcv/sohel.jpeg?raw=1" group-title="BDIX Server 3",Zee Bangla [3]
+http://103.213.238.70:80/ZeeBangla/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-logo="https://www.dropbox.com/s/rgblmfl0utzapcv/sohel.jpeg?raw=1" group-title="BDIX Server 3",Zee Bangla [3]
+http://103.213.238.70:80/ZeeBanglaCinema/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-logo="https://www.dropbox.com/s/rgblmfl0utzapcv/sohel.jpeg?raw=1" group-title="BDIX Server 3",Zee Cinema [3]
+http://103.213.238.70:80/ZeeCinema/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-logo="https://www.dropbox.com/s/rgblmfl0utzapcv/sohel.jpeg?raw=1" group-title="BDIX Server 3",AD Sports 1 [3]
+http://103.213.238.70:80/ADSPORTS1/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-logo="https://www.dropbox.com/s/rgblmfl0utzapcv/sohel.jpeg?raw=1" group-title="BDIX Server 3",AD Sports 2 [3]
+http://103.213.238.70:80/ADSPORTS2/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-logo="https://www.dropbox.com/s/rgblmfl0utzapcv/sohel.jpeg?raw=1" group-title="BDIX Server 3",AD Sports 3 [3]
+http://103.213.238.70:80/ADSPORTS3/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-logo="https://www.dropbox.com/s/rgblmfl0utzapcv/sohel.jpeg?raw=1" group-title="BDIX Server 3",AD Sports 4 [3]
+http://103.213.238.70:80/ADSPORTS4/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-logo="https://www.dropbox.com/s/rgblmfl0utzapcv/sohel.jpeg?raw=1" group-title="BDIX Server 3",Sony Six [3]
+http://103.213.238.70:80/SonySix/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-logo="https://www.dropbox.com/s/rgblmfl0utzapcv/sohel.jpeg?raw=1" group-title="BDIX Server 3",Sony Ten 1 [3]
+http://103.213.238.70:80/SonyTen1/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-logo="https://www.dropbox.com/s/rgblmfl0utzapcv/sohel.jpeg?raw=1" group-title="BDIX Server 3",Sony Ten 2 [3]
+http://103.213.238.70:80/SonyTen2/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-logo="https://www.dropbox.com/s/rgblmfl0utzapcv/sohel.jpeg?raw=1" group-title="BDIX Server 3",Sony Ten 3 [3]
+http://103.213.238.70:80/SonyTen3/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-logo="https://www.dropbox.com/s/rgblmfl0utzapcv/sohel.jpeg?raw=1" group-title="BDIX Server 3",T Sports [3]
+http://103.213.238.70:80/j-TSports/tracks-v1a1/mono.m3u8
 
 
 
