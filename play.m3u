@@ -410,11 +410,16 @@ https://piratesiptv.shortcm.li/wow.m3u8
 https://piratesiptv.shortcm.li/andflix.m3u8
 #EXTINF:0 tvg-language="Sohel_Ahmed" tvg-logo="https://www.dropbox.com/s/rgblmfl0utzapcv/sohel.jpeg?raw=1" group-title="English",131.And Flix HD 2
 http://nwbz1u.ecm.tm/806B6CF/89181e/SM_FHD_ENG_ANDFLIX/tracks-v1a1/index.m3u8?token=0558356b27398f74c6bf8c39ec01782c363a514dbf50000c6c8a1fdf5f98abc05d35144b0842889500df1e9fd27885b72a866b2df851f0d5a0607245acc438455a2dc039981889e16cb81ae1dca1989d037e7e7c2e542fc5743c7553fdd64bd4268cd5876aa2c4743d3b&mac=00:1A:79:4B:57:A3&ip=27.96.95.31&magic_server=MAIN_MP
+#EXTINF:0 tvg-language="Sohel_Ahmed" tvg-logo="https://www.dropbox.com/s/rgblmfl0utzapcv/sohel.jpeg?raw=1" group-title="English",131.And Flix HD 3
+https://y5w8j4a9.ssl.hwcdn.net/andflixhd/tracks-v1a1/index.m3u8
 #EXTINF:0 tvg-language="Sohel_Ahmed" tvg-logo="https://www.dropbox.com/s/rgblmfl0utzapcv/sohel.jpeg?raw=1" group-title="English",132.And Prive HD
-https://piratesiptv.shortcm.li/andprive.m3u8
+https://y5w8j4a9.ssl.hwcdn.net/andprivehd/tracks-v1a1/index.m3u8
 #EXTINF:0 tvg-language="Sohel_Ahmed" tvg-logo="https://www.dropbox.com/s/rgblmfl0utzapcv/sohel.jpeg?raw=1" group-title="Indian",133.And Picture
 http://nwbz1u.ecm.tm/806B6CF/89181e/SM_FHD-HINDI-ANDPICTURES/tracks-v1a1/index.m3u8?token=0558356b27398f74c6bf8c38e801782c18670ace1f7869d7ecae493a4359cfdcea90f8dfa04e4bc42fcca7bcd1d853320dab3c4ded7709401b7a6c66646711c947c824d2ef15ce47a2eea6846438f5ceee0f55402b01fd8caad8034216e4c458138d898027cf262530fc9defd78a48d9&mac=00:1A:79:4B:57:A3&ip=27.96.95.31&magic_server=MAIN_MP
 #EXTINF:0 tvg-language="Sohel_Ahmed" tvg-logo="https://www.dropbox.com/s/rgblmfl0utzapcv/sohel.jpeg?raw=1" group-title="Indian",134.And TV
+
+
+
 
 #EXTINF:0 tvg-language="Sohel_Ahmed" tvg-logo="https://www.dropbox.com/s/rgblmfl0utzapcv/sohel.jpeg?raw=1" group-title="Indian",135.Colors
 http://103.205.133.19/hls/chc.m3u8
@@ -1103,40 +1108,6 @@ http://livematrix.in:1935/1yestv/1yestv/playlist.m3u8
 http://198.144.149.82:8080/NOTV/ORANGETV/index.m3u8?token=GTR
 #EXTINF:0 tvg-language="Sohel_Ahmed" tvg-logo="https://www.dropbox.com/s/rgblmfl0utzapcv/sohel.jpeg?raw=1" group-title="Tamil",Vasan tv
 http://singamcloud.in:8080/vasantv/vasantv/playlist.m3u8
-
-
-
-
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Tamil" tvg-logo="" tvg-country="IN" tvg-url="" group-title="English",And Prive HD 
-https://y5w8j4a9.ssl.hwcdn.net/andprivehd/tracks-v1a1/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Tamil" tvg-logo="" tvg-country="IN" tvg-url="" group-title="English",And Prive HD 2
-http://cv.khushitv.xyz/channels.php?c=andprivehd/tracks-v4a1&e=.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Tamil" tvg-logo="" tvg-country="IN" tvg-url="" group-title="English",And Prive Link 2
-https://y5w8j4a9.ssl.hwcdn.net/andprivehd/tracks-v1a1/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Tamil" tvg-logo="" tvg-country="IN" tvg-url="" group-title="English",And Flix HD 
-http://cv.khushitv.xyz/channels.php?c=andflixhd&e=.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Tamil" tvg-logo="" tvg-country="IN" tvg-url="" group-title="English",And Flix HD 2
-https://y5w8j4a9.ssl.hwcdn.net/andflixhd/tracks-v1a1/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Tamil" tvg-logo="" tvg-country="IN" tvg-url="" group-title="English",And Flix HD 3
-http://portal.simiptv.co.uk:8080/alipajiuk/oRGQpcPAkZ/335
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Tamil" tvg-logo="" tvg-country="IN" tvg-url="" group-title="English",And Flix HD 4
-http://pn.tvott.info:80/307254552277/307254552277/83613
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Tamil" tvg-logo="" tvg-country="IN" tvg-url="" group-title="English",And Flix SD 
-http://cv.khushitv.xyz/channels.php?c=andflix&e=.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Tamil" tvg-logo="" tvg-country="IN" tvg-url="" group-title="English",And Flix SD 2
-https://y5w8j4a9.ssl.hwcdn.net/andflix/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Tamil" tvg-logo="" tvg-country="IN" tvg-url="" group-title="English",And Flix SD 3
-https://oreotv.us/live/gee/zee_v2.m3u8?id=0-9-channel_2105335046
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Tamil" tvg-logo="" tvg-country="IN" tvg-url="" group-title="English",Sony PIX HD 2
-http://pn.tvott.info:80/307254552277/307254552277/83703
-
-
-
-
-
-
-
 
 
 
