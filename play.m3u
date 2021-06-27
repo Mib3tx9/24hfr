@@ -4,6 +4,7 @@
 #EXTINF:-1 tvg-logo="" group-title="Euro Cup 2021",ES----------------------------------------------------------------------------------------------------------------
 #EXTINF:-1 tvg-logo="" group-title="Bangladeshi",BD------------------------------------------------------------------------------------------------------------------
 #EXTINF:-1 tvg-logo="" group-title="BDIX Server 1",Server1-----------------------------------------------------------------------------------------------------------
+#EXTINF:-1 tvg-logo="" group-title="BDIX Server 2",Server2-----------------------------------------------------------------------------------------------------------
 #EXTINF:-1 tvg-logo="" group-title="BDIX Server 3",Server3-----------------------------------------------------------------------------------------------------------
 #EXTINF:-1 tvg-logo="" group-title="BDIX Server 4",Server4-----------------------------------------------------------------------------------------------------------
 #EXTINF:-1 tvg-logo="" group-title="Toffee Server",Server1-----------------------------------------------------------------------------------------------------------
@@ -908,45 +909,45 @@ http://103.205.133.19/hls/tsports.m3u8
 
 
 
-#EXTINF:-1 tvg-logo="https://www.dropbox.com/s/rgblmfl0utzapcv/sohel.jpeg?raw=1" group-title="BDIX Server 3",1
+#EXTINF:-1 tvg-logo="https://www.dropbox.com/s/rgblmfl0utzapcv/sohel.jpeg?raw=1" group-title="BDIX Server 2",1
 http://103.106.243.163:8181//1/index.m3u8
-#EXTINF:-1 tvg-logo="https://www.dropbox.com/s/rgblmfl0utzapcv/sohel.jpeg?raw=1" group-title="BDIX Server 3",2
+#EXTINF:-1 tvg-logo="https://www.dropbox.com/s/rgblmfl0utzapcv/sohel.jpeg?raw=1" group-title="BDIX Server 2",2
 http://103.106.243.163:8181//2/index.m3u8
-#EXTINF:-1 tvg-logo="https://www.dropbox.com/s/rgblmfl0utzapcv/sohel.jpeg?raw=1" group-title="BDIX Server 3",3
+#EXTINF:-1 tvg-logo="https://www.dropbox.com/s/rgblmfl0utzapcv/sohel.jpeg?raw=1" group-title="BDIX Server 2",3
 http://103.106.243.163:8181//3/index.m3u8
-#EXTINF:-1 tvg-logo="https://www.dropbox.com/s/rgblmfl0utzapcv/sohel.jpeg?raw=1" group-title="BDIX Server 3",4
+#EXTINF:-1 tvg-logo="https://www.dropbox.com/s/rgblmfl0utzapcv/sohel.jpeg?raw=1" group-title="BDIX Server 2",4
 http://103.106.243.163:8181//4/index.m3u8
-#EXTINF:-1 tvg-logo="https://www.dropbox.com/s/rgblmfl0utzapcv/sohel.jpeg?raw=1" group-title="BDIX Server 3",5
+#EXTINF:-1 tvg-logo="https://www.dropbox.com/s/rgblmfl0utzapcv/sohel.jpeg?raw=1" group-title="BDIX Server 2",5
 http://103.106.243.163:8181//5/index.m3u8
-#EXTINF:-1 tvg-logo="https://www.dropbox.com/s/rgblmfl0utzapcv/sohel.jpeg?raw=1" group-title="BDIX Server 3",6
+#EXTINF:-1 tvg-logo="https://www.dropbox.com/s/rgblmfl0utzapcv/sohel.jpeg?raw=1" group-title="BDIX Server 2",6
 http://103.106.243.163:8181//6/index.m3u8
-#EXTINF:-1 tvg-logo="https://www.dropbox.com/s/rgblmfl0utzapcv/sohel.jpeg?raw=1" group-title="BDIX Server 3",7
+#EXTINF:-1 tvg-logo="https://www.dropbox.com/s/rgblmfl0utzapcv/sohel.jpeg?raw=1" group-title="BDIX Server 2",7
 http://103.106.243.163:8181//7/index.m3u8
-#EXTINF:-1 tvg-logo="https://www.dropbox.com/s/rgblmfl0utzapcv/sohel.jpeg?raw=1" group-title="BDIX Server 3",8
+#EXTINF:-1 tvg-logo="https://www.dropbox.com/s/rgblmfl0utzapcv/sohel.jpeg?raw=1" group-title="BDIX Server 2",8
 http://103.106.243.163:8181//8/index.m3u8
-#EXTINF:-1 tvg-logo="https://www.dropbox.com/s/rgblmfl0utzapcv/sohel.jpeg?raw=1" group-title="BDIX Server 3",9
+#EXTINF:-1 tvg-logo="https://www.dropbox.com/s/rgblmfl0utzapcv/sohel.jpeg?raw=1" group-title="BDIX Server 2",9
 http://103.106.243.163:8181//9/index.m3u8
-#EXTINF:-1 tvg-logo="https://www.dropbox.com/s/rgblmfl0utzapcv/sohel.jpeg?raw=1" group-title="BDIX Server 3",10
+#EXTINF:-1 tvg-logo="https://www.dropbox.com/s/rgblmfl0utzapcv/sohel.jpeg?raw=1" group-title="BDIX Server 2",10
 http://103.106.243.163:8181//10/index.m3u8
-#EXTINF:-1 tvg-logo="https://www.dropbox.com/s/rgblmfl0utzapcv/sohel.jpeg?raw=1" group-title="BDIX Server 3",11
+#EXTINF:-1 tvg-logo="https://www.dropbox.com/s/rgblmfl0utzapcv/sohel.jpeg?raw=1" group-title="BDIX Server 2",11
 http://103.106.243.163:8181//11/index.m3u8
-#EXTINF:-1 tvg-logo="https://www.dropbox.com/s/rgblmfl0utzapcv/sohel.jpeg?raw=1" group-title="BDIX Server 3",12
+#EXTINF:-1 tvg-logo="https://www.dropbox.com/s/rgblmfl0utzapcv/sohel.jpeg?raw=1" group-title="BDIX Server 2",12
 http://103.106.243.163:8181//12/index.m3u8
-#EXTINF:-1 tvg-logo="https://www.dropbox.com/s/rgblmfl0utzapcv/sohel.jpeg?raw=1" group-title="BDIX Server 3",13
+#EXTINF:-1 tvg-logo="https://www.dropbox.com/s/rgblmfl0utzapcv/sohel.jpeg?raw=1" group-title="BDIX Server 2",13
 http://103.106.243.163:8181//13/index.m3u8
-#EXTINF:-1 tvg-logo="https://www.dropbox.com/s/rgblmfl0utzapcv/sohel.jpeg?raw=1" group-title="BDIX Server 3",14
+#EXTINF:-1 tvg-logo="https://www.dropbox.com/s/rgblmfl0utzapcv/sohel.jpeg?raw=1" group-title="BDIX Server 2",14
 http://103.106.243.163:8181//14/index.m3u8
-#EXTINF:-1 tvg-logo="https://www.dropbox.com/s/rgblmfl0utzapcv/sohel.jpeg?raw=1" group-title="BDIX Server 3",15
+#EXTINF:-1 tvg-logo="https://www.dropbox.com/s/rgblmfl0utzapcv/sohel.jpeg?raw=1" group-title="BDIX Server 2",15
 http://103.106.243.163:8181//15/index.m3u8
-#EXTINF:-1 tvg-logo="https://www.dropbox.com/s/rgblmfl0utzapcv/sohel.jpeg?raw=1" group-title="BDIX Server 3",16
+#EXTINF:-1 tvg-logo="https://www.dropbox.com/s/rgblmfl0utzapcv/sohel.jpeg?raw=1" group-title="BDIX Server 2",16
 http://103.106.243.163:8181//16/index.m3u8
-#EXTINF:-1 tvg-logo="https://www.dropbox.com/s/rgblmfl0utzapcv/sohel.jpeg?raw=1" group-title="BDIX Server 3",17
+#EXTINF:-1 tvg-logo="https://www.dropbox.com/s/rgblmfl0utzapcv/sohel.jpeg?raw=1" group-title="BDIX Server 2",17
 http://103.106.243.163:8181//17/index.m3u8
-#EXTINF:-1 tvg-logo="https://www.dropbox.com/s/rgblmfl0utzapcv/sohel.jpeg?raw=1" group-title="BDIX Server 3",18
+#EXTINF:-1 tvg-logo="https://www.dropbox.com/s/rgblmfl0utzapcv/sohel.jpeg?raw=1" group-title="BDIX Server 2",18
 http://103.106.243.163:8181//18/index.m3u8
-#EXTINF:-1 tvg-logo="https://www.dropbox.com/s/rgblmfl0utzapcv/sohel.jpeg?raw=1" group-title="BDIX Server 3",19
+#EXTINF:-1 tvg-logo="https://www.dropbox.com/s/rgblmfl0utzapcv/sohel.jpeg?raw=1" group-title="BDIX Server 2",19
 http://103.106.243.163:8181//19/index.m3u8
-#EXTINF:-1 tvg-logo="https://www.dropbox.com/s/rgblmfl0utzapcv/sohel.jpeg?raw=1" group-title="BDIX Server 3",20
+#EXTINF:-1 tvg-logo="https://www.dropbox.com/s/rgblmfl0utzapcv/sohel.jpeg?raw=1" group-title="BDIX Server 2",20
 http://103.106.243.163:8181//20/index.m3u8
 
 
@@ -2831,135 +2832,4 @@ https://mbningestworld-i.akamaihd.net/hls/live/644021/iraqworldsafe/master.m3u8?
 #EXTINF:0 tvg-country="IQ" tvg-logo="http://imn.iq/wp-content/uploads/2018/03/Logo.jpg" group-title="Pirates IPTV (International Server)",Al Iraqiya Al 3ama
 http://cdn.catiacast.video/abr/8d2ffb0aba244e8d9101a9488a7daa05/playlist.m3u8?checkedby:hlscat.com
 #EXTINF:0 tvg-country="IQ" tvg-logo="http://imn.iq/wp-content/uploads/2018/03/Logo.jpg" group-title="Pirates IPTV (International Server)",Al Iraqiya News
-http://cdn.catiacast.video/abr/78054972db7708422595bc96c6e024ac/playlist.m3u8?checkedby:hlscat.com
-#EXTINF:0 tvg-country="IQ" tvg-logo="https://i.imgur.com/x5buqzt.jpg" group-title="Pirates IPTV (International Server)",Al Rafidain HQ
-http://149.202.79.190:8081/arrafidaintv/publish/playlist.m3u8?checkedby:hlscat.com
-#EXTINF:0 tvg-country="IQ" tvg-logo="https://i.imgur.com/x5buqzt.jpg" group-title="Pirates IPTV (International Server)",Al Rafidain HQ
-http://149.202.79.190:8081/arrafidaintv/publish/chunks.m3u8?checkedby:hlscat.com
-#EXTINF:0 tvg-country="IQ" tvg-logo="http://alsharqiyatv.info/tv.jpg" group-title="Pirates IPTV (International Server)",Al Sharqiya
-http://ns8.indexforce.com:1935/home/mystream/playlist.m3u8?checkedby:hlscat.com
-#EXTINF:0 tvg-country="IQ" tvg-logo="https://i.imgur.com/qNi4rwG.jpg" group-title="Pirates IPTV (International Server)",Al Sharqiya News
-http://ns8.indexforce.com:1935/alsharqiyalive/mystream/playlist.m3u8?checkedby:hlscat.com
-#EXTINF:0 tvg-country="IQ" tvg-logo="https://i.imgur.com/way7KwN.jpg" group-title="Pirates IPTV (International Server)",Assyrian ANB
-https://597f64b67707a.streamlock.net/anbsat.com/anb2/playlist.m3u8?checkedby:hlscat.com
-#EXTINF:0 tvg-country="IQ" tvg-logo="https://www.dijlah.tv/templates/default-2/live-page/images/logo-new1.png" group-title="Pirates IPTV (International Server)",Dijlah
-https://ghaasiflu.online/Dijlah/index.m3u8?checkedby:hlscat.com
-#EXTINF:0 tvg-country="IQ" tvg-logo="https://www.dijlah.tv/templates/default-2/live-page/images/tarab-logo.png" group-title="Pirates IPTV (International Server)",Dijlah Tarab
-https://ghaasiflu.online/tarab/index.m3u8?checkedby:hlscat.com
-#EXTINF:0 tvg-country="IQ" tvg-logo="https://i.imgur.com/ocyh4DD.jpg" group-title="Pirates IPTV (International Server)",Imam Hussein TV 2 Arabic
-https://ar.imamhusseintv.com/live/ih201/index.m3u8?checkedby:hlscat.com
-#EXTINF:0 tvg-country="IQ" tvg-logo="https://i.imgur.com/ocyh4DD.jpg" group-title="Pirates IPTV (International Server)",Imam Hussein TV 4 Urdu
-https://ur.imamhusseintv.com/live/ih4.m3u8?checkedby:hlscat.com
-#EXTINF:0 tvg-country="IQ" tvg-logo="https://i.imgur.com/srOJGEF.png" group-title="Pirates IPTV (International Server)",KurdMax
-http://31.14.40.139:1935/liveTrans/ngrp:myStream_all/chunklist.m3u8?checkedby:hlscat.com
-#EXTINF:0 tvg-country="IQ" tvg-logo="https://i.imgur.com/GLfhYSH.png" group-title="Pirates IPTV (International Server)",Kurdistan TV
-https://5a3ed7a72ed4b.streamlock.net/live/SMIL:myStream.smil/chunklist.m3u8?checkedby:hlscat.com
-#EXTINF:0 tvg-country="IQ" tvg-logo="https://i.imgur.com/5ZQ4GTu.jpg" group-title="Pirates IPTV (International Server)",Rudaw TV
-https://svs.itworkscdn.net/rudawlive/rudawlive.smil/playlist.m3u8?checkedby:hlscat.com
-#EXTINF:0 tvg-country="JO" tvg-logo="https://i.imgur.com/6njRt6c.png" group-title="Pirates IPTV (International Server)",Al Mamlaka TV
-https://almamlka-live.ercdn.net/almamlka/almamlka_720p.m3u8?checkedby:hlscat.com
-#EXTINF:0 tvg-country="JO" tvg-logo="https://i.imgur.com/vkqYIO4.jpg" group-title="Pirates IPTV (International Server)",Amman TV
-https://ammantv.c.s73cdn.net/23153d43-375a-472a-bc5f-9827582b5d22/elemental/live/master.m3u8?checkedby:hlscat.com
-#EXTINF:0 tvg-country="JO" tvg-logo="https://i.imgur.com/siAiiws.jpg" group-title="Pirates IPTV (International Server)",Jordan TV
-https://jrtv-live.ercdn.net/jordanhd/jordanhd.m3u8?checkedby:hlscat.com
-#EXTINF:0 tvg-country="DZ" tvg-logo="" group-title="Pirates IPTV (International Server)",AL HAYAT rtm
-rtmp://media.islamexplained.com:1935/live/_definst_mp4:ahme.stream_360p?checkedby:hlscat.com
-#EXTINF:0 tvg-country="DZ" tvg-logo="" group-title="Pirates IPTV (International Server)",AR-الوطن,AR:Watan TV,Watan TV
-http://watantv.origin.technostreaming.net:8081/watantv_source2/live/chunks.m3u8?checkedby:hlscat.com
-#EXTINF:0 tvg-country="DZ" tvg-logo="https://i.imgur.com/T6bEOQt.png" group-title="Pirates IPTV (International Server)",Chaine Nord-Africaine
-http://str81.creacast.com/cna/live.sdp/playlist.m3u8?checkedby:hlscat.com
-#EXTINF:0 tvg-country="DZ" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/c/cc/Ennahar_TV.svg/330px-Ennahar_TV.svg.png" group-title="Pirates IPTV (International Server)",EL nahar Alg,Ennahar TV
-http://numidiatv-live.dzsecurity.net:8081/entv/EnnaharTV_SD/chunks.m3u8?checkedby:hlscat.com
-#EXTINF:0 tvg-country="DZ" tvg-logo="" group-title="Pirates IPTV (International Server)",Nogoum FM TV  rtm
-rtmp://stream-speed.extremesolution.mobi/nogoumfm/nogoumfmlive?checkedby:hlscat.com
-#EXTINF:0 tvg-country="SY" tvg-logo="https://alyaumtv.net/wp-content/uploads/2019/04/alyaom-1-1_small2.png" group-title="Pirates IPTV (International Server)",Al Yaum
-http://172.105.89.215:5080/LiveApp/streams/270434322502251479308014.m3u8?checkedby:hlscat.com
-#EXTINF:0 tvg-country="SY" tvg-logo="https://i.imgur.com/xBcBG2z.png" group-title="Pirates IPTV (International Server)",Halab Today TV
-http://streaming.tootvs.com:1935/8010/8010/playlist.m3u8?checkedby:hlscat.com
-#EXTINF:0 tvg-country="MY;SY" tvg-logo="https://i.imgur.com/rKTE8Qw.png" group-title="Pirates IPTV (International Server)",Syria TV,SYRIA TV (1920×1080)
-https://svs.itworkscdn.net/syriatvlive/syriatv.smil/playlist.m3u8?checkedby:hlscat.com
-#EXTINF:0 tvg-country="SY" tvg-logo="https://i.imgur.com/nCGsD74.jpg" group-title="Pirates IPTV (International Server)",Syrian TV
-https://svs.itworkscdn.net/syriatvlive/syriatv.smil/syriatvpublish/syriatv/chunks.m3u8?checkedby:hlscat.com
-#EXTINF:0 tvg-country="SY" tvg-logo="" group-title="Pirates IPTV (International Server)",alltv
-http://185.96.70.242:1935/live/alltv/playlist.m3u8?checkedby:hlscat.com
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="ALL" tvg-logo="" group-title="Pirates IPTV (International Server)",al_aoula_inter
-http://cdnamd-hls-globecast.akamaized.net/live/ramdisk/al_aoula_inter/hls_snrt/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="ALL" tvg-logo="" group-title="Pirates IPTV (International Server)",arriadia
-http://cdnamd-hls-globecast.akamaized.net/live/ramdisk/arriadia/hls_snrt/arriadia-avc1_400000=2-mp4a_130400_qad=1.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="ALL" tvg-logo="" group-title="Pirates IPTV (International Server)",al_maghribia
-http://cdnamd-hls-globecast.akamaized.net/live/ramdisk/al_maghribia_snrt/hls_snrt/al_maghribia_snrt-avc1_400000=2-mp4a_130400_qad=1.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="ALL" tvg-logo="" group-title="Pirates IPTV (International Server)",assadissa
-http://cdnamd-hls-globecast.akamaized.net/live/ramdisk/assadissa/hls_snrt/assadissa-avc1_400000=2-mp4a_130400_qad=1.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="ALL" tvg-logo="" group-title="Pirates IPTV (International Server)",tamazight
-http://cdnamd-hls-globecast.akamaized.net/live/ramdisk/tamazight_tv8_snrt/hls_snrt/index.m3u8
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-#চোর ভাই এসে গেছে সোহেল ভাই এর EURO Cup এর লিংক চুরি করতে
-#EXTINF:0 tvg-language="" tvg-logo="https://www.dropbox.com/s/rgblmfl0utzapcv/sohel.jpeg?raw=1" group-title="Euro Cup 2021",Channel 1
-https://piratesiptv.shortcm.li/sohel-vai-er-theke-curi-korsi-link1.m3u8
-#EXTINF:0 tvg-language="" tvg-logo="" group-title="Euro Cup 2021",
-#চোর ভাই এসে গেছে সোহেল ভাই এর EURO Cup এর লিংক চুরি করতে
-#EXTINF:0 tvg-language="" tvg-logo="https://www.dropbox.com/s/rgblmfl0utzapcv/sohel.jpeg?raw=1" group-title="Euro Cup 2021",Channel 2
-https://piratesiptv.shortcm.li/sohel-vai-er-theke-curi-korsi-link2.m3u8
-#EXTINF:0 tvg-language="" tvg-logo="" group-title="Euro Cup 2021",
-#চোর ভাই এসে গেছে সোহেল ভাই এর EURO Cup এর লিংক চুরি করতে
-#EXTINF:0 tvg-language="" tvg-logo="https://www.dropbox.com/s/rgblmfl0utzapcv/sohel.jpeg?raw=1" group-title="Euro Cup 2021",Channel 3
-https://piratesiptv.shortcm.li/sohel-vai-er-theke-curi-korsi-link3.m3u8
-#EXTINF:0 tvg-language="" tvg-logo="https://www.dropbox.com/s/rgblmfl0utzapcv/sohel.jpeg?raw=1" group-title="Euro Cup 2021",Channel 3 [1]
-http://89.41.180.253:8080/INDIA_SPORTS/TEN_2_HD/tracks-v1a1/mono.m3u8
-#EXTINF:0 tvg-language="" tvg-logo="https://www.dropbox.com/s/rgblmfl0utzapcv/sohel.jpeg?raw=1" group-title="Euro Cup 2021",Channel 4 [1]
-http://89.41.180.253:8080/INDIA_SPORTS/TEN_3_HD/tracks-v1a1/mono.m3u8
-#EXTINF:0 tvg-language="" tvg-logo="" group-title="Euro Cup 2021",
-#চোর ভাই এসে গেছে সোহেল ভাই এর EURO Cup এর লিংক চুরি করতে
-#EXTINF:0 tvg-language="" tvg-logo="https://www.dropbox.com/s/rgblmfl0utzapcv/sohel.jpeg?raw=1" group-title="Euro Cup 2021",Channel 4
-https://piratesiptv.shortcm.li/sohel-vai-er-theke-curi-korsi-link4.m3u8
-#EXTINF:0 tvg-language="" tvg-logo="" group-title="Euro Cup 2021",
-#চোর ভাই এসে গেছে সোহেল ভাই এর EURO Cup এর লিংক চুরি করতে
-#EXTINF:0 tvg-language="" tvg-logo="https://www.dropbox.com/s/rgblmfl0utzapcv/sohel.jpeg?raw=1" group-title="Euro Cup 2021",Channel 5
-https://piratesiptv.shortcm.li/sohel-vai-er-theke-curi-korsi-link5.m3u8
-#EXTINF:0 tvg-language="" tvg-logo="" group-title="Euro Cup 2021",
-#চোর ভাই এসে গেছে সোহেল ভাই এর EURO Cup এর লিংক চুরি করতে
-#EXTINF:0 tvg-language="" tvg-logo="https://www.dropbox.com/s/rgblmfl0utzapcv/sohel.jpeg?raw=1" group-title="Euro Cup 2021",Channel 6
-http://93.157.62.180/Supersport4/index.m3u8
-#EXTINF:0 tvg-language="" tvg-logo="" group-title="Euro Cup 2021",
-#চোর ভাই এসে গেছে সোহেল ভাই এর EURO Cup এর লিংক চুরি করতে
-#EXTINF:0 tvg-language="" tvg-logo="https://www.dropbox.com/s/rgblmfl0utzapcv/sohel.jpeg?raw=1" group-title="Euro Cup 2021",Channel 7
-https://piratesiptv.shortcm.li/sohel-vai-er-theke-curi-korsi-link7.m3u8
-#EXTINF:0 tvg-language="" tvg-logo="" group-title="Euro Cup 2021",
-#চোর ভাই এসে গেছে সোহেল ভাই এর EURO Cup এর লিংক চুরি করতে
-#EXTINF:0 tvg-language="" tvg-logo="https://www.dropbox.com/s/rgblmfl0utzapcv/sohel.jpeg?raw=1" group-title="Euro Cup 2021",Channel 8
-https://piratesiptv.shortcm.li/sohel-vai-er-theke-curi-korsi-link8.m3u8
-#EXTINF:0 tvg-language="" tvg-logo="" group-title="Euro Cup 2021",
-#চোর ভাই এসে গেছে সোহেল ভাই এর EURO Cup এর লিংক চুরি করতে
-#EXTINF:0 tvg-language="" tvg-logo="https://www.dropbox.com/s/rgblmfl0utzapcv/sohel.jpeg?raw=1" group-title="Euro Cup 2021",Channel 9
-https://piratesiptv.shortcm.li/sohel-vai-er-theke-curi-korsi-link9.m3u8
-#EXTINF:0 tvg-language="" tvg-logo="" group-title="Euro Cup 2021",
-#চোর ভাই এসে গেছে সোহেল ভাই এর EURO Cup এর লিংক চুরি করতে
-#EXTINF:0 tvg-language="" tvg-logo="https://www.dropbox.com/s/rgblmfl0utzapcv/sohel.jpeg?raw=1" group-title="Euro Cup 2021",Channel 10
-http://89.41.180.253:8080/INDIA_SPORTS/TEN_3_HD/tracks-v1a1/mono.m3u8
-#EXTINF:0 tvg-language="" tvg-logo="https://www.dropbox.com/s/rgblmfl0utzapcv/sohel.jpeg?raw=1" group-title="Euro Cup 2021",Channel 11
-http://89.41.180.253:8080/INDIA_SPORTS/TEN_3_HD/tracks-v1a1/mono.m3u8
-
-
-
-
-
-
-
-
-
-
-#EXTINF:-1 tvg-logo="" group-title=" © Sohel Ahmed ",
-#EXTINF
+http://cdn.catiacast.video/abr/78054972
