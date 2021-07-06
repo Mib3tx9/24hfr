@@ -2651,18 +2651,24 @@ http://cdn.catiacast.video/abr/78054972
 #EXTINF:0 tvg-language="" tvg-logo="https://www.dropbox.com/s/rgblmfl0utzapcv/sohel.jpeg?raw=1" group-title="Euro Cup 2021",Channel 1
 http://199.66.95.242:80/3/3096/index.m3u8?token=test
 #EXTINF:0 tvg-language="" tvg-logo="https://www.dropbox.com/s/rgblmfl0utzapcv/sohel.jpeg?raw=1" group-title="Euro Cup 2021",Channel 2
-http://103.205.133.19/hls/sonysix.m3u8
+http://tv.pmcon.net/hls/stream10.m3u8
 #EXTINF:0 tvg-language="" tvg-logo="https://www.dropbox.com/s/rgblmfl0utzapcv/sohel.jpeg?raw=1" group-title="Euro Cup 2021",Channel 3
-http://199.66.95.242:80/3/3093/index.m3u8?token=test
+http://103.205.133.19/hls/sonysix.m3u8
 #EXTINF:0 tvg-language="" tvg-logo="https://www.dropbox.com/s/rgblmfl0utzapcv/sohel.jpeg?raw=1" group-title="Euro Cup 2021",Channel 4
-http://199.66.95.242:80/3/3094/index.m3u8?token=test
+http://199.66.95.242:80/3/3093/index.m3u8?token=test
 #EXTINF:0 tvg-language="" tvg-logo="https://www.dropbox.com/s/rgblmfl0utzapcv/sohel.jpeg?raw=1" group-title="Euro Cup 2021",Channel 5
-http://103.205.133.19/hls/ten2.m3u8
+http://tv.pmcon.net/hls/stream40.m3u8
 #EXTINF:0 tvg-language="" tvg-logo="https://www.dropbox.com/s/rgblmfl0utzapcv/sohel.jpeg?raw=1" group-title="Euro Cup 2021",Channel 6
-https://piratesiptv.shortcm.li/sohel-vai-er-theke-curi-korsi-link6.m3u8
+http://199.66.95.242:80/3/3094/index.m3u8?token=test
 #EXTINF:0 tvg-language="" tvg-logo="https://www.dropbox.com/s/rgblmfl0utzapcv/sohel.jpeg?raw=1" group-title="Euro Cup 2021",Channel 7
-https://piratesiptv.shortcm.li/sohel-vai-er-theke-curi-korsi-link7.m3u8
+http://tv.pmcon.net/hls/stream39.m3u8
 #EXTINF:0 tvg-language="" tvg-logo="https://www.dropbox.com/s/rgblmfl0utzapcv/sohel.jpeg?raw=1" group-title="Euro Cup 2021",Channel 8
+http://103.205.133.19/hls/ten2.m3u8
+#EXTINF:0 tvg-language="" tvg-logo="https://www.dropbox.com/s/rgblmfl0utzapcv/sohel.jpeg?raw=1" group-title="Euro Cup 2021",Channel 9
+https://piratesiptv.shortcm.li/sohel-vai-er-theke-curi-korsi-link6.m3u8
+#EXTINF:0 tvg-language="" tvg-logo="https://www.dropbox.com/s/rgblmfl0utzapcv/sohel.jpeg?raw=1" group-title="Euro Cup 2021",Channel 10
+https://piratesiptv.shortcm.li/sohel-vai-er-theke-curi-korsi-link7.m3u8
+#EXTINF:0 tvg-language="" tvg-logo="https://www.dropbox.com/s/rgblmfl0utzapcv/sohel.jpeg?raw=1" group-title="Euro Cup 2021",Channel 11
 https://piratesiptv.shortcm.li/sohel-vai-er-theke-curi-korsi-link9.m3u8
 
 
