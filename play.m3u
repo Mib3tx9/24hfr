@@ -237,7 +237,7 @@ https://piratesiptv.shortcm.li/peacetv.m3u8
 #EXTINF:0 tvg-language="Sohel_Ahmed" tvg-logo="https://www.dropbox.com/s/rgblmfl0utzapcv/sohel.jpeg?raw=1" group-title="Indian Bangla",58.R Plus Gold
 http://idvd.multitvsolution.com/idvo/rplusgold.m3u8
 #EXTINF:0 tvg-language="Sohel_Ahmed" tvg-logo="https://www.dropbox.com/s/rgblmfl0utzapcv/sohel.jpeg?raw=1" group-title="Indian Bangla",59.Ruposhi Bangla
-https://piratesiptv.shortcm.li/rbangla.m3u8
+
 #EXTINF:0 tvg-language="Sohel_Ahmed" tvg-logo="https://www.dropbox.com/s/rgblmfl0utzapcv/sohel.jpeg?raw=1" group-title="Indian Bangla",60.Sun Bangla
 https://piratesiptv.shortcm.li/sunbangla.m3u8
 #EXTINF:0 tvg-language="Sohel_Ahmed" tvg-logo="https://www.dropbox.com/s/rgblmfl0utzapcv/sohel.jpeg?raw=1" group-title="Documentary",61.Akc TV
@@ -458,14 +458,13 @@ http://208.115.215.42:80/Sony_Sab_HD/tracks-v1a1/mono.m3u8
 
 #EXTINF:0 tvg-language="Sohel_Ahmed" tvg-logo="https://www.dropbox.com/s/rgblmfl0utzapcv/sohel.jpeg?raw=1" group-title="Indian",144.Sony Wah
 https://piratesiptv.shortcm.li/wah.m3u8
-#EXTINF:0 tvg-language="Sohel_Ahmed" tvg-logo="https://www.dropbox.com/s/rgblmfl0utzapcv/sohel.jpeg?raw=1" group-title="Indian Bangla",145.Star Gold HD
+#EXTINF:0 tvg-language="Sohel_Ahmed" tvg-logo="https://www.dropbox.com/s/rgblmfl0utzapcv/sohel.jpeg?raw=1" group-title="Indian",145.Star Gold HD
 http://84.17.41.7/StarGoldHD-Hin/tracks-v1a1/mono.m3u8
-#EXTINF:0 tvg-language="Sohel_Ahmed" tvg-logo="https://www.dropbox.com/s/rgblmfl0utzapcv/sohel.jpeg?raw=1" group-title="Indian Bangla",145.Star Gold HD 2
+#EXTINF:0 tvg-language="Sohel_Ahmed" tvg-logo="https://www.dropbox.com/s/rgblmfl0utzapcv/sohel.jpeg?raw=1" group-title="Indian",145.Star Gold HD 2
 http://84.17.41.7/JS_MoviesOK_Hin/mono.m3u8
 #EXTINF:0 tvg-language="Sohel_Ahmed" tvg-logo="https://www.dropbox.com/s/rgblmfl0utzapcv/sohel.jpeg?raw=1" group-title="Indian Bangla",146.Star Jalsha
 http://103.213.238.70:80/j-star-jalsha/tracks-v1a1/mono.m3u8
-#EXTINF:0 tvg-language="Sohel_Ahmed" tvg-logo="https://www.dropbox.com/s/rgblmfl0utzapcv/sohel.jpeg?raw=1" group-title="Indian Bangla",146.Star Jalsha [2]
-http://103.106.243.163:8181//19/index.m3u8
+
 #EXTINF:0 tvg-language="Sohel_Ahmed" tvg-logo="https://www.dropbox.com/s/rgblmfl0utzapcv/sohel.jpeg?raw=1" group-title="Indian Bangla",146.Star Jalsha HD
 
 #EXTINF:0 tvg-language="Sohel_Ahmed" tvg-logo="https://www.dropbox.com/s/rgblmfl0utzapcv/sohel.jpeg?raw=1" group-title="Indian Bangla",147.Star Jalsha Movies HD
