@@ -6,6 +6,7 @@
 #EXTINF:-1 tvg-logo="" group-title="BDIX Server 2",Server2-----------------------------------------------------------------------------------------------------------
 #EXTINF:-1 tvg-logo="" group-title="BDIX Server 3",Server3-----------------------------------------------------------------------------------------------------------
 #EXTINF:-1 tvg-logo="" group-title="BDIX Server 4",Server4-----------------------------------------------------------------------------------------------------------
+#EXTINF:-1 tvg-logo="" group-title="BDIX Server 5",Server5-----------------------------------------------------------------------------------------------------------
 #EXTINF:-1 tvg-logo="" group-title="BD IPTV",BD----------------------------------------------------------------------------------------------------------------------
 #EXTINF:-1 tvg-logo="" group-title="Documentary",DC------------------------------------------------------------------------------------------------------------------
 #EXTINF:-1 tvg-logo="" group-title="Indian Bangla",IB----------------------------------------------------------------------------------------------------------------
@@ -1287,6 +1288,130 @@ https://aslive.club/cn/documentary/tlc/chunks.m3u8
 https://aslive.club/cn/hindi/utvaction/chunks.m3u8
 #EXTINF:0 tvg-language="Sohel_Ahmed" tvg-logo="https://www.dropbox.com/s/rgblmfl0utzapcv/sohel.jpeg?raw=1" group-title="BDIX Server 4",Zee Cafe
 https://aslive.club/cn/english/zeecafe/chunks.m3u8
+
+
+#EXTINF:0 tvg-language="Sohel_Ahmed" tvg-logo="https://www.dropbox.com/s/rgblmfl0utzapcv/sohel.jpeg?raw=1" group-title="BDIX Server 5",Asian TV
+http://tv.aliflailabd.com:8989/asiantv/index.m3u8?token=0321a411eca14ced3fa377b612412cdc0032a2b8-ba6c0a0c7f3396a4013bf054024dac82-1626339868-1626329068&remote=103.102.27.198
+#EXTINF:0 tvg-language="Sohel_Ahmed" tvg-logo="https://www.dropbox.com/s/rgblmfl0utzapcv/sohel.jpeg?raw=1" group-title="BDIX Server 5",ATN Bangla
+http://tv.aliflailabd.com:8989/atn-bangla/index.m3u8?token=208080c1b00aadf65dee8715d5dce6940910180c-8bf7f765d4e70bbd7768f975e5261ddb-1626339426-1626328626&remote=103.102.27.198
+#EXTINF:0 tvg-language="Sohel_Ahmed" tvg-logo="https://www.dropbox.com/s/rgblmfl0utzapcv/sohel.jpeg?raw=1" group-title="BDIX Server 5",ATN Islamic TV
+http://tv.aliflailabd.com:8989/atnislamictv/index.m3u8?token=659f65a26ec5521cea06059c0b0b2f18d05740fe-e2d8dbe3d65ea136c628997abedafeba-1626340273-1626329473&remote=103.102.27.198
+#EXTINF:0 tvg-language="Sohel_Ahmed" tvg-logo="https://www.dropbox.com/s/rgblmfl0utzapcv/sohel.jpeg?raw=1" group-title="BDIX Server 5",ATN News
+http://tv.aliflailabd.com:8989/atn-news/index.m3u8?token=df0dfbd7c2d256a7bb858a125b06c46567d17eaf-20128ca55d2e2ccf645d52555e86dbcc-1626340368-1626329568&remote=103.102.27.198
+#EXTINF:0 tvg-language="Sohel_Ahmed" tvg-logo="https://www.dropbox.com/s/rgblmfl0utzapcv/sohel.jpeg?raw=1" group-title="BDIX Server 5",Bangla TV
+http://tv.aliflailabd.com:8989/bangla-tv/index.m3u8?token=5914f6905f32a58004fea5953cb65130efe296ac-b2ffa9b463b0224e225a3160df83cbcd-1626340143-1626329343&remote=103.102.27.198
+#EXTINF:0 tvg-language="Sohel_Ahmed" tvg-logo="https://www.dropbox.com/s/rgblmfl0utzapcv/sohel.jpeg?raw=1" group-title="BDIX Server 5",Bangla Vision
+http://tv.aliflailabd.com:8989/bangla-vision/index.m3u8?token=c0dfca89df3d661f691db3a1deec958ddcfc0188-a81692156529e028fae79c6c666e5834-1626339344-1626328544&remote=103.102.27.198
+#EXTINF:0 tvg-language="Sohel_Ahmed" tvg-logo="https://www.dropbox.com/s/rgblmfl0utzapcv/sohel.jpeg?raw=1" group-title="BDIX Server 5",Boishakhi
+http://tv.aliflailabd.com:8989/boishakhi-tv/index.m3u8?token=a12c8e26887b4a65c96cf9019f8f24d639874dd9-1539662212c750bf8ddfcba5831411bc-1626339950-1626329150&remote=103.102.27.198
+#EXTINF:0 tvg-language="Sohel_Ahmed" tvg-logo="https://www.dropbox.com/s/rgblmfl0utzapcv/sohel.jpeg?raw=1" group-title="BDIX Server 5",BTV
+http://tv.aliflailabd.com:8989/btv/index.m3u8?token=a126d19cdc35c24803e0a6c1cb5aa16f2d4bb48e-0006efb0405e34ac4f0b0f8f1116522b-1626339093-1626328293&remote=103.102.27.198
+#EXTINF:0 tvg-language="Sohel_Ahmed" tvg-logo="https://www.dropbox.com/s/rgblmfl0utzapcv/sohel.jpeg?raw=1" group-title="BDIX Server 5",Channel 9
+http://tv.aliflailabd.com:8989/channel9/index.m3u8?token=e010a0ab57efe1e6c105331ad92871ef0ba15969-d67bd855cf2b89ba9641a870f434c820-1626339485-1626328685&remote=103.102.27.198
+#EXTINF:0 tvg-language="Sohel_Ahmed" tvg-logo="https://www.dropbox.com/s/rgblmfl0utzapcv/sohel.jpeg?raw=1" group-title="BDIX Server 5",Channel 24
+http://tv.aliflailabd.com:8989/channel24/index.m3u8?token=4d71713a8444fb352ad8a7b1bf12d24ea6cd78f4-8657890ce8a1277f810eefc249a63503-1626338936-1626328136&remote=103.102.27.198
+#EXTINF:0 tvg-language="Sohel_Ahmed" tvg-logo="https://www.dropbox.com/s/rgblmfl0utzapcv/sohel.jpeg?raw=1" group-title="BDIX Server 5",Channel I
+http://tv.aliflailabd.com:8989/channel-i/index.m3u8?token=95cac6a31f9804412bf3cc7eac4e4d1449676807-a9ec36aa0ae0c1111f380e8e5283339d-1626338621-1626327821&remote=103.102.27.198
+#EXTINF:0 tvg-language="Sohel_Ahmed" tvg-logo="https://www.dropbox.com/s/rgblmfl0utzapcv/sohel.jpeg?raw=1" group-title="BDIX Server 5",DBC News
+http://tv.aliflailabd.com:8989/dbc-news/index.m3u8?token=b835ca4917dfb7774ed1cdbc435515caa03a6f98-d0c65ee6a85df6a07d31b472d3a96559-1626339545-1626328745&remote=103.102.27.198
+#EXTINF:0 tvg-language="Sohel_Ahmed" tvg-logo="https://www.dropbox.com/s/rgblmfl0utzapcv/sohel.jpeg?raw=1" group-title="BDIX Server 5",Deepto TV
+http://tv.aliflailabd.com:8989/depto-bangla/index.m3u8?token=18f985ab1db746bea36d0e0f234635cf45df9fa7-3d0765f41c0f2d177c5640753a015cbb-1626339660-1626328860&remote=103.102.27.198
+#EXTINF:0 tvg-language="Sohel_Ahmed" tvg-logo="https://www.dropbox.com/s/rgblmfl0utzapcv/sohel.jpeg?raw=1" group-title="BDIX Server 5",Durotono
+http://tv.aliflailabd.com:8989/duronto-tv/index.m3u8?token=34679ee2b7088d65ce78f305922e4f347ffb817f-49945e758e0d727c345250436b70afb1-1626343430-1626332630&remote=103.102.27.198
+#EXTINF:0 tvg-language="Sohel_Ahmed" tvg-logo="https://www.dropbox.com/s/rgblmfl0utzapcv/sohel.jpeg?raw=1" group-title="BDIX Server 5",Ekattor TV
+http://tv.aliflailabd.com:8989/ekattor/index.m3u8?token=ee9d9d6e1948d96268ae71860d9bf5f78231a80f-f510ce837f2b07b7e9ef9fc752824a84-1626339778-1626328978&remote=103.102.27.198
+#EXTINF:0 tvg-language="Sohel_Ahmed" tvg-logo="https://www.dropbox.com/s/rgblmfl0utzapcv/sohel.jpeg?raw=1" group-title="BDIX Server 5",Gaan Bangla
+http://tv.aliflailabd.com:8989/gaanbangla/index.m3u8?token=6652ef469c67d16992a8bc1887b30627f16f98bf-99eb9416ee8d1bf5c9047da0b26170dd-1626345728-1626334928&remote=103.102.27.198
+#EXTINF:0 tvg-language="Sohel_Ahmed" tvg-logo="https://www.dropbox.com/s/rgblmfl0utzapcv/sohel.jpeg?raw=1" group-title="BDIX Server 5",Gazi TV
+http://tv.aliflailabd.com:8989/gazi-tv/index.m3u8?token=3e53eb5bab524656b7facf4e7e4cf4ff2112b00e-9367686a2ebd13b9f4df07e0a039dd43-1626338336-1626327536&remote=103.102.27.198
+#EXTINF:0 tvg-language="Sohel_Ahmed" tvg-logo="https://www.dropbox.com/s/rgblmfl0utzapcv/sohel.jpeg?raw=1" group-title="BDIX Server 5",Independent
+http://tv.aliflailabd.com:8989/independent-tv/index.m3u8?token=b7e959e84ac2769e8f8cd78485419355c0faa2dd-bb2ce1e0f997556566bd9bcd52166001-1626339025-1626328225&remote=103.102.27.198
+#EXTINF:0 tvg-language="Sohel_Ahmed" tvg-logo="https://www.dropbox.com/s/rgblmfl0utzapcv/sohel.jpeg?raw=1" group-title="BDIX Server 5",Jamuna TV
+http://tv.aliflailabd.com:8989/jamuna-tv/index.m3u8?token=f072e31b81812d7a2197d1312ccdf8a2f65792c7-4b2a2e2ed2a7be6f839722574cac7abd-1626338456-1626327656&remote=103.102.27.198
+#EXTINF:0 tvg-language="Sohel_Ahmed" tvg-logo="https://www.dropbox.com/s/rgblmfl0utzapcv/sohel.jpeg?raw=1" group-title="BDIX Server 5",Maasranga
+http://tv.aliflailabd.com:8989/maasranga/index.m3u8?token=feb9bf30dd9c8ebac96aed8c731e92aab4dbada5-ee3948d9c91b04b8be3ac2f6bb86dfab-1626338727-1626327927&remote=103.102.27.198
+#EXTINF:0 tvg-language="Sohel_Ahmed" tvg-logo="https://www.dropbox.com/s/rgblmfl0utzapcv/sohel.jpeg?raw=1" group-title="BDIX Server 5",MY TV
+http://tv.aliflailabd.com:8989/my-tv/index.m3u8?token=8460b412c7c6f0dc812395a7d97852c076b6e951-4e65fca7501b3a6a7cca6d031a215d65-1626339607-1626328807&remote=103.102.27.198
+#EXTINF:0 tvg-language="Sohel_Ahmed" tvg-logo="https://www.dropbox.com/s/rgblmfl0utzapcv/sohel.jpeg?raw=1" group-title="BDIX Server 5",Nagorik TV
+http://tv.aliflailabd.com:8989/nagorik-tv/index.m3u8?token=aa8e23f4ef9d50bebb55fba8c61d7c19c1a6a505-682cbd78284a9b4eb47376c8a0d6fb9a-1626340040-1626329240&remote=103.102.27.198
+#EXTINF:0 tvg-language="Sohel_Ahmed" tvg-logo="https://www.dropbox.com/s/rgblmfl0utzapcv/sohel.jpeg?raw=1" group-title="BDIX Server 5",News 24
+http://tv.aliflailabd.com:8989/news24-hd/index.m3u8?token=2999d87783b42bfcc13b18db66bf5423642eaad3-f649015115b362b14e01c999b623cb3d-1626336668-1626325868&remote=103.102.27.198
+#EXTINF:0 tvg-language="Sohel_Ahmed" tvg-logo="https://www.dropbox.com/s/rgblmfl0utzapcv/sohel.jpeg?raw=1" group-title="BDIX Server 5",NTV
+http://tv.aliflailabd.com:8989/ntv/index.m3u8?token=675abe8c00074489069d940037ad9005b0817f03-c52bafee5eb6a2dd277300f5a08cdbef-1626339248-1626328448&remote=103.102.27.198
+#EXTINF:0 tvg-language="Sohel_Ahmed" tvg-logo="https://www.dropbox.com/s/rgblmfl0utzapcv/sohel.jpeg?raw=1" group-title="BDIX Server 5",RTV
+http://tv.aliflailabd.com:8989/rtv/index.m3u8?token=ab5089f672c83f429ca20ea2a8abbe5b19be1d4a-4ad6f7498dcfd46b165b6d908052e00b-1626339179-1626328379&remote=103.102.27.198
+#EXTINF:0 tvg-language="Sohel_Ahmed" tvg-logo="https://www.dropbox.com/s/rgblmfl0utzapcv/sohel.jpeg?raw=1" group-title="BDIX Server 5",SATV
+http://tv.aliflailabd.com:8989/satv/index.m3u8?token=4699a7671ea1ee846b77d8237f6753e061c122e7-af3f16b9ebf99804d5a630bd2b15e986-1626339705-1626328905&remote=103.102.27.198
+#EXTINF:0 tvg-language="Sohel_Ahmed" tvg-logo="https://www.dropbox.com/s/rgblmfl0utzapcv/sohel.jpeg?raw=1" group-title="BDIX Server 5",Shomoy TV
+http://tv.aliflailabd.com:8989/somoy-tv/index.m3u8?token=4f6409c4eb3d208ef420b566b002e5cf7d8f5fd1-df0488496de925f1c8ede4022c3579a2-1626338518-1626327718&remote=103.102.27.198
+#EXTINF:0 tvg-language="Sohel_Ahmed" tvg-logo="https://www.dropbox.com/s/rgblmfl0utzapcv/sohel.jpeg?raw=1" group-title="BDIX Server 5",Colors Bangla
+http://tv.aliflailabd.com:8989/colors-bangla/index.m3u8?token=b420c63c17d9441a60f14c3b4ddfcec08c04921d-b25790d90086fc8e3feab53cdabc3896-1626340695-1626329895&remote=103.102.27.198
+#EXTINF:0 tvg-language="Sohel_Ahmed" tvg-logo="https://www.dropbox.com/s/rgblmfl0utzapcv/sohel.jpeg?raw=1" group-title="BDIX Server 5",Sangeet Bangla
+http://tv.aliflailabd.com:8989/sangeet-bangla/index.m3u8?token=2826f7cab399d412632af35d65c9fcb1250a5fed-855459fbc0f65f2c800d19f9dd69e6f7-1626346113-1626335313&remote=103.102.27.198
+#EXTINF:0 tvg-language="Sohel_Ahmed" tvg-logo="https://www.dropbox.com/s/rgblmfl0utzapcv/sohel.jpeg?raw=1" group-title="BDIX Server 5",Sony Aath
+http://tv.aliflailabd.com:8989/sony-aath/index.m3u8?token=3e92e86336cba159071b9612f0e523b151b16ff3-b8542df802e03a595b213d1197110775-1626340828-1626330028&remote=103.102.27.198
+#EXTINF:0 tvg-language="Sohel_Ahmed" tvg-logo="https://www.dropbox.com/s/rgblmfl0utzapcv/sohel.jpeg?raw=1" group-title="BDIX Server 5",Star Jalsha
+http://tv.aliflailabd.com:8989/star-jalsha/index.m3u8?token=6b82dde19f032b9e820f4d5c680e278906420a6e-b23d37c98f8a63f56838f2689f7021ca-1626341102-1626330302&remote=103.102.27.198
+#EXTINF:0 tvg-language="Sohel_Ahmed" tvg-logo="https://www.dropbox.com/s/rgblmfl0utzapcv/sohel.jpeg?raw=1" group-title="BDIX Server 5",Star Jalsha Movies
+http://tv.aliflailabd.com:8989/jalsha-movies/index.m3u8?token=5ed5eb23b0d56b6cca309c4cf6f16fedf269e782-a8833f20942460c8683c8156a74bb679-1626341195-1626330395&remote=103.102.27.198
+#EXTINF:0 tvg-language="Sohel_Ahmed" tvg-logo="https://www.dropbox.com/s/rgblmfl0utzapcv/sohel.jpeg?raw=1" group-title="BDIX Server 5",Zee Bangla
+http://tv.aliflailabd.com:8989/zee-bangla/index.m3u8?token=dbb0622925285d623b7c55609a2bd22c54b7b34e-98a964aae06a8e1ed13c26f764f62c69-1626340909-1626330109&remote=103.102.27.198
+#EXTINF:0 tvg-language="Sohel_Ahmed" tvg-logo="https://www.dropbox.com/s/rgblmfl0utzapcv/sohel.jpeg?raw=1" group-title="BDIX Server 5",Colors
+http://tv.aliflailabd.com:8989/colors-hd/index.m3u8?token=759175ffbe4914edd461109e945c3b0fb13428e7-662828a2fafeacbfe35286aedfcd2ffe-1626341612-1626330812&remote=103.102.27.198
+#EXTINF:0 tvg-language="Sohel_Ahmed" tvg-logo="https://www.dropbox.com/s/rgblmfl0utzapcv/sohel.jpeg?raw=1" group-title="BDIX Server 5",Star Plus
+http://tv.aliflailabd.com:8989/star-plus/index.m3u8?token=463ad44117168c967a9bc741fec8d4726aa69bcd-438edf0accc7821033905b438bd151f3-1626341507-1626330707&remote=103.102.27.198
+#EXTINF:0 tvg-language="Sohel_Ahmed" tvg-logo="https://www.dropbox.com/s/rgblmfl0utzapcv/sohel.jpeg?raw=1" group-title="BDIX Server 5",Sony
+http://tv.aliflailabd.com:8989/sony-hd/index.m3u8?token=cb3046e3dc05998545ef43f08b0c81003cec0a8e-3201757dd032784c2365baf58378a061-1626341731-1626330931&remote=103.102.27.198
+#EXTINF:0 tvg-language="Sohel_Ahmed" tvg-logo="https://www.dropbox.com/s/rgblmfl0utzapcv/sohel.jpeg?raw=1" group-title="BDIX Server 5",Sony Max
+http://tv.aliflailabd.com:8989/setmax/index.m3u8?token=e8277025ef4362d4102cd7e66b697ccfc72f55a1-faf6f9466175d1f68242411687e1c9db-1626341831-1626331031&remote=103.102.27.198
+#EXTINF:0 tvg-language="Sohel_Ahmed" tvg-logo="https://www.dropbox.com/s/rgblmfl0utzapcv/sohel.jpeg?raw=1" group-title="BDIX Server 5",Sony MIX
+http://tv.aliflailabd.com:8989/setmax/index.m3u8?token=74f76583703c6cc3f5124da80be840aa4e4536ad-6410890b9f0b2755d9e7f094d15aeda2-1626345637-1626334837&remote=103.102.27.198
+#EXTINF:0 tvg-language="Sohel_Ahmed" tvg-logo="https://www.dropbox.com/s/rgblmfl0utzapcv/sohel.jpeg?raw=1" group-title="BDIX Server 5",Zee TV
+http://tv.aliflailabd.com:8989/zeetv/index.m3u8?token=92b666e1a4fa5ca01796158d6a0fe02ae57f48e9-6705bfe846730e41d4e0a4809a4b9ee7-1626341911-1626331111&remote=103.102.27.198
+#EXTINF:0 tvg-language="Sohel_Ahmed" tvg-logo="https://www.dropbox.com/s/rgblmfl0utzapcv/sohel.jpeg?raw=1" group-title="BDIX Server 5",Zee Cinema
+http://tv.aliflailabd.com:8989/zee-cinema/index.m3u8?token=dcb96a593b768e3287b3d9d75122093b5cc743ab-2665ba6a1329bf34c221452a32e68ef1-1626342056-1626331256&remote=103.102.27.198
+#EXTINF:0 tvg-language="Sohel_Ahmed" tvg-logo="https://www.dropbox.com/s/rgblmfl0utzapcv/sohel.jpeg?raw=1" group-title="BDIX Server 5",Sony ESPN
+http://tv.aliflailabd.com:8989/sony-espn-hd/index.m3u8?token=b2e9e651fcde7fd7f5b01b9148d4d37e5556dfa8-7ff860ff114905a1a07c704f14358edb-1626343069-1626332269&remote=103.102.27.198
+#EXTINF:0 tvg-language="Sohel_Ahmed" tvg-logo="https://www.dropbox.com/s/rgblmfl0utzapcv/sohel.jpeg?raw=1" group-title="BDIX Server 5",Sony Six
+http://tv.aliflailabd.com:8989/sony-six-hd/index.m3u8?token=5d7cedcea997b00a9dc3b123b8ad113e7c85e665-370fab99a624bf413e9d94a9f19b2962-1626342140-1626331340&remote=103.102.27.198
+#EXTINF:0 tvg-language="Sohel_Ahmed" tvg-logo="https://www.dropbox.com/s/rgblmfl0utzapcv/sohel.jpeg?raw=1" group-title="BDIX Server 5",Sony Ten 1
+http://tv.aliflailabd.com:8989/sony-ten1-hd/index.m3u8?token=bb05f5f46ea8bb4e9175c83bb4fdf5734a78b62b-211d8416dfb3b6cbab2503e62363ed31-1626342231-1626331431&remote=103.102.27.198
+#EXTINF:0 tvg-language="Sohel_Ahmed" tvg-logo="https://www.dropbox.com/s/rgblmfl0utzapcv/sohel.jpeg?raw=1" group-title="BDIX Server 5",Sony Ten 3 HD
+http://tv.aliflailabd.com:8989/sony-ten3/index.m3u8?token=2635ad887b44405490e73fbdd118d92f67c90d96-a259257eadfc38d62431d11e69bbecdf-1626387008-1626376208&remote=103.102.27.198
+#EXTINF:0 tvg-language="Sohel_Ahmed" tvg-logo="https://www.dropbox.com/s/rgblmfl0utzapcv/sohel.jpeg?raw=1" group-title="BDIX Server 5",Star Sports 1
+http://tv.aliflailabd.com:8989/star-sports1/index.m3u8?token=1cab2ff2306c08c0732e1279bf5b9ee6c296b397-c9f930b5f13e12bb7b946334b8738b04-1626342864-1626332064&remote=103.102.27.198
+#EXTINF:0 tvg-language="Sohel_Ahmed" tvg-logo="https://www.dropbox.com/s/rgblmfl0utzapcv/sohel.jpeg?raw=1" group-title="BDIX Server 5",Star Sports Select 1
+http://tv.aliflailabd.com:8989/star-sports-select1/index.m3u8?token=f33b44a3e1c03b4699bdb52072b0b3b1fb4d6dc0-ce7686df142514a4f91691e47b24191f-1626343276-1626332476&remote=103.102.27.198
+#EXTINF:0 tvg-language="Sohel_Ahmed" tvg-logo="https://www.dropbox.com/s/rgblmfl0utzapcv/sohel.jpeg?raw=1" group-title="BDIX Server 5",Star Sports Select 2
+http://tv.aliflailabd.com:8989/star-sports-select2/index.m3u8?token=b6504cbaadfe85f2510c4949873b04b4dfab42d8-4c8af89e3139406d290b7b0aa22e2b94-1626343334-1626332534&remote=103.102.27.198
+#EXTINF:0 tvg-language="Sohel_Ahmed" tvg-logo="https://www.dropbox.com/s/rgblmfl0utzapcv/sohel.jpeg?raw=1" group-title="BDIX Server 5",T Sports
+http://tv.aliflailabd.com:8989/tsports/index.m3u8?token=4d1be6070647532ba9bd5e3b4f4e57cd624f2c30-e930f6518a7e9330446c79d00d68b1f0-1626342472-1626331672&remote=103.102.27.198
+#EXTINF:0 tvg-language="Sohel_Ahmed" tvg-logo="https://www.dropbox.com/s/rgblmfl0utzapcv/sohel.jpeg?raw=1" group-title="BDIX Server 5",Cartroon Network
+http://tv.aliflailabd.com:8989/cartoon-network/index.m3u8?token=e2ce5ba044dc0c474c96f5facd1e4b56e3a01cd3-0d6ffa64fd108a378ea366374e6742f0-1626343811-1626333011&remote=103.102.27.198
+#EXTINF:0 tvg-language="Sohel_Ahmed" tvg-logo="https://www.dropbox.com/s/rgblmfl0utzapcv/sohel.jpeg?raw=1" group-title="BDIX Server 5",Nick
+http://tv.aliflailabd.com:8989/nick/index.m3u8?token=403defc5b4132d325eb2012450fbb22519d6cf81-3584a81a96b7f1f042ef9274b33d0470-1626343595-1626332795&remote=103.102.27.198
+#EXTINF:0 tvg-language="Sohel_Ahmed" tvg-logo="https://www.dropbox.com/s/rgblmfl0utzapcv/sohel.jpeg?raw=1" group-title="BDIX Server 5",Discovery
+http://tv.aliflailabd.com:8989/discovery/index.m3u8?token=5f31dcda834db4d177a6feb4ceb94748b0c2ff4f-a53775150f9865ba79d7cd2d0b2168a6-1626343901-1626333101&remote=103.102.27.198
+#EXTINF:0 tvg-language="Sohel_Ahmed" tvg-logo="https://www.dropbox.com/s/rgblmfl0utzapcv/sohel.jpeg?raw=1" group-title="BDIX Server 5",National Geographic
+http://tv.aliflailabd.com:8989/natgeo-wild/index.m3u8?token=dc2e22c2694c15d9ea0380bbc960514bd385683f-eb00b9531c84168e018524df080b42be-1626344053-1626333253&remote=103.102.27.198
+#EXTINF:0 tvg-language="Sohel_Ahmed" tvg-logo="https://www.dropbox.com/s/rgblmfl0utzapcv/sohel.jpeg?raw=1" group-title="BDIX Server 5",TLC
+http://tv.aliflailabd.com:8989/tlc-hd/index.m3u8?token=b4c00228b7ca8b557b145b6d01cac4af93520246-ac12944b1f15a3a085d7f4560180b22a-1626344156-1626333356&remote=103.102.27.198
+#EXTINF:0 tvg-language="Sohel_Ahmed" tvg-logo="https://www.dropbox.com/s/rgblmfl0utzapcv/sohel.jpeg?raw=1" group-title="BDIX Server 5",AXN
+http://tv.aliflailabd.com:8989/axn-hd/index.m3u8?token=b06b879fc0fb5d047c627b1d4b04ba70267d02a9-56a13fd7f2a3021a841a28cb8497dc3f-1626344608-1626333808&remote=103.102.27.198
+#EXTINF:0 tvg-language="Sohel_Ahmed" tvg-logo="https://www.dropbox.com/s/rgblmfl0utzapcv/sohel.jpeg?raw=1" group-title="BDIX Server 5",HBO
+http://tv.aliflailabd.com:8989/hbo/index.m3u8?token=d81087d7ed82312920bf618ff89405e1b21deefa-1a60290021e28f52bc3f77ab7de68db4-1626344518-1626333718&remote=103.102.27.198
+#EXTINF:0 tvg-language="Sohel_Ahmed" tvg-logo="https://www.dropbox.com/s/rgblmfl0utzapcv/sohel.jpeg?raw=1" group-title="BDIX Server 5",MNX
+http://tv.aliflailabd.com:8989/mn-hd/index.m3u8?token=8277c62bb2e24e5fe5c54ec177dc3e9dbd01e621-c141a9275a2d3b14a07f917e82373fa9-1626345558-1626334758&remote=103.102.27.198
+#EXTINF:0 tvg-language="Sohel_Ahmed" tvg-logo="https://www.dropbox.com/s/rgblmfl0utzapcv/sohel.jpeg?raw=1" group-title="BDIX Server 5",Sony PIX
+http://tv.aliflailabd.com:8989/sony-pix-hd/index.m3u8?token=b261c37b4c3f3665d09294f1134060b7f257aa2a-11571e39761b9e3cac3988982081a0aa-1626345326-1626334526&remote=103.102.27.198
+#EXTINF:0 tvg-language="Sohel_Ahmed" tvg-logo="https://www.dropbox.com/s/rgblmfl0utzapcv/sohel.jpeg?raw=1" group-title="BDIX Server 5",Star Movies
+http://tv.aliflailabd.com:8989/star-movies-hd/index.m3u8?token=23fc0e1663e132c6aaa2623cbce6638847d092af-4f3a87e54ea11eaa0aff2103baa754b5-1626344690-1626333890&remote=103.102.27.198
+#EXTINF:0 tvg-language="Sohel_Ahmed" tvg-logo="https://www.dropbox.com/s/rgblmfl0utzapcv/sohel.jpeg?raw=1" group-title="BDIX Server 5",9XM
+http://tv.aliflailabd.com:8989/9xm/index.m3u8?token=7ab632aef5b9bdb3acee70ea67d01961cf4518f7-385582f8f364fd6ec281c45c1d625caa-1626346034-1626335234&remote=103.102.27.198
+#EXTINF:0 tvg-language="Sohel_Ahmed" tvg-logo="https://www.dropbox.com/s/rgblmfl0utzapcv/sohel.jpeg?raw=1" group-title="BDIX Server 5",BBC World
+http://tv.aliflailabd.com:8989/bbc-world/index.m3u8?token=a6791ecdf055ca2745a608438710875749cba1af-bd3fdc894ee7e6a3bfdcab5a47ff9912-1626345440-1626334640&remote=103.102.27.198
+
+
 
 
 
