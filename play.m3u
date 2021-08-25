@@ -1,8 +1,9 @@
 #EXTM3U
-#EXTINF:-1 tvg-logo="" group-title="সর্বশেষ আপডেট      Date [25.08.2021]  Time [03:00pm]",
+#EXTINF:-1 tvg-logo="" group-title="সর্বশেষ আপডেট      Date [25.08.2021]  Time [03:05pm]",
 #EXTINF:-1 tvg-logo="" group-title="TV দেখার পূর্বে Playlist Update করে নিন",
 #EXTINF:-1 tvg-logo="" group-title="Bangladeshi",BD------------------------------------------------------------------------------------------------------------------
 #EXTINF:-1 tvg-logo="" group-title="BDIX Server 1",Server1-----------------------------------------------------------------------------------------------------------
+#EXTINF:-1 tvg-logo="" group-title="BDIX Server 2",Server2-----------------------------------------------------------------------------------------------------------
 #EXTINF:-1 tvg-logo="" group-title="BD IPTV",BD----------------------------------------------------------------------------------------------------------------------
 #EXTINF:-1 tvg-logo="" group-title="Documentary",DC------------------------------------------------------------------------------------------------------------------
 #EXTINF:-1 tvg-logo="" group-title="Indian Bangla",IB----------------------------------------------------------------------------------------------------------------
@@ -880,129 +881,129 @@ http://103.205.133.18/hls/chsp.m3u8
 #EXTINF:-1 tvg-logo="https://www.tvchannelpricelist.com/wp-content/uploads/channels-logo-300/star-sports-hd-2-logo-300x300.jpg" group-title="BDIX Server 1",Star Sports 2 HD [1]
 
 
-#EXTINF:-1 tvg-logo="" group-title="AliflailaBD",Gazi Tv
+#EXTINF:-1 tvg-logo="" group-title="BDIX Server 2",Gazi Tv
 http://tv.aliflailabd.com:8989/gazi-tv/index.m3u8
-#EXTINF:-1 tvg-logo="" group-title="AliflailaBD",Jamuna Tv
+#EXTINF:-1 tvg-logo="" group-title="BDIX Server 2",Jamuna Tv
 http://tv.aliflailabd.com:8989/jamuna-tv/index.m3u8
-#EXTINF:-1 tvg-logo="" group-title="AliflailaBD",Somoy TV
+#EXTINF:-1 tvg-logo="" group-title="BDIX Server 2",Somoy TV
 http://tv.aliflailabd.com:8989/somoy-tv/index.m3u8
-#EXTINF:-1 tvg-logo="" group-title="AliflailaBD",Channel I
+#EXTINF:-1 tvg-logo="" group-title="BDIX Server 2",Channel I
 http://tv.aliflailabd.com:8989/channel-i/index.m3u8
-#EXTINF:-1 tvg-logo="" group-title="AliflailaBD",News 24
+#EXTINF:-1 tvg-logo="" group-title="BDIX Server 2",News 24
 http://tv.aliflailabd.com:8989/news24-hd/index.m3u8
-#EXTINF:-1 tvg-logo="" group-title="AliflailaBD",Masranga Tv
+#EXTINF:-1 tvg-logo="" group-title="BDIX Server 2",Masranga Tv
 http://tv.aliflailabd.com:8989/maasranga/index.m3u8
-#EXTINF:-1 tvg-logo="" group-title="AliflailaBD",Channel 24
+#EXTINF:-1 tvg-logo="" group-title="BDIX Server 2",Channel 24
 http://tv.aliflailabd.com:8989/channel24/index.m3u8
-#EXTINF:-1 tvg-logo="" group-title="AliflailaBD",Independent TV
+#EXTINF:-1 tvg-logo="" group-title="BDIX Server 2",Independent TV
 http://tv.aliflailabd.com:8989/independent-tv/index.m3u8
-#EXTINF:-1 tvg-logo="" group-title="AliflailaBD",BTV
+#EXTINF:-1 tvg-logo="" group-title="BDIX Server 2",BTV
 http://tv.aliflailabd.com:8989/btv/index.m3u8
-#EXTINF:-1 tvg-logo="" group-title="AliflailaBD",RTV
+#EXTINF:-1 tvg-logo="" group-title="BDIX Server 2",RTV
 http://tv.aliflailabd.com:8989/rtv/index.m3u8
-#EXTINF:-1 tvg-logo="" group-title="AliflailaBD",NTV
+#EXTINF:-1 tvg-logo="" group-title="BDIX Server 2",NTV
 http://tv.aliflailabd.com:8989/ntv/index.m3u8
-#EXTINF:-1 tvg-logo="" group-title="AliflailaBD",Bangla Vission
+#EXTINF:-1 tvg-logo="" group-title="BDIX Server 2",Bangla Vission
 http://tv.aliflailabd.com:8989/bangla-vision/index.m3u8
-#EXTINF:-1 tvg-logo="" group-title="AliflailaBD",ATN Bangla
+#EXTINF:-1 tvg-logo="" group-title="BDIX Server 2",ATN Bangla
 http://tv.aliflailabd.com:8989/atn-bangla/index.m3u8
-#EXTINF:-1 tvg-logo="" group-title="AliflailaBD",Channel 9
+#EXTINF:-1 tvg-logo="" group-title="BDIX Server 2",Channel 9
 http://tv.aliflailabd.com:8989/channel9/index.m3u8
-#EXTINF:-1 tvg-logo="" group-title="AliflailaBD",DBC News
+#EXTINF:-1 tvg-logo="" group-title="BDIX Server 2",DBC News
 http://tv.aliflailabd.com:8989/dbc-news/index.m3u8
-#EXTINF:-1 tvg-logo="" group-title="AliflailaBD",MY TV
+#EXTINF:-1 tvg-logo="" group-title="BDIX Server 2",MY TV
 http://tv.aliflailabd.com:8989/my-tv/index.m3u8
-#EXTINF:-1 tvg-logo="" group-title="AliflailaBD",Deepto tv
+#EXTINF:-1 tvg-logo="" group-title="BDIX Server 2",Deepto tv
 http://tv.aliflailabd.com:8989/depto-bangla/index.m3u8
-#EXTINF:-1 tvg-logo="" group-title="AliflailaBD",SATV
+#EXTINF:-1 tvg-logo="" group-title="BDIX Server 2",SATV
 http://tv.aliflailabd.com:8989/satv/index.m3u8
-#EXTINF:-1 tvg-logo="" group-title="AliflailaBD",Ekattor TV
+#EXTINF:-1 tvg-logo="" group-title="BDIX Server 2",Ekattor TV
 http://tv.aliflailabd.com:8989/ekattor/index.m3u8
-#EXTINF:-1 tvg-logo="" group-title="AliflailaBD",Asian TV
+#EXTINF:-1 tvg-logo="" group-title="BDIX Server 2",Asian TV
 http://tv.aliflailabd.com:8989/asiantv/index.m3u8
-#EXTINF:-1 tvg-logo="" group-title="AliflailaBD",Boisakhi tv
+#EXTINF:-1 tvg-logo="" group-title="BDIX Server 2",Boisakhi tv
 http://tv.aliflailabd.com:8989/boishakhi-tv/index.m3u8
-#EXTINF:-1 tvg-logo="" group-title="AliflailaBD",Nagorik TV
+#EXTINF:-1 tvg-logo="" group-title="BDIX Server 2",Nagorik TV
 http://tv.aliflailabd.com:8989/nagorik-tv/index.m3u8
-#EXTINF:-1 tvg-logo="" group-title="AliflailaBD",Bangla Tv
+#EXTINF:-1 tvg-logo="" group-title="BDIX Server 2",Bangla Tv
 http://tv.aliflailabd.com:8989/bangla-tv/index.m3u8
-#EXTINF:-1 tvg-logo="" group-title="AliflailaBD",ATN Islamic
+#EXTINF:-1 tvg-logo="" group-title="BDIX Server 2",ATN Islamic
 http://tv.aliflailabd.com:8989/atnislamictv/index.m3u8
-#EXTINF:-1 tvg-logo="" group-title="AliflailaBD",ATN News
+#EXTINF:-1 tvg-logo="" group-title="BDIX Server 2",ATN News
 http://tv.aliflailabd.com:8989/atn-news/index.m3u8
-#EXTINF:-1 tvg-logo="" group-title="AliflailaBD",Colors Bangla
+#EXTINF:-1 tvg-logo="" group-title="BDIX Server 2",Colors Bangla
 http://tv.aliflailabd.com:8989/colors-bangla/index.m3u8
-#EXTINF:-1 tvg-logo="" group-title="AliflailaBD",Sony Aath
+#EXTINF:-1 tvg-logo="" group-title="BDIX Server 2",Sony Aath
 http://tv.aliflailabd.com:8989/sony-aath/index.m3u8
-#EXTINF:-1 tvg-logo="" group-title="AliflailaBD",Zee Bangla HD
+#EXTINF:-1 tvg-logo="" group-title="BDIX Server 2",Zee Bangla HD
 http://tv.aliflailabd.com:8989/zee-bangla/index.m3u8
-#EXTINF:-1 tvg-logo="" group-title="AliflailaBD",Star Jalsha HD
+#EXTINF:-1 tvg-logo="" group-title="BDIX Server 2",Star Jalsha HD
 http://tv.aliflailabd.com:8989/star-jalsha/index.m3u8
-#EXTINF:-1 tvg-logo="" group-title="AliflailaBD",Jalsha Movies HD
+#EXTINF:-1 tvg-logo="" group-title="BDIX Server 2",Jalsha Movies HD
 http://tv.aliflailabd.com:8989/jalsha-movies/index.m3u8
-#EXTINF:-1 tvg-logo="" group-title="AliflailaBD",Star Plus HD
+#EXTINF:-1 tvg-logo="" group-title="BDIX Server 2",Star Plus HD
 http://tv.aliflailabd.com:8989/star-plus/index.m3u8
-#EXTINF:-1 tvg-logo="" group-title="AliflailaBD",Colors HD
+#EXTINF:-1 tvg-logo="" group-title="BDIX Server 2",Colors HD
 http://tv.aliflailabd.com:8989/colors-hd/index.m3u8
-#EXTINF:-1 tvg-logo="" group-title="AliflailaBD",Sony HD
+#EXTINF:-1 tvg-logo="" group-title="BDIX Server 2",Sony HD
 http://tv.aliflailabd.com:8989/sony-hd/index.m3u8
-#EXTINF:-1 tvg-logo="" group-title="AliflailaBD",Sony MAX HD
+#EXTINF:-1 tvg-logo="" group-title="BDIX Server 2",Sony MAX HD
 http://tv.aliflailabd.com:8989/setmax/index.m3u8
-#EXTINF:-1 tvg-logo="" group-title="AliflailaBD",Zee Tv
+#EXTINF:-1 tvg-logo="" group-title="BDIX Server 2",Zee Tv
 http://tv.aliflailabd.com:8989/zeetv/index.m3u8
-#EXTINF:-1 tvg-logo="" group-title="AliflailaBD",Zee Cinema
+#EXTINF:-1 tvg-logo="" group-title="BDIX Server 2",Zee Cinema
 http://tv.aliflailabd.com:8989/zee-cinema/index.m3u8
-#EXTINF:-1 tvg-logo="" group-title="AliflailaBD",Sony Six HD
+#EXTINF:-1 tvg-logo="" group-title="BDIX Server 2",Sony Six HD
 http://tv.aliflailabd.com:8989/sony-six-hd/index.m3u8
-#EXTINF:-1 tvg-logo="" group-title="AliflailaBD",Sony TEN 1 HD
+#EXTINF:-1 tvg-logo="" group-title="BDIX Server 2",Sony TEN 1 HD
 http://tv.aliflailabd.com:8989/sony-ten1-hd/index.m3u8
-#EXTINF:-1 tvg-logo="" group-title="AliflailaBD",Sony Ten 2 HD
+#EXTINF:-1 tvg-logo="" group-title="BDIX Server 2",Sony Ten 2 HD
 http://tv.aliflailabd.com:8989/sony-ten2/index.m3u8
-#EXTINF:-1 tvg-logo="" group-title="AliflailaBD",Sony Ten 3 HD
+#EXTINF:-1 tvg-logo="" group-title="BDIX Server 2",Sony Ten 3 HD
 http://tv.aliflailabd.com:8989/sony-ten3/index.m3u8
-#EXTINF:-1 tvg-logo="" group-title="AliflailaBD",T Sports HD
+#EXTINF:-1 tvg-logo="" group-title="BDIX Server 2",T Sports HD
 http://tv.aliflailabd.com:8989/tsports/index.m3u8
-#EXTINF:-1 tvg-logo="" group-title="AliflailaBD",Star Sports 1 HD
+#EXTINF:-1 tvg-logo="" group-title="BDIX Server 2",Star Sports 1 HD
 http://tv.aliflailabd.com:8989/star-sports1/index.m3u8
-#EXTINF:-1 tvg-logo="" group-title="AliflailaBD",Sony ESPN HD
+#EXTINF:-1 tvg-logo="" group-title="BDIX Server 2",Sony ESPN HD
 http://tv.aliflailabd.com:8989/sony-espn-hd/index.m3u8
-#EXTINF:-1 tvg-logo="" group-title="AliflailaBD",Star Sports sel 1
+#EXTINF:-1 tvg-logo="" group-title="BDIX Server 2",Star Sports sel 1
 http://tv.aliflailabd.com:8989/star-sports-select1/index.m3u8
-#EXTINF:-1 tvg-logo="" group-title="AliflailaBD",Star Sports sel 2
+#EXTINF:-1 tvg-logo="" group-title="BDIX Server 2",Star Sports sel 2
 http://tv.aliflailabd.com:8989/star-sports-select2/index.m3u8
-#EXTINF:-1 tvg-logo="" group-title="AliflailaBD",Duronto TV
+#EXTINF:-1 tvg-logo="" group-title="BDIX Server 2",Duronto TV
 http://tv.aliflailabd.com:8989/duronto-tv/index.m3u8
-#EXTINF:-1 tvg-logo="" group-title="AliflailaBD",Nick
+#EXTINF:-1 tvg-logo="" group-title="BDIX Server 2",Nick
 http://tv.aliflailabd.com:8989/nick/index.m3u8
-#EXTINF:-1 tvg-logo="" group-title="AliflailaBD",Cartoon Network
+#EXTINF:-1 tvg-logo="" group-title="BDIX Server 2",Cartoon Network
 http://tv.aliflailabd.com:8989/cartoon-network/index.m3u8
-#EXTINF:-1 tvg-logo="" group-title="AliflailaBD",Discovery HD
+#EXTINF:-1 tvg-logo="" group-title="BDIX Server 2",Discovery HD
 http://tv.aliflailabd.com:8989/discovery/index.m3u8
-#EXTINF:-1 tvg-logo="" group-title="AliflailaBD",natgeo wild
+#EXTINF:-1 tvg-logo="" group-title="BDIX Server 2",natgeo wild
 http://tv.aliflailabd.com:8989/natgeo-wild/index.m3u8
-#EXTINF:-1 tvg-logo="" group-title="AliflailaBD",TLC
+#EXTINF:-1 tvg-logo="" group-title="BDIX Server 2",TLC
 http://tv.aliflailabd.com:8989/tlc-hd/index.m3u8
-#EXTINF:-1 tvg-logo="" group-title="AliflailaBD",HBO
+#EXTINF:-1 tvg-logo="" group-title="BDIX Server 2",HBO
 http://tv.aliflailabd.com:8989/hbo/index.m3u8
-#EXTINF:-1 tvg-logo="" group-title="AliflailaBD",AXN
+#EXTINF:-1 tvg-logo="" group-title="BDIX Server 2",AXN
 http://tv.aliflailabd.com:8989/axn-hd/index.m3u8
-#EXTINF:-1 tvg-logo="" group-title="AliflailaBD",Star Movies
+#EXTINF:-1 tvg-logo="" group-title="BDIX Server 2",Star Movies
 http://tv.aliflailabd.com:8989/star-movies-hd/index.m3u8
-#EXTINF:-1 tvg-logo="" group-title="AliflailaBD",Sony PIX
+#EXTINF:-1 tvg-logo="" group-title="BDIX Server 2",Sony PIX
 http://tv.aliflailabd.com:8989/sony-pix-hd/index.m3u8
-#EXTINF:-1 tvg-logo="" group-title="AliflailaBD",BBC World News
+#EXTINF:-1 tvg-logo="" group-title="BDIX Server 2",BBC World News
 http://tv.aliflailabd.com:8989/bbc-world/index.m3u8
-#EXTINF:-1 tvg-logo="" group-title="AliflailaBD",MN HD
+#EXTINF:-1 tvg-logo="" group-title="BDIX Server 2",MN HD
 http://tv.aliflailabd.com:8989/mn-hd/index.m3u8
-#EXTINF:-1 tvg-logo="" group-title="AliflailaBD",Sony Mix HD
+#EXTINF:-1 tvg-logo="" group-title="BDIX Server 2",Sony Mix HD
 http://tv.aliflailabd.com:8989/setmax/index.m3u8
-#EXTINF:-1 tvg-logo="" group-title="AliflailaBD",Gaan Bangla
+#EXTINF:-1 tvg-logo="" group-title="BDIX Server 2",Gaan Bangla
 http://tv.aliflailabd.com:8989/gaanbangla/index.m3u8
-#EXTINF:-1 tvg-logo="" group-title="AliflailaBD",RTV Music
+#EXTINF:-1 tvg-logo="" group-title="BDIX Server 2",RTV Music
 http://tv.aliflailabd.com:8989/rtvmusic/index.m3u8
-#EXTINF:-1 tvg-logo="" group-title="AliflailaBD",9xm
+#EXTINF:-1 tvg-logo="" group-title="BDIX Server 2",9xm
 http://tv.aliflailabd.com:8989/9xm/index.m3u8
-#EXTINF:-1 tvg-logo="" group-title="AliflailaBD",Sangeet Bangla
+#EXTINF:-1 tvg-logo="" group-title="BDIX Server 2",Sangeet Bangla
 http://tv.aliflailabd.com:8989/sangeet-bangla/index.m3u8
 
 
