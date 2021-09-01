@@ -1,6 +1,9 @@
 #EXTM3U
-#EXTINF:-1 tvg-logo="" group-title="সর্বশেষ আপডেট      Date [25.08.2021]  Time [03:05pm]",
-#EXTINF:-1 tvg-logo="" group-title="TV দেখার পূর্বে Playlist Update করে নিন",
+#EXTINF:-1 tvg-logo="" group-title="1 Sep 2021 থেকে আমাদের IPTV সার্ভিস বন্ধ ঘোষণা করা হলো",
+#EXTINF:-1 tvg-logo="" group-title="১ সেপ্টেম্বর এর পর থেকে অনুগ্রহ পূর্বক কেউ টাকা পাঠাবেন না",
+#EXTINF:-1 tvg-logo="" group-title="যাদের এখনও মেয়াদ আছে তারা শুধুমাত্র আপডেট পাবেন",
+#EXTINF:-1 tvg-logo="" group-title="সর্বশেষ আপডেট      Date [01.09.2021]  Time [03:00pm]",
+
 #EXTINF:-1 tvg-logo="" group-title="Bangladeshi",BD------------------------------------------------------------------------------------------------------------------
 #EXTINF:-1 tvg-logo="" group-title="BDIX Server 1",Server1-----------------------------------------------------------------------------------------------------------
 #EXTINF:-1 tvg-logo="" group-title="BDIX Server 2",Server2-----------------------------------------------------------------------------------------------------------
@@ -16,8 +19,6 @@
 #EXTINF:-1 tvg-logo="" group-title="Mix",M---------------------------------------------------------------------------------------------------------------------------
 #EXTINF:-1 tvg-logo="" group-title="Ityadi",IT-----------------------------------------------------------------------------------------------------------------------
 #EXTINF:-1 tvg-logo="" group-title="FM Radio",F----------------------------------------------------------------------------------------------------------------------
-#EXTINF:0 tvg-language="Sohel_Ahmed" tvg-logo="https://www.pngkey.com/png/detail/339-3393421_copyright-icon-png-free-shipping-logo-png.png" group-title="",Sohel Ahmed
-https://www.dropbox.com/s/4zlpmj76rii9n13/01826655778.mp4?raw=1
 #EXTINF:0 tvg-language="Sohel_Ahmed" tvg-logo="https://www.dropbox.com/s/rgblmfl0utzapcv/sohel.jpeg?raw=1" group-title="Bangladeshi",1.Anando TV
 http://iptvbd.jagobd.com:1931/boishakhi/anandatv.stream/chunks.m3u8
 #EXTINF:0 tvg-language="Sohel_Ahmed" tvg-logo="https://www.dropbox.com/s/rgblmfl0utzapcv/sohel.jpeg?raw=1" group-title="Bangladeshi",2.Asian TV
