@@ -51,7 +51,7 @@ http://iptvbd.jagobd.com:1931/boishakhi/channel24-sg-e8e.stream/chunks.m3u8
 #EXTINF:0 tvg-language="Sohel_Ahmed" tvg-logo="https://www.dropbox.com/s/rgblmfl0utzapcv/sohel.jpeg?raw=1" group-title="Bangladeshi",12.DBC News
 http://iptvbd.jagobd.com:1931/boishakhi/dbcnews.stream/chunks.m3u8
 #EXTINF:0 tvg-language="Sohel_Ahmed" tvg-logo="https://www.dropbox.com/s/rgblmfl0utzapcv/sohel.jpeg?raw=1" group-title="Bangladeshi",13.Deepto TV
-http://103.205.133.18/hls/deeptotv.m3u8
+
 #EXTINF:0 tvg-language="Sohel_Ahmed" tvg-logo="https://www.dropbox.com/s/rgblmfl0utzapcv/sohel.jpeg?raw=1" group-title="Bangladeshi",14.Desh TV
 http://103.205.133.18/hls/deshtv.m3u8
 #EXTINF:0 tvg-language="Sohel_Ahmed" tvg-logo="https://www.dropbox.com/s/rgblmfl0utzapcv/sohel.jpeg?raw=1" group-title="Bangladeshi",15.Duronto TV
@@ -79,7 +79,7 @@ http://103.205.133.18/hls/nagorik.m3u8
 #EXTINF:0 tvg-language="Sohel_Ahmed" tvg-logo="https://www.dropbox.com/s/rgblmfl0utzapcv/sohel.jpeg?raw=1" group-title="Bangladeshi",25.News 24
 http://iptvbd.jagobd.com:1931/boishakhi/news24local.stream/chunks.m3u8
 #EXTINF:0 tvg-language="Sohel_Ahmed" tvg-logo="https://www.dropbox.com/s/rgblmfl0utzapcv/sohel.jpeg?raw=1" group-title="Bangladeshi",26.NTV
-http://103.205.133.18/hls/ntv.m3u8
+
 #EXTINF:0 tvg-language="Sohel_Ahmed" tvg-logo="https://www.dropbox.com/s/rgblmfl0utzapcv/sohel.jpeg?raw=1" group-title="Bangladeshi",27.RTV
 http://103.205.133.18/hls/rtv.m3u8
 #EXTINF:0 tvg-language="Sohel_Ahmed" tvg-logo="https://www.dropbox.com/s/rgblmfl0utzapcv/sohel.jpeg?raw=1" group-title="Bangladeshi",27.RTV Music
