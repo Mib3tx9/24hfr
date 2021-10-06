@@ -63,7 +63,7 @@ http://live.ekushey-tv.com/hls-live/livepkgr/_definst_/liveevent/livestream3.m3u
 #EXTINF:0 tvg-language="Sohel_Ahmed" tvg-logo="https://www.dropbox.com/s/rgblmfl0utzapcv/sohel.jpeg?raw=1" group-title="Bangladeshi",21.Gaan Bangla HD
 https://tempsignature.jagobd.com:444/cZVydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZT00U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/gaanbangla-8-orgd.stream/chunks.m3u8
 #EXTINF:0 tvg-language="Sohel_Ahmed" tvg-logo="https://www.dropbox.com/s/rgblmfl0utzapcv/sohel.jpeg?raw=1" group-title="Bangladeshi",22.Gazi TV
-
+http://103.159.4.38:8080/BD-BANGLA-8/tracks-v1a1/mono.m3u8
 #EXTINF:0 tvg-language="Sohel_Ahmed" tvg-logo="https://www.dropbox.com/s/rgblmfl0utzapcv/sohel.jpeg?raw=1" group-title="Bangladeshi",23.Independent
 https://tempx.jagobd.com:441/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PT0mdFsaWRtaW51aiPhnPTI/independent-8-org.stream/chunks.m3u8
 #EXTINF:0 tvg-language="Sohel_Ahmed" tvg-logo="https://www.dropbox.com/s/rgblmfl0utzapcv/sohel.jpeg?raw=1" group-title="Bangladeshi",24.JAMUNA TV
@@ -522,7 +522,7 @@ http://103.205.133.40/hls/dhoommusic.m3u8
 #EXTINF:0 tvg-logo="https://i.pinimg.com/474x/a8/de/fc/a8defc23b6e6f16ade5eed08a8dc8eed.jpg" group-title="BDIX Server 1",Sangeet Bangla [1]
 http://103.205.133.40/hls/sangeetbangla.m3u8
 #EXTINF:-35 group-title="BDIX Server 1"tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRZyJ2tK6_lWITqktAIrBuzZIfwUgJPHwAGwQ&usqp=CAU",9XM [1]
-http://103.205.133.40/hls/9xm.m3u8
+
 #EXTINF:-91 tvg-logo="https://upload.wikimedia.org/wikipedia/en/b/bb/ARY_Musik_logo.png" group-title="BDIX Server 1",Ary Music [1]
 http://103.205.133.40/hls/arymusic.m3u8
 #EXTINF:0 tvg-logo="https://i.imgur.com/jf3Sv29.jpg" group-title="BDIX Server 1",Ruposhi Bangla [1]
