@@ -563,14 +563,6 @@ http://103.205.133.40/hls/ptv.m3u8
 
 
 
-#EXTINF:0 tvg-language="Sohel_Ahmed" tvg-logo="https://www.dropbox.com/s/rgblmfl0utzapcv/sohel.jpeg?raw=1" group-title="Tamil",Sun TV USA
-http://uk4.zecast.com:1935/star-live/suntv.stream/chunklist_w1331398042.m3u8
-#EXTINF:0 tvg-language="Sohel_Ahmed" tvg-logo="https://www.dropbox.com/s/rgblmfl0utzapcv/sohel.jpeg?raw=1" group-title="Tamil",Kalaignar
-http://103.199.161.254/Content/kalaignartv/Live/Channel(KalaignarTV)/index.m3u8
-#EXTINF:0 tvg-language="Sohel_Ahmed" tvg-logo="https://www.dropbox.com/s/rgblmfl0utzapcv/sohel.jpeg?raw=1" group-title="Tamil",Raj TV
-http://103.199.161.254/Content/rajtv/Live/Channel(RajTV)/Stream(01)/index.m3u8
-#EXTINF:0 tvg-language="Sohel_Ahmed" tvg-logo="https://www.dropbox.com/s/rgblmfl0utzapcv/sohel.jpeg?raw=1" group-title="Tamil",Colors Tamil
-http://uk1.zecast.com:1935/star-live/colours/index.m3u8
 #EXTINF:0 tvg-language="Sohel_Ahmed" tvg-logo="https://www.dropbox.com/s/rgblmfl0utzapcv/sohel.jpeg?raw=1" group-title="Tamil",Vasanth TV
 https://vasanth.live-s.cdn.bitgravity.com/cdn-live/_definst_/vasanth/secure/live/feed01/chunklist_w1222262888.m3u8?e=0&h=54e44f64b2e6d5122acdf77d01ab7f9f
 #EXTINF:0 tvg-language="Sohel_Ahmed" tvg-logo="https://www.dropbox.com/s/rgblmfl0utzapcv/sohel.jpeg?raw=1" group-title="Tamil",MK TV
@@ -583,62 +575,11 @@ http://103.199.160.85/Content/mktv6/Live/Channel(MKTV6)/index.m3u8
 http://5k8q87azdy4v-hls-live.wmncdn.net/MAKKAL/271ddf829afeece44d8732757fba1a66.sdp/index.m3u8
 #EXTINF:0 tvg-language="Sohel_Ahmed" tvg-logo="https://www.dropbox.com/s/rgblmfl0utzapcv/sohel.jpeg?raw=1" group-title="Tamil",Yupp Thirai Tamil
 http://119.81.82.28:80/encoded/yuppthirai_800/playlist.m3u8
-#EXTINF:0 tvg-language="Sohel_Ahmed" tvg-logo="https://www.dropbox.com/s/rgblmfl0utzapcv/sohel.jpeg?raw=1" group-title="Tamil",3 Tamil TV
-https://6n3yogbnd9ok-hls-live.5centscdn.com/threetamil/d0dbe915091d400bd8ee7f27f0791303.sdp/index.m3u8
-#EXTINF:0 tvg-language="Sohel_Ahmed" tvg-logo="https://www.dropbox.com/s/rgblmfl0utzapcv/sohel.jpeg?raw=1" group-title="Tamil",Moon TV
-https://player.mslivestream.net/mslive/e10bb900976df9177b9a080314f26f86.sdp/index.m3u8
-#EXTINF:0 tvg-language="Sohel_Ahmed" tvg-logo="https://www.dropbox.com/s/rgblmfl0utzapcv/sohel.jpeg?raw=1" group-title="Tamil",JCV
-http://account11.livebox.co.in/jcvtvhls/live.m3u8
-#EXTINF:0 tvg-language="Sohel_Ahmed" tvg-logo="https://www.dropbox.com/s/rgblmfl0utzapcv/sohel.jpeg?raw=1" group-title="Tamil",Meenakshi TV
-https://stream.meenakshitv.com/LiveApp/streams/737506415855638572426221.m3u8
-#EXTINF:0 tvg-language="Sohel_Ahmed" tvg-logo="https://www.dropbox.com/s/rgblmfl0utzapcv/sohel.jpeg?raw=1" group-title="Tamil",Jay TV
-http://198.144.149.82:8080/JAYTV/index.m3u8?token=GTR
-#EXTINF:0 tvg-language="Sohel_Ahmed" tvg-logo="https://www.dropbox.com/s/rgblmfl0utzapcv/sohel.jpeg?raw=1" group-title="Tamil",D Jeyam TV 
-http://account26.livebox.co.in/Jeyamcabletvhls/live.m3u8
 #EXTINF:0 tvg-language="Sohel_Ahmed" tvg-logo="https://www.dropbox.com/s/rgblmfl0utzapcv/sohel.jpeg?raw=1" group-title="Tamil",7Star TV
 http://media.7starcloud.com:1935/live/7star/playlist.m3u8
-#EXTINF:0 tvg-language="Sohel_Ahmed" tvg-logo="https://www.dropbox.com/s/rgblmfl0utzapcv/sohel.jpeg?raw=1" group-title="Tamil",Aaryaa TV
-http://7starcloud.com:1935/aarya/aaryatv/playlist.m3u8
-#EXTINF:0 tvg-language="Sohel_Ahmed" tvg-logo="https://www.dropbox.com/s/rgblmfl0utzapcv/sohel.jpeg?raw=1" group-title="Tamil",Aathavan TV
-http://45.77.66.224:1935/athavantv/live/playlist.m3u8
-#EXTINF:0 tvg-language="Sohel_Ahmed" tvg-logo="https://www.dropbox.com/s/rgblmfl0utzapcv/sohel.jpeg?raw=1" group-title="Tamil",Akaram Kidz
-http://akaram.zecast.net/akaram-live/akaramkidz/index.m3u8
-#EXTINF:0 tvg-language="Sohel_Ahmed" tvg-logo="https://www.dropbox.com/s/rgblmfl0utzapcv/sohel.jpeg?raw=1" group-title="Tamil",EET TV
-https://live.streamjo.com/eetlive/eettv.m3u8
-#EXTINF:0 tvg-language="Sohel_Ahmed" tvg-logo="https://www.dropbox.com/s/rgblmfl0utzapcv/sohel.jpeg?raw=1" group-title="Tamil",EET TV Low Quality 
-https://eu.streamjo.com/eetlive/eettv.m3u8
-#EXTINF:0 tvg-language="Sohel_Ahmed" tvg-logo="https://www.dropbox.com/s/rgblmfl0utzapcv/sohel.jpeg?raw=1" group-title="Tamil",MN music
-rtmp://mntv.livebox.co.in:1935/music/live
 #EXTINF:0 tvg-language="Sohel_Ahmed" tvg-logo="https://www.dropbox.com/s/rgblmfl0utzapcv/sohel.jpeg?raw=1" group-title="Tamil",Palaru tv
 http://account13.livebox.co.in/palartvhls/live.m3u8
-#EXTINF:0 tvg-language="Sohel_Ahmed" tvg-logo="https://www.dropbox.com/s/rgblmfl0utzapcv/sohel.jpeg?raw=1" group-title="Tamil",Mon tamil tv
-http://198.144.149.82:8080/MONTAMIL_CINEMA/index.m3u8?token=GTR
-#EXTINF:0 tvg-language="Sohel_Ahmed" tvg-logo="https://www.dropbox.com/s/rgblmfl0utzapcv/sohel.jpeg?raw=1" group-title="Tamil",Santhora TV
-http://rtmp.santhoratv.zecast.net/santhoratv/santhoratv/playlist.m3u8
-#EXTINF:0 tvg-language="Sohel_Ahmed" tvg-logo="https://www.dropbox.com/s/rgblmfl0utzapcv/sohel.jpeg?raw=1" group-title="Tamil",Santhora TV Low Quality
-http://santhoratv.zecast.net/santhoratv/santhoratv/index.m3u8
-#EXTINF:0 tvg-language="Sohel_Ahmed" tvg-logo="https://www.dropbox.com/s/rgblmfl0utzapcv/sohel.jpeg?raw=1" group-title="Tamil",SD Media
-http://7starcloud.com:1935/sd/sdmedia/playlist.m3u8
-#EXTINF:0 tvg-language="Sohel_Ahmed" tvg-logo="https://www.dropbox.com/s/rgblmfl0utzapcv/sohel.jpeg?raw=1" group-title="Tamil",SIGARAM TV
-https://secure.ultramaxnet.com/client/hls/ultramax-app-v1975/sigaramtv_low/index.m3u8
-#EXTINF:0 tvg-language="Sohel_Ahmed" tvg-logo="https://www.dropbox.com/s/rgblmfl0utzapcv/sohel.jpeg?raw=1" group-title="Tamil",Tamil Vision 
-http://live.tamilvision.tv:8081/TVI/HD/playlist.m3u8
-#EXTINF:0 tvg-language="Sohel_Ahmed" tvg-logo="https://www.dropbox.com/s/rgblmfl0utzapcv/sohel.jpeg?raw=1" group-title="Tamil",Tamil Vision Low Quality
-http://live.tamilvision.tv:8081/TVI/SD/playlist.m3u8
-#EXTINF:0 tvg-language="Sohel_Ahmed" tvg-logo="https://www.dropbox.com/s/rgblmfl0utzapcv/sohel.jpeg?raw=1" group-title="Tamil",Velicham TV
-https://rtmp.smartstream.video/velichamtv/velichamtv/playlist.m3u8
-#EXTINF:0 tvg-language="Sohel_Ahmed" tvg-logo="https://www.dropbox.com/s/rgblmfl0utzapcv/sohel.jpeg?raw=1" group-title="Tamil",Aadhavan TV Low Quality
-http://45.77.66.224:1935/athavantv/live_360p/chunklist_w1050439537.m3u8
-#EXTINF:0 tvg-language="Sohel_Ahmed" tvg-logo="https://www.dropbox.com/s/rgblmfl0utzapcv/sohel.jpeg?raw=1" group-title="Tamil",Aadhavan TV 
-http://45.77.66.224:1935/athavantv/live/playlist.m3u8
-#EXTINF:0 tvg-language="Sohel_Ahmed" tvg-logo="https://www.dropbox.com/s/rgblmfl0utzapcv/sohel.jpeg?raw=1" group-title="Tamil",Rasi TV
-http://singamcloud.in:1935/rasinetwork/rasitv/playlist.m3u8
-#EXTINF:0 tvg-language="Sohel_Ahmed" tvg-logo="https://www.dropbox.com/s/rgblmfl0utzapcv/sohel.jpeg?raw=1" group-title="Tamil",Uzhavan tv
-http://198.144.149.82:8080/NOTV/UZHAVANTV/index.m3u8?token=GTR
-#EXTINF:0 tvg-language="Sohel_Ahmed" tvg-logo="https://www.dropbox.com/s/rgblmfl0utzapcv/sohel.jpeg?raw=1" group-title="Tamil",Rasi Movies
-http://singamcloud.in:1935/rasinetwork/rasimovies/playlist.m3u8
-#EXTINF:0 tvg-language="Sohel_Ahmed" tvg-logo="https://www.dropbox.com/s/rgblmfl0utzapcv/sohel.jpeg?raw=1" group-title="Tamil",Rasi Classic
-http://singamcloud.in:1935/rasinetwork/rasiclassic/playlist.m3u8
+
 #EXTINF:0 tvg-language="Sohel_Ahmed" tvg-logo="https://www.dropbox.com/s/rgblmfl0utzapcv/sohel.jpeg?raw=1" group-title="Tamil",Tirumalai TV 
 http://media.7starcloud.com:1935/tirumalaitv/stream/playlist.m3u8
 #EXTINF:0 tvg-language="Sohel_Ahmed" tvg-logo="https://www.dropbox.com/s/rgblmfl0utzapcv/sohel.jpeg?raw=1" group-title="Tamil",HARI TV
