@@ -19,6 +19,11 @@
 #EXTINF:-1 tvg-logo="" group-title="Mix",M---------------------------------------------------------------------------------------------------------------------------
 #EXTINF:-1 tvg-logo="" group-title="Ityadi",IT-----------------------------------------------------------------------------------------------------------------------
 #EXTINF:-1 tvg-logo="" group-title="FM Radio",F----------------------------------------------------------------------------------------------------------------------
+#EXTINF:-1 , world cup 1
+https://prod-fastly-ap-southeast-1.video.pscp.tv:443/Transcoding/v1/hls/sJOkgo2iPgTcc4t48HJd0n8aU2omdzdk5l7utX5Swu6SSs1qQzhq9ngIiiNQhs6aYI1SbyqrNcD18CyOtW8jTQ/transcode/ap-southeast-1/periscope-replay-direct-live/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCIsInZlcnNpb24iOiIyIn0.eyJFbmNvZGVyU2V0dGluZyI6ImVuY29kZXJfc2V0dGluZ180ODBwMzBfMTAiLCJIZWlnaHQiOjQ4MCwiS2JwcyI6MTIwMCwiV2lkdGgiOjg0OH0.0LJi1usWbiPqp0QIcpq7Md5g1WxvJcPqVWNqsKw5nhA/dynamic_highlatency.m3u8?type=live
+
+
+
 
 #EXTINF:0 tvg-language="Sohel_Ahmed" tvg-logo="https://www.dropbox.com/s/rgblmfl0utzapcv/sohel.jpeg?raw=1" group-title="Bangladeshi",1.Anando TV
 https://tempx.jagobd.com:441/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PT0mdFsaWRtaW51aiPhnPTI/anandatv.stream/chunks.m3u8
