@@ -21,7 +21,14 @@
 #EXTINF:-1 tvg-logo="" group-title="FM Radio",F----------------------------------------------------------------------------------------------------------------------
 #EXTINF:-1 , world cup 1
 https://prod-fastly-ap-southeast-1.video.pscp.tv:443/Transcoding/v1/hls/sJOkgo2iPgTcc4t48HJd0n8aU2omdzdk5l7utX5Swu6SSs1qQzhq9ngIiiNQhs6aYI1SbyqrNcD18CyOtW8jTQ/transcode/ap-southeast-1/periscope-replay-direct-live/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCIsInZlcnNpb24iOiIyIn0.eyJFbmNvZGVyU2V0dGluZyI6ImVuY29kZXJfc2V0dGluZ180ODBwMzBfMTAiLCJIZWlnaHQiOjQ4MCwiS2JwcyI6MTIwMCwiV2lkdGgiOjg0OH0.0LJi1usWbiPqp0QIcpq7Md5g1WxvJcPqVWNqsKw5nhA/dynamic_highlatency.m3u8?type=live
-
+#EXTINF:-1 tvg-id="starsports1.in" tvg-name="Star Sports 1 4K" tvg-logo="https://bit.ly/3i0bJdQ" group-title="SPORTS CHANNELS",Star Sports 1 4K
+http://iptv.ponnoshare.com:25461/live/Trivedi/Trivedi52/668.m3u8
+#EXTINF:-1 ,19. Star sports 2
+http://iptv.ponnoshare.com:25461/live/Trivedi/Trivedi52/650.m3u8
+#EXTINF:-1 ,20.willow
+http://iptv.ponnoshare.com:25461/live/Trivedi/Trivedi52/1149.m3u8
+#EXTINF:-1 ,20.willow HD
+http://iptv.ponnoshare.com:25461/live/Trivedi/Trivedi52/411.m3u8
 
 
 
